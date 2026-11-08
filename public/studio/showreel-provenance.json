@@ -1,0 +1,37 @@
+{
+  "durationSeconds": 24,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "autoplay": false,
+  "edit": "Four 6-second chapters; whole source frames contained; title plates outside UI; fades between chapters.",
+  "sources": [
+    {
+      "product": "Handy Bookmark",
+      "path": "/products/handy-bookmark/kit/clips/file-vi.mp4",
+      "sha256": "3d7553bb534b2ebf6eb688a300fc3417c7ce453ab6ab6a365a4f3a0fc5358935"
+    },
+    {
+      "product": "Sticky Wall",
+      "path": "/products/sticky-wall/kit/clips/tick_and_thread.mp4",
+      "sha256": "9b457046cc9250ee77c85598493c4067be2f80cd27ecb7bf05a907ac7135099d"
+    },
+    {
+      "product": "Asset Forge Studio",
+      "path": "/products/asset-forge-studio/workspace.webp",
+      "sha256": "23666a737c0077eb84053fbcbf7d9a23ed81685a2baad4649a52dd78ee741e29"
+    },
+    {
+      "product": "Arcane Brigade",
+      "path": "/products/arcane-brigade/kit/03_Clips/pc/clip-03-fight-wave-18.mp4",
+      "sha256": "7f903f2139cee2a741549df8d3abe5616617ae57cfbf6218a75c7db051646c74"
+    }
+  ],
+  "audio": "/products/arcane-brigade/kit/03_Clips/trailer-with-sound.mp4",
+  "credits": [
+    "/vi/apps/handy-bookmark/credits/",
+    "/vi/apps/sticky-wall/credits/"
+  ],
+  "sha256": "772f3fab4e1d695277a9e4a09b38d274f230e24c9a47af600f9e1ac5a67ed410"
+}

@@ -1,4 +1,18 @@
-# Winka Atelier — portfolio rework
+# Winka Workbench — current portfolio
+
+The owner requested all twelve recommendations from the latest design review. `docs/WORKBENCH_REWORK.md` is the current design contract. The earlier Atelier description below is historical where it conflicts with this update.
+
+The homepage is a graphite workbench with four real product exhibits, hero-only lamplight/ribbons, native project scrolling and factual problem/decision/product stories. A 24-second edited reel opens with explicit playback. Developing projects live in a separate, filterable Lab; the thirteen developing Handy apps use family modules with different tool motifs and source-backed features. Studio explains decisions through products; Contact uses the confirmed general studio email.
+
+Product materials follow their use: reading paper and light for Bookmark, cork/paper/yarn for Sticky, a technical grid for Forge, theatre/lamplight for Arcane, schematic grids for Forgebound, day/night atmosphere for Runavelle and tactical markings for Machine Brigade. Aetherward retains its crystal fluid field. The same fluid canvas is no longer recolored behind every page.
+
+Signature interactions are explicit about provenance: Bookmark's web filing demonstration sits beside a real UI film; Sticky's web playground has drag, keyboard and single-tap alternatives; Forge loads the real reduced watchtower GLB already present in its source application's Size & scale pack; Arcane's 36 heroes pair original portraits with actual skill captures. Source application screenshots remain distinct from website demonstrations.
+
+Edited landings show the core story and three initial gallery captures, including desktop/mobile when available. All source images and films remain in `/media/`; full FAQ stays on support, full paid comparisons stay in native disclosures, and features/legal remain directly linked. Primary paragraphs and workflow text are at least 16px; functional supporting text is generally 12–14px.
+
+React 19.3 shared-element ViewTransition pairs carry the selected project image into its product presentation; browser navigation and scrolling remain native. Reduced motion suppresses transitions. Global pause, hidden-document handling, offscreen suspension and data saver apply to the authored effects. The Three.js inspector renders on demand without an idle animation loop and does not capture page wheel scrolling. The reel is approximately 3.7 MB and does not request its video source until opened.
+
+## Earlier Atelier iteration
 
 The owner rejected the previous cobalt cabinet and sparse, decorative product presentations. The current direction is a media-rich experimental portfolio. `docs/PORTFOLIO_REWORK.md` records the design contract and primary references.
 

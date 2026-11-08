@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { WorkbenchStudio, WorkbenchContact } from "./portfolio/studio-pages";
 import {
   ArrowLeft,
   ArrowUpRight,
@@ -11,12 +12,11 @@ import {
 } from "lucide-react";
 import { products, productPath, type Product } from "@/content/products";
 import { legalSections, legalTitles, type LegalKind } from "@/content/legal";
-import {websiteKits} from '@/content/website-kits';
-import {KitLegal} from './kit-pages';
-import {KitFAQ} from './portfolio/kit-details';
+import { websiteKits } from "@/content/website-kits";
+import { KitLegal } from "./kit-pages";
+import { KitFAQ } from "./portfolio/kit-details";
 import type { Locale } from "@/content/studio";
 import {
-  Action,
   ArrowLink,
   ProductCard,
   ProductGlyph,
@@ -333,7 +333,8 @@ export function LegalPage({
 }) {
   const vi = locale === "vi";
   const sections = legalSections(product, kind);
-  if(websiteKits[product.slug]) return <KitLegal product={product} locale={locale} kind={kind}/>;
+  if (websiteKits[product.slug])
+    return <KitLegal product={product} locale={locale} kind={kind} />;
   return (
     <main id="main" className="legal-main wrap">
       <Link className="back-link" href={productPath(product, locale)}>
@@ -505,17 +506,21 @@ export function SupportPage({
       </div>
       {product ? (
         <>
-          {websiteKits[product.slug] ? <KitFAQ product={product} locale={locale}/> : <div className="support-faq">
-            {generalFAQs(product, vi).map(([q, a]) => (
-              <details key={q}>
-                <summary>
-                  {q}
-                  <span aria-hidden="true">+</span>
-                </summary>
-                <p>{a}</p>
-              </details>
-            ))}
-          </div>}
+          {websiteKits[product.slug] ? (
+            <KitFAQ product={product} locale={locale} />
+          ) : (
+            <div className="support-faq">
+              {generalFAQs(product, vi).map(([q, a]) => (
+                <details key={q}>
+                  <summary>
+                    {q}
+                    <span aria-hidden="true">+</span>
+                  </summary>
+                  <p>{a}</p>
+                </details>
+              ))}
+            </div>
+          )}
           <div className="support-resource-links">
             {(["privacy", "terms", "data-deletion"] as LegalKind[]).map((k) => (
               <ArrowLink href={`${productPath(product, locale)}${k}/`} key={k}>
@@ -563,87 +568,8 @@ export function SupportPage({
 }
 
 export function AboutPage({ locale }: { locale: Locale }) {
-  const vi = locale === "vi";
-  return (
-    <main id="main" className="inner-main wrap">
-      <div className="page-intro about-intro">
-        <SectionNumber>Winka Studio</SectionNumber>
-        <h1>
-          {vi
-            ? "Một studio cho những điều muốn làm."
-            : "A studio for things worth making."}
-        </h1>
-        <p>
-          {vi
-            ? "Ứng dụng thiết thực và thế giới game cùng chung một bàn làm việc. Winka Studio là nơi chúng tôi biến ý tưởng thành sản phẩm, từng dự án một."
-            : "Practical apps and game worlds share a workbench. Winka Studio is where we turn ideas into products, one project at a time."}
-        </p>
-      </div>
-      <div className="about-story">
-        <div className="about-monogram" aria-hidden="true">
-          w.
-        </div>
-        <div>
-          <h2>
-            {vi ? "Từ việc nhỏ mỗi ngày." : "Starting with the everyday."}
-          </h2>
-          <p>
-            {vi
-              ? "Handy Suite tập hợp ứng dụng theo từng nhu cầu: lưu bài viết, ghi nhớ, lên kế hoạch hay quản lý đồ dùng. Sticky Wall đi theo một hướng riêng, dành chỗ cho những ghi chú và kỷ niệm trên bảng."
-              : "Handy Suite brings together apps for individual tasks: saving articles, remembering, planning and keeping track of belongings. Sticky Wall takes its own path, making room for notes and memories on a board."}
-          </p>
-          <h2>
-            {vi
-              ? "Đến những ý tưởng muốn thử."
-              : "Following ideas into new places."}
-          </h2>
-          <p>
-            {vi
-              ? "Asset Forge Studio là xưởng công cụ 3D. Các dự án game thử nghiệm cách xây đội hình, bảo vệ vương quốc và kết hợp vũ khí. Mỗi sản phẩm có ngôn ngữ riêng, cùng chung sự quan tâm đến cách người dùng trải nghiệm."
-              : "Asset Forge Studio is a 3D workbench. Our game projects explore squads, kingdom defense and weapon combinations. Each product has its own language and a shared interest in how people experience it."}
-          </p>
-          <Action href={`/${locale}/apps/`}>
-            {vi ? "Khám phá sản phẩm" : "Explore the products"}
-          </Action>
-        </div>
-      </div>
-    </main>
-  );
+  return <WorkbenchStudio locale={locale} />;
 }
-
 export function ContactPage({ locale }: { locale: Locale }) {
-  const vi = locale === "vi";
-  return (
-    <main id="main" className="inner-main wrap">
-      <div className="page-intro">
-        <SectionNumber>
-          Winka Studio / {vi ? "Liên hệ" : "Contact"}
-        </SectionNumber>
-        <h1>
-          {vi ? "Bắt đầu từ sản phẩm của bạn." : "Start with your product."}
-        </h1>
-        <p>
-          {vi
-            ? "Chọn sản phẩm để xem hướng dẫn và kênh hỗ trợ được ghi nhận. Không có biểu mẫu thu thập thông tin trên website này."
-            : "Choose your product for guidance and its documented support channel. This website does not collect contact-form submissions."}
-        </p>
-      </div>
-      <a className="support-email" href="mailto:apps.winka.studio@gmail.com">
-        <Mail size={28} />
-        <div>
-          <h2>{vi ? "Hỗ trợ Arcane Brigade" : "Arcane Brigade support"}</h2>
-          <p>apps.winka.studio@gmail.com</p>
-          <small>
-            {vi
-              ? "Địa chỉ được ghi trong PRIVACY.md của Arcane Brigade."
-              : "Address recorded in Arcane Brigade’s PRIVACY.md."}
-          </small>
-        </div>
-        <ArrowUpRight />
-      </a>
-      <ArrowLink href={`/${locale}/support/`}>
-        {vi ? "Hỗ trợ sản phẩm khác" : "Find support for another product"}
-      </ArrowLink>
-    </main>
-  );
+  return <WorkbenchContact locale={locale} />;
 }

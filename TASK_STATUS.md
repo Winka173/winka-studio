@@ -1,5 +1,11 @@
 # Current task — portfolio rework, 8 November 2026
 
+Current request: **implement all twelve review recommendations**. The Workbench opening, factual case studies, Studio/Contact, product-specific materials, edited landings/full media routes, larger body text, four signature interactions, shared-element transitions, 24-second reel, separate Lab, touch previews and motion/resource controls are implemented. See `docs/WORKBENCH_REWORK.md`. All 22 products now have an EN/VI `/media/` route; complete FAQ remains on product support and supplied legal text is unchanged.
+
+The current export contains 312 generated pages / 311 HTML files and 309 portable segment-prefetch copies. Preview: **http://127.0.0.1:4173/vi/**. Latest browser reports are `.review/workbench-qa/`, `.review/portfolio-qa/` and `.review/website-kit-qa/`. This task does not deploy the website.
+
+The notes below describe previous iterations and import history.
+
 Latest owner request: integrate the complete Handy Bookmark, Sticky Wall and Arcane Brigade website kits. The three product presentations, homepage exhibits, FAQ/support, Pro/Deluxe descriptions, media, credits and verbatim legal text now follow those kits. The import adds 585 optimized screenshots and 49 films, plus an explicit-play soundtrack trailer; four Sticky test-price screenshots are excluded. See `docs/WEBSITE_KIT_INTEGRATION.md`. Earlier media totals below describe the previous iteration.
 
 The owner requested a complete rework: remove the flat blue studio hero, show many authentic desktop/mobile captures, add real video and more inventive animation, and give product pages stronger personalities.

@@ -74,16 +74,31 @@ if (release) {
 }
 
 // Meaningful behavior invariants, not component snapshots.
-for (const slug of ['handy-bookmark','sticky-wall','asset-forge-studio','arcane-brigade']) {
-  assert.equal(products.find(p=>p.slug===slug)?.completion,'complete',`Owner-confirmed completion: ${slug}`);
+for (const slug of [
+  "handy-bookmark",
+  "sticky-wall",
+  "asset-forge-studio",
+  "arcane-brigade",
+]) {
+  assert.equal(
+    products.find((p) => p.slug === slug)?.completion,
+    "complete",
+    `Owner-confirmed completion: ${slug}`,
+  );
 }
 assert.equal(
   products.find((p) => p.slug === "autonomous-creative-studio")?.kind,
   "app",
   "mmo directory is a creative app",
 );
-for (const p of products.filter(p=>p.image==='/products/aetherward/concept.webp')) {
-  assert.equal(p.mediaKind,'composite','The source simulation image must not be presented as gameplay');
+for (const p of products.filter(
+  (p) => p.image === "/products/aetherward/concept.webp",
+)) {
+  assert.equal(
+    p.mediaKind,
+    "composite",
+    "The source simulation image must not be presented as gameplay",
+  );
 }
 
 let htmlCount = 0,
@@ -147,6 +162,7 @@ if (fs.existsSync("out")) {
       "",
       "apps/",
       "games/",
+      "lab/",
       "legal/",
       "support/",
       "apps/handy-bookmark/",
@@ -160,11 +176,18 @@ if (fs.existsSync("out")) {
         fs.existsSync(path.join("out", locale, route, "index.html")),
         `Required route missing: /${locale}/${route}`,
       );
-    for (const p of products.filter((p) => p.status !== "hidden"))
+    for (const p of products.filter((p) => p.status !== "hidden")) {
       check(
         fs.existsSync(path.join("out", productPath(p, locale), "index.html")),
         `Product not exported: ${p.slug}/${locale}`,
       );
+      check(
+        fs.existsSync(
+          path.join("out", productPath(p, locale), "media", "index.html"),
+        ),
+        `Complete media library not exported: ${p.slug}/${locale}`,
+      );
+    }
   }
 }
 if (errors.length) {

@@ -2,8 +2,10 @@ import Link from "next/link";
 import { ArrowDown, ArrowUpRight } from "lucide-react";
 import type { Locale } from "@/content/studio";
 import { ProductFilm } from "./product-film";
-import {bookmarkScreen,stickyScreen,kitClip} from '@/content/website-kits';
-import {mediaImage} from '@/content/portfolio-media';
+import { bookmarkScreen, stickyScreen, kitClip } from "@/content/website-kits";
+import { mediaImage } from "@/content/portfolio-media";
+import { ViewTransition } from "react";
+import { caseStudies } from "@/content/case-studies";
 
 const projects = [
   {
@@ -92,79 +94,120 @@ export function ProjectCollection({ locale }: { locale: Locale }) {
       </div>
       <div className="project-case-list">
         {projects.map((p, i) => {
-          const image=p.slug==='handy-bookmark'?bookmarkScreen('02-home-item-open',locale,'desktop'):p.slug==='sticky-wall'?stickyScreen('01_wall_home',locale,'desktop'):p.slug==='arcane-brigade'?mediaImage(p.slug,'fight-03-late-night-a',locale)!:p.image;
-          const detail=p.slug==='handy-bookmark'?bookmarkScreen('01-home',locale):p.slug==='sticky-wall'?stickyScreen('01_wall_home',locale):null;
+          const image =
+            p.slug === "handy-bookmark"
+              ? bookmarkScreen("02-home-item-open", locale, "desktop")
+              : p.slug === "sticky-wall"
+                ? stickyScreen("01_wall_home", locale, "desktop")
+                : p.slug === "arcane-brigade"
+                  ? mediaImage(p.slug, "fight-03-late-night-a", locale)!
+                  : p.image;
+          const detail =
+            p.slug === "handy-bookmark"
+              ? bookmarkScreen("01-home", locale)
+              : p.slug === "sticky-wall"
+                ? stickyScreen("01_wall_home", locale)
+                : null;
           return (
-          <article
-            id={`work-${p.slug}`}
-            className={`project-case case-${p.slug}`}
-            data-scene
-            key={p.slug}
-          >
-            <div className="project-case-top portfolio-wrap">
-              <span className="folio-kicker">
-                0{i + 1} / {p.category}
-              </span>
-              <span className="project-case-status">
-                {vi ? "ĐÃ HOÀN THIỆN" : "COMPLETED"}
-              </span>
-            </div>
-            <div className="project-case-layout portfolio-wrap">
-              <div className="project-case-media">
-                {p.slug === "arcane-brigade" ? (
-                  <ProductFilm
-                    {...kitClip('arcane-brigade','clip-03-fight-wave-18','pc')}
-                    poster={image}
-                    locale={locale}
-                    label={
-                      vi
-                        ? "Gameplay thực tế · Tắt tiếng"
-                        : "Actual gameplay · Muted"
-                    }
-                  />
-                ) : (
-                  <Link
-                    href={`/${locale}/${p.kind}/${p.slug}/`}
-                    aria-label={`${vi ? "Khám phá" : "Explore"} ${p.name}`}
-                  >
-                    <img
-                      src={image}
-                      width={1800}
-                      height={1125}
-                      alt={p.name}
-                      loading="lazy"
-                    />
-                  </Link>
-                )}
-                {detail && (
-                  <img
-                    className="project-case-phone"
-                    src={detail}
-                    width={780}
-                    height={1688}
-                    alt={`${p.name} — ${vi ? "điện thoại" : "mobile"}`}
-                    loading="lazy"
-                  />
-                )}
-                <span className="project-case-corner" aria-hidden="true">
-                  ↗
+            <article
+              id={`work-${p.slug}`}
+              className={`project-case case-${p.slug}`}
+              data-scene
+              key={p.slug}
+            >
+              <div className="project-case-top portfolio-wrap">
+                <span className="folio-kicker">
+                  0{i + 1} / {p.category}
+                </span>
+                <span className="project-case-status">
+                  {vi ? "ĐÃ HOÀN THIỆN" : "COMPLETED"}
                 </span>
               </div>
-              <div className="project-case-copy">
-                <h3>{p.name}</h3>
-                <p className="case-standfirst">{vi ? p.vi : p.en}</p>
-                <p>{p.description[locale]}</p>
-                <Link
-                  className="case-enter"
-                  href={`/${locale}/${p.kind}/${p.slug}/`}
-                >
-                  {vi ? "Khám phá sản phẩm" : "Explore the product"}
-                  <ArrowUpRight size={25} />
-                </Link>
+              <div className="project-case-layout portfolio-wrap">
+                <div className="project-case-media">
+                  <ViewTransition
+                    name={`product-${p.slug}`}
+                    share="product-morph"
+                    default="none"
+                  >
+                    {p.slug === "arcane-brigade" ? (
+                      <ProductFilm
+                        {...kitClip(
+                          "arcane-brigade",
+                          "clip-03-fight-wave-18",
+                          "pc",
+                        )}
+                        poster={image}
+                        locale={locale}
+                        label={
+                          vi
+                            ? "Gameplay thực tế · Tắt tiếng"
+                            : "Actual gameplay · Muted"
+                        }
+                      />
+                    ) : (
+                      <Link
+                        href={`/${locale}/${p.kind}/${p.slug}/`}
+                        aria-label={`${vi ? "Khám phá" : "Explore"} ${p.name}`}
+                      >
+                        <img
+                          src={image}
+                          width={1800}
+                          height={1125}
+                          alt={p.name}
+                          loading="lazy"
+                        />
+                      </Link>
+                    )}
+                  </ViewTransition>
+                  {detail && (
+                    <img
+                      className="project-case-phone"
+                      src={detail}
+                      width={780}
+                      height={1688}
+                      alt={`${p.name} — ${vi ? "điện thoại" : "mobile"}`}
+                      loading="lazy"
+                    />
+                  )}
+                  <span className="project-case-corner" aria-hidden="true">
+                    ↗
+                  </span>
+                </div>
+                <div className="project-case-copy">
+                  <h3>{p.name}</h3>
+                  <p className="case-standfirst">{vi ? p.vi : p.en}</p>
+                  <p>{p.description[locale]}</p>
+                  <dl className="case-reasoning">
+                    {caseStudies[p.slug].map((point, index) => (
+                      <div key={index}>
+                        <dt>
+                          {
+                            (vi
+                              ? ["Bài toán", "Lựa chọn", "Trong sản phẩm"]
+                              : [
+                                  "The problem",
+                                  "The decision",
+                                  "In the product",
+                                ])[index]
+                          }
+                        </dt>
+                        <dd>{point[locale]}</dd>
+                      </div>
+                    ))}
+                  </dl>
+                  <Link
+                    className="case-enter"
+                    href={`/${locale}/${p.kind}/${p.slug}/`}
+                  >
+                    {vi ? "Khám phá sản phẩm" : "Explore the product"}
+                    <ArrowUpRight size={25} />
+                  </Link>
+                </div>
               </div>
-            </div>
-          </article>
-        );})}
+            </article>
+          );
+        })}
       </div>
     </section>
   );

@@ -16,19 +16,32 @@ export function MediaGallery({
   locale,
   name,
   creditsHref,
+  initialLimit = 6,
 }: {
   items: PortfolioMedia[];
   locale: Locale;
   name: string;
-  creditsHref?:string;
+  creditsHref?: string;
+  initialLimit?: number;
 }) {
   const vi = locale === "vi";
   const [filter, setFilter] = useState("all");
-  const [limit, setLimit] = useState(6);
-  const expanded=limit>6;
+  const [limit, setLimit] = useState(initialLimit);
+  const expanded = limit > initialLimit;
   const [selected, setSelected] = useState<number | null>(null);
   const dialog = useRef<HTMLDialogElement>(null);
-  const shown = items.filter(
+  // The edited landing previews both screen sizes immediately; the full library retains source order.
+  const firstOfEach =
+    initialLimit === 3
+      ? ["desktop", "mobile", "gameplay", "tablet"].flatMap(
+          (device) => items.find((item) => item.device === device) || [],
+        )
+      : [];
+  const firstSources = new Set(firstOfEach.map((item) => item.src));
+  const ordered = firstOfEach.length
+    ? [...firstOfEach, ...items.filter((item) => !firstSources.has(item.src))]
+    : items;
+  const shown = ordered.filter(
     (item) => filter === "all" || item.device === filter,
   );
   const visible = shown.slice(0, limit);
@@ -56,7 +69,14 @@ export function MediaGallery({
           {vi
             ? "Giao diện từ chính sản phẩm. Nội dung trong ứng dụng được dùng để minh họa."
             : "Views from the product itself. In-app content is shown for demonstration."}
-          {creditsHref&&<> <a className="gallery-credits" href={creditsHref}>{vi?'Nguồn ảnh & giấy phép':'Photo credits & licenses'} ↗</a></>}
+          {creditsHref && (
+            <>
+              {" "}
+              <a className="gallery-credits" href={creditsHref}>
+                {vi ? "Nguồn ảnh & giấy phép" : "Photo credits & licenses"} ↗
+              </a>
+            </>
+          )}
         </p>
       </div>
       <div
@@ -70,7 +90,7 @@ export function MediaGallery({
             aria-pressed={filter === device}
             onClick={() => {
               setFilter(device);
-              setLimit(6);
+              setLimit(initialLimit);
             }}
           >
             {(devices[device] || devices.all)[vi ? 1 : 0]}
@@ -86,7 +106,7 @@ export function MediaGallery({
         {visible.map((item, i) => (
           <button
             key={item.id}
-            className={`capture-card capture-${item.device}`}
+            className={`capture-card capture-${item.device} ${item.width > item.height ? "capture-landscape" : "capture-portrait"}`}
             onClick={() => setSelected(i)}
             aria-label={`${vi ? "Phóng to" : "Enlarge"}: ${item.title[locale]}`}
           >
@@ -106,7 +126,19 @@ export function MediaGallery({
               <span>{item.title[locale]}</span>
               <ArrowUpRight size={15} />
             </span>
-            {(item.pro||item.theme==='dark'||(locale==='vi'&&item.locale==='shared'))&&<span className="capture-badges">{item.pro&&<span>PRO</span>}{item.theme==='dark'&&<span>{vi?'GIAO DIỆN TỐI':'DARK'}</span>}{locale==='vi'&&item.locale==='shared'&&<span>EN UI</span>}</span>}
+            {(item.pro ||
+              item.theme === "dark" ||
+              (locale === "vi" && item.locale === "shared")) && (
+              <span className="capture-badges">
+                {item.pro && <span>PRO</span>}
+                {item.theme === "dark" && (
+                  <span>{vi ? "GIAO DIỆN TỐI" : "DARK"}</span>
+                )}
+                {locale === "vi" && item.locale === "shared" && (
+                  <span>EN UI</span>
+                )}
+              </span>
+            )}
           </button>
         ))}
       </div>
@@ -114,13 +146,19 @@ export function MediaGallery({
         <button
           className="folio-more"
           aria-expanded={expanded}
-          onClick={() => setLimit(Math.min(shown.length,limit+18))}
+          onClick={() => setLimit(Math.min(shown.length, limit + 18))}
         >
-          {vi?`Xem thêm màn hình · ${visible.length}/${shown.length}`:`Show more views · ${visible.length}/${shown.length}`}
+          {vi
+            ? `Xem thêm màn hình · ${visible.length}/${shown.length}`
+            : `Show more views · ${visible.length}/${shown.length}`}
           <Plus size={18} />
         </button>
       )}
-      {expanded&&<button className="folio-more" onClick={()=>setLimit(6)}>{vi?'Thu gọn gallery':'Show fewer views'}</button>}
+      {expanded && (
+        <button className="folio-more" onClick={() => setLimit(initialLimit)}>
+          {vi ? "Thu gọn gallery" : "Show fewer views"}
+        </button>
+      )}
       <dialog
         ref={dialog}
         className="capture-lightbox"

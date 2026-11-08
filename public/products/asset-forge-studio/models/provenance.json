@@ -1,0 +1,9 @@
+{
+  "file": "watchtower.glb",
+  "sha256": "2eb30dde9c5dadcba41f84447a4c74a3383182487e2e3ab8ab89e41710d5fa4e",
+  "source": "Asset-Forge-Studio/apps/web/public/size-references/watchtower.glb",
+  "purpose": "A real generated scale-reference model already used by the source application's Size & scale preview.",
+  "preparation": "Source repository scripts/size_reference_pack.py: approximately 20k triangles and 512px textures. Copied byte-for-byte; no regeneration.",
+  "claim": "Website model inspector. Not browser AI generation, not a recording of the native app, and not a new output-quality benchmark.",
+  "licenseContext": "The source application's model/component/output license inventory remains authoritative. Inclusion here does not assert a commercial distribution grant."
+}

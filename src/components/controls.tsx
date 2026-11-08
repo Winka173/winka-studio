@@ -103,13 +103,21 @@ export function SiteHeader({
   const links = [
     ["apps", locale === "vi" ? "Ứng dụng" : "Apps"],
     ["games", locale === "vi" ? "Trò chơi" : "Games"],
+    ["lab", "Lab"],
     ["about", locale === "vi" ? "Studio" : "About"],
     ["support", locale === "vi" ? "Hỗ trợ" : "Support"],
   ];
   return (
     <header
       className={`site-header header--${direction} ${direction === "taste" ? "nav" : ""}`}
-      onKeyDown={(event)=>{if(event.key==='Escape'&&open){setOpen(false);event.currentTarget.querySelector<HTMLButtonElement>('.menu-toggle')?.focus();}}}
+      onKeyDown={(event) => {
+        if (event.key === "Escape" && open) {
+          setOpen(false);
+          event.currentTarget
+            .querySelector<HTMLButtonElement>(".menu-toggle")
+            ?.focus();
+        }
+      }}
     >
       <a className="skip-link" href="#main">
         {locale === "vi" ? "Đến nội dung chính" : "Skip to content"}
@@ -190,8 +198,8 @@ export function SiteHeader({
               <ArrowUpRight />
             </Link>
           ))}
-          <Link href="/review/" onClick={() => setOpen(false)}>
-            {locale === "vi" ? "Các hướng thiết kế" : "Design directions"}
+          <Link href={`/${locale}/contact/`} onClick={() => setOpen(false)}>
+            {locale === "vi" ? "Liên hệ" : "Contact"}
             <ArrowUpRight />
           </Link>
         </nav>

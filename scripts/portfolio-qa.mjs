@@ -28,6 +28,10 @@ const products = [
 const cases = [
   ["home", "/en/"],
   ["home-vi", "/vi/"],
+  ["lab", "/en/lab/"],
+  ["about", "/en/about/"],
+  ["contact", "/en/contact/"],
+  ["bookmark-media", "/vi/apps/handy-bookmark/media/"],
   ...products.map(([n, p]) => [n, `/en/${p}/`]),
   ...products.slice(0, 4).map(([n, p]) => [n + "-vi", `/vi/${p}/`]),
   ...[
@@ -48,14 +52,14 @@ const cases = [
   ["catalog", "/en/apps/"],
   ["support", "/en/support/sticky-wall/"],
   ["legal", "/vi/apps/sticky-wall/privacy/"],
-  ['bookmark-features','/vi/apps/handy-bookmark/features/'],
-  ['bookmark-credits','/en/apps/handy-bookmark/credits/'],
-  ['bookmark-changelog','/en/apps/handy-bookmark/changelog/'],
-  ['bookmark-privacy','/vi/apps/handy-bookmark/privacy/'],
-  ['sticky-features','/en/apps/sticky-wall/features/'],
-  ['sticky-terms','/vi/apps/sticky-wall/terms/'],
-  ['arcane-terms','/en/games/arcane-brigade/terms/'],
-  ['arcane-press','/vi/games/arcane-brigade/press/'],
+  ["bookmark-features", "/vi/apps/handy-bookmark/features/"],
+  ["bookmark-credits", "/en/apps/handy-bookmark/credits/"],
+  ["bookmark-changelog", "/en/apps/handy-bookmark/changelog/"],
+  ["bookmark-privacy", "/vi/apps/handy-bookmark/privacy/"],
+  ["sticky-features", "/en/apps/sticky-wall/features/"],
+  ["sticky-terms", "/vi/apps/sticky-wall/terms/"],
+  ["arcane-terms", "/en/games/arcane-brigade/terms/"],
+  ["arcane-press", "/vi/games/arcane-brigade/press/"],
 ];
 const audit = async (page, url, theme) => {
   const a = await new AxeBuilder({ page })
@@ -95,10 +99,24 @@ try {
     await page.goto(base + url, { waitUntil: "networkidle" });
     await page.evaluate(() => document.fonts.ready);
     if (/^\/(en|vi)\/(apps|games)\/[^/]+\/$/.test(url)) {
-      assert.equal(await page.locator('#how-it-works').count(), 1, `${url}: missing product explanation`);
-      assert.equal(await page.locator('#how-it-works .guide-steps > li').count(), 3, `${url}: incomplete workflow`);
-      assert.ok((await page.locator('#how-it-works .guide-intro p').innerText()).length > 40);
-      assert.equal(await page.locator('.landing-nav a[href="#how-it-works"]').count(), 1);
+      assert.equal(
+        await page.locator("#how-it-works").count(),
+        1,
+        `${url}: missing product explanation`,
+      );
+      assert.equal(
+        await page.locator("#how-it-works .guide-steps > li").count(),
+        3,
+        `${url}: incomplete workflow`,
+      );
+      assert.ok(
+        (await page.locator("#how-it-works .guide-intro p").innerText())
+          .length > 40,
+      );
+      assert.equal(
+        await page.locator('.landing-nav a[href="#how-it-works"]').count(),
+        1,
+      );
     }
     await audit(page, url, "default");
     for (const width of [320, 390, 768, 1440]) {
@@ -169,15 +187,18 @@ try {
     waitUntil: "networkidle",
   });
   await page.getByRole("button", { name: /Mobile/ }).click();
-  assert.ok((await page.locator(".capture-card").count()) > 3);
+  assert.equal(await page.locator(".capture-card").count(), 3);
   assert.equal(await page.locator(".capture-desktop").count(), 0);
   await page.getByRole("button", { name: /Show more views/ }).click();
   assert.ok((await page.locator(".capture-card").count()) > 6);
   await page.locator(".capture-card").first().click();
   assert.equal(await page.locator("dialog[open]").count(), 1);
-  const first = await page.locator("dialog>img").getAttribute("src");
+  const first = await page.locator(".capture-lightbox>img").getAttribute("src");
   await page.keyboard.press("ArrowRight");
-  assert.notEqual(await page.locator("dialog>img").getAttribute("src"), first);
+  assert.notEqual(
+    await page.locator(".capture-lightbox>img").getAttribute("src"),
+    first,
+  );
   await page.keyboard.press("Escape");
   assert.equal(await page.locator("dialog[open]").count(), 0);
   await page.getByRole("button", { name: /Desktop/ }).click();
@@ -188,6 +209,7 @@ try {
   await page.goto(base + "/en/apps/asset-forge-studio/", {
     waitUntil: "networkidle",
   });
+  await page.locator(".forge-original-inspector > summary").click();
   await page.getByRole("button", { name: "Side", exact: true }).click();
   assert.match(
     await page.locator(".forge-model-display img").getAttribute("src"),

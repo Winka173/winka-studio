@@ -1,227 +1,207 @@
 import Link from "next/link";
-import { ArrowDown, ArrowUpRight, MoveUpRight, Asterisk } from "lucide-react";
+import { ArrowDown, ArrowUpRight, Asterisk } from "lucide-react";
 import type { Locale } from "@/content/studio";
 import { products, productPath } from "@/content/products";
 import { LiquidBackdrop } from "./liquid-backdrop";
 import { ProjectCollection } from "./project-collection";
 import { RevealWords } from "../worlds/motion";
-import {bookmarkScreen,stickyScreen} from '@/content/website-kits';
-import {mediaImage} from '@/content/portfolio-media';
+import { bookmarkScreen, stickyScreen } from "@/content/website-kits";
+import { mediaImage } from "@/content/portfolio-media";
+import { StudioReel } from "./studio-reel";
+import { ImagePreview } from "./image-preview";
 
 export function PortfolioHome({ locale }: { locale: Locale }) {
   const vi = locale === "vi";
+  const objects = [
+    {
+      slug: "handy-bookmark",
+      name: "Handy Bookmark",
+      type: vi ? "Lưu những điều hay." : "Keep the good stuff.",
+      image: bookmarkScreen("02-home-item-open", locale, "desktop"),
+      kind: "apps",
+      label: "01 / LIBRARY",
+    },
+    {
+      slug: "sticky-wall",
+      name: "Sticky Wall",
+      type: vi ? "Ghim một chút đời thường." : "Pin a little everyday life.",
+      image: stickyScreen("01_wall_home", locale, "desktop"),
+      kind: "apps",
+      label: "02 / PAPER",
+    },
+    {
+      slug: "asset-forge-studio",
+      name: "Asset Forge Studio",
+      type: vi
+        ? "Cho ý tưởng một hình hài."
+        : "Give an idea another dimension.",
+      image: "/products/asset-forge-studio/workspace.webp",
+      kind: "apps",
+      label: "03 / 3D",
+    },
+    {
+      slug: "arcane-brigade",
+      name: "Arcane Brigade",
+      type: vi ? "Dẫn cả đội qua đêm." : "Lead the brigade through the night.",
+      image: mediaImage("arcane-brigade", "fight-03-late-night-a", locale)!,
+      kind: "games",
+      label: "04 / ARCADE",
+    },
+  ];
   return (
-    <main id="main" className="portfolio portfolio-home">
-      <section className="atelier-hero" data-scene>
-        <div className="portfolio-ambient hero-ambient">
-          <LiquidBackdrop appearance="ribbons" />
+    <main id="main" className="portfolio portfolio-home workbench-home">
+      <section className="workbench-opening" data-scene>
+        <div className="portfolio-ambient workbench-ambient" aria-hidden="true">
+          <LiquidBackdrop palette="bookmark" appearance="ribbons" />
         </div>
-        <div className="atelier-overline portfolio-wrap">
+        <div className="workbench-registration portfolio-wrap">
           <span>
-            WINKA STUDIO <i aria-hidden="true">✳</i>
+            <i /> INDEPENDENT / WINKA STUDIO
           </span>
           <span>
             {vi
-              ? "ỨNG DỤNG, GAME & NHỮNG Ý TƯỞNG KHÁC"
-              : "APPS, GAMES & OTHER CURIOSITIES"}
+              ? "ỨNG DỤNG & GAME, LÀM TỪ SỰ TÒ MÒ."
+              : "APPS & GAMES, MADE FROM CURIOSITY."}
           </span>
         </div>
-        <div className="atelier-hero-type portfolio-wrap">
-          <span className="atelier-small">
-            {vi
-              ? "Một studio độc lập. Không chỉ một thế giới."
-              : "An independent studio. More than one world."}
-          </span>
-          <h1>
-            <RevealWords>
-              {vi ? "Từ một ý tưởng." : "From a little idea."}
-            </RevealWords>
-            <em>
-              <RevealWords>
-                {vi ? "Đến một thế giới." : "To a whole world."}
-              </RevealWords>
-            </em>
-          </h1>
-          <div className="atelier-hero-note">
-            <Asterisk size={27} />
-            <p>
+        <div className="workbench-heading portfolio-wrap">
+          <div>
+            <span className="folio-kicker">
               {vi
-                ? "Những công cụ muốn mở mỗi ngày. Những trò chơi muốn ở lại thêm một chút. Được làm từng chi tiết, bởi Winka."
-                : "Tools you want to open every day. Games you want to stay in a little longer. Made one detail at a time, by Winka."}
-            </p>
+                ? "MỜI GHÉ BÀN LÀM VIỆC CỦA WINKA."
+                : "WELCOME TO WINKA’S WORKBENCH."}
+            </span>
+            <h1>
+              <RevealWords>
+                {vi ? "Việc thường ngày." : "Everyday things."}
+              </RevealWords>
+              <em>
+                <RevealWords>
+                  {vi ? "Thế giới khác thường." : "Extraordinary worlds."}
+                </RevealWords>
+              </em>
+            </h1>
           </div>
-        </div>
-        <div className="hero-orbit">
-          <Link
-            href={`/${locale}/apps/handy-bookmark/`}
-            className="orbit-capture orbit-desktop"
-            aria-label="Handy Bookmark"
-          >
-            <div className="media-browser-bar">
-              <i />
-              <i />
-              <i />
-              <span>HANDY BOOKMARK / DESKTOP</span>
-            </div>
-            <img
-              src={bookmarkScreen('02-home-item-open',locale,'desktop')}
-              width={1800}
-              height={1125}
-              alt={
-                vi
-                  ? "Thư viện Handy Bookmark trên màn hình lớn"
-                  : "Handy Bookmark desktop library"
-              }
-              fetchPriority="high"
-            />
-          </Link>
-          <Link
-            href={`/${locale}/apps/sticky-wall/`}
-            className="orbit-capture orbit-mobile"
-            aria-label="Sticky Wall"
-          >
-            <img
-              src={stickyScreen('01_wall_home',locale)}
-              width={924}
-              height={1800}
-              alt={vi ? "Sticky Wall trên điện thoại" : "Sticky Wall on mobile"}
-            />
-          </Link>
-          <Link
-            href={`/${locale}/games/arcane-brigade/`}
-            className="orbit-capture orbit-game"
-            aria-label="Arcane Brigade"
-          >
-            <img
-              src={mediaImage('arcane-brigade','fight-03-late-night-a',locale)}
-              width={1920}
-              height={1080}
-              alt="Arcane Brigade gameplay"
-            />
-            <span>ARCADE / AR C A N E</span>
-          </Link>
-          <span className="orbit-coordinate" aria-hidden="true">
-            W / EXPERIMENTS IN EVERYDAY WONDER
-          </span>
-        </div>
-        <div className="atelier-hero-bottom portfolio-wrap">
-          <a href="#selected-work" className="explore-disc">
-            <ArrowDown size={23} />
-            <span>{vi ? "Cuộn để khám phá" : "Scroll to discover"}</span>
-          </a>
-          <span>
-            {vi
-              ? "Làm việc hữu ích. Dành chỗ cho niềm vui."
-              : "MAKE IT USEFUL. LEAVE ROOM FOR PLAY."}
-          </span>
-          <span className="atelier-cross" aria-hidden="true">
-            ✳
-          </span>
-        </div>
-      </section>
-      <section className="atelier-manifesto portfolio-wrap" data-scene>
-        <span className="folio-kicker">
-          01 / {vi ? "TINH THẦN WINKA" : "THE WINKA WAY"}
-        </span>
-        <h2>
-          {vi
-            ? "Một chiếc bookmark. Một bức tường ký ức. Một tổ đội kỳ lạ."
-            : "A bookmark. A wall of memories. A curious brigade."}
-          <em>
-            {vi ? "Cùng bắt đầu từ sự tò mò." : "All start with curiosity."}
-          </em>
-        </h2>
-        <div className="manifesto-foot">
-          <span className="folio-orb" aria-hidden="true" />
           <p>
             {vi
-              ? "Winka là nơi ứng dụng cho ngày thường và những thế giới game được xây cạnh nhau. Mỗi sản phẩm có cá tính riêng. Từng màn hình, từng tương tác đều có một lý do để tồn tại."
-              : "Winka is where everyday tools and game worlds grow side by side. Each product gets a personality of its own. Every screen, every interaction has a reason to be there."}
+              ? "Một thư viện link. Một bức tường ký ức. Một xưởng 3D. Và những đêm không muốn kết thúc. Ứng dụng và game độc lập, mỗi thứ một cá tính."
+              : "A link library. A wall of memories. A 3D workshop. And nights you don’t want to end. Independent apps and games, each with a mind of its own."}
           </p>
+        </div>
+        <div className="workbench-objects portfolio-wrap">
+          {objects.map((object, i) => (
+            <article
+              className={`desk-object desk-${object.slug}`}
+              key={object.slug}
+              style={{ "--object-i": i } as React.CSSProperties}
+            >
+              <div className="desk-object-label">
+                <span>{object.label}</span>
+                <Asterisk size={15} />
+              </div>
+              <ImagePreview src={object.image} alt={object.name}>
+                <img
+                  src={object.image}
+                  alt={object.name}
+                  width={1200}
+                  height={750}
+                  fetchPriority={i === 0 ? "high" : undefined}
+                />
+              </ImagePreview>
+              <Link href={`/${locale}/${object.kind}/${object.slug}/`}>
+                <div>
+                  <strong>{object.name}</strong>
+                  <span>{object.type}</span>
+                </div>
+                <ArrowUpRight size={22} />
+              </Link>
+            </article>
+          ))}
+        </div>
+        <div className="workbench-foot portfolio-wrap">
+          <a href="#selected-work">
+            <ArrowDown size={18} />
+            {vi ? "Khám phá những gì đã làm" : "Explore the finished work"}
+          </a>
+          <StudioReel locale={locale} />
+          <span className="workbench-stamp" aria-hidden="true">
+            SMALL STUDIO
+            <br />
+            MANY WORLDS
+          </span>
         </div>
       </section>
       <ProjectCollection locale={locale} />
-      <section className="atelier-index portfolio-wrap">
-        <div className="folio-section-heading">
-          <span className="folio-kicker">
-            02 / {vi ? "TỪ STUDIO" : "FROM THE STUDIO"}
-          </span>
+      <section className="workbench-lab portfolio-wrap" data-scene>
+        <div className="workbench-section-heading">
+          <span className="folio-kicker">02 / WORKBENCH & LAB</span>
           <h2>
-            {vi ? "Chọn một lối vào." : "Find your way in."}
-            <MoveUpRight size={42} />
+            {vi ? "Còn trên bàn." : "Still on the desk."}
+            <em>{vi ? "Đã có thứ để xem." : "Already something to see."}</em>
           </h2>
-        </div>
-        <div className="atelier-project-list">
-          {products
-            .filter(
-              (p) =>
-                p.featured ||
-                p.kind === "game" ||
-                p.slug === "autonomous-creative-studio",
-            )
-            .map((p, i) => (
-              <Link
-                key={p.slug}
-                href={productPath(p, locale)}
-                className="atelier-project-row"
-                data-scene
-              >
-                <span className="project-row-number">
-                  {String(i + 1).padStart(2, "0")}
-                </span>
-                <span className="project-row-title">
-                  {p.name}
-                  <small>{p.category[locale]}</small>
-                </span>
-                <span className="project-row-state">
-                  {p.completion === "complete"
-                    ? vi
-                      ? "Đã hoàn thiện"
-                      : "Completed"
-                    : vi
-                      ? "Đang phát triển"
-                      : "In development"}
-                </span>
-                {p.image && (
-                  <img
-                    src={p.image}
-                    width={320}
-                    height={200}
-                    alt=""
-                    loading="lazy"
-                  />
-                )}
-                <ArrowUpRight size={29} />
-              </Link>
-            ))}
-        </div>
-        <div className="handy-family-callout">
-          <span>HANDY SUITE</span>
           <p>
             {vi
-              ? "Những công cụ nhỏ. Một ngày nhẹ hơn."
-              : "Little tools. A lighter day."}
+              ? "Build đang chạy, hình ảnh từ repo và những hướng đang thử. Đây là khu dự án đang phát triển, chưa phải sản phẩm phát hành."
+              : "Running builds, repository captures and directions in progress. These are developing projects, not released products."}
           </p>
-          <Link href={`/${locale}/apps/`}>
-            {vi ? "Khám phá gia đình Handy" : "Explore the Handy family"}
-            <ArrowUpRight size={20} />
-          </Link>
         </div>
+        <div className="lab-teasers">
+          {["runavelle", "forgebound", "autonomous-creative-studio"].map(
+            (slug) => {
+              const p = products.find((p) => p.slug === slug)!;
+              return (
+                <Link
+                  className={`lab-teaser lab-${slug}`}
+                  key={slug}
+                  href={productPath(p, locale)}
+                >
+                  <span className="folio-kicker">{p.category[locale]}</span>
+                  {p.image && (
+                    <img
+                      src={p.image}
+                      alt={p.name}
+                      width={960}
+                      height={600}
+                      loading="lazy"
+                    />
+                  )}
+                  <h3>
+                    {p.name}
+                    <ArrowUpRight size={23} />
+                  </h3>
+                  <p>{p.description[locale]}</p>
+                </Link>
+              );
+            },
+          )}
+        </div>
+        <Link href={`/${locale}/lab/`} className="folio-button">
+          {vi ? "Mở toàn bộ Workbench & Lab" : "Open the whole Workbench & Lab"}
+          <ArrowUpRight size={20} />
+        </Link>
       </section>
-      <section className="atelier-closing" data-scene>
-        <div className="atelier-marquee" aria-hidden="true">
-          <span>SMALL STUDIO. MANY WORLDS. ✳ </span>
-          <span>SMALL STUDIO. MANY WORLDS. ✳ </span>
-        </div>
-        <div className="portfolio-wrap">
+      <section className="workbench-invitation portfolio-wrap" data-scene>
+        <Asterisk className="invitation-star" size={80} strokeWidth={1} />
+        <span className="folio-kicker">03 / THE PERSON BEHIND THE PIXELS</span>
+        <h2>
+          {vi ? "Làm một thứ hữu ích." : "Make something useful."}
+          <em>
+            {vi ? "Để lại một chút vui." : "Leave a little room for play."}
+          </em>
+        </h2>
+        <div>
           <p>
             {vi
-              ? "Còn nhiều điều để làm. Và nhiều thế giới để mở."
-              : "More things to make. More worlds to open."}
+              ? "Từ thao tác lưu một link đến cách tổ đội bước qua trận chiến: những điều nhỏ quyết định cảm giác của cả sản phẩm."
+              : "From saving a link to leading a brigade through a fight: small decisions shape how the whole product feels."}
           </p>
           <Link href={`/${locale}/about/`}>
-            {vi ? "Gặp Winka" : "Meet Winka"}
-            <ArrowUpRight size={56} />
+            {vi ? "Vào trong studio" : "Step inside the studio"}
+            <ArrowUpRight size={30} />
+          </Link>
+          <Link href={`/${locale}/contact/`}>
+            {vi ? "Gửi Winka một lời nhắn" : "Send Winka a note"}
+            <ArrowUpRight size={24} />
           </Link>
         </div>
       </section>

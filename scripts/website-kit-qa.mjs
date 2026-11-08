@@ -58,7 +58,7 @@ try {
       assert.deepEqual(old, [], `${slug}: old media still presented`);
       assert.equal(
         await page.locator(".kit-faq-list details").count(),
-        kit.faq[locale].length,
+        Math.min(4, kit.faq[locale].length),
       );
       await page
         .locator(".kit-faq-list details")
@@ -70,6 +70,25 @@ try {
           .locator(".kit-faq-list details")
           .first()
           .getAttribute("open")) !== null,
+      );
+      await page.goto(`${base}/${locale}/support/${slug}/`, {
+        waitUntil: "networkidle",
+      });
+      assert.equal(
+        await page.locator(".kit-faq-list details").count(),
+        kit.faq[locale].length,
+        `${slug}: full FAQ must remain on support`,
+      );
+      await page.goto(base + root + "media/", { waitUntil: "networkidle" });
+      const clips = kit.clips.filter((c) =>
+        slug === "handy-bookmark"
+          ? c.id.endsWith("-" + locale)
+          : !c.id.startsWith("trailer-"),
+      );
+      assert.equal(
+        await page.locator(".kit-clip").count(),
+        clips.length,
+        `${slug}: full film library must remain available`,
       );
       for (const kind of ["privacy", "terms"]) {
         await page.goto(base + root + kind + "/", { waitUntil: "networkidle" });

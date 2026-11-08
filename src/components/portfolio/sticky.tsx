@@ -7,7 +7,8 @@ import { ProductFilm } from "./product-film";
 import { MediaGallery } from "./gallery";
 import { ProductGuide } from "./product-guide";
 import { KitDetails } from "./kit-details";
-import { KitFilmShelf } from "./kit-film-shelf";
+import { StickySandbox } from "./sticky-sandbox";
+import { MediaLibraryLink } from "./media-library";
 
 export function StickyPortfolio({
   product,
@@ -140,6 +141,7 @@ export function StickyPortfolio({
               : "Sticky Wall large-screen Android layout"
           }
           className="sticky-landscape"
+          transitionName="product-sticky-wall"
         />
         <div className="sticky-panorama-foot portfolio-wrap">
           <span>ANDROID / LARGE-SCREEN LAYOUT</span>
@@ -150,36 +152,58 @@ export function StickyPortfolio({
           </p>
         </div>
       </section>
+      <section className="sticky-sandbox-chapter portfolio-wrap" data-scene>
+        <div>
+          <span className="folio-kicker">
+            01 / {vi ? "THỬ MỘT CHÚT NHÉ" : "MAKE YOURSELF AT HOME"}
+          </span>
+          <h2>
+            {vi ? "Giấy được phép lệch." : "Paper can be crooked."}
+            <em>{vi ? "Ý tưởng được phép nối." : "Ideas can be connected."}</em>
+          </h2>
+          <p>
+            {vi
+              ? "Trong app, bạn kéo, xoay và đổi cỡ giấy; nối ghim bằng dây, thêm chữ hoặc mũi tên. Bàn thử dưới đây chỉ tái hiện cách sắp giấy và nối ý tưởng trên web."
+              : "In the app, move, turn and resize paper; join pins with yarn, labels or arrows. The playground below recreates only paper placement and connections on the web."}
+          </p>
+        </div>
+        <StickySandbox
+          locale={locale}
+          texture={kit.assets["media/walls/wall_cork.jpg"]}
+        />
+      </section>
       <div className="sticky-kit-chapters">
-        {chapters.map((c, i) => (
-          <section
-            className={`sticky-kit-chapter portfolio-wrap sticky-chapter-${i + 1}`}
-            key={c.clip}
-            data-scene
-          >
-            <div className="sticky-paper-copy">
-              <span className="folio-kicker">0{i + 1} / STICKY WALL</span>
-              <h2>{c.title}</h2>
-              <p>{c.body}</p>
-            </div>
-            <div className="sticky-kit-film">
-              <ProductFilm
-                {...kitClip(product.slug, c.clip)}
-                locale={locale}
-                label={c.title + " · EN UI"}
-                className="portrait-film"
+        {chapters
+          .filter((_, i) => i === 2)
+          .map((c, i) => (
+            <section
+              className={`sticky-kit-chapter portfolio-wrap sticky-chapter-${i + 1}`}
+              key={c.clip}
+              data-scene
+            >
+              <div className="sticky-paper-copy">
+                <span className="folio-kicker">0{i + 1} / STICKY WALL</span>
+                <h2>{c.title}</h2>
+                <p>{c.body}</p>
+              </div>
+              <div className="sticky-kit-film">
+                <ProductFilm
+                  {...kitClip(product.slug, c.clip)}
+                  locale={locale}
+                  label={c.title + " · EN UI"}
+                  className="portrait-film"
+                />
+              </div>
+              <img
+                className="sticky-chapter-print"
+                src={stickyScreen(c.scene, locale)}
+                alt={c.title}
+                width={1080}
+                height={2160}
+                loading="lazy"
               />
-            </div>
-            <img
-              className="sticky-chapter-print"
-              src={stickyScreen(c.scene, locale)}
-              alt={c.title}
-              width={1080}
-              height={2160}
-              loading="lazy"
-            />
-          </section>
-        ))}
+            </section>
+          ))}
       </div>
       <section className="sticky-materials portfolio-wrap">
         <div>
@@ -210,39 +234,46 @@ export function StickyPortfolio({
           ))}
         </div>
       </section>
-      <section className="sticky-night-film portfolio-wrap" data-scene>
-        <div>
-          <span className="folio-kicker">
-            {vi ? "TẮT ĐÈN. GIỮ HƠI ẤM." : "LIGHTS OFF. STILL WARM."}
-          </span>
-          <h2>
-            {vi ? "Buổi tối cũng có" : "Evenings have"}
-            <em>{vi ? "một bức tường riêng." : "a wall of their own."}</em>
-          </h2>
-          <p>
-            {vi
-              ? "Tường, giấy và ảnh dịu lại như dưới đèn bàn. Theo hệ thống hoặc hẹn giờ. Khi cần nhìn gọn hơn, chuyển sang lưới hay danh sách; tìm không dấu trên mọi bảng."
-              : "The wall, paper and prints settle into warm lamplight. Follow the system or a schedule. Switch to grid or list when you need a tidier view, and search across boards without accents."}
-          </p>
-          <Screen
-            src={stickyScreen("17_lights_off", locale, "desktop")}
-            alt={
-              vi
-                ? "Bảng ghi chú dưới ánh đèn ấm"
-                : "The board in warm night light"
-            }
+      <details className="sticky-night-details portfolio-wrap">
+        <summary>
+          {vi ? "Khi căn phòng tắt đèn" : "When the room turns down the lights"}{" "}
+          <span>+</span>
+        </summary>
+        <section className="sticky-night-film" data-scene>
+          <div>
+            <span className="folio-kicker">
+              {vi ? "TẮT ĐÈN. GIỮ HƠI ẤM." : "LIGHTS OFF. STILL WARM."}
+            </span>
+            <h2>
+              {vi ? "Buổi tối cũng có" : "Evenings have"}
+              <em>{vi ? "một bức tường riêng." : "a wall of their own."}</em>
+            </h2>
+            <p>
+              {vi
+                ? "Tường, giấy và ảnh dịu lại như dưới đèn bàn. Theo hệ thống hoặc hẹn giờ. Khi cần nhìn gọn hơn, chuyển sang lưới hay danh sách; tìm không dấu trên mọi bảng."
+                : "The wall, paper and prints settle into warm lamplight. Follow the system or a schedule. Switch to grid or list when you need a tidier view, and search across boards without accents."}
+            </p>
+            <Screen
+              src={stickyScreen("17_lights_off", locale, "desktop")}
+              alt={
+                vi
+                  ? "Bảng ghi chú dưới ánh đèn ấm"
+                  : "The board in warm night light"
+              }
+            />
+          </div>
+          <ProductFilm
+            {...kitClip(product.slug, "lights_off")}
+            locale={locale}
+            label={vi ? "Tắt đèn · EN UI" : "Lights off · EN UI"}
+            className="portrait-film"
           />
-        </div>
-        <ProductFilm
-          {...kitClip(product.slug, "lights_off")}
-          locale={locale}
-          label={vi ? "Tắt đèn · EN UI" : "Lights off · EN UI"}
-          className="portrait-film"
-        />
-      </section>
+        </section>
+      </details>
       <ProductGuide product={product} locale={locale} />
-      <KitFilmShelf slug={product.slug} locale={locale} />
+      <MediaLibraryLink product={product} locale={locale} />
       <MediaGallery
+        initialLimit={3}
         items={mediaFor(product.slug, locale)}
         locale={locale}
         name={product.name}

@@ -7,7 +7,8 @@ import { ProductFilm } from "./product-film";
 import { DayNightCompare } from "./day-night";
 import { ArrowUpRight, Asterisk } from "lucide-react";
 import Link from "next/link";
-import {ProductGuide} from './product-guide';
+import { ProductGuide } from "./product-guide";
+import { ProductGlyph } from "../shared";
 
 export function DevelopmentPortfolio({
   product: p,
@@ -38,6 +39,11 @@ export function DevelopmentPortfolio({
     <PortfolioProduct product={p} locale={locale} theme={theme}>
       <section
         className={`development-opening dev-${p.slug} portfolio-wrap`}
+        style={
+          p.family === "handy"
+            ? ({ "--tool-accent": p.accent } as React.CSSProperties)
+            : undefined
+        }
         data-scene
       >
         <span className="development-flag">
@@ -53,6 +59,30 @@ export function DevelopmentPortfolio({
             <ProductAction product={p} locale={locale} />
           </div>
         </div>
+        {p.family === "handy" && (
+          <div
+            className={`handy-prototype-spec tool-${p.slug.replace("handy-", "")}`}
+          >
+            <div>
+              <ProductGlyph product={p} size={58} />
+              <span>HANDY / {p.slug.replace("handy-", "").toUpperCase()}</span>
+            </div>
+            <ul>
+              {p.features.slice(0, 3).map((feature, i) => (
+                <li key={i}>
+                  <span>0{i + 1}</span>
+                  {feature[locale]}
+                </li>
+              ))}
+            </ul>
+            <Link href={`/${locale}/lab/#handy`}>
+              {vi
+                ? "Xem cả gia đình đang phát triển"
+                : "See the developing family"}
+              <ArrowUpRight size={18} />
+            </Link>
+          </div>
+        )}
         {aether ? (
           <div className="aether-film">
             <ProductFilm
@@ -147,7 +177,7 @@ export function DevelopmentPortfolio({
         </div>
         <Asterisk className="development-asterisk" size={66} strokeWidth={1} />
       </section>
-      <ProductGuide product={p} locale={locale}/>
+      <ProductGuide product={p} locale={locale} />
       {items.length > 0 ? (
         <MediaGallery items={items} locale={locale} name={p.name} />
       ) : (

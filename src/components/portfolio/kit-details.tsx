@@ -13,15 +13,17 @@ import { KitMarkdown } from "../kit-markdown";
 export function KitFAQ({
   product,
   locale,
+  limit,
 }: {
   product: Product;
   locale: Locale;
+  limit?: number;
 }) {
   const kit = websiteKits[product.slug];
   if (!kit) return null;
   return (
     <div className="kit-faq-list">
-      {kit.faq[locale].map((item) => (
+      {kit.faq[locale].slice(0, limit).map((item) => (
         <details key={item.question}>
           <summary>
             {item.question}
@@ -72,9 +74,17 @@ export function KitDetails({
             {product.slug === "arcane-brigade" ? "DELUXE" : "PRO"} /{" "}
             {vi ? "KHÔNG THUÊ BAO" : "NO SUBSCRIPTION"}
           </span>
-          <KitMarkdown locale={locale} product={product}>
-            {kit.pricing[locale]}
-          </KitMarkdown>
+          <details className="pricing-full">
+            <summary>
+              {vi
+                ? "Xem đầy đủ quyền lợi miễn phí & mua thêm"
+                : "Compare every free and paid inclusion"}{" "}
+              <span>+</span>
+            </summary>
+            <KitMarkdown locale={locale} product={product}>
+              {kit.pricing[locale]}
+            </KitMarkdown>
+          </details>
         </div>
       </section>
       <section className="kit-faq portfolio-wrap" id="faq">
@@ -84,7 +94,18 @@ export function KitDetails({
           </span>
           <h2>{vi ? "Có thể bạn đang hỏi." : "A few things you might ask."}</h2>
         </div>
-        <KitFAQ product={product} locale={locale} />
+        <div>
+          <KitFAQ product={product} locale={locale} limit={4} />
+          <Link
+            className="folio-text-link"
+            href={`/${locale}/support/${product.slug}/`}
+          >
+            {vi
+              ? "Đọc toàn bộ câu hỏi & hướng dẫn"
+              : "All questions & product support"}{" "}
+            <ArrowUpRight size={18} />
+          </Link>
+        </div>
       </section>
       <section className="kit-resources portfolio-wrap">
         <div>

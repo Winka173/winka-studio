@@ -1,8 +1,8 @@
 # Winka Studio
 
-Static Next.js / TypeScript / React / Tailwind v4 website. The current implementation is a media-rich experimental portfolio: an original WebGL light-ribbon hero, spatial product captures, naturally scrolling project articles, bespoke landing pages, 689 source-attributed screenshot records and locally hosted product films. All 22 products have source-grounded usage/gameplay explanations. The initial four style studies are archived for comparison. Public website deployment remains pending; repository publication is a separate step.
+Static Next.js / TypeScript / React / Tailwind v4 website. **Winka Workbench** is an independent apps-and-games portfolio with a tactile opening, source-grounded project stories, bespoke product materials, a 24-second showreel and a separate development Lab. Its 22 products have usage/gameplay explanations and 689 attributed screenshot records. Public website deployment remains pending; repository publication is a separate step.
 
-**Latest update:** the owner-supplied Bookmark, Sticky Wall and Arcane website kits replace their earlier media and copy. There are now 689 active screenshot records across 22 products, including 585 new kit captures, 49 imported kit films, an explicit-play trailer with sound, and the retained Aetherward film. All three kit products include full features, Free/Pro or Deluxe information, complete FAQ and verbatim supplied privacy/terms. See [the integration record](docs/WEBSITE_KIT_INTEGRATION.md).
+**Latest update:** all twelve improvements from the portfolio review are implemented. See [the Workbench contract](docs/WORKBENCH_REWORK.md). Complete owner-kit features, paid inclusions, media, FAQ/support and verbatim legal documents remain available; shorter landings link to them. The media registry currently selects 42 ambient films, plus the explicit-play Arcane trailer and the new studio reel. Historical import counts are documented in [the kit integration record](docs/WEBSITE_KIT_INTEGRATION.md).
 
 ## Run
 
@@ -24,11 +24,14 @@ Static preview: **http://127.0.0.1:4173/vi/**. `PORT` changes the preview port. 
 
 ## Current portfolio
 
-- `/vi/` or `/en/`: ink/pearl studio, interactive hero light ribbons, actual desktop/mobile/gameplay composition, four full project articles with native anchor navigation, and an image index.
-- `/en/apps/handy-bookmark/`: source-kit reading/share landscape with localized desktop/mobile/tablet/dark captures, six feature chapters, all eight localized UI films and labeled Pro content.
-- `/en/apps/sticky-wall/`: actual source-kit phone-screen fan, large-screen Android wall, memory boards, real materials and seven native gesture recordings.
-- `/en/apps/asset-forge-studio/`: technical workbench, interactive source screenshot views and 9 captures including responsive web UI.
-- `/en/games/arcane-brigade/`: original logo on battle footage, full explicit-play trailer with sound, all 36 hero portraits, six places, PC/mobile-layout captures and Deluxe details.
+- `/vi/` or `/en/`: graphite workbench, four real product objects, hero-only light, 24-second reel and naturally scrolling problem/decision/product case studies.
+- `/vi/lab/` or `/en/lab/`: filterable developing games/tools and a separate family of thirteen developing Handy apps. Catalogues also separate completed work from development.
+- `/en/apps/handy-bookmark/`: reading paper, a clearly labelled collection-filing web demo alongside the real app film, Focus/backup chapters and Pro captures.
+- `/en/apps/sticky-wall/`: actual phone fan and Android landscape wall, draggable/keyboard/tap-operable paper-and-yarn web playground, memory wall and source materials.
+- `/en/apps/asset-forge-studio/`: technical grid and a lazy real GLB inspector with texture/clay/wireframe, orbit, zoom and reset; original application inspector captures remain accessible.
+- `/en/games/arcane-brigade/`: original logo and battle footage, 36 selectable original heroes with corresponding real skill captures, explicit-play sound trailer and Deluxe details.
+- `/[locale]/apps/[slug]/media/` and `/[locale]/games/[slug]/media/`: complete source image libraries; the three owner-kit products also retain all selected films here.
+- `/[locale]/about/` and `/[locale]/contact/`: product-grounded studio process and general correspondence at the confirmed studio email.
 - Aetherward: an actual native Unity battle film. Runavelle: draggable day/night screenshot comparison. Machine Brigade: real Android gameplay after resolving the capture renderer. All remaining development products have actual source galleries.
 
 Every gallery supports layout filters, progressive access to all views and a native full-size modal with keyboard arrows/Escape. Every product keeps EN/VI detail/support/privacy/terms/data-deletion routes. The three owner-kit products render complete supplied legal documents; other product drafts remain individually identified.
@@ -51,12 +54,12 @@ Replace `/vi/` with `/en/` for English. These are **four implementations informe
 - `src/content/products.ts`: typed registry, 22 products, verified features/media, separate completion and release status.
 - `src/content/product-guides.ts`: translated, source-attributed workflows and gameplay guides for every product.
 - `src/content/website-kits.json`, `kit-media.json`, `kit-films.json`: current owner-kit copy, legal text, localized screenshots and movies; prepared by `scripts/import-website-kits.py`.
-- `src/content/studio.ts`: owner configuration; domain, publisher legal identity and studio-wide support remain unset.
+- `src/content/studio.ts`: owner configuration; studio email is confirmed, domain and publisher legal identity remain unset.
 - `src/content/legal.ts`: source-backed **draft previews**, not effective or final policies.
 - `src/content/portfolio-media.json`, `portfolio-films.json`: current gallery/film provenance. Earlier media manifests are retained as source history.
-- `src/components/portfolio/`: current studio and product compositions, original shader, lazy product films, gallery/lightbox and comparison slider.
+- `src/components/portfolio/`: current studio/product compositions, model inspector, original shader, lazy films, gallery/lightbox and signature interactions. Three.js is dynamically imported for the model inspector, not a global render loop.
 - `src/components/worlds/`: retained shared navigation/outro, motion controller and source screenshot exhibits; earlier compositions are historical.
-- `src/styles/portfolio*.css`: current palettes, spatial layouts, motion, galleries and responsive rules. Earlier worlds styles remain for shared/archive components.
+- `src/styles/workbench.css`: current Workbench presentation, distinct product materials and interaction rules, layered after the existing portfolio/kit styles. Earlier worlds styles remain for shared/archive components.
 - `src/components/directions/`: archived initial homepage studies.
 - `src/components/pages.tsx`: product, catalogue, support, legal, about and contact pages.
 - `src/app/(localized)/[locale]/[[...path]]/page.tsx`: explicitly enumerated EN/VI static routes; unknown routes return 404. The optional catch-all keeps app/game/legal layouts shared without runtime routing.
@@ -74,10 +77,12 @@ npm run lint
 npm run build
 npm run validate
 npm run qa
+npm run qa:workbench
+npm run qa:kits
 npm run validate -- --release
 ```
 
-`validate --release` is **expected to fail** until real domain/publisher/contact values and legal approvals are configured. It is a stricter owner/release gate, not the normal design-preview gate. `npm run qa` needs an installed Chromium browser; default is Windows Edge. Override `BROWSER_EXECUTABLE` and optionally `PREVIEW_URL`. Start `npm start` before QA. Current reports/screenshots are local in `.review/portfolio-qa/` and ignored by Git. `npm run validate` also checks all gallery dimensions, provenance, per-product coverage and film files. `npm run qa` runs `scripts/portfolio-qa.mjs`; the earlier `browser-qa.mjs` covers the historical implementation. Archived Taste prototype checks are recorded in `docs/qa/prototype-report.md`; current browser coverage is recorded in `QA_REPORT.md`.
+`validate --release` is **expected to fail** until the real domain, publisher identity and legal approvals are configured. It is a stricter owner/release gate, not the normal design-preview gate. `npm run qa` needs an installed Chromium browser; default is Windows Edge. Override `BROWSER_EXECUTABLE` and optionally `PREVIEW_URL`. Start `npm start` before QA. Main, Workbench and kit reports/screenshots are local in `.review/portfolio-qa/`, `.review/workbench-qa/` and `.review/website-kit-qa/`, ignored by Git. `npm run validate` also checks all gallery dimensions, provenance, per-product coverage and film files. The earlier `browser-qa.mjs` covers the historical implementation. Archived Taste prototype checks are recorded in `docs/qa/prototype-report.md`; current browser coverage is recorded in `QA_REPORT.md`.
 
 The Windows Next exporter currently emits nested segment-prefetch files while its browser client requests dot-separated names. The `postbuild` script preserves the original files and adds matching portable copies. This was found by real-browser 404 monitoring, then verified by navigation tests. It requires no Cloudflare rewrite or function.
 

@@ -193,6 +193,7 @@ export function SiteFooter({
                 {locale === "vi" ? "Trò chơi" : "Games"}
               </Link>
               <Link href={`/${locale}/about/`}>Studio</Link>
+              <Link href={`/${locale}/lab/`}>Workbench & Lab</Link>
             </div>
             <div>
               <span>{locale === "vi" ? "Thông tin" : "Information"}</span>
@@ -232,15 +233,22 @@ export function SiteFooter({
               ? "Apps, games & những ý tưởng tiếp theo."
               : "Apps, games & whatever comes next."}
           </span>
-          <Link href="/review/">
-            {locale === "vi" ? "Review thiết kế" : "Design review"}
+          <Link href={`/${locale}/contact/`}>
+            {locale === "vi" ? "Gửi Winka một lời nhắn" : "Send Winka a note"}
             <ArrowUpRight size={14} />
           </Link>
         </div>
         <div className="footer-photo-credits">
-          {locale==='vi'?'Nguồn ảnh trong giao diện: ':'Photos inside product UI: '}
-          <Link href={`/${locale}/apps/handy-bookmark/credits/`}>Handy Bookmark · CC BY / CC BY-SA / CC0</Link>
-          <span aria-hidden="true"> · </span><Link href={`/${locale}/apps/sticky-wall/credits/`}>Sticky Wall · CC0 / public domain</Link>
+          {locale === "vi"
+            ? "Nguồn ảnh trong giao diện: "
+            : "Photos inside product UI: "}
+          <Link href={`/${locale}/apps/handy-bookmark/credits/`}>
+            Handy Bookmark · CC BY / CC BY-SA / CC0
+          </Link>
+          <span aria-hidden="true"> · </span>
+          <Link href={`/${locale}/apps/sticky-wall/credits/`}>
+            Sticky Wall · CC0 / public domain
+          </Link>
         </div>
       </div>
     </footer>

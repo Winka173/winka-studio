@@ -39,6 +39,9 @@ function DocumentLinks({
       <Link href={`/${locale}/support/${product.slug}/`}>
         {locale === "vi" ? "Hỗ trợ" : "Support"}
       </Link>
+      <Link href={`${productPath(product, locale)}media/`}>
+        {locale === "vi" ? "Thư viện ảnh & video" : "Images & films"}
+      </Link>
     </nav>
   );
 }
@@ -68,8 +71,8 @@ export function KitArticle({
       {page === "credits" && product.slug === "handy-bookmark" && (
         <p className="kit-credit-changes">
           {locale === "vi"
-            ? "Ảnh chụp giao diện đã được giảm kích thước và chuyển sang WebP. Các ảnh có giấy phép CC BY-SA bên trong được cung cấp theo giấy phép tương ứng ghi bên dưới."
-            : "UI captures have been resized and converted to WebP. Embedded CC BY-SA photographs remain available under the corresponding licenses listed below."}
+            ? "Ảnh chụp giao diện đã được giảm kích thước và chuyển sang WebP. Một số clip giao diện được cắt, thêm tiêu đề và ghép vào showreel 24 giây của studio. Các ảnh có giấy phép CC BY-SA bên trong được cung cấp theo giấy phép tương ứng ghi bên dưới."
+            : "UI captures have been resized and converted to WebP. Selected UI clips have been trimmed, titled and included in the studio’s 24-second showreel. Embedded CC BY-SA photographs remain available under the corresponding licenses listed below."}
         </p>
       )}
       <KitMarkdown locale={locale} product={product}>

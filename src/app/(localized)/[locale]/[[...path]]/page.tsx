@@ -9,11 +9,18 @@ import { AddyHome } from "@/components/directions/addy";
 import { TasteHome } from "@/components/directions/taste";
 import { UIProHome } from "@/components/directions/uipro";
 import { GstackHome } from "@/components/directions/gstack";
-import { StudioHome } from '@/components/worlds/home';
-import { ProductLanding } from '@/components/worlds/product';
-import { productTheme } from '@/content/product-themes';
-import {websiteKits,kitPages,kitPageTitles,type KitPage} from '@/content/website-kits';
-import {KitArticle} from '@/components/kit-pages';
+import { StudioHome } from "@/components/worlds/home";
+import { ProductLanding } from "@/components/worlds/product";
+import { productTheme } from "@/content/product-themes";
+import {
+  websiteKits,
+  kitPages,
+  kitPageTitles,
+  type KitPage,
+} from "@/content/website-kits";
+import { KitArticle } from "@/components/kit-pages";
+import { LabPage } from "@/components/portfolio/lab";
+import { MediaLibrary } from "@/components/portfolio/media-library";
 import {
   AboutPage,
   CatalogPage,
@@ -31,6 +38,7 @@ const paths: string[][] = [
   ["support"],
   ["legal"],
   ["contact"],
+  ["lab"],
   ...directions.map((d) => ["directions", d.id]),
   ...products
     .filter((p) => p.status !== "hidden")
@@ -38,8 +46,11 @@ const paths: string[][] = [
       const category = p.kind === "game" ? "games" : "apps";
       return [
         [category, p.slug],
+        [category, p.slug, "media"],
         ["support", p.slug],
-        ...kitPages.filter(key=>websiteKits[p.slug]?.pages.en[key]).map(key=>[category,p.slug,key]),
+        ...kitPages
+          .filter((key) => websiteKits[p.slug]?.pages.en[key])
+          .map((key) => [category, p.slug, key]),
         ...(["privacy", "terms", "data-deletion"] as const).map((kind) => [
           category,
           p.slug,
@@ -83,9 +94,12 @@ export async function generateMetadata({
               support: vi ? "Hỗ trợ" : "Support",
               legal: vi ? "Thông tin pháp lý" : "Legal center",
               contact: vi ? "Liên hệ" : "Contact",
+              lab: vi
+                ? "Workbench & Lab — Bàn thử nghiệm"
+                : "Workbench & Lab — In progress",
             }[path[0]] || "Winka Studio";
   if (path[2])
-    title = `${p?.name} — ${legalTitles[path[2] as LegalKind]?.[locale]||kitPageTitles[path[2] as KitPage]?.[locale]}`;
+    title = `${p?.name} — ${path[2] === "media" ? (vi ? "Thư viện hình ảnh" : "Media library") : legalTitles[path[2] as LegalKind]?.[locale] || kitPageTitles[path[2] as KitPage]?.[locale]}`;
   const description = p
     ? p.description[locale]
     : vi
@@ -116,7 +130,9 @@ export async function generateMetadata({
         ? {
             images: [
               {
-                url: (p&&websiteKits[p.slug]?.assets['og-'+locale])||"/brand/share.png",
+                url:
+                  (p && websiteKits[p.slug]?.assets["og-" + locale]) ||
+                  "/brand/share.png",
                 width: 1200,
                 height: 630,
                 alt: "Winka Studio — apps and games",
@@ -129,7 +145,14 @@ export async function generateMetadata({
       card: "summary_large_image",
       title,
       description,
-      ...(studio.domain ? { images: [(p&&websiteKits[p.slug]?.assets['og-'+locale])||"/brand/share.png"] } : {}),
+      ...(studio.domain
+        ? {
+            images: [
+              (p && websiteKits[p.slug]?.assets["og-" + locale]) ||
+                "/brand/share.png",
+            ],
+          }
+        : {}),
     },
   };
 }
@@ -140,7 +163,7 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   const locale = raw as Locale;
   const key = path.join("/");
   let content: React.ReactNode;
-  let direction: DirectionId | 'studio' = "studio";
+  let direction: DirectionId | "studio" = "studio";
   let theme: string | undefined;
   let review = false;
   if (key === "") content = <StudioHome locale={locale} />;
@@ -149,6 +172,7 @@ export default async function Page({ params }: { params: Promise<Params> }) {
       <CatalogPage locale={locale} kind={key === "apps" ? "app" : "game"} />
     );
   else if (key === "about") content = <AboutPage locale={locale} />;
+  else if (key === "lab") content = <LabPage locale={locale} />;
   else if (key === "contact") content = <ContactPage locale={locale} />;
   else if (key === "legal") content = <LegalIndex locale={locale} />;
   else if (key === "support") content = <SupportPage locale={locale} />;
@@ -167,14 +191,22 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   } else {
     const p = getProduct(path[1] || "");
     if (!p) notFound();
-    theme=productTheme(p);
+    theme = productTheme(p);
     if (path[0] === "support" && path.length === 2)
       content = <SupportPage product={p} locale={locale} />;
     else if (`/${locale}/${path[0]}/${p.slug}/` === productPath(p, locale)) {
       if (path.length === 2)
         content = <ProductLanding product={p} locale={locale} />;
-      else if(path.length===3&&kitPages.includes(path[2] as KitPage)&&websiteKits[p.slug]?.pages[locale][path[2] as KitPage])
-        content=<KitArticle product={p} locale={locale} page={path[2] as KitPage}/>;
+      else if (path.length === 3 && path[2] === "media")
+        content = <MediaLibrary product={p} locale={locale} />;
+      else if (
+        path.length === 3 &&
+        kitPages.includes(path[2] as KitPage) &&
+        websiteKits[p.slug]?.pages[locale][path[2] as KitPage]
+      )
+        content = (
+          <KitArticle product={p} locale={locale} page={path[2] as KitPage} />
+        );
       else if (path.length === 3 && path[2] in legalTitles)
         content = (
           <LegalPage product={p} locale={locale} kind={path[2] as LegalKind} />

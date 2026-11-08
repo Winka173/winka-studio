@@ -1,0 +1,66 @@
+{
+  "export": {
+    "generatedPages": 312,
+    "htmlFiles": 311,
+    "portableSegments": 309,
+    "localReferences": 15408
+  },
+  "main": {
+    "layoutCases": 172,
+    "checks": [
+      "Real screenshot gallery: platform filters, expanded views, modal, arrow keys, Escape and native focus restoration",
+      "Forge source view switching; Arcane combat/shop switch; keyboard-operable real day/night screenshot comparison",
+      "Four projects in native document flow, anchor navigation, wheel movement, client navigation and localized path preservation",
+      "Mobile menu, Escape dismissal, product catalogue search and reset",
+      "Original WebGL compiles and draws; global pause freezes canvas and CSS, then resumes",
+      "WebGL context loss leaves CSS artwork fallback and readable content",
+      "Actual native-frame gameplay decodes and plays; global pause stops video time",
+      "Reduced-motion renders a still shader including after resize and does not download/autoplay videos",
+      "Direct static 404"
+    ],
+    "errors": [],
+    "violations": []
+  },
+  "workbench": {
+    "layoutCases": 64,
+    "checks": [
+      "All eight reworked destinations in both locales, four widths, real image loading and WCAG audit.",
+      "Bookmark collection demo, status, reset and full capture enlargement with Escape.",
+      "Sticky keyboard movement, single-pointer movement buttons, yarn toggle, mobile bounds and reset.",
+      "Real GLB loaded and rendered; texture/clay/wireframe, rotate and reset; reduced-motion opt-in.",
+      "All 36 original heroes selectable with corresponding real skill capture.",
+      "Lab filters and all thirteen developing Handy tools are separate from completed work.",
+      "24-second reel loads only on request, plays with user-initiated audio and pauses on Escape; global animation pause remains effective.",
+      "Shared-element route navigation and native Back preserve the four-project index.",
+      "Homepage WebGL stops drawing when the workbench opening leaves the viewport.",
+      "Emulated mobile touchscreen can move paper using a single tap, without dragging.",
+      "Data saver keeps static shader artwork, model opt-in, unloaded showreel and video posters."
+    ],
+    "errors": [],
+    "violations": []
+  },
+  "kits": {
+    "legalDocuments": [
+      "/en/apps/handy-bookmark/privacy/",
+      "/en/apps/handy-bookmark/terms/",
+      "/vi/apps/handy-bookmark/privacy/",
+      "/vi/apps/handy-bookmark/terms/",
+      "/en/apps/sticky-wall/privacy/",
+      "/en/apps/sticky-wall/terms/",
+      "/vi/apps/sticky-wall/privacy/",
+      "/vi/apps/sticky-wall/terms/",
+      "/en/games/arcane-brigade/privacy/",
+      "/en/games/arcane-brigade/terms/",
+      "/vi/games/arcane-brigade/privacy/",
+      "/vi/games/arcane-brigade/terms/"
+    ],
+    "checks": [
+      "All twelve supplied legal documents preserve every rendered word in order; no generic draft replaces them.",
+      "Progressive gallery reaches every supplied screen; English screenshots and Pro badges remain correct, including full-size viewing.",
+      "Required authors and Creative Commons licenses are present and reachable from the gallery and footer.",
+      "Localized Bookmark UI render, native Sticky recording and Arcane trailer decode, play muted and honor their pause controls.",
+      "The full trailer waits for explicit play; audio is never autoplayed."
+    ],
+    "errors": []
+  }
+}

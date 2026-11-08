@@ -1,4 +1,27 @@
-# Verification — owner website kits, 8 November 2026
+# Verification — Winka Workbench, 8 November 2026
+
+All twelve authorized portfolio-review improvements are implemented and verified against the final static export. Full evidence remains locally in `.review/workbench-qa/`, `.review/portfolio-qa/` and `.review/website-kit-qa/`; compact results are recorded in `docs/qa/workbench-summary.json`.
+
+| Check | Final observed result |
+| --- | --- |
+| TypeScript / ESLint | PASS, no errors or warnings |
+| Production build | PASS, 312 generated pages / 311 HTML files; 309 portable segment-prefetch files |
+| Static/media validation | PASS, 22 products, 15,408 local resource references, 689 attributed image records, 42 selected ambient films plus explicit-play trailer |
+| Main browser matrix | PASS, 43 routes × 320 / 390 / 768 / 1440px = 172 cases; default and alternate desktop palette audits |
+| Workbench browser matrix | PASS, 8 destinations × EN/VI × four widths = 64 cases; WCAG 2/2.1/2.2 checks in this suite |
+| Runtime/layout | No reported page errors, HTTP resource failures, broken visible images or horizontal document overflow |
+| Accessibility | No reported axe violations in the tested states, including the repaired light-mode model caption and hero roster |
+| Product interactions | Filing/status/reset; paper keyboard movement and single-tap alternatives; actual GLB texture/clay/wireframe/rotate/reset; 36 corresponding original hero/skill scenes |
+| Navigation/media | Shared-image route navigation, native Back/scroll, full-size capture dialogs/Escape, Lab filters, all thirteen developing Handy entries |
+| Reel | Real source footage/captures, 24 seconds, 1280×720, sound only after explicit play, pauses on dialog close; attribution links and source hashes retained |
+| Resource preferences | Global pause; reduced-motion opt-in; offscreen homepage shader suspension; data saver leaves shader artwork/model opt-in/unloaded video posters |
+| Content/legal | All 76 FAQ answers on support; complete selected-language/device film library; all twelve supplied legal documents match rendered words in order |
+
+Desktop/phone screenshots and focused hero, paper-board, skill-selector and model-material frames were opened for visual review. The three previously overlong landings are approximately 37–48% shorter on desktop and 42–45% shorter on phone while retaining complete linked media/documents. See `docs/WORKBENCH_REWORK.md` for measured heights and the implementation contract.
+
+Tests use headless installed Edge. Mobile touch is browser emulation, not a claim of testing physical Android/iOS hardware. axe is an automated check, not a complete accessibility certification. Shared transitions progressively fall back where browser support is absent. No deployment or public release is implied by these results.
+
+## Previous website-kit integration
 
 The Bookmark, Sticky Wall and Arcane integration passed the exported-site browser suite and focused content/media checks. Earlier results are preserved in `docs/qa/atelier-before-website-kits.md` and the other historical reports. Implementation and source boundaries are recorded in `docs/WEBSITE_KIT_INTEGRATION.md`.
 

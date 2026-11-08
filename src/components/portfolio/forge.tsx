@@ -5,7 +5,9 @@ import { PortfolioProduct, ProductAction, Screen, FeatureLink } from "./shared";
 import { MediaGallery } from "./gallery";
 import { ForgeTurntable } from "../worlds/interactions";
 import { Box, ArrowDownRight } from "lucide-react";
-import {ProductGuide} from './product-guide';
+import { ProductGuide } from "./product-guide";
+import { ForgeViewer } from "./forge-viewer";
+import { MediaLibraryLink } from "./media-library";
 
 export function ForgePortfolio({
   product,
@@ -50,6 +52,7 @@ export function ForgePortfolio({
                 : "Asset Forge Studio production workspace"
             }
             eager
+            transitionName="product-asset-forge-studio"
           />
           <span className="forge-hud" aria-hidden="true">
             <i />
@@ -73,13 +76,22 @@ export function ForgePortfolio({
           </h2>
           <p>
             {vi
-              ? "Các góc chụp thật trong trình kiểm tra của Asset Forge. Chuyển mặt trước, bên và sau để xem model trong chính giao diện làm việc."
-              : "Actual views from the Asset Forge inspector. Switch between front, side and back to see the model inside the workbench itself."}
+              ? "Mở model tháp canh thật từ repo. Xoay để nhìn hình khối, bỏ texture để đọc bề mặt, bật wireframe để xem lưới. Ảnh Inspector gốc vẫn ở ngay bên dưới."
+              : "Open a real watchtower model from the repository. Orbit its shape, remove the texture to read the surface, or inspect its wireframe. Original inspector captures remain below."}
           </p>
           <FeatureLink product={product} locale={locale} />
         </div>
-        <ForgeTurntable locale={locale} />
+        <ForgeViewer locale={locale} />
       </section>
+      <details className="forge-original-inspector portfolio-wrap">
+        <summary>
+          {vi
+            ? "Xem Inspector trong ứng dụng thật"
+            : "See the inspector in the actual app"}{" "}
+          <span>+</span>
+        </summary>
+        <ForgeTurntable locale={locale} />
+      </details>
       <section className="forge-workflow portfolio-wrap">
         <div className="forge-workflow-title">
           <span className="folio-kicker">
@@ -120,8 +132,14 @@ export function ForgePortfolio({
             : "AI models and external tools are configured separately. Model, component and output rights depend on their respective licenses."}
         </p>
       </section>
-      <ProductGuide product={product} locale={locale}/>
-      <MediaGallery items={items} locale={locale} name={product.name} />
+      <ProductGuide product={product} locale={locale} />
+      <MediaLibraryLink product={product} locale={locale} />
+      <MediaGallery
+        items={items}
+        locale={locale}
+        name={product.name}
+        initialLimit={3}
+      />
     </PortfolioProduct>
   );
 }

@@ -2,12 +2,15 @@ import type { Product } from "@/content/products";
 import type { Locale } from "@/content/studio";
 import { mediaFor, mediaImage } from "@/content/portfolio-media";
 import { kitClip, websiteKits } from "@/content/website-kits";
-import { PortfolioProduct, ProductAction, Screen } from "./shared";
+import { PortfolioProduct, ProductAction } from "./shared";
 import { ProductFilm } from "./product-film";
 import { MediaGallery } from "./gallery";
 import { ProductGuide } from "./product-guide";
 import { KitDetails } from "./kit-details";
-import { KitFilmShelf } from "./kit-film-shelf";
+import { MediaLibraryLink } from "./media-library";
+import heroFacts from "@/content/arcane-heroes.json";
+import { ArcaneHeroSelector } from "./arcane-hero-selector";
+import { ViewTransition } from "react";
 import { ArcaneActs } from "../worlds/interactions";
 import { KitTrailer } from "./kit-trailer";
 
@@ -23,32 +26,32 @@ export function ArcanePortfolio({
   const shot = (id: string) => mediaImage(product.slug, id, locale)!;
   const trailer = kitClip(product.slug, "trailer-40s-muted-loop-720p");
   const ambient = kitClip(product.slug, "clip-03-fight-wave-18", "pc");
-  const heroes = Object.entries(kit.assets).filter(([key]) =>
-    key.startsWith("07_Art/heroes/"),
-  );
-  const places = [
-    ["waiting-room", "Phòng Chờ", "Waiting Room"],
-    ["post-office", "Bưu điện", "Post Office"],
-    ["glasshouse", "Nhà kính", "Glasshouse"],
-    ["lamp-hall", "Sảnh Đèn", "Lamp Hall"],
-    ["theatre", "Nhà hát bị lãng quên", "Forgotten Theatre"],
-    ["archive-vault", "Kho lưu trữ", "Archive Vault"],
-  ];
+  const heroes = heroFacts.map((hero) => ({
+    ...hero,
+    art: kit.assets[hero.art],
+    scene: shot(hero.image),
+  }));
   return (
     <PortfolioProduct product={product} locale={locale} theme="arcane">
       <section className="arcane-cinema-intro arcane-kit-intro" data-scene>
-        <div className="arcane-cinema-film">
-          <ProductFilm
-            {...ambient}
-            poster={shot("fight-03-late-night-a")}
-            locale={locale}
-            label={
-              vi
-                ? "Gameplay thực tế · Build Windows · Tắt tiếng"
-                : "Actual gameplay · Windows build · Muted"
-            }
-          />
-        </div>
+        <ViewTransition
+          name="product-arcane-brigade"
+          share="product-morph"
+          default="none"
+        >
+          <div className="arcane-cinema-film">
+            <ProductFilm
+              {...ambient}
+              poster={shot("fight-03-late-night-a")}
+              locale={locale}
+              label={
+                vi
+                  ? "Gameplay thực tế · Build Windows · Tắt tiếng"
+                  : "Actual gameplay · Windows build · Muted"
+              }
+            />
+          </div>
+        </ViewTransition>
         <div className="arcane-cinema-scrim" />
         <div className="arcane-cinema-title portfolio-wrap">
           <span className="folio-kicker">
@@ -144,116 +147,7 @@ export function ArcanePortfolio({
             ? "Mỗi anh hùng có kỹ năng đặc trưng, ba cách dùng và một lần biến hình. Hiệp Sĩ Đèn Lồng, Trưởng Bưu Cục, Tiên Tri Ngái Ngủ — mỗi người mang một nhịp chơi riêng."
             : "Every hero has a signature skill, three approaches and a transformation. Lantern Knight, Postmaster, Drowsy Seer — each brings a different rhythm to the night."}
         </p>
-        <div className="arcane-hero-procession">
-          {heroes.slice(0, 8).map(([key, src], i) => (
-            <figure key={key} style={{ "--hero-i": i } as React.CSSProperties}>
-              <img
-                src={src}
-                width={450}
-                height={450}
-                alt={key
-                  .split("/")
-                  .pop()!
-                  .replace(".png", "")
-                  .replaceAll("-", " ")}
-                loading="lazy"
-              />
-            </figure>
-          ))}
-        </div>
-        <details className="arcane-hero-catalogue">
-          <summary>
-            {vi ? "Gặp đủ 36 anh hùng" : "Meet all 36 heroes"} <span>+</span>
-          </summary>
-          <div>
-            {heroes.map(([key, src]) => (
-              <figure key={key}>
-                <img src={src} width={250} height={250} alt="" loading="lazy" />
-                <figcaption>
-                  {key
-                    .split("/")
-                    .pop()!
-                    .replace(".png", "")
-                    .replaceAll("-", " ")}
-                </figcaption>
-              </figure>
-            ))}
-          </div>
-        </details>
-      </section>
-      <section className="arcane-boss-chapter" data-scene>
-        <div className="portfolio-wrap">
-          <div>
-            <span className="folio-kicker">II / EVERY FOURTH NIGHT</span>
-            <h2>
-              {vi ? "Nhìn vạch đỏ." : "Watch the red line."}
-              <em>{vi ? "Đừng đứng lại quá lâu." : "Don’t stay too long."}</em>
-            </h2>
-            <p>
-              {vi
-                ? "The Coin Widow, The Chair Porter, The Door That Stayed Shut, The Marquee Maw và The Last Customer chặn đường qua hai mươi đêm. Đọc cảnh báo dưới chân và dẫn cả đội qua cơn hỗn loạn."
-                : "The Coin Widow, The Chair Porter, The Door That Stayed Shut, The Marquee Maw and The Last Customer stand between you and dawn. Read the warnings on the floor and lead the brigade through."}
-            </p>
-          </div>
-          <Screen
-            src={shot("boss-night-16-b")}
-            alt={
-              vi
-                ? "Trận boss The Marquee Maw ở đêm 16"
-                : "The Marquee Maw boss on night 16"
-            }
-          />
-        </div>
-      </section>
-      <section className="arcane-dream-places portfolio-wrap">
-        <div className="kit-section-heading">
-          <span className="folio-kicker">
-            {vi ? "SÁU NƠI CHỐN TRONG GIẤC MƠ" : "SIX PLACES IN THE DREAM"}
-          </span>
-          <h2>
-            {vi ? "Mỗi nơi, một điều kỳ lạ." : "A different kind of strange."}
-          </h2>
-        </div>
-        <div>
-          {places.map(([id, v, e]) => (
-            <figure key={id}>
-              <img
-                src={shot("place-" + id)}
-                alt={vi ? v : e}
-                width={1920}
-                height={1080}
-                loading="lazy"
-              />
-              <figcaption>
-                <span>{vi ? v : e}</span>
-                <i aria-hidden="true">✦</i>
-              </figcaption>
-            </figure>
-          ))}
-        </div>
-      </section>
-      <section className="arcane-hub-story portfolio-wrap" data-scene>
-        <Screen
-          src={shot("hub-00-waiting-room")}
-          alt={
-            vi
-              ? "Phòng Chờ giữa những lượt chơi"
-              : "The Waiting Room between runs"
-          }
-        />
-        <div>
-          <span className="folio-kicker">
-            {vi ? "TRỞ VỀ PHÒNG CHỜ" : "BACK TO THE WAITING ROOM"}
-          </span>
-          <h2>
-            {vi ? "Rồi lại thắp một ngọn đèn." : "And light another lamp."}
-          </h2>
-          <p>
-            {vi
-              ? "Dầu Đèn và Kỷ vật thắp Cây Đèn cho lượt sau. Đọc thư, lấp Bảo tàng, ký Hiệp Ước Đêm, thử Giấc mơ hàng ngày và rung Chuông của Người Canh Giữ. Kỷ lục giữ lại đội hình và biểu đồ sát thương của từng lượt."
-              : "Spend Lamp Oil and Keepsakes at the Lamp Tree. Read milestone letters, fill the Museum, sign the Night Pact, try the Daily Dream and ring the Keeper’s Bell. Records keep each run’s brigade and damage chart."}
-          </p>
-        </div>
+        <ArcaneHeroSelector heroes={heroes} locale={locale} />
       </section>
       <ProductGuide product={product} locale={locale} />
       <section className="arcane-full-trailer portfolio-wrap" id="trailer">
@@ -268,8 +162,9 @@ export function ArcanePortfolio({
           locale={locale}
         />
       </section>
-      <KitFilmShelf slug={product.slug} locale={locale} />
+      <MediaLibraryLink product={product} locale={locale} />
       <MediaGallery
+        initialLimit={3}
         items={mediaFor(product.slug, locale)}
         locale={locale}
         name={product.name}

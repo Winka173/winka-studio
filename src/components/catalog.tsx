@@ -4,6 +4,7 @@ import { Search, X } from "lucide-react";
 import type { Product } from "@/content/products";
 import type { Locale } from "@/content/studio";
 import { ProductCard } from "./shared";
+import Link from "next/link";
 
 export function Catalog({
   products,
@@ -96,11 +97,42 @@ export function Catalog({
       <p className="catalog-count" aria-live="polite">
         {filtered.length} {vi ? "sản phẩm" : "products"}
       </p>
-      <div className="catalog-grid">
-        {filtered.map((p) => (
-          <ProductCard key={p.slug} product={p} locale={locale} />
-        ))}
-      </div>
+      {(["complete", "in-progress"] as const).map((completion) => {
+        const group = filtered.filter((p) => p.completion === completion);
+        if (!group.length) return null;
+        return (
+          <section className="catalog-completion-group" key={completion}>
+            <div className="catalog-group-heading">
+              <h2>
+                {completion === "complete"
+                  ? vi
+                    ? "Selected Work / Đã hoàn thiện"
+                    : "Selected Work / Completed"
+                  : "Workbench & Lab"}
+              </h2>
+              <p>
+                {completion === "complete"
+                  ? vi
+                    ? "Tình trạng tải và phát hành được ghi riêng tại trang sản phẩm."
+                    : "Download and release status are stated separately on each product page."
+                  : vi
+                    ? "Các dự án đang phát triển; hình ảnh từ build và giao diện hiện tại."
+                    : "Projects in development, with captures from their current builds and interfaces."}
+              </p>
+              {completion !== "complete" && (
+                <Link href={`/${locale}/lab/`}>
+                  {vi ? "Vào Workbench & Lab" : "Open Workbench & Lab"} ↗
+                </Link>
+              )}
+            </div>
+            <div className="catalog-grid">
+              {group.map((p) => (
+                <ProductCard key={p.slug} product={p} locale={locale} />
+              ))}
+            </div>
+          </section>
+        );
+      })}
       {filtered.length === 0 && (
         <div className="empty-catalog">
           <Search size={32} />

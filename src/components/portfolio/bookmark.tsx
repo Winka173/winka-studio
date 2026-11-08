@@ -8,7 +8,8 @@ import { ProductFilm } from "./product-film";
 import { MediaGallery } from "./gallery";
 import { ProductGuide } from "./product-guide";
 import { KitDetails } from "./kit-details";
-import { KitFilmShelf } from "./kit-film-shelf";
+import { BookmarkFiling } from "./bookmark-filing";
+import { MediaLibraryLink } from "./media-library";
 
 export function BookmarkPortfolio({
   product,
@@ -108,17 +109,14 @@ export function BookmarkPortfolio({
                 : "Library with an item open in the wide-screen layout"
             }
             className="bookmark-kit-desktop"
+            transitionName="product-handy-bookmark"
             eager
           />
           <div className="bookmark-kit-share">
             <ProductFilm
               {...share}
               locale={locale}
-              label={
-                vi
-                  ? "Chia sẻ → Lưu → Xếp"
-                  : "Share → Save → File"
-              }
+              label={vi ? "Chia sẻ → Lưu → Xếp" : "Share → Save → File"}
               className="portrait-film"
             />
           </div>
@@ -142,53 +140,80 @@ export function BookmarkPortfolio({
             : "Links are recipes to try, places to go, things to learn — and things you actually want to return to."}
         </p>
       </section>
+      <section className="bookmark-filing-chapter portfolio-wrap" data-scene>
+        <div>
+          <span className="folio-kicker">
+            01 / {vi ? "LƯU XONG, XẾP NGAY" : "SAVED, THEN FILED"}
+          </span>
+          <h2>
+            {vi ? "Một chạm." : "One tap."}
+            <em>{vi ? "Về đúng chỗ." : "Right where it belongs."}</em>
+          </h2>
+          <p>
+            {vi
+              ? "Chia sẻ từ app đang dùng để lưu link kèm hình. Mục mới chờ ở Chưa xếp; chọn bộ sưu tập để đặt vào đúng chỗ. Thử nhịp thao tác bên dưới, rồi xem clip giao diện thật bên cạnh."
+              : "Share from the app you are using to save a link with its picture. New saves wait in Not sorted; choose a collection to give them a home. Try the rhythm below, then see the real interface alongside."}
+          </p>
+          <BookmarkFiling locale={locale} />
+        </div>
+        <ProductFilm
+          {...kitClip(product.slug, "file-" + locale)}
+          locale={locale}
+          label={vi ? "Thao tác xếp trong app thật" : "Filing in the real app"}
+          className="portrait-film"
+        />
+      </section>
       <div className="bookmark-feature-chapters">
-        {features.map((f, i) => {
-          const clip = f.clip
-            ? kitClip(product.slug, f.clip + "-" + locale)
-            : null;
-          return (
-            <section
-              className={`bookmark-feature portfolio-wrap chapter-${i + 1}`}
-              key={f.image}
-              data-scene
-            >
-              <div className="bookmark-feature-copy">
-                <span className="folio-kicker">0{i + 1} / HANDY BOOKMARK</span>
-                <h2>{f.title}</h2>
-                <p>{f.body}</p>
-              </div>
-              <div className="bookmark-feature-media">
-                {clip ? (
-                  <ProductFilm
-                    {...clip}
-                    locale={locale}
-                    label={f.title}
-                    className="portrait-film"
-                  />
-                ) : (
-                  <img
-                    src={highlight(f.image)}
-                    alt={f.title}
-                    width={1108}
-                    height={2156}
-                    loading="lazy"
-                  />
-                )}
-                {i === 4 && (
-                  <img
-                    className="bookmark-reader-companion"
-                    src={highlight("06-reader")}
-                    alt={vi ? "Trình đọc bài viết" : "Article reader"}
-                    width={1108}
-                    height={2156}
-                    loading="lazy"
-                  />
-                )}
-              </div>
-            </section>
-          );
-        })}
+        {features
+          .filter((_, i) => i === 4 || i === 5)
+          .map((f, i) => {
+            const clip = f.clip
+              ? kitClip(product.slug, f.clip + "-" + locale)
+              : null;
+            return (
+              <section
+                className={`bookmark-feature portfolio-wrap chapter-${i + 1}`}
+                key={f.image}
+                data-scene
+              >
+                <div className="bookmark-feature-copy">
+                  <span className="folio-kicker">
+                    0{i + 2} / HANDY BOOKMARK
+                  </span>
+                  <h2>{f.title}</h2>
+                  <p>{f.body}</p>
+                </div>
+                <div className="bookmark-feature-media">
+                  {clip ? (
+                    <ProductFilm
+                      {...clip}
+                      locale={locale}
+                      label={f.title}
+                      className="portrait-film"
+                    />
+                  ) : (
+                    <img
+                      src={highlight(f.image)}
+                      alt={f.title}
+                      width={1108}
+                      height={2156}
+                      loading="lazy"
+                    />
+                  )}
+                  {i === 0 && (
+                    <img
+                      className="bookmark-reader-companion"
+                      src={highlight("06-reader")}
+                      alt={vi ? "Trình đọc bài viết" : "Article reader"}
+                      width={1108}
+                      height={2156}
+                      loading="lazy"
+                    />
+                  )}
+                </div>
+              </section>
+            );
+          })}
       </div>
       <section className="bookmark-pro-exhibit portfolio-wrap" data-scene>
         <div>
@@ -227,8 +252,9 @@ export function BookmarkPortfolio({
         />
       </section>
       <ProductGuide product={product} locale={locale} />
-      <KitFilmShelf slug={product.slug} locale={locale} />
+      <MediaLibraryLink product={product} locale={locale} />
       <MediaGallery
+        initialLimit={3}
         items={mediaFor(product.slug, locale)}
         locale={locale}
         name={product.name}

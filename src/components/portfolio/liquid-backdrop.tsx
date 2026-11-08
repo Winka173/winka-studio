@@ -117,6 +117,13 @@ export function LiquidBackdrop({
     const host = ref.current,
       canvas = host?.querySelector("canvas");
     if (!host || !canvas) return;
+    if (
+      (navigator as Navigator & { connection?: { saveData?: boolean } })
+        .connection?.saveData
+    ) {
+      host.dataset.shader = "fallback";
+      return;
+    }
     const root = host.closest(".site") as HTMLElement;
     const motion = matchMedia("(prefers-reduced-motion: reduce)");
     const gl = canvas.getContext("webgl", {

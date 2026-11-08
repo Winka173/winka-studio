@@ -14,6 +14,12 @@ export function WorldMotion({ locale }: { locale: Locale }) {
     const root = ref.current?.closest(".site") as HTMLElement | null;
     if (!root) return;
     const reduced = matchMedia("(prefers-reduced-motion: reduce)");
+    root.dataset.saveData = String(
+      Boolean(
+        (navigator as Navigator & { connection?: { saveData?: boolean } })
+          .connection?.saveData,
+      ),
+    );
     let frame = 0;
     let pendingX = 0,
       pendingY = 0;
@@ -40,7 +46,12 @@ export function WorldMotion({ locale }: { locale: Locale }) {
     root.dataset.motionReady = "true";
     const update = () => {
       frame = 0;
-      if (reduced.matches || root.dataset.animationPaused === "true") return;
+      if (
+        reduced.matches ||
+        root.dataset.animationPaused === "true" ||
+        root.dataset.saveData === "true"
+      )
+        return;
       for (const el of visible) {
         const r = el.getBoundingClientRect();
         const p = Math.max(

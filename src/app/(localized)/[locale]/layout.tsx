@@ -9,13 +9,14 @@ import "@/styles/pages.css";
 import "@/styles/review.css";
 import "@/styles/worlds.css";
 import "@/styles/development.css";
-import '@/styles/portfolio.css';
-import '@/styles/portfolio-home.css';
-import '@/styles/portfolio-products.css';
-import '@/styles/portfolio-development.css';
-import '@/styles/project-collection.css';
-import '@/styles/product-guide.css';
-import '@/styles/website-kits.css';
+import "@/styles/portfolio.css";
+import "@/styles/portfolio-home.css";
+import "@/styles/portfolio-products.css";
+import "@/styles/portfolio-development.css";
+import "@/styles/project-collection.css";
+import "@/styles/product-guide.css";
+import "@/styles/website-kits.css";
+import "@/styles/workbench.css";
 import "../../../../public/taste/motion/motion.css";
 
 export const metadata: Metadata = {

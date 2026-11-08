@@ -817,7 +817,7 @@ button:active,
   }
 }
 @media (max-width: 360px) {
-  .site .site-header .wordmark-studio {
+  .site .site-header .wordmark .wordmark-studio {
     display: none;
   }
 }

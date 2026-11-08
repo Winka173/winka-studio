@@ -81,7 +81,7 @@ try {
       );
       await page.goto(base + root + "media/", { waitUntil: "networkidle" });
       const clips = kit.clips.filter((c) =>
-        slug === "handy-bookmark"
+        slug === "handy-bookmark" || slug === "handy-boards"
           ? c.id.endsWith("-" + locale)
           : !c.id.startsWith("trailer-"),
       );
@@ -107,7 +107,7 @@ try {
     }
   }
   report.checks.push(
-    "All twelve supplied legal documents preserve every rendered word in order; no generic draft replaces them.",
+    `All ${report.legalDocuments.length} supplied legal documents preserve every rendered word in order; no generic draft replaces them.`,
   );
   await page.goto(base + "/en/apps/handy-bookmark/", {
     waitUntil: "networkidle",
@@ -147,6 +147,7 @@ try {
   await page.emulateMedia({ reducedMotion: "no-preference" });
   for (const [slug, path, selector] of [
     ["handy-bookmark", "apps/handy-bookmark", ".bookmark-kit-share video"],
+    ["handy-boards", "apps/handy-boards", ".boards-chapter video"],
     ["sticky-wall", "apps/sticky-wall", ".sticky-kit-film video"],
     ["arcane-brigade", "games/arcane-brigade", ".arcane-cinema-film video"],
   ]) {
@@ -172,7 +173,7 @@ try {
     await page.screenshot({ path: `${dir}/${slug}-film.png` });
   }
   report.checks.push(
-    "Localized Bookmark UI render, native Sticky recording and Arcane trailer decode, play muted and honor their pause controls.",
+    "Localized Bookmark and Boards UI renders, native Sticky recording and Arcane trailer decode, play muted and honor their pause controls.",
   );
   await page.goto(base + "/en/games/arcane-brigade/", {
     waitUntil: "networkidle",

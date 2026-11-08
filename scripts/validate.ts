@@ -76,6 +76,7 @@ if (release) {
 // Meaningful behavior invariants, not component snapshots.
 for (const slug of [
   "handy-bookmark",
+  "handy-boards",
   "sticky-wall",
   "asset-forge-studio",
   "arcane-brigade",

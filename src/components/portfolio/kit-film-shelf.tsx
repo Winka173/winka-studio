@@ -1,6 +1,15 @@
 import type { Locale } from "@/content/studio";
 import { websiteKits } from "@/content/website-kits";
 import { ProductFilm } from "./product-film";
+const boardsTitles: Record<string, [string, string]> = {
+  welcome: ["Your first board", "Bảng đầu tiên"],
+  template: ["Start from a template", "Bắt đầu từ mẫu"],
+  categories: ["Categories", "Các nhóm"],
+  timeline: ["Timeline", "Dòng thời gian"],
+  card: ["Inside a card", "Bên trong thẻ"],
+  "dark-mode": ["Dark mode", "Giao diện tối"],
+  pro: ["Handy Boards Pro", "Handy Boards Pro"],
+};
 const titles: Record<string, [string, string]> = {
   "share-sheet": ["Share, save, filed", "Chia sẻ, lưu, xếp xong"],
   welcome: ["A place for every save", "Một chỗ cho tất cả"],
@@ -45,7 +54,7 @@ export function KitFilmShelf({
 }) {
   const vi = locale === "vi";
   const clips = websiteKits[slug].clips.filter((c) =>
-    slug === "handy-bookmark"
+    slug === "handy-bookmark" || slug === "handy-boards"
       ? c.id.endsWith("-" + locale)
       : !c.id.startsWith("trailer-"),
   );
@@ -75,9 +84,9 @@ export function KitFilmShelf({
       </div>
       <div className="kit-film-grid">
         {clips.map((c) => {
-          const key = slug === "handy-bookmark" ? c.id.slice(0, -3) : c.id;
+          const key = slug === "handy-bookmark" || slug === "handy-boards" ? c.id.slice(0, -3) : c.id;
           const name =
-            titles[key]?.[vi ? 1 : 0] ||
+            (slug === "handy-boards" ? boardsTitles : titles)[key]?.[vi ? 1 : 0] ||
             key.replace("clip-place-", "").replaceAll("-", " ");
           const mobile = c.src.includes("/mobile/");
           return (
@@ -93,6 +102,7 @@ export function KitFilmShelf({
                 <span>
                   <i aria-hidden="true">▷</i>
                   {name}
+                  {slug === "handy-boards" && ["categories", "timeline", "template"].includes(key) && <small>{vi ? "BẢN CẬP NHẬT TỚI" : "NEXT UPDATE"}</small>}
                   {slug === "arcane-brigade" && (
                     <small>{mobile ? "MOBILE LAYOUT" : "PC LAYOUT"}</small>
                   )}

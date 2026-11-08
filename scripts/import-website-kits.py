@@ -1,13 +1,14 @@
 """Import owner-supplied kits without changing the source kits or personal app data."""
 from pathlib import Path
 from PIL import Image
-import json, re, shutil, hashlib, subprocess
+import json, re, shutil, hashlib, subprocess, argparse
 import imageio_ffmpeg
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = Path('C:/Users/Winka/OneDrive/Documents')
 KITS = {
  'handy-bookmark': DOCS/'Handy-Website-Kit/handy-bookmark',
+ 'handy-boards': DOCS/'Handy-Website-Kit/handy-boards',
  'sticky-wall': DOCS/'Sticky-Wall/docs/website',
  'arcane-brigade': DOCS/'Arcane-Brigade-Website-Kit',
 }
@@ -15,6 +16,15 @@ OUT = ROOT/'public/products'
 DATA = ROOT/'src/content'
 FF = imageio_ffmpeg.get_ffmpeg_exe()
 media, films, provenance, kits = [], [], [], {}
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--only', nargs='+', choices=list(KITS), help='Import selected kits, preserving every other kit')
+args = parser.parse_args()
+selected = set(args.only or KITS)
+if args.only:
+ kits = json.loads((DATA/'website-kits.json').read_text(encoding='utf-8'))
+ media = [m for m in json.loads((DATA/'kit-media.json').read_text(encoding='utf-8')) if m['slug'] not in selected]
+ films = [m for m in json.loads((DATA/'kit-films.json').read_text(encoding='utf-8')) if m['slug'] not in selected]
+ provenance = [m for m in json.loads((ROOT/'docs/website-kits/import-manifest.json').read_text(encoding='utf-8')) if not any(m['file'].startswith(f'public/products/{slug}/') for slug in selected)]
 
 def read(root, name): return (root/name).read_text(encoding='utf-8-sig').strip()
 def between(text, start, end=None):
@@ -58,7 +68,7 @@ def image(slug,root,p,rel=None,maxsize=1920):
  return src,width,height
 def screenshot(slug,root,p,locale,device,en,vi,pro=False,theme='light'):
  src,w,h=image(slug,root,p,maxsize=1800)
- media.append(dict(slug=slug,id=p.stem,src=src,device=device,width=w,height=h,title={'en':en,'vi':vi},kind='kit-source-render' if slug=='handy-bookmark' else 'kit-game-capture' if slug=='arcane-brigade' else 'kit-device-capture',source=str(p),locale=locale,pro=pro,theme=theme))
+ media.append(dict(slug=slug,id=p.stem,src=src,device=device,width=w,height=h,title={'en':en,'vi':vi},kind='kit-source-render' if slug in ['handy-bookmark','handy-boards'] else 'kit-game-capture' if slug=='arcane-brigade' else 'kit-device-capture',source=str(p),locale=locale,pro=pro,theme=theme))
 def movie(slug,root,p):
  target=OUT/slug/'kit'/p.relative_to(root);target.parent.mkdir(parents=True,exist_ok=True)
  if not target.exists() or target.stat().st_mtime < p.stat().st_mtime:
@@ -69,7 +79,7 @@ def movie(slug,root,p):
  if not poster.exists():
   subprocess.run([FF,'-y','-ss','0.5','-i',str(target),'-frames:v','1','-q:v','80',str(poster)],check=True,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
  src='/'+target.relative_to(ROOT/'public').as_posix();post='/'+poster.relative_to(ROOT/'public').as_posix()
- films.append({'slug':slug,'file':target.relative_to(ROOT).as_posix(),'source':str(p),'kind':'owner-kit-frame-render' if slug=='handy-bookmark' else 'owner-kit-native-capture','poster':post})
+ films.append({'slug':slug,'file':target.relative_to(ROOT).as_posix(),'source':str(p),'kind':'owner-kit-frame-render' if slug in ['handy-bookmark','handy-boards'] else 'owner-kit-native-capture','poster':post})
  provenance.append({'file':target.relative_to(ROOT).as_posix(),'source':str(p),'kind':'muted-web-video'})
  return {'id':p.stem,'src':src,'poster':post,'source':str(p)}
 def captions_table(text):
@@ -81,7 +91,7 @@ def captions_table(text):
    if filename: result[filename[1]]=(cells[-2],cells[-1])
  return result
 def pages_legal(slug,r):
- if slug=='handy-bookmark':
+ if slug in ['handy-bookmark','handy-boards']:
   legal={}
   for kind in ['privacy','terms']:
    raw=read(r,f'legal/{kind}.md');preamble=raw.split('## English')[0].strip().removesuffix('---').strip()
@@ -97,6 +107,7 @@ def pages_legal(slug,r):
  return result
 
 for slug,r in KITS.items():
+ if slug not in selected:continue
  print(f'Importing {slug}',flush=True)
  assets={};clips=[];pages={};faqs={};pricing={};legal=pages_legal(slug,r)
  # Preserve the complete textual kit as editorial evidence, including known caveats.
@@ -104,7 +115,38 @@ for slug,r in KITS.items():
  for p in r.rglob('*'):
   if p.is_file() and p.suffix.lower() in ['.md','.json','.csv','.txt']:
    target=archive/p.relative_to(r);target.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,target)
- if slug=='handy-bookmark':
+ if slug=='handy-boards':
+  captions=json.loads(read(r,'data/captions.json'))
+  priority=['01-home','02-board','08-templates','05-card','20-my-work']
+  files=sorted((r/'screenshots').rglob('*.png'),key=lambda p:(next((i for i,k in enumerate(priority) if p.stem.endswith(k)),99),p.as_posix()))
+  for p in files:
+   c=captions[p.relative_to(r).as_posix()]
+   screenshot(slug,r,p,c['lang'],c['form'],c['alt_en'],c['alt_vi'],c['pro'],c['theme'])
+   media[-1]['newInNextUpdate']=c.get('new_in_next_update',False)
+  for p in (r/'highlights').iterdir():
+   if p.suffix.lower() in ['.png','.jpg']:assets[p.relative_to(r).as_posix()]=image(slug,r,p)[0]
+  highlights={}
+  for lang in ['en','vi']:
+   full=read(r,f'copy/{lang}/features.md')
+   feature_body=full[full.index('## 1.'):].split('## Newer than the store' if lang=='en' else '## Mới hơn bản trên Play')[0]
+   feature_body=re.sub(r'(?m)^Screens?:.*$','',feature_body)
+   feature_body=re.sub(r'\([^()\n]*`[^()\n]*(?:\.png|…-)[^()\n]*\)','',feature_body)
+   feature_body=clean(feature_body)+'\n\n## '+('Next-update preview\n\nThe new timeline, multi-category selection and suggested template fields are not in Google Play 1.0.0 (3) yet. The screenshots show the next update.' if lang=='en' else 'Bản cập nhật tới\n\nDòng thời gian mới, chọn nhiều nhóm và trường gợi ý của mẫu chưa có trong Google Play 1.0.0 (3). Các ảnh mô tả bản cập nhật kế tiếp.')
+   pages[lang]={'features':feature_body,'press':clean(read(r,f'copy/{lang}/press.md')),'comparison':clean(read(r,'copy/why-handy-boards.md')),'credits':('Handy Boards by Winka Studio.\n\nScreens and films are rendered from the real Flutter UI using demonstration data; they are not device recordings. Plus Jakarta Sans is bundled under the SIL Open Font License.' if lang=='en' else 'Handy Boards của Winka Studio.\n\nẢnh và clip được kết xuất từ giao diện Flutter thật với dữ liệu minh họa; không phải bản quay thiết bị. Plus Jakarta Sans được đóng gói theo SIL Open Font License.')}
+   faqs[lang]=faq(read(r,f'copy/{lang}/faq.md'))
+   pricing[lang]=between(read(r,'copy/pro-vs-free.md'),'## English','## Tiếng Việt') if lang=='en' else between(read(r,'copy/pro-vs-free.md'),'## Tiếng Việt')
+   changes=read(r,'copy/changelog.md')
+   pages[lang]['changelog']=between(changes,'## English','## Tiếng Việt') if lang=='en' else between(changes,'## Tiếng Việt')
+   highlights[lang]=[]
+   for m in re.finditer(r'^## ([1-6])\. ([^\n]+)\n(.*?)(?=^## |\Z)',read(r,f'copy/{lang}/highlights.md'),re.M|re.S):
+    matches=re.findall(r'`(highlights/[^`]+)`',m[3]);picture=next((v for v in matches if 'desktop' in v),matches[0])
+    clip=re.search(r'`clips/([^`]+)\.mp4`',m[3])
+    body=clean(re.split(r'(?m)^(?:Image|Ảnh|Hình):',m[3])[0])
+    highlights[lang].append({'title':m[2].strip(),'body':body,'image':assets[picture],'clipId':clip[1] if clip else None,'newInNextUpdate':m[1] in ['2','3','4']})
+  assets['icon']=image(slug,r,r/'brand/icon/icon-rounded-1024.png')[0]
+  for lang in ['en','vi']:assets['og-'+lang]=image(slug,r,r/f'brand/social/og-1200x630-{lang}.png')[0]
+  kits.setdefault(slug,{})['highlights']=highlights
+ elif slug=='handy-bookmark':
   captions=json.loads(read(r,'data/captions.json'))
   # Favor the landing-page strip first; all remaining screens stay explorable.
   priority=['13-share-sheet','01-home','03-collection-cards','18-search-results','20-focus','22-reader','17-picture']

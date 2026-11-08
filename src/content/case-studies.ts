@@ -12,8 +12,8 @@ export const caseStudies: Record<string, Record<Locale, string>[]> = {
       en: "Use categories, Kanban columns and plans to organize the work.",
     },
     {
-      vi: "Giao diện từ build đang phát triển; chưa mở tải công khai.",
-      en: "Screens from the current development build; public download is coming soon.",
+      vi: "Đã hoàn thiện; đang kiểm thử kín trên Android. Một số ảnh xem trước bản cập nhật kế tiếp.",
+      en: "Complete and in Android closed testing. Some captures preview the next update.",
     },
   ],
   "handy-bookmark": [

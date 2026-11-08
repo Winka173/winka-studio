@@ -45,7 +45,7 @@ export function ProductAction({
 }) {
   const vi = locale === "vi";
   const store = product.storeLinks.find((link) => link.verified);
-  const testing = ["handy-bookmark", "sticky-wall", "arcane-brigade"].includes(
+  const testing = ["handy-bookmark", "handy-boards", "sticky-wall", "arcane-brigade"].includes(
     product.slug,
   );
   return (

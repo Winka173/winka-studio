@@ -342,26 +342,26 @@ export const productGuides: Record<string, ProductGuide> = {
 
 const handy: Record<string, [string, string, Step[]]> = {
   boards: [
-    "An offline workspace for category-based tasks, Kanban, a daily view and a calendar.",
-    "Workspace ngoại tuyến cho công việc theo danh mục, Kanban, việc hôm nay và lịch.",
+    "Offline Kanban boards for school, home and projects, with categories, subtasks and reminders.",
+    "Bảng Kanban ngoại tuyến cho việc học, việc nhà và dự án, có nhóm, việc con và nhắc nhở.",
     [
       step(
         "Make a board",
         "Tạo bảng",
-        "Choose categories and statuses for the work you want to organize.",
-        "Chọn danh mục và trạng thái phù hợp với công việc.",
+        "Start with a blank board or choose a template for the work you want to organize.",
+        "Tạo bảng trống hoặc chọn một mẫu phù hợp với công việc.",
       ),
       step(
         "Capture the task",
         "Ghi lại công việc",
-        "Add tasks with notes, priorities, dates, checklists and attachments.",
-        "Thêm việc cùng ghi chú, ưu tiên, hạn, checklist và tệp đính kèm.",
+        "Add cards with categories, notes, subtasks, due dates and reminders.",
+        "Thêm thẻ cùng nhóm, ghi chú, việc con, hạn và nhắc nhở.",
       ),
       step(
         "Work through your views",
         "Theo dõi qua các góc nhìn",
-        "Use the category board, Kanban, Today or calendar to revisit the same tasks.",
-        "Xem cùng các công việc qua bảng danh mục, Kanban, Hôm nay hoặc lịch.",
+        "Move cards across columns or use Move to, tick subtasks and undo a change when needed.",
+        "Kéo thẻ qua cột hoặc dùng Chuyển tới, tích việc con và Hoàn tác khi cần.",
       ),
     ],
   ],
@@ -661,5 +661,6 @@ for (const [slug, [en, vi, steps]] of Object.entries(handy))
     sources: [
       `Handy-Suite/docs/FUNCTIONS.md#handy-${slug}`,
       `Handy-Suite/apps/handy_${slug}/lib`,
+      ...(slug === "boards" ? ["Handy-Website-Kit/handy-boards/copy/en/features.md", "Handy-Website-Kit/handy-boards/copy/platforms-and-links.md"] : []),
     ],
   };

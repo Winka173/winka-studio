@@ -126,11 +126,12 @@ export function MediaGallery({
               <span>{item.title[locale]}</span>
               <ArrowUpRight size={15} />
             </span>
-            {(item.pro ||
+            {(item.pro || item.newInNextUpdate ||
               item.theme === "dark" ||
               (locale === "vi" && item.locale === "shared")) && (
               <span className="capture-badges">
                 {item.pro && <span>PRO</span>}
+                {item.newInNextUpdate && <span>{vi ? "BẢN CẬP NHẬT TỚI" : "NEXT UPDATE"}</span>}
                 {item.theme === "dark" && (
                   <span>{vi ? "GIAO DIỆN TỐI" : "DARK"}</span>
                 )}

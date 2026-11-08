@@ -34,7 +34,7 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
       type: vi
         ? "Sắp xếp công việc và kế hoạch."
         : "Organize tasks and plans.",
-      image: products.find((p) => p.slug === "handy-boards")!.image!,
+      image: `/products/handy-boards/kit/highlights/02-board-desktop-${locale}.webp`,
       kind: "apps",
       label: "03 / PLANNING",
     },

@@ -1,0 +1,61 @@
+{
+  "source": "apps/handy_boards/lib/design/theme.dart",
+  "light": {
+    "canvas": "#F3EFEE",
+    "surface": "#FFFFFF",
+    "raised": "#EAE4E3",
+    "sunk": "#E4DDDC",
+    "primary": "#A61C8E",
+    "pressed": "#82136F",
+    "tint": "#F7E1F1",
+    "onPrimary": "#FFFFFF",
+    "ink": "#231A21",
+    "muted": "#62575F",
+    "line": "#E2DADA",
+    "control": "#CBC1C3",
+    "danger": "#B3261E",
+    "dangerTint": "#F9E3E0",
+    "warning": "#8A5A0F",
+    "warningTint": "#F7EBD6",
+    "positive": "#2F6F4A"
+  },
+  "dark": {
+    "canvas": "#191417",
+    "surface": "#241E22",
+    "raised": "#2E272C",
+    "sunk": "#130F12",
+    "primary": "#EB9BD9",
+    "pressed": "#F4BCE6",
+    "tint": "#45233C",
+    "onPrimary": "#3A0E30",
+    "ink": "#F3ECF0",
+    "muted": "#BFB2BA",
+    "line": "#3A3237",
+    "control": "#574C53",
+    "danger": "#F2A7A0",
+    "dangerTint": "#412522",
+    "warning": "#E9C27F",
+    "warningTint": "#3A2F1C",
+    "positive": "#8FD3A8"
+  },
+  "radii": {
+    "chip": 999,
+    "control": 12,
+    "card": 14,
+    "column": 18,
+    "tile": 20,
+    "sheet": 26
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32
+  ],
+  "fonts": {
+    "display": "Plus Jakarta Sans",
+    "text": "Plus Jakarta Sans"
+  }
+}

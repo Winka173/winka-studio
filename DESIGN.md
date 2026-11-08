@@ -1,3 +1,7 @@
+## Handy Boards, 9 November 2026
+
+The completed Boards app uses its own supplied warm stone/magenta identity and self-hosted Plus Jakarta Sans. Six feature chapters pair the original Flutter UI renders with localized films. Default/light and dark palettes follow the kit. Updated timeline/category/template-field captures carry next-update labels; completion does not imply public store availability. Full provenance and behavior: [Boards integration](docs/BOARDS_KIT_INTEGRATION.md).
+
 # Winka Workbench — current portfolio
 
 The owner requested all twelve recommendations from the latest design review. `docs/WORKBENCH_REWORK.md` is the current design contract. The earlier Atelier description below is historical where it conflicts with this update.

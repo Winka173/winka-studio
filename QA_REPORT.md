@@ -1,3 +1,7 @@
+## Handy Boards integration, 9 November 2026
+
+Production build, typecheck, source lint, content validation and Boards-specific contracts pass. Public browser QA covers 120 EN/VI responsive cases with no reported runtime/resource errors or tested axe violations. Website-kit QA checks 16 rendered legal documents, 122 FAQ answers across four kits, localized media availability and film playback/pause. Focused Boards checks cover eight language/width/palette combinations, full 113-image galleries per language and dialog/Escape behavior. Exact legal text and all other kit data were preserved. Detailed scope and commands: [Boards integration](docs/BOARDS_KIT_INTEGRATION.md). Older results below retain their historical scope.
+
 # Verification — Winka Workbench, 8 November 2026
 
 ## Current public catalog — 9 November 2026

@@ -48,6 +48,12 @@ try {
       await page.evaluate(() => document.fonts.ready);
       const product = route.match(/^(apps|games)\/([^/]+)\/$/);
       if (product) {
+        if (product[2] === "handy-boards") {
+          assert.equal(await page.locator(".boards-chapter").count(), 6);
+          assert((await page.locator(".boards-chapter-copy p").allTextContents()).every((copy) => copy.length > 80), "Boards chapter descriptions must be present");
+          assert.equal(await page.locator(".boards-update-note").count(), 1);
+          assert.equal(await page.locator(".development-flag").count(), 0);
+        }
         assert(!/Now on Google Play|Đã có trên Google Play/.test(await page.locator("main").innerText()), "A coming-soon product claims to be released");
         const stores = page.locator(".product-actions .product-store-list");
         const expected = ["App Store", "Google Play", "Microsoft Store", ...(product[1] === "games" ? ["Steam"] : [])];

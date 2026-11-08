@@ -7,6 +7,7 @@ import { mediaFor } from "@/content/portfolio-media";
 import { websiteKits } from "@/content/website-kits";
 import { MediaGallery } from "./gallery";
 import { KitFilmShelf } from "./kit-film-shelf";
+import { BoardsUpdateNote } from "../boards-update-note";
 
 export function MediaLibrary({
   product,
@@ -28,6 +29,7 @@ export function MediaLibrary({
             ? "Toàn bộ ảnh và clip đã nhập từ sản phẩm. Lọc theo màn hình, mở ảnh lớn hoặc chọn clip để xem thao tác."
             : "The complete imported product captures. Filter by screen, enlarge a picture or choose a clip to see the interaction."}
         </p>
+        {product.slug === "handy-boards" && <BoardsUpdateNote locale={locale} />}
         <Link href={productPath(product, locale)} className="folio-text-link">
           {vi ? "Về trang giới thiệu" : "Back to the product"}
           <ArrowUpRight size={18} />

@@ -17,6 +17,7 @@ import "@/styles/project-collection.css";
 import "@/styles/product-guide.css";
 import "@/styles/website-kits.css";
 import "@/styles/workbench.css";
+import "@/styles/boards.css";
 import "../../../../public/taste/motion/motion.css";
 
 export const metadata: Metadata = {

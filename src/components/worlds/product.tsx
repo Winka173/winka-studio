@@ -5,6 +5,7 @@ import { StickyPortfolio as StickyLanding } from "../portfolio/sticky";
 import { ForgePortfolio as ForgeLanding } from "../portfolio/forge";
 import { ArcanePortfolio as ArcaneLanding } from "../portfolio/arcane";
 import { DevelopmentPortfolio as DevelopmentLanding } from "../portfolio/development";
+import { BoardsPortfolio } from "../portfolio/boards";
 export function ProductLanding({
   product,
   locale,
@@ -14,6 +15,7 @@ export function ProductLanding({
 }) {
   const Landing = {
     "handy-bookmark": BookmarkLanding,
+    "handy-boards": BoardsPortfolio,
     "sticky-wall": StickyLanding,
     "asset-forge-studio": ForgeLanding,
     "arcane-brigade": ArcaneLanding,

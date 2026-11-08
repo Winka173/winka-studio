@@ -100,6 +100,8 @@ export function ProjectCollection({ locale }: { locale: Locale }) {
               ? bookmarkScreen("02-home-item-open", locale, "desktop")
               : p.slug === "sticky-wall"
                 ? stickyScreen("01_wall_home", locale, "desktop")
+                : p.slug === "handy-boards"
+                  ? `/products/handy-boards/kit/highlights/02-board-desktop-${locale}.webp`
                 : p.slug === "arcane-brigade"
                   ? mediaImage(p.slug, "fight-03-late-night-a", locale)!
                   : p.image;

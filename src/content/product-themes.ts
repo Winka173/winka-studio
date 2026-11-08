@@ -4,6 +4,7 @@ export function productTheme(product: Product): string {
     (
       {
         "handy-bookmark": "folio-bookmark",
+        "handy-boards": "folio-boards",
         "sticky-wall": "folio-sticky",
         "asset-forge-studio": "folio-forge",
         "arcane-brigade": "folio-arcane",

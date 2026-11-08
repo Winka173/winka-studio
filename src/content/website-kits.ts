@@ -22,6 +22,13 @@ export type WebsiteKit = {
   faq: Record<Locale, { question: string; answer: string }[]>;
   pricing: Record<Locale, string>;
   facts?: Record<string, number>;
+  highlights?: Record<Locale, {
+    title: string;
+    body: string;
+    image: string;
+    clipId?: string | null;
+    newInNextUpdate?: boolean;
+  }[]>;
 };
 export const websiteKits = raw as unknown as Record<string, WebsiteKit>;
 export const kitPages = ["features", "credits", "press", "changelog"] as const;

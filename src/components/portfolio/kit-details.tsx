@@ -137,7 +137,11 @@ export function KitDetails({
           </a>
         </div>
         <p className="kit-capture-note">
-          {product.slug === "handy-bookmark"
+          {product.slug === "handy-boards"
+            ? vi
+              ? "Ảnh và clip kết xuất từ giao diện Flutter thật với dữ liệu minh họa, không phải bản quay thiết bị. Một số phần xem trước thuộc bản cập nhật kế tiếp. Ảnh màn hình lớn thể hiện bố cục, không xác nhận phát hành Windows hay web."
+              : "Images and clips are rendered from the real Flutter UI with demonstration data, not device recordings. Some previews show the next update. Large-screen layouts do not establish a Windows or web release."
+            : product.slug === "handy-bookmark"
             ? vi
               ? "Ảnh và clip được kết xuất từ giao diện thật của app với dữ liệu minh họa; không phải bản quay trên điện thoại. Ảnh bên trong có giấy phép Creative Commons — xem đầy đủ tác giả và giấy phép tại Nguồn ảnh."
               : "Images and clips are rendered from the real app UI with demonstration data; they are not phone recordings. Photos inside use Creative Commons licenses — see Credits for all authors and licenses."

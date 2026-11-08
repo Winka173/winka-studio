@@ -502,5 +502,103 @@
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-muted-loop-720p.mp4",
     "kind": "owner-kit-native-capture",
     "poster": "/products/arcane-brigade/kit/03_Clips/trailer-muted-loop-720p-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/card-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\card-en.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/card-en-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/card-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\card-vi.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/card-vi-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/categories-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\categories-en.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/categories-en-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/categories-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\categories-vi.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/categories-vi-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/dark-mode-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\dark-mode-en.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/dark-mode-en-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/dark-mode-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\dark-mode-vi.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/dark-mode-vi-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/pro-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\pro-en.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/pro-en-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/pro-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\pro-vi.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/pro-vi-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/template-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\template-en.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/template-en-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/template-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\template-vi.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/template-vi-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/timeline-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\timeline-en.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/timeline-en-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/timeline-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\timeline-vi.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/timeline-vi-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/welcome-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\welcome-en.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/welcome-en-poster.webp"
+  },
+  {
+    "slug": "handy-boards",
+    "file": "public/products/handy-boards/kit/clips/welcome-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\welcome-vi.mp4",
+    "kind": "owner-kit-frame-render",
+    "poster": "/products/handy-boards/kit/clips/welcome-vi-poster.webp"
   }
 ]

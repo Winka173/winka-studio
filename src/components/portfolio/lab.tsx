@@ -51,14 +51,14 @@ export function LabPage({ locale }: { locale: Locale }) {
           href: productPath(p, locale),
         }))}
       />
-      <section className="lab-handy-family" id="handy">
+      {handy.length > 0 && <section className="lab-handy-family" id="handy">
         <div>
           <span className="folio-kicker">ONE FAMILY / MANY LITTLE TOOLS</span>
           <h2>Handy Suite</h2>
           <p>
             {vi
-              ? "Handy Bookmark đã hoàn thiện. Handy Boards đang phát triển, dành cho công việc và kế hoạch hằng ngày."
-              : "Handy Bookmark is complete. Handy Boards is in development for everyday tasks and planning."}
+              ? "Những công cụ cho từng phần của ngày thường, với hình ảnh từ build đang phát triển."
+              : "Tools for everyday life, with captures from their development builds."}
           </p>
           <Link
             className="folio-text-link"
@@ -81,7 +81,7 @@ export function LabPage({ locale }: { locale: Locale }) {
             </Link>
           ))}
         </div>
-      </section>
+      </section>}
     </main>
   );
 }

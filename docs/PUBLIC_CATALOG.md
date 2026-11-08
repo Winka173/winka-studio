@@ -2,6 +2,8 @@
 
 Owner selection, 9 November 2026:
 
+Handy Boards is now owner-confirmed complete and uses its supplied website kit. It is featured with the other completed apps and no longer appears in the development Lab. Android closed testing and next-update captures remain distinguished from a public release. See [the integration record](BOARDS_KIT_INTEGRATION.md).
+
 - Apps: Handy Bookmark, Sticky Wall and Handy Boards.
 - Games: every registered game remains visible (Arcane Brigade, Aetherward, Forgebound, Machine Brigade and Runavelle).
 - Every visible product is marked `coming-soon`; completion remains separate from release status.

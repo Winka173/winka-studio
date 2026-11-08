@@ -5032,5 +5032,1944 @@
     "file": "public/products/arcane-brigade/kit/03_Clips/trailer-muted-loop-720p.mp4",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-muted-loop-720p.mp4",
     "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-en-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-01-home.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-01-home.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-01-home.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-01-home.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-01-home.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-01-home.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-01-home.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-01-home.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/tablet/tablet-en-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-en-01-home.png",
+    "kind": "optimized-image",
+    "width": 1668,
+    "height": 2388
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/tablet/tablet-vi-01-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-vi-01-home.png",
+    "kind": "optimized-image",
+    "width": 1668,
+    "height": 2388
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-en-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-02-board.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-02-board.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-02-board.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-02-board.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-02-board.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-02-board.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-02-board.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-02-board.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/tablet/tablet-en-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-en-02-board.png",
+    "kind": "optimized-image",
+    "width": 1668,
+    "height": 2388
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/tablet/tablet-vi-02-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-vi-02-board.png",
+    "kind": "optimized-image",
+    "width": 1668,
+    "height": 2388
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-08-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-08-templates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-08-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-08-templates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-08-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-08-templates.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-08-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-08-templates.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-08-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-08-templates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-08-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-08-templates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-05-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-05-card.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-05-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-05-card.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-05-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-05-card.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-05-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-05-card.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-05-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-05-card.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-05-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-05-card.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-en-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-20-my-work.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-20-my-work.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-en-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-03-categories-two.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-03-categories-two.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-04-timeline-sheet.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-04-timeline-sheet.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-04-week-next.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-04-week-next.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-04-week-past.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-04-week-past.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-05-card-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-05-card-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-08-templates-study.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-08-templates-study.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-09-template-plan.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-09-template-plan.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-09-template-preview.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-09-template-preview.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-09-template-setup.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-09-template-setup.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-11-board-menu.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-11-board-menu.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-12-search.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-12-search.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-21-rules-editor.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-21-rules-editor.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-21-rules.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-21-rules.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-25-looks.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-25-looks.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-29-pro.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-29-pro.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2249
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings-1.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings-2.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings-3.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-03-categories-two.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-03-categories-two.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-04-timeline-sheet.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-04-timeline-sheet.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-04-week-next.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-04-week-next.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-04-week-past.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-04-week-past.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-05-card-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-05-card-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-08-templates-study.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-08-templates-study.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-09-template-plan.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-09-template-plan.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-09-template-preview.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-09-template-preview.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-09-template-setup.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-09-template-setup.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-11-board-menu.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-11-board-menu.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-12-search.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-12-search.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-21-rules-editor.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-21-rules-editor.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-21-rules.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-21-rules.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-25-looks.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-25-looks.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-29-pro.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-29-pro.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2249
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings-1.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings-2.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings-3.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-03-categories-two.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-03-categories-two.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-08-templates-study.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-08-templates-study.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-12-search.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-12-search.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-plain.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-plain.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-poster.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-poster.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-print.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-print.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-report.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-report.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-29-pro.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-29-pro.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1007
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-34-empty.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-34-empty.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-1.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-2.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-3.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-4.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-4.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-5.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-5.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-6.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-6.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-7.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-7.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-03-categories-two.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-03-categories-two.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-08-templates-study.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-08-templates-study.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-12-search.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-12-search.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-plain.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-plain.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-poster.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-poster.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-print.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-print.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-report.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-report.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-29-pro.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-29-pro.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1007
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-34-empty.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-34-empty.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-1.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-2.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-3.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-4.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-4.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-5.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-5.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-6.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-6.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-7.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-7.png",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1125
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-02-board-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-02-board-home.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-03-categories-two.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-03-categories-two.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-04-past-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-past-card.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-04-timeline-sheet.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-timeline-sheet.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-04-week-next.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-week-next.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-04-week-past.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-week-past.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-05-card-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-05-card-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-05-card-repeat.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-05-card-repeat.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-06-cover-picker.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-06-cover-picker.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-07-new-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-07-new-board.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-08-templates-study.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-08-templates-study.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-plan.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-plan.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-preview.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-preview.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-setup.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-setup.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-trip-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-trip-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-trip-preview.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-trip-preview.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-10-blank.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-10-blank.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-11-board-menu.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-11-board-menu.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-11-categories-edit.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-11-categories-edit.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-11-move-to.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-11-move-to.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-12-search.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-12-search.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-13-trash.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-13-trash.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-14-key-dates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-14-key-dates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-21-rules-editor.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-21-rules-editor.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-21-rules.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-21-rules.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-22-saved-filters.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-22-saved-filters.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-23-card-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-23-card-templates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-24-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-24-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-25-looks.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-25-looks.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-26-insights.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-26-insights.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-27-history.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-27-history.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-plain.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-plain.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-poster.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-poster.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-print.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-print.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-report.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-report.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-29-pro.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-29-pro.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2249
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings-1.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings-2.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings-3.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-31-notifications.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-31-notifications.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-32-widgets.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-32-widgets.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to-cards.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to-cards.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to-categories.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to-categories.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to-time.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to-time.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-34-empty.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-34-empty.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-1.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-2.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-3.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-4.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-4.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-5.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-5.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-6.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-6.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-7.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-7.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-02-board-home.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-02-board-home.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-02-board-trip.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-02-board-trip.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-03-categories-two.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-03-categories-two.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-past-card.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-past-card.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-timeline-sheet.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-timeline-sheet.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-week-next.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-week-next.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-week-past.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-week-past.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-05-card-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-05-card-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-05-card-repeat.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-05-card-repeat.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-06-cover-picker.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-06-cover-picker.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-07-new-board.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-07-new-board.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-08-templates-study.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-08-templates-study.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-plan.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-plan.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-preview.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-preview.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-setup.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-setup.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-trip-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-trip-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-trip-preview.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-trip-preview.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-10-blank.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-10-blank.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-11-board-menu.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-11-board-menu.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-11-categories-edit.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-11-categories-edit.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-11-move-to.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-11-move-to.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-12-search.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-12-search.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-13-trash.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-13-trash.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-14-key-dates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-14-key-dates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-21-rules-editor.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-21-rules-editor.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-21-rules.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-21-rules.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-22-saved-filters.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-22-saved-filters.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-23-card-templates.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-23-card-templates.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-24-fields.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-24-fields.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-25-looks.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-25-looks.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-26-insights.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-26-insights.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-27-history.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-27-history.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-plain.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-plain.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-poster.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-poster.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-print.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-print.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-report.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-report.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-29-pro.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-29-pro.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2249
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings-1.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings-2.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings-3.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-31-notifications.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-31-notifications.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-32-widgets.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-32-widgets.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to-cards.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to-cards.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to-categories.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to-categories.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to-time.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to-time.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-34-empty.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-34-empty.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-1.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-1.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-2.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-2.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-3.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-3.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-4.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-4.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-5.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-5.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-6.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-6.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-7.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-7.png",
+    "kind": "optimized-image",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/01-home-desktop-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\01-home-desktop-en.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/01-home-desktop-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\01-home-desktop-vi.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/01-home-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\01-home-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/01-home-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\01-home-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/02-board-desktop-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\02-board-desktop-en.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/02-board-desktop-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\02-board-desktop-vi.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/02-board-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\02-board-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/02-board-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\02-board-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/03-categories-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\03-categories-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/03-categories-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\03-categories-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/04-week-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\04-week-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/04-week-past-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\04-week-past-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/04-week-past-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\04-week-past-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/04-week-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\04-week-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/05-template-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\05-template-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/05-template-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\05-template-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/06-template-fields-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\06-template-fields-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/06-template-fields-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\06-template-fields-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/07-card-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\07-card-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/07-card-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\07-card-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/08-dark-desktop-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\08-dark-desktop-en.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/08-dark-desktop-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\08-dark-desktop-vi.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/08-dark-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\08-dark-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/08-dark-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\08-dark-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/09-pro-my-work-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\09-pro-my-work-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/09-pro-my-work-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\09-pro-my-work-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/10-pro-rules-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\10-pro-rules-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/10-pro-rules-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\10-pro-rules-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/11-pro-export-desktop-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\11-pro-export-desktop-en.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/11-pro-export-desktop-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\11-pro-export-desktop-vi.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/12-trip-desktop-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\12-trip-desktop-en.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/12-trip-desktop-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\12-trip-desktop-vi.jpg",
+    "kind": "optimized-image",
+    "width": 1920,
+    "height": 1200
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/12-trip-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\12-trip-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/12-trip-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\12-trip-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/13-welcome-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\13-welcome-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/13-welcome-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\13-welcome-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/14-timeline-sheet-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\14-timeline-sheet-en.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/highlights/14-timeline-sheet-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\highlights\\14-timeline-sheet-vi.png",
+    "kind": "optimized-image",
+    "width": 1108,
+    "height": 2156
+  },
+  {
+    "file": "public/products/handy-boards/kit/brand/icon/icon-rounded-1024.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\brand\\icon\\icon-rounded-1024.png",
+    "kind": "optimized-image",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "public/products/handy-boards/kit/brand/social/og-1200x630-en.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\brand\\social\\og-1200x630-en.png",
+    "kind": "optimized-image",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "file": "public/products/handy-boards/kit/brand/social/og-1200x630-vi.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\brand\\social\\og-1200x630-vi.png",
+    "kind": "optimized-image",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/card-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\card-en.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/card-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\card-vi.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/categories-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\categories-en.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/categories-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\categories-vi.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/dark-mode-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\dark-mode-en.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/dark-mode-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\dark-mode-vi.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/pro-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\pro-en.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/pro-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\pro-vi.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/template-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\template-en.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/template-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\template-vi.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/timeline-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\timeline-en.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/timeline-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\timeline-vi.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/welcome-en.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\welcome-en.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/handy-boards/kit/clips/welcome-vi.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\welcome-vi.mp4",
+    "kind": "muted-web-video"
   }
 ]

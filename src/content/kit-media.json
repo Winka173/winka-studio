@@ -9705,5 +9705,4073 @@
     "locale": "vi",
     "pro": false,
     "theme": "light"
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-en-01-home",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-en-01-home.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-01-home.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-vi-01-home",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-01-home.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-01-home.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-01-home",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-01-home.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-01-home.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-01-home",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-01-home.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-01-home.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-01-home",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-01-home.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-01-home.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-01-home",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-01-home.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-01-home.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-01-home",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-01-home.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-01-home.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-01-home",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-01-home.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-01-home.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "tablet-en-01-home",
+    "src": "/products/handy-boards/kit/screenshots/tablet/tablet-en-01-home.webp",
+    "device": "tablet",
+    "width": 1668,
+    "height": 2388,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-en-01-home.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "tablet-vi-01-home",
+    "src": "/products/handy-boards/kit/screenshots/tablet/tablet-vi-01-home.webp",
+    "device": "tablet",
+    "width": 1668,
+    "height": 2388,
+    "title": {
+      "en": "Home: your boards with their covers, open cards and what is due today",
+      "vi": "Trang chủ: các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-vi-01-home.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-en-02-board",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-en-02-board.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-02-board.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-vi-02-board",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-02-board.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-02-board.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-02-board",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-02-board.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-02-board.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-02-board",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-02-board.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-02-board.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-02-board",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-02-board.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-02-board.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-02-board",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-02-board.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-02-board.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-02-board",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-02-board.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-02-board.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-02-board",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-02-board.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-02-board.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "tablet-en-02-board",
+    "src": "/products/handy-boards/kit/screenshots/tablet/tablet-en-02-board.webp",
+    "device": "tablet",
+    "width": 1668,
+    "height": 2388,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-en-02-board.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "tablet-vi-02-board",
+    "src": "/products/handy-boards/kit/screenshots/tablet/tablet-vi-02-board.webp",
+    "device": "tablet",
+    "width": 1668,
+    "height": 2388,
+    "title": {
+      "en": "A semester board planned by week: categories with progress, this week, and work left from last week",
+      "vi": "Bảng học kỳ xếp theo tuần: nhóm kèm tiến độ, tuần này và việc còn tồn từ tuần trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\tablet\\tablet-vi-02-board.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-08-templates",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-08-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The template gallery: 30 boards, free and Pro",
+      "vi": "Thư viện mẫu: 30 bảng, miễn phí và Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-08-templates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-08-templates",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-08-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The template gallery: 30 boards, free and Pro",
+      "vi": "Thư viện mẫu: 30 bảng, miễn phí và Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-08-templates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-08-templates",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-08-templates.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "The template gallery: 30 boards, free and Pro",
+      "vi": "Thư viện mẫu: 30 bảng, miễn phí và Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-08-templates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-08-templates",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-08-templates.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "The template gallery: 30 boards, free and Pro",
+      "vi": "Thư viện mẫu: 30 bảng, miễn phí và Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-08-templates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-08-templates",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-08-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The template gallery: 30 boards, free and Pro",
+      "vi": "Thư viện mẫu: 30 bảng, miễn phí và Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-08-templates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-08-templates",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-08-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The template gallery: 30 boards, free and Pro",
+      "vi": "Thư viện mẫu: 30 bảng, miễn phí và Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-08-templates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-05-card",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-05-card.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A card: column, category, due date, planned day, reminder, repeat, fields, subtasks and notes",
+      "vi": "Một thẻ: cột, nhóm, hạn, ngày định làm, nhắc, lặp lại, trường, việc con và ghi chú"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-05-card.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-05-card",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-05-card.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A card: column, category, due date, planned day, reminder, repeat, fields, subtasks and notes",
+      "vi": "Một thẻ: cột, nhóm, hạn, ngày định làm, nhắc, lặp lại, trường, việc con và ghi chú"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-05-card.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-05-card",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-05-card.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A card: column, category, due date, planned day, reminder, repeat, fields, subtasks and notes",
+      "vi": "Một thẻ: cột, nhóm, hạn, ngày định làm, nhắc, lặp lại, trường, việc con và ghi chú"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-05-card.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-05-card",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-05-card.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A card: column, category, due date, planned day, reminder, repeat, fields, subtasks and notes",
+      "vi": "Một thẻ: cột, nhóm, hạn, ngày định làm, nhắc, lặp lại, trường, việc con và ghi chú"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-05-card.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-05-card",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-05-card.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A card: column, category, due date, planned day, reminder, repeat, fields, subtasks and notes",
+      "vi": "Một thẻ: cột, nhóm, hạn, ngày định làm, nhắc, lặp lại, trường, việc con và ghi chú"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-05-card.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-05-card",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-05-card.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A card: column, category, due date, planned day, reminder, repeat, fields, subtasks and notes",
+      "vi": "Một thẻ: cột, nhóm, hạn, ngày định làm, nhắc, lặp lại, trường, việc con và ghi chú"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-05-card.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-en-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-en-20-my-work.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-20-my-work.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-vi-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-20-my-work.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-20-my-work.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-20-my-work.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-20-my-work.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-20-my-work.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-20-my-work.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-20-my-work.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-20-my-work.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-20-my-work.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-20-my-work.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-20-my-work.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-20-my-work.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-20-my-work",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-20-my-work.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "My Work: today, left behind and coming up from every board",
+      "vi": "Việc của tôi: hôm nay, việc còn tồn và sắp tới từ mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-20-my-work.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-en-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-en-02-board-trip.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-en-02-board-trip.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-dark-vi-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/dark/desktop-dark-vi-02-board-trip.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\desktop-dark-vi-02-board-trip.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-02-board-trip.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-02-board-trip.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-03-categories-two",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-03-categories-two.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Two categories picked: only their cards show, the others are hidden, not changed",
+      "vi": "Chọn hai nhóm: chỉ hiện thẻ của chúng, thẻ khác chỉ bị ẩn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-03-categories-two.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-04-timeline-sheet",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-04-timeline-sheet.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The Time chip: by day, by week, by month or off; a shorter period is locked with the reason",
+      "vi": "Chip Thời gian: theo ngày, tuần, tháng hoặc tắt; kỳ ngắn hơn bị khoá kèm lý do"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-04-timeline-sheet.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-04-week-next",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-04-week-next.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Next week: a mock test already planned there",
+      "vi": "Tuần sau: bài kiểm tra thử đã xếp sẵn ở đó"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-04-week-next.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-04-week-past",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-04-week-past.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Last week, read-only: one card not finished, with Bring them all to this week",
+      "vi": "Tuần trước, chỉ xem: một thẻ chưa xong, kèm Đem tất cả qua tuần này"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-04-week-past.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-05-card-fields",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-05-card-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip card with its fields: cost, booking link, booked, address",
+      "vi": "Thẻ chuyến đi với các trường: chi phí, link đặt chỗ, đã đặt, địa chỉ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-05-card-fields.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-08-templates-study",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-08-templates-study.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Study templates",
+      "vi": "Mẫu cho việc học"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-08-templates-study.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-09-template-plan",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-09-template-plan.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board Smart Setup will make, shown before it is made",
+      "vi": "Bảng Smart Setup sẽ tạo, xem trước khi tạo"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-09-template-plan.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-09-template-preview",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-09-template-preview.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A template previewed as a whole board before using it",
+      "vi": "Xem trọn bảng mẫu trước khi dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-09-template-preview.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-09-template-setup",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-09-template-setup.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Smart Setup: name, subjects, semester end and how to lay it out",
+      "vi": "Smart Setup: tên bảng, các môn, ngày kết thúc học kỳ và cách xếp"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-09-template-setup.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-11-board-menu",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-11-board-menu.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board menu",
+      "vi": "Menu của bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-11-board-menu.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-12-search",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-12-search.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Search across every board",
+      "vi": "Tìm trên mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-12-search.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-21-rules-editor",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-21-rules-editor.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A rule written as a sentence, with a preview",
+      "vi": "Một luật viết như một câu, có xem trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-21-rules-editor.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-21-rules",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-21-rules.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Automation rules, started from examples",
+      "vi": "Luật tự động, bắt đầu từ ví dụ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-21-rules.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-25-looks",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-25-looks.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board looks, tried on your own board (Blueprint)",
+      "vi": "Giao diện bảng, thử ngay trên bảng của bạn (Bản vẽ)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-25-looks.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-29-pro",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-29-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2249,
+    "title": {
+      "en": "The Pro page: each part plays its own demo",
+      "vi": "Trang Pro: mỗi phần tự chạy minh hoạ riêng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-29-pro.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-30-settings-1",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: automation and data",
+      "vi": "Cài đặt: tự động và dữ liệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-30-settings-2",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: backup, archive, Trash",
+      "vi": "Cài đặt: sao lưu, lưu trữ, thùng rác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-30-settings-3",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: help and about",
+      "vi": "Cài đặt: trợ giúp và giới thiệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-en-30-settings",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-en-30-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-en-30-settings.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-02-board-trip.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-02-board-trip.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-03-categories-two",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-03-categories-two.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Two categories picked: only their cards show, the others are hidden, not changed",
+      "vi": "Chọn hai nhóm: chỉ hiện thẻ của chúng, thẻ khác chỉ bị ẩn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-03-categories-two.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-04-timeline-sheet",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-04-timeline-sheet.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The Time chip: by day, by week, by month or off; a shorter period is locked with the reason",
+      "vi": "Chip Thời gian: theo ngày, tuần, tháng hoặc tắt; kỳ ngắn hơn bị khoá kèm lý do"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-04-timeline-sheet.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-04-week-next",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-04-week-next.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Next week: a mock test already planned there",
+      "vi": "Tuần sau: bài kiểm tra thử đã xếp sẵn ở đó"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-04-week-next.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-04-week-past",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-04-week-past.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Last week, read-only: one card not finished, with Bring them all to this week",
+      "vi": "Tuần trước, chỉ xem: một thẻ chưa xong, kèm Đem tất cả qua tuần này"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-04-week-past.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-05-card-fields",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-05-card-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip card with its fields: cost, booking link, booked, address",
+      "vi": "Thẻ chuyến đi với các trường: chi phí, link đặt chỗ, đã đặt, địa chỉ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-05-card-fields.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-08-templates-study",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-08-templates-study.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Study templates",
+      "vi": "Mẫu cho việc học"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-08-templates-study.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-09-template-plan",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-09-template-plan.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board Smart Setup will make, shown before it is made",
+      "vi": "Bảng Smart Setup sẽ tạo, xem trước khi tạo"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-09-template-plan.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-09-template-preview",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-09-template-preview.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A template previewed as a whole board before using it",
+      "vi": "Xem trọn bảng mẫu trước khi dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-09-template-preview.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-09-template-setup",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-09-template-setup.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Smart Setup: name, subjects, semester end and how to lay it out",
+      "vi": "Smart Setup: tên bảng, các môn, ngày kết thúc học kỳ và cách xếp"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-09-template-setup.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-11-board-menu",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-11-board-menu.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board menu",
+      "vi": "Menu của bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-11-board-menu.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-12-search",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-12-search.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Search across every board",
+      "vi": "Tìm trên mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-12-search.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-21-rules-editor",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-21-rules-editor.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A rule written as a sentence, with a preview",
+      "vi": "Một luật viết như một câu, có xem trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-21-rules-editor.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-21-rules",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-21-rules.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Automation rules, started from examples",
+      "vi": "Luật tự động, bắt đầu từ ví dụ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-21-rules.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-25-looks",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-25-looks.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board looks, tried on your own board (Blueprint)",
+      "vi": "Giao diện bảng, thử ngay trên bảng của bạn (Bản vẽ)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-25-looks.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-29-pro",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-29-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2249,
+    "title": {
+      "en": "The Pro page: each part plays its own demo",
+      "vi": "Trang Pro: mỗi phần tự chạy minh hoạ riêng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-29-pro.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-30-settings-1",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: automation and data",
+      "vi": "Cài đặt: tự động và dữ liệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-30-settings-2",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: backup, archive, Trash",
+      "vi": "Cài đặt: sao lưu, lưu trữ, thùng rác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-30-settings-3",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: help and about",
+      "vi": "Cài đặt: trợ giúp và giới thiệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-dark-vi-30-settings",
+    "src": "/products/handy-boards/kit/screenshots/dark/mobile-dark-vi-30-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\dark\\mobile-dark-vi-30-settings.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-02-board-trip.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-02-board-trip.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-03-categories-two",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-03-categories-two.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Two categories picked: only their cards show, the others are hidden, not changed",
+      "vi": "Chọn hai nhóm: chỉ hiện thẻ của chúng, thẻ khác chỉ bị ẩn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-03-categories-two.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-08-templates-study",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-08-templates-study.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Study templates",
+      "vi": "Mẫu cho việc học"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-08-templates-study.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-12-search",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-12-search.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Search across every board",
+      "vi": "Tìm trên mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-12-search.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-28-export-plain",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-plain.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Export a board as a picture or PDF, plain style",
+      "vi": "Xuất bảng thành ảnh hoặc PDF, kiểu thường"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-plain.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-28-export-poster",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-poster.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Poster export",
+      "vi": "Bản xuất kiểu poster"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-poster.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-28-export-print",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-print.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Printable export",
+      "vi": "Bản xuất để in"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-print.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-28-export-report",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-28-export-report.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress report export",
+      "vi": "Bản xuất báo cáo tiến độ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-28-export-report.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-29-pro",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-29-pro.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1007,
+    "title": {
+      "en": "The Pro page: each part plays its own demo",
+      "vi": "Trang Pro: mỗi phần tự chạy minh hoạ riêng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-29-pro.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-34-empty",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-34-empty.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "First open: make your first board",
+      "vi": "Lần mở đầu: tạo bảng đầu tiên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-34-empty.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-50-welcome-1",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-1.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: what do you mainly organise?",
+      "vi": "Giới thiệu: bạn chủ yếu sắp xếp gì?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-50-welcome-2",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-2.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: add a card",
+      "vi": "Tập thử: thêm một thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-50-welcome-3",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-3.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: drag it to Doing",
+      "vi": "Tập thử: kéo thẻ sang Đang làm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-50-welcome-4",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-4.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: tap a category",
+      "vi": "Tập thử: chạm một nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-4.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-50-welcome-5",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-5.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: tick a subtask",
+      "vi": "Tập thử: tích một việc con"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-5.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-50-welcome-6",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-6.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: ticked, and the card stayed put",
+      "vi": "Giới thiệu: đã tích, thẻ vẫn ở yên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-6.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-en-50-welcome-7",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-en-50-welcome-7.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: where do you want to start?",
+      "vi": "Giới thiệu: bạn muốn bắt đầu từ đâu?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-en-50-welcome-7.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-02-board-trip.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-02-board-trip.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-03-categories-two",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-03-categories-two.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Two categories picked: only their cards show, the others are hidden, not changed",
+      "vi": "Chọn hai nhóm: chỉ hiện thẻ của chúng, thẻ khác chỉ bị ẩn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-03-categories-two.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-08-templates-study",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-08-templates-study.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Study templates",
+      "vi": "Mẫu cho việc học"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-08-templates-study.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-12-search",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-12-search.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Search across every board",
+      "vi": "Tìm trên mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-12-search.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-28-export-plain",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-plain.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Export a board as a picture or PDF, plain style",
+      "vi": "Xuất bảng thành ảnh hoặc PDF, kiểu thường"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-plain.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-28-export-poster",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-poster.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Poster export",
+      "vi": "Bản xuất kiểu poster"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-poster.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-28-export-print",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-print.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Printable export",
+      "vi": "Bản xuất để in"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-print.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-28-export-report",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-28-export-report.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress report export",
+      "vi": "Bản xuất báo cáo tiến độ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-28-export-report.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-29-pro",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-29-pro.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1007,
+    "title": {
+      "en": "The Pro page: each part plays its own demo",
+      "vi": "Trang Pro: mỗi phần tự chạy minh hoạ riêng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-29-pro.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-34-empty",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-34-empty.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "First open: make your first board",
+      "vi": "Lần mở đầu: tạo bảng đầu tiên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-34-empty.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-50-welcome-1",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-1.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: what do you mainly organise?",
+      "vi": "Giới thiệu: bạn chủ yếu sắp xếp gì?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-50-welcome-2",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-2.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: add a card",
+      "vi": "Tập thử: thêm một thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-50-welcome-3",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-3.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: drag it to Doing",
+      "vi": "Tập thử: kéo thẻ sang Đang làm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-50-welcome-4",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-4.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: tap a category",
+      "vi": "Tập thử: chạm một nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-4.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-50-welcome-5",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-5.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome practice: tick a subtask",
+      "vi": "Tập thử: tích một việc con"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-5.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-50-welcome-6",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-6.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: ticked, and the card stayed put",
+      "vi": "Giới thiệu: đã tích, thẻ vẫn ở yên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-6.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-vi-50-welcome-7",
+    "src": "/products/handy-boards/kit/screenshots/desktop/desktop-vi-50-welcome-7.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: where do you want to start?",
+      "vi": "Giới thiệu: bạn muốn bắt đầu từ đâu?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\desktop\\desktop-vi-50-welcome-7.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-02-board-home",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-02-board-home.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home chores, with rent and the bins repeating",
+      "vi": "Việc nhà, có tiền nhà và đổ rác lặp lại"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-02-board-home.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-02-board-trip.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-02-board-trip.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-03-categories-two",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-03-categories-two.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Two categories picked: only their cards show, the others are hidden, not changed",
+      "vi": "Chọn hai nhóm: chỉ hiện thẻ của chúng, thẻ khác chỉ bị ẩn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-03-categories-two.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-04-past-card",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-04-past-card.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A card from a past week opens to read, with Mark as done and Bring to this week",
+      "vi": "Thẻ của tuần cũ mở ra để đọc, kèm Đánh dấu xong và Đem qua tuần này"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-past-card.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-04-timeline-sheet",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-04-timeline-sheet.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The Time chip: by day, by week, by month or off; a shorter period is locked with the reason",
+      "vi": "Chip Thời gian: theo ngày, tuần, tháng hoặc tắt; kỳ ngắn hơn bị khoá kèm lý do"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-timeline-sheet.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-04-week-next",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-04-week-next.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Next week: a mock test already planned there",
+      "vi": "Tuần sau: bài kiểm tra thử đã xếp sẵn ở đó"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-week-next.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-04-week-past",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-04-week-past.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Last week, read-only: one card not finished, with Bring them all to this week",
+      "vi": "Tuần trước, chỉ xem: một thẻ chưa xong, kèm Đem tất cả qua tuần này"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-04-week-past.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-05-card-fields",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-05-card-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip card with its fields: cost, booking link, booked, address",
+      "vi": "Thẻ chuyến đi với các trường: chi phí, link đặt chỗ, đã đặt, địa chỉ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-05-card-fields.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-05-card-repeat",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-05-card-repeat.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Repeat on a card: daily, weekly, monthly or a custom rhythm",
+      "vi": "Lặp lại trên thẻ: hằng ngày, hằng tuần, hằng tháng hoặc nhịp tự chọn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-05-card-repeat.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-06-cover-picker",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-06-cover-picker.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Choosing a cover for a card",
+      "vi": "Chọn ảnh bìa cho thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-06-cover-picker.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-07-new-board",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-07-new-board.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "New board: from a ready template or blank",
+      "vi": "Bảng mới: từ mẫu có sẵn hoặc bảng trống"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-07-new-board.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-08-templates-study",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-08-templates-study.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Study templates",
+      "vi": "Mẫu cho việc học"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-08-templates-study.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-09-template-plan",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-plan.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board Smart Setup will make, shown before it is made",
+      "vi": "Bảng Smart Setup sẽ tạo, xem trước khi tạo"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-plan.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-09-template-preview",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-preview.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A template previewed as a whole board before using it",
+      "vi": "Xem trọn bảng mẫu trước khi dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-preview.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-09-template-setup",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-setup.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Smart Setup: name, subjects, semester end and how to lay it out",
+      "vi": "Smart Setup: tên bảng, các môn, ngày kết thúc học kỳ và cách xếp"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-setup.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-09-template-trip-fields",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-trip-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Fields suggested by the template, ticked and free to fill",
+      "vi": "Trường mẫu gợi ý, đã tích sẵn và điền miễn phí"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-trip-fields.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-09-template-trip-preview",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-09-template-trip-preview.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The Trip Preparation template",
+      "vi": "Mẫu Chuẩn bị chuyến đi"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-09-template-trip-preview.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-10-blank",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-10-blank.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A blank board with your own columns",
+      "vi": "Bảng trống với các cột tự đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-10-blank.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-11-board-menu",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-11-board-menu.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board menu",
+      "vi": "Menu của bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-11-board-menu.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-11-categories-edit",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-11-categories-edit.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Editing categories: name, colour, order",
+      "vi": "Sửa nhóm: tên, màu, thứ tự"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-11-categories-edit.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-11-move-to",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-11-move-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Move to: any column, top or end",
+      "vi": "Chuyển tới: cột bất kỳ, đầu hoặc cuối"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-11-move-to.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-12-search",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-12-search.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Search across every board",
+      "vi": "Tìm trên mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-12-search.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-13-trash",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-13-trash.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Trash: restore a deleted card",
+      "vi": "Thùng rác: khôi phục thẻ đã xoá"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-13-trash.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-14-key-dates",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-14-key-dates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Key dates for a board, such as the semester end",
+      "vi": "Ngày quan trọng của bảng, như ngày kết thúc học kỳ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-14-key-dates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-21-rules-editor",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-21-rules-editor.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A rule written as a sentence, with a preview",
+      "vi": "Một luật viết như một câu, có xem trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-21-rules-editor.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-21-rules",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-21-rules.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Automation rules, started from examples",
+      "vi": "Luật tự động, bắt đầu từ ví dụ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-21-rules.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-22-saved-filters",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-22-saved-filters.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Saved filters on a board",
+      "vi": "Bộ lọc đã lưu trên bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-22-saved-filters.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-23-card-templates",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-23-card-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Card templates: a card you make again and again",
+      "vi": "Mẫu thẻ: thẻ hay làm lại"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-23-card-templates.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-24-fields",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-24-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Custom fields of a board",
+      "vi": "Trường tuỳ chỉnh của bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-24-fields.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-25-looks",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-25-looks.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board looks, tried on your own board (Blueprint)",
+      "vi": "Giao diện bảng, thử ngay trên bảng của bạn (Bản vẽ)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-25-looks.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-26-insights",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-26-insights.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board insights: done, late and finished per week, by category",
+      "vi": "Thống kê bảng: xong, trễ và xong mỗi tuần, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-26-insights.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-27-history",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-27-history.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board history, day by day",
+      "vi": "Lịch sử bảng, theo từng ngày"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-27-history.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-28-export-plain",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-plain.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Export a board as a picture or PDF, plain style",
+      "vi": "Xuất bảng thành ảnh hoặc PDF, kiểu thường"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-plain.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-28-export-poster",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-poster.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Poster export",
+      "vi": "Bản xuất kiểu poster"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-poster.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-28-export-print",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-print.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Printable export",
+      "vi": "Bản xuất để in"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-print.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-28-export-report",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-28-export-report.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress report export",
+      "vi": "Bản xuất báo cáo tiến độ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-28-export-report.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-29-pro",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-29-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2249,
+    "title": {
+      "en": "The Pro page: each part plays its own demo",
+      "vi": "Trang Pro: mỗi phần tự chạy minh hoạ riêng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-29-pro.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-30-settings-1",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: automation and data",
+      "vi": "Cài đặt: tự động và dữ liệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-30-settings-2",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: backup, archive, Trash",
+      "vi": "Cài đặt: sao lưu, lưu trữ, thùng rác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-30-settings-3",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: help and about",
+      "vi": "Cài đặt: trợ giúp và giới thiệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-30-settings",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-30-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-30-settings.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-31-notifications",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-31-notifications.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Notifications: today, due soon, left behind, quiet hours",
+      "vi": "Thông báo: hôm nay, sắp đến hạn, việc còn tồn, giờ yên lặng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-31-notifications.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-32-widgets",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-32-widgets.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home-screen widgets and their styles",
+      "vi": "Widget màn hình chính và các kiểu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-32-widgets.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-33-how-to-cards",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to-cards.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: adding and moving cards",
+      "vi": "Cách dùng: thêm và chuyển thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to-cards.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-33-how-to-categories",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to-categories.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: categories",
+      "vi": "Cách dùng: nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to-categories.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-33-how-to-time",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to-time.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: plan by day, week, month",
+      "vi": "Cách dùng: xếp theo ngày, tuần, tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to-time.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-33-how-to",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-33-how-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: the built-in guide",
+      "vi": "Cách dùng: hướng dẫn trong app"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-33-how-to.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-34-empty",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-34-empty.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "First open: make your first board",
+      "vi": "Lần mở đầu: tạo bảng đầu tiên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-34-empty.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-50-welcome-1",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: what do you mainly organise?",
+      "vi": "Giới thiệu: bạn chủ yếu sắp xếp gì?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-50-welcome-2",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: add a card",
+      "vi": "Tập thử: thêm một thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-50-welcome-3",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: drag it to Doing",
+      "vi": "Tập thử: kéo thẻ sang Đang làm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-50-welcome-4",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-4.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: tap a category",
+      "vi": "Tập thử: chạm một nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-4.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-50-welcome-5",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-5.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: tick a subtask",
+      "vi": "Tập thử: tích một việc con"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-5.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-50-welcome-6",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-6.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: ticked, and the card stayed put",
+      "vi": "Giới thiệu: đã tích, thẻ vẫn ở yên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-6.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-en-50-welcome-7",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-en-50-welcome-7.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: where do you want to start?",
+      "vi": "Giới thiệu: bạn muốn bắt đầu từ đâu?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-en-50-welcome-7.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-02-board-home",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-02-board-home.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home chores, with rent and the bins repeating",
+      "vi": "Việc nhà, có tiền nhà và đổ rác lặp lại"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-02-board-home.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-02-board-trip",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-02-board-trip.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip board with cost and booked fields on its cards",
+      "vi": "Bảng chuyến đi có trường chi phí và đã đặt trên thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-02-board-trip.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-03-categories-two",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-03-categories-two.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Two categories picked: only their cards show, the others are hidden, not changed",
+      "vi": "Chọn hai nhóm: chỉ hiện thẻ của chúng, thẻ khác chỉ bị ẩn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-03-categories-two.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-04-past-card",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-past-card.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A card from a past week opens to read, with Mark as done and Bring to this week",
+      "vi": "Thẻ của tuần cũ mở ra để đọc, kèm Đánh dấu xong và Đem qua tuần này"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-past-card.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-04-timeline-sheet",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-timeline-sheet.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The Time chip: by day, by week, by month or off; a shorter period is locked with the reason",
+      "vi": "Chip Thời gian: theo ngày, tuần, tháng hoặc tắt; kỳ ngắn hơn bị khoá kèm lý do"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-timeline-sheet.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-04-week-next",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-week-next.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Next week: a mock test already planned there",
+      "vi": "Tuần sau: bài kiểm tra thử đã xếp sẵn ở đó"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-week-next.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-04-week-past",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-04-week-past.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Last week, read-only: one card not finished, with Bring them all to this week",
+      "vi": "Tuần trước, chỉ xem: một thẻ chưa xong, kèm Đem tất cả qua tuần này"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-04-week-past.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-05-card-fields",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-05-card-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A trip card with its fields: cost, booking link, booked, address",
+      "vi": "Thẻ chuyến đi với các trường: chi phí, link đặt chỗ, đã đặt, địa chỉ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-05-card-fields.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-05-card-repeat",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-05-card-repeat.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Repeat on a card: daily, weekly, monthly or a custom rhythm",
+      "vi": "Lặp lại trên thẻ: hằng ngày, hằng tuần, hằng tháng hoặc nhịp tự chọn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-05-card-repeat.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-06-cover-picker",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-06-cover-picker.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Choosing a cover for a card",
+      "vi": "Chọn ảnh bìa cho thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-06-cover-picker.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-07-new-board",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-07-new-board.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "New board: from a ready template or blank",
+      "vi": "Bảng mới: từ mẫu có sẵn hoặc bảng trống"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-07-new-board.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-08-templates-study",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-08-templates-study.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Study templates",
+      "vi": "Mẫu cho việc học"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-08-templates-study.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-09-template-plan",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-plan.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board Smart Setup will make, shown before it is made",
+      "vi": "Bảng Smart Setup sẽ tạo, xem trước khi tạo"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-plan.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-09-template-preview",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-preview.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A template previewed as a whole board before using it",
+      "vi": "Xem trọn bảng mẫu trước khi dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-preview.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-09-template-setup",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-setup.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Smart Setup: name, subjects, semester end and how to lay it out",
+      "vi": "Smart Setup: tên bảng, các môn, ngày kết thúc học kỳ và cách xếp"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-setup.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-09-template-trip-fields",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-trip-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Fields suggested by the template, ticked and free to fill",
+      "vi": "Trường mẫu gợi ý, đã tích sẵn và điền miễn phí"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-trip-fields.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": true
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-09-template-trip-preview",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-09-template-trip-preview.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The Trip Preparation template",
+      "vi": "Mẫu Chuẩn bị chuyến đi"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-09-template-trip-preview.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-10-blank",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-10-blank.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A blank board with your own columns",
+      "vi": "Bảng trống với các cột tự đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-10-blank.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-11-board-menu",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-11-board-menu.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "The board menu",
+      "vi": "Menu của bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-11-board-menu.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-11-categories-edit",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-11-categories-edit.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Editing categories: name, colour, order",
+      "vi": "Sửa nhóm: tên, màu, thứ tự"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-11-categories-edit.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-11-move-to",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-11-move-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Move to: any column, top or end",
+      "vi": "Chuyển tới: cột bất kỳ, đầu hoặc cuối"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-11-move-to.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-12-search",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-12-search.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Search across every board",
+      "vi": "Tìm trên mọi bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-12-search.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-13-trash",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-13-trash.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Trash: restore a deleted card",
+      "vi": "Thùng rác: khôi phục thẻ đã xoá"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-13-trash.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-14-key-dates",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-14-key-dates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Key dates for a board, such as the semester end",
+      "vi": "Ngày quan trọng của bảng, như ngày kết thúc học kỳ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-14-key-dates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-21-rules-editor",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-21-rules-editor.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A rule written as a sentence, with a preview",
+      "vi": "Một luật viết như một câu, có xem trước"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-21-rules-editor.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-21-rules",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-21-rules.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Automation rules, started from examples",
+      "vi": "Luật tự động, bắt đầu từ ví dụ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-21-rules.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-22-saved-filters",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-22-saved-filters.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Saved filters on a board",
+      "vi": "Bộ lọc đã lưu trên bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-22-saved-filters.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-23-card-templates",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-23-card-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Card templates: a card you make again and again",
+      "vi": "Mẫu thẻ: thẻ hay làm lại"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-23-card-templates.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-24-fields",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-24-fields.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Custom fields of a board",
+      "vi": "Trường tuỳ chỉnh của bảng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-24-fields.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-25-looks",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-25-looks.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board looks, tried on your own board (Blueprint)",
+      "vi": "Giao diện bảng, thử ngay trên bảng của bạn (Bản vẽ)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-25-looks.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-26-insights",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-26-insights.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board insights: done, late and finished per week, by category",
+      "vi": "Thống kê bảng: xong, trễ và xong mỗi tuần, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-26-insights.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-27-history",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-27-history.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Board history, day by day",
+      "vi": "Lịch sử bảng, theo từng ngày"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-27-history.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-28-export-plain",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-plain.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Export a board as a picture or PDF, plain style",
+      "vi": "Xuất bảng thành ảnh hoặc PDF, kiểu thường"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-plain.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-28-export-poster",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-poster.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Poster export",
+      "vi": "Bản xuất kiểu poster"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-poster.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-28-export-print",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-print.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Printable export",
+      "vi": "Bản xuất để in"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-print.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-28-export-report",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-28-export-report.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress report export",
+      "vi": "Bản xuất báo cáo tiến độ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-28-export-report.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-29-pro",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-29-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2249,
+    "title": {
+      "en": "The Pro page: each part plays its own demo",
+      "vi": "Trang Pro: mỗi phần tự chạy minh hoạ riêng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-29-pro.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-30-settings-1",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: automation and data",
+      "vi": "Cài đặt: tự động và dữ liệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-30-settings-2",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: backup, archive, Trash",
+      "vi": "Cài đặt: sao lưu, lưu trữ, thùng rác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-30-settings-3",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings: help and about",
+      "vi": "Cài đặt: trợ giúp và giới thiệu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-30-settings",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-30-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-30-settings.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-31-notifications",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-31-notifications.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Notifications: today, due soon, left behind, quiet hours",
+      "vi": "Thông báo: hôm nay, sắp đến hạn, việc còn tồn, giờ yên lặng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-31-notifications.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-32-widgets",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-32-widgets.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home-screen widgets and their styles",
+      "vi": "Widget màn hình chính và các kiểu"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-32-widgets.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-33-how-to-cards",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to-cards.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: adding and moving cards",
+      "vi": "Cách dùng: thêm và chuyển thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to-cards.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-33-how-to-categories",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to-categories.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: categories",
+      "vi": "Cách dùng: nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to-categories.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-33-how-to-time",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to-time.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: plan by day, week, month",
+      "vi": "Cách dùng: xếp theo ngày, tuần, tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to-time.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-33-how-to",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-33-how-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use: the built-in guide",
+      "vi": "Cách dùng: hướng dẫn trong app"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-33-how-to.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-34-empty",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-34-empty.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "First open: make your first board",
+      "vi": "Lần mở đầu: tạo bảng đầu tiên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-34-empty.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-50-welcome-1",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: what do you mainly organise?",
+      "vi": "Giới thiệu: bạn chủ yếu sắp xếp gì?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-50-welcome-2",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: add a card",
+      "vi": "Tập thử: thêm một thẻ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-50-welcome-3",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: drag it to Doing",
+      "vi": "Tập thử: kéo thẻ sang Đang làm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-50-welcome-4",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-4.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: tap a category",
+      "vi": "Tập thử: chạm một nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-4.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-50-welcome-5",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-5.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome practice: tick a subtask",
+      "vi": "Tập thử: tích một việc con"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-5.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-50-welcome-6",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-6.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: ticked, and the card stayed put",
+      "vi": "Giới thiệu: đã tích, thẻ vẫn ở yên"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-6.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-boards",
+    "id": "mobile-vi-50-welcome-7",
+    "src": "/products/handy-boards/kit/screenshots/mobile/mobile-vi-50-welcome-7.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: where do you want to start?",
+      "vi": "Giới thiệu: bạn muốn bắt đầu từ đâu?"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\screenshots\\mobile\\mobile-vi-50-welcome-7.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light",
+    "newInNextUpdate": false
   }
 ]

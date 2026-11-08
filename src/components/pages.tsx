@@ -24,6 +24,7 @@ import {
   Status,
 } from "./shared";
 import { Catalog } from "./catalog";
+import { BoardsUpdateNote } from "./boards-update-note";
 
 export function CatalogPage({
   locale,
@@ -292,8 +293,8 @@ export function LegalIndex({ locale }: { locale: Locale }) {
         </h1>
         <p>
           {vi
-            ? "Chính sách quyền riêng tư, điều khoản và hướng dẫn xóa dữ liệu theo từng sản phẩm. Handy Bookmark, Sticky Wall và Arcane Brigade dùng toàn văn do chủ sản phẩm cung cấp; các bản dự thảo khác được đánh dấu riêng."
-            : "Product-specific privacy, terms and data choices. Handy Bookmark, Sticky Wall and Arcane Brigade use the full documents supplied by the owner; other drafts are identified individually."}
+            ? "Chính sách quyền riêng tư, điều khoản và hướng dẫn xóa dữ liệu theo từng sản phẩm. Handy Bookmark, Handy Boards, Sticky Wall và Arcane Brigade dùng toàn văn do chủ sản phẩm cung cấp; các bản dự thảo khác được đánh dấu riêng."
+            : "Product-specific privacy, terms and data choices. Handy Bookmark, Handy Boards, Sticky Wall and Arcane Brigade use the full documents supplied by the owner; other drafts are identified individually."}
         </p>
       </div>
       <div className="legal-directory">
@@ -506,6 +507,7 @@ export function SupportPage({
       </div>
       {product ? (
         <>
+          {product.slug === "handy-boards" && <BoardsUpdateNote locale={locale} />}
           {websiteKits[product.slug] ? (
             <KitFAQ product={product} locale={locale} />
           ) : (

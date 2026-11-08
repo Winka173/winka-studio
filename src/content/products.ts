@@ -328,6 +328,25 @@ export const products: Product[] = [
       category: text(en, vi),
       description: text(descriptionEn, descriptionVi),
       source: `Handy-Suite/README.md; apps/handy_${slug}. Owner confirms in development.`,
+      ...(slug === "boards" ? {
+        completion: "complete" as const,
+        featured: true,
+        accent: "#A61C8E",
+        platforms: ["Android"],
+        image: "/products/handy-boards/kit/highlights/02-board-desktop-en.webp",
+        icon: "/products/handy-boards/kit/brand/icon/icon-rounded-1024.webp",
+        description: text(
+          "Kanban boards for school, home and projects. Categories, subtasks, reminders and templates. Offline, no account, no ads; optional one-time Pro.",
+          "Bảng Kanban cho việc học, việc nhà và dự án. Nhóm, việc con, nhắc nhở và mẫu bảng. Ngoại tuyến, không tài khoản, không quảng cáo; Pro tùy chọn mua một lần.",
+        ),
+        features: [
+          text("Boards, columns and cards", "Bảng, cột và thẻ"),
+          text("Categories, subtasks and reminders", "Nhóm, việc con và nhắc nhở"),
+          text("Templates, backups and optional Drive sync", "Mẫu bảng, sao lưu và đồng bộ Drive tùy chọn"),
+          text("One-time Pro, no subscription", "Pro mua một lần, không thuê bao"),
+        ],
+        source: "Owner-supplied Handy-Website-Kit/handy-boards, prepared 2026-11-09 from ac4858ff. Owner confirms complete. Android closed testing 1.0.0 (3); timeline/category/template-field changes are labelled as next-update previews.",
+      } : {}),
     }),
   ),
   product({

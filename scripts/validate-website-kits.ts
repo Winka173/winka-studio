@@ -73,5 +73,5 @@ assert.ok(
   ),
 );
 console.log(
-  "PASS: supplied EN/VI copy, pricing, 76 FAQ answers, legal documents, 571 screen captures, Pro labels, and no unreleased Arcane heroes or later bosses.",
+  `PASS: supplied EN/VI copy, pricing, ${Object.values(websiteKits).reduce((sum, kit) => sum + kit.faq.en.length + kit.faq.vi.length, 0)} FAQ answers, legal documents, ${portfolioMedia.filter((m) => m.kind.startsWith("kit-")).length} kit captures, Pro labels, and no unreleased Arcane heroes or later bosses.`,
 );

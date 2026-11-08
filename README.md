@@ -1,5 +1,7 @@
 # Winka Studio
 
+**Handy Boards update (9 November 2026):** owner-confirmed complete, with a dedicated EN/VI kit landing, 226 captures, 14 localized films, full FAQ and verbatim privacy/terms. Store controls remain Coming soon. See [the integration record](docs/BOARDS_KIT_INTEGRATION.md) and [the app policy handoff guide](GOOGLE_PLAY_POLICY_TERMS_GUIDE.md).
+
 **Current public selection (9 November 2026):** only Handy Bookmark, Sticky Wall and Handy Boards are shown as apps; all five games remain visible. Every product lists App Store, Google Play and Microsoft Store as **Coming soon**, plus Steam for games. Hidden apps stay in the source registry but have no exported product/support/legal/media pages. The homepage and Studio stories now feature Boards instead of Forge; the old reel and archived directions are hidden. See [the public catalog contract](docs/PUBLIC_CATALOG.md). Earlier full-catalog descriptions below are retained as implementation history where they differ from this selection.
 
 Static Next.js / TypeScript / React / Tailwind v4 website. **Winka Workbench** is an independent apps-and-games portfolio with a tactile opening, source-grounded project stories, bespoke product materials, a 24-second showreel and a separate development Lab. Its 22 products have usage/gameplay explanations and 689 attributed screenshot records. Public website deployment remains pending; repository publication is a separate step.

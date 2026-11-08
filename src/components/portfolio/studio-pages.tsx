@@ -3,7 +3,6 @@ import { ArrowUpRight, Asterisk, Mail } from "lucide-react";
 import type { Locale } from "@/content/studio";
 import { studio } from "@/content/studio";
 import { bookmarkScreen, stickyScreen } from "@/content/website-kits";
-import { getProduct } from "@/content/products";
 
 export function WorkbenchStudio({ locale }: { locale: Locale }) {
   const vi = locale === "vi";
@@ -33,7 +32,7 @@ export function WorkbenchStudio({ locale }: { locale: Locale }) {
       body: vi
         ? "Ảnh và video trên portfolio đến từ giao diện hoặc build của chính dự án. Sản phẩm đã hoàn thiện và dự án còn đang phát triển được ghi riêng; trạng thái phát hành được nói rõ ở từng trang."
         : "Portfolio images and films come from each project’s own interface or build. Completed work and developing projects are separated, with release status stated on each page.",
-      image: getProduct("handy-boards")!.image!,
+      image: `/products/handy-boards/kit/highlights/02-board-desktop-${locale}.webp`,
       product: "HANDY BOARDS",
       href: `/${locale}/apps/handy-boards/`,
     },

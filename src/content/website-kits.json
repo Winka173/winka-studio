@@ -961,5 +961,447 @@
         "terms": "# Arcane Brigade — Điều khoản dịch vụ\n\n*Cập nhật lần cuối: 8 tháng 11 năm 2026*\n\nCác điều khoản này áp dụng khi bạn dùng Arcane Brigade, trò chơi của Winka Studio (\"chúng tôi\"). Khi cài đặt hoặc chơi, bạn đồng ý với các điều khoản này. Nếu không đồng ý, vui lòng không sử dụng trò chơi.\n\n## Trò chơi\n\n- Chúng tôi cấp cho bạn quyền cá nhân, không độc quyền, không chuyển nhượng để cài và chơi Arcane Brigade trên thiết bị của bạn, nhằm giải trí phi thương mại.\n- Trò chơi, nhân vật, hình vẽ, âm nhạc, âm thanh, chữ và mã nguồn thuộc về Winka Studio hoặc bên cấp phép. Việc mua hay tải trò chơi không chuyển các quyền này cho bạn.\n- Bạn được chia sẻ ảnh chụp và video khi bạn chơi, kể cả khi phát trực tiếp hay đăng lên trang video, miễn là không ngụ ý rằng Winka Studio làm ra hoặc bảo trợ nội dung đó.\n\n## Những điều không được làm\n\n- Sao chép, bán lại, cho thuê hay phân phối lại trò chơi hoặc nội dung của nó.\n- Dịch ngược, sửa đổi hay can thiệp mã của trò chơi, trừ khi pháp luật cho phép.\n- Mở khoá nội dung trả phí mà không trả tiền, hoặc dùng trò chơi vào việc trái pháp luật.\n\n## Mua hàng\n\n- Trên điện thoại, trò chơi tải miễn phí. Có một gói mua tuỳ chọn duy nhất, **Deluxe**, mở chế độ Endless và hai độ khó cao nhất, và sẽ gồm Act II khi phát hành. Không bán bất cứ thứ gì làm lượt chơi mạnh hơn, và không có quảng cáo.\n- Việc mua được thực hiện qua Google Play hoặc App Store và tuân theo điều khoản của họ. Hoàn tiền do cửa hàng xử lý theo chính sách hoàn tiền của cửa hàng.\n- Deluxe gắn với tài khoản cửa hàng của bạn. Deluxe được khôi phục khi bạn cài lại trò chơi hoặc chơi trên máy khác đăng nhập cùng tài khoản, và bị gỡ nếu giao dịch được hoàn tiền hoặc huỷ.\n\n## Bản lưu và lưu đám mây\n\n- Tiến độ được lưu trên thiết bị của bạn. Nếu gỡ trò chơi khi chưa bật lưu đám mây, tiến độ sẽ mất.\n- Lưu đám mây là tuỳ chọn. Khi bạn kết nối, bản lưu nằm trong Google Drive của chính bạn và tuân theo điều khoản của Google. [Chính sách quyền riêng tư](privacy-policy.md) nói rõ những gì được lưu và cách xoá.\n- Chúng tôi cố gắng giữ bản lưu an toàn nhưng không thể đảm bảo bản lưu không bao giờ mất hay hỏng. Các điểm khôi phục trên máy giúp bạn lấy lại khi có sự cố.\n\n## Cập nhật và cung cấp dịch vụ\n\n- Chúng tôi có thể cập nhật trò chơi để sửa lỗi, cân bằng hoặc thêm nội dung. Một số bản cập nhật có thể bắt buộc để tiếp tục chơi hoặc dùng lưu đám mây.\n- Chúng tôi có thể thay đổi hoặc ngừng cung cấp một phần trò chơi. Nếu ngừng cung cấp nội dung Deluxe bạn đã mua, chúng tôi sẽ thông báo trong trò chơi và trên trang cửa hàng.\n\n## Không bảo đảm\n\nTrò chơi được cung cấp \"nguyên trạng\". Trong phạm vi pháp luật cho phép, chúng tôi không hứa trò chơi không có lỗi hay luôn hoạt động, và không chịu trách nhiệm về thiệt hại gián tiếp phát sinh khi sử dụng. Các điều khoản này không hạn chế quyền của bạn theo luật bảo vệ người tiêu dùng mà không thể từ bỏ.\n\n## Trẻ em\n\nTrò chơi không dành cho trẻ dưới 13 tuổi.\n\n## Thay đổi điều khoản\n\nNếu điều khoản thay đổi, bản mới sẽ được đăng tại địa chỉ này kèm ngày cập nhật mới. Tiếp tục chơi sau khi có thay đổi nghĩa là bạn chấp nhận điều khoản mới.\n\n## Liên hệ\n\napps.winka.studio@gmail.com"
       }
     }
+  },
+  "handy-boards": {
+    "highlights": {
+      "en": [
+        {
+          "title": "Everything on one board",
+          "body": "A line in your notes, a message in the class group, a scrap of paper on the desk: put each on a card. Columns say where the work is, from To do to Done. Drag it along, or use Move to… Everything can be undone.",
+          "image": "/products/handy-boards/kit/highlights/02-board-desktop-en.webp",
+          "clipId": null,
+          "newInNextUpdate": false
+        },
+        {
+          "title": "Colours that follow the work",
+          "body": "Maths, Literature, Kitchen, Design: each category has its colour and stays with the card in every column. The strip shows how much of each is done. Tap one or several to see only their cards.",
+          "image": "/products/handy-boards/kit/highlights/03-categories-en.webp",
+          "clipId": "categories-en",
+          "newInNextUpdate": true
+        },
+        {
+          "title": "This week, next week, last week",
+          "body": "Lay a board out by day, week or month with one tap. Plan next week's cards in next week. Last week stays as it was, read-only, and anything unfinished says so, with one button to bring it to this week.",
+          "image": "/products/handy-boards/kit/highlights/04-week-en.webp",
+          "clipId": "timeline-en",
+          "newInNextUpdate": true
+        },
+        {
+          "title": "A board ready in a minute",
+          "body": "30 templates for school, work, home and creative projects. See the whole board before using it; answer a few questions and it fills in your subjects, dates and the fields your cards need, like a trip's cost and booking.",
+          "image": "/products/handy-boards/kit/highlights/05-template-en.webp",
+          "clipId": "template-en",
+          "newInNextUpdate": true
+        },
+        {
+          "title": "Small steps, real reminders",
+          "body": "Break a card into subtasks and tick them off. Set a due date, the day you'll do it and a reminder. Home and the widgets show what is due today and what was left behind.",
+          "image": "/products/handy-boards/kit/highlights/07-card-en.webp",
+          "clipId": "card-en",
+          "newInNextUpdate": false
+        },
+        {
+          "title": "Yours, on your phone",
+          "body": "No account, no ads, no tracking. Boards stay on your device, with Trash, archive, backups to a file and automatic copies. Light and dark, English and Vietnamese.",
+          "image": "/products/handy-boards/kit/highlights/08-dark-en.webp",
+          "clipId": "dark-mode-en",
+          "newInNextUpdate": false
+        }
+      ],
+      "vi": [
+        {
+          "title": "Mọi việc trên một bảng",
+          "body": "Một dòng ghi chú, một tin nhắn nhóm lớp, một mẩu giấy trên bàn: mỗi thứ thành một thẻ. Cột cho biết việc đang ở đâu, từ Cần làm tới Xong. Kéo thẻ đi, hoặc chọn Chuyển tới… Mọi thao tác đều có Hoàn tác.",
+          "image": "/products/handy-boards/kit/highlights/02-board-desktop-vi.webp",
+          "clipId": null,
+          "newInNextUpdate": false
+        },
+        {
+          "title": "Màu đi theo việc",
+          "body": "Toán, Văn, Bếp, Thiết kế: mỗi nhóm một màu, đi theo thẻ qua mọi cột. Dải nhóm cho biết mỗi nhóm xong bao nhiêu. Chạm một hay nhiều nhóm để chỉ xem thẻ của chúng.",
+          "image": "/products/handy-boards/kit/highlights/03-categories-vi.webp",
+          "clipId": "categories-vi",
+          "newInNextUpdate": true
+        },
+        {
+          "title": "Tuần này, tuần sau, tuần trước",
+          "body": "Xếp bảng theo ngày, tuần hay tháng bằng một chạm. Việc tuần sau thì lên kế hoạch ở tuần sau. Tuần trước giữ nguyên để xem, việc chưa xong được đánh dấu, một nút là đem qua tuần này.",
+          "image": "/products/handy-boards/kit/highlights/04-week-vi.webp",
+          "clipId": "timeline-vi",
+          "newInNextUpdate": true
+        },
+        {
+          "title": "Một phút là có bảng",
+          "body": "30 mẫu cho việc học, công việc, việc nhà và dự án sáng tạo. Xem trọn bảng trước khi dùng; trả lời vài câu là bảng có sẵn môn học, ngày tháng và các trường thẻ cần, như chi phí và đặt chỗ của một chuyến đi.",
+          "image": "/products/handy-boards/kit/highlights/05-template-vi.webp",
+          "clipId": "template-vi",
+          "newInNextUpdate": true
+        },
+        {
+          "title": "Từng bước nhỏ, nhắc đúng lúc",
+          "body": "Chia thẻ thành việc con và tích dần. Đặt hạn, ngày định làm và giờ nhắc. Trang chủ và widget cho biết hôm nay có gì đến hạn, gì còn tồn.",
+          "image": "/products/handy-boards/kit/highlights/07-card-vi.webp",
+          "clipId": "card-vi",
+          "newInNextUpdate": false
+        },
+        {
+          "title": "Của bạn, trên máy bạn",
+          "body": "Không tài khoản, không quảng cáo, không theo dõi. Bảng nằm trên máy, có thùng rác, lưu trữ, sao lưu ra tệp và tự sao lưu. Sáng và tối, tiếng Việt và tiếng Anh.",
+          "image": "/products/handy-boards/kit/highlights/08-dark-vi.webp",
+          "clipId": "dark-mode-vi",
+          "newInNextUpdate": false
+        }
+      ]
+    },
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards",
+    "assets": {
+      "highlights/01-home-desktop-en.jpg": "/products/handy-boards/kit/highlights/01-home-desktop-en.webp",
+      "highlights/01-home-desktop-vi.jpg": "/products/handy-boards/kit/highlights/01-home-desktop-vi.webp",
+      "highlights/01-home-en.png": "/products/handy-boards/kit/highlights/01-home-en.webp",
+      "highlights/01-home-vi.png": "/products/handy-boards/kit/highlights/01-home-vi.webp",
+      "highlights/02-board-desktop-en.jpg": "/products/handy-boards/kit/highlights/02-board-desktop-en.webp",
+      "highlights/02-board-desktop-vi.jpg": "/products/handy-boards/kit/highlights/02-board-desktop-vi.webp",
+      "highlights/02-board-en.png": "/products/handy-boards/kit/highlights/02-board-en.webp",
+      "highlights/02-board-vi.png": "/products/handy-boards/kit/highlights/02-board-vi.webp",
+      "highlights/03-categories-en.png": "/products/handy-boards/kit/highlights/03-categories-en.webp",
+      "highlights/03-categories-vi.png": "/products/handy-boards/kit/highlights/03-categories-vi.webp",
+      "highlights/04-week-en.png": "/products/handy-boards/kit/highlights/04-week-en.webp",
+      "highlights/04-week-past-en.png": "/products/handy-boards/kit/highlights/04-week-past-en.webp",
+      "highlights/04-week-past-vi.png": "/products/handy-boards/kit/highlights/04-week-past-vi.webp",
+      "highlights/04-week-vi.png": "/products/handy-boards/kit/highlights/04-week-vi.webp",
+      "highlights/05-template-en.png": "/products/handy-boards/kit/highlights/05-template-en.webp",
+      "highlights/05-template-vi.png": "/products/handy-boards/kit/highlights/05-template-vi.webp",
+      "highlights/06-template-fields-en.png": "/products/handy-boards/kit/highlights/06-template-fields-en.webp",
+      "highlights/06-template-fields-vi.png": "/products/handy-boards/kit/highlights/06-template-fields-vi.webp",
+      "highlights/07-card-en.png": "/products/handy-boards/kit/highlights/07-card-en.webp",
+      "highlights/07-card-vi.png": "/products/handy-boards/kit/highlights/07-card-vi.webp",
+      "highlights/08-dark-desktop-en.jpg": "/products/handy-boards/kit/highlights/08-dark-desktop-en.webp",
+      "highlights/08-dark-desktop-vi.jpg": "/products/handy-boards/kit/highlights/08-dark-desktop-vi.webp",
+      "highlights/08-dark-en.png": "/products/handy-boards/kit/highlights/08-dark-en.webp",
+      "highlights/08-dark-vi.png": "/products/handy-boards/kit/highlights/08-dark-vi.webp",
+      "highlights/09-pro-my-work-en.png": "/products/handy-boards/kit/highlights/09-pro-my-work-en.webp",
+      "highlights/09-pro-my-work-vi.png": "/products/handy-boards/kit/highlights/09-pro-my-work-vi.webp",
+      "highlights/10-pro-rules-en.png": "/products/handy-boards/kit/highlights/10-pro-rules-en.webp",
+      "highlights/10-pro-rules-vi.png": "/products/handy-boards/kit/highlights/10-pro-rules-vi.webp",
+      "highlights/11-pro-export-desktop-en.jpg": "/products/handy-boards/kit/highlights/11-pro-export-desktop-en.webp",
+      "highlights/11-pro-export-desktop-vi.jpg": "/products/handy-boards/kit/highlights/11-pro-export-desktop-vi.webp",
+      "highlights/12-trip-desktop-en.jpg": "/products/handy-boards/kit/highlights/12-trip-desktop-en.webp",
+      "highlights/12-trip-desktop-vi.jpg": "/products/handy-boards/kit/highlights/12-trip-desktop-vi.webp",
+      "highlights/12-trip-en.png": "/products/handy-boards/kit/highlights/12-trip-en.webp",
+      "highlights/12-trip-vi.png": "/products/handy-boards/kit/highlights/12-trip-vi.webp",
+      "highlights/13-welcome-en.png": "/products/handy-boards/kit/highlights/13-welcome-en.webp",
+      "highlights/13-welcome-vi.png": "/products/handy-boards/kit/highlights/13-welcome-vi.webp",
+      "highlights/14-timeline-sheet-en.png": "/products/handy-boards/kit/highlights/14-timeline-sheet-en.webp",
+      "highlights/14-timeline-sheet-vi.png": "/products/handy-boards/kit/highlights/14-timeline-sheet-vi.webp",
+      "icon": "/products/handy-boards/kit/brand/icon/icon-rounded-1024.webp",
+      "og-en": "/products/handy-boards/kit/brand/social/og-1200x630-en.webp",
+      "og-vi": "/products/handy-boards/kit/brand/social/og-1200x630-vi.webp"
+    },
+    "clips": [
+      {
+        "id": "card-en",
+        "src": "/products/handy-boards/kit/clips/card-en.mp4",
+        "poster": "/products/handy-boards/kit/clips/card-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\card-en.mp4"
+      },
+      {
+        "id": "card-vi",
+        "src": "/products/handy-boards/kit/clips/card-vi.mp4",
+        "poster": "/products/handy-boards/kit/clips/card-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\card-vi.mp4"
+      },
+      {
+        "id": "categories-en",
+        "src": "/products/handy-boards/kit/clips/categories-en.mp4",
+        "poster": "/products/handy-boards/kit/clips/categories-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\categories-en.mp4"
+      },
+      {
+        "id": "categories-vi",
+        "src": "/products/handy-boards/kit/clips/categories-vi.mp4",
+        "poster": "/products/handy-boards/kit/clips/categories-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\categories-vi.mp4"
+      },
+      {
+        "id": "dark-mode-en",
+        "src": "/products/handy-boards/kit/clips/dark-mode-en.mp4",
+        "poster": "/products/handy-boards/kit/clips/dark-mode-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\dark-mode-en.mp4"
+      },
+      {
+        "id": "dark-mode-vi",
+        "src": "/products/handy-boards/kit/clips/dark-mode-vi.mp4",
+        "poster": "/products/handy-boards/kit/clips/dark-mode-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\dark-mode-vi.mp4"
+      },
+      {
+        "id": "pro-en",
+        "src": "/products/handy-boards/kit/clips/pro-en.mp4",
+        "poster": "/products/handy-boards/kit/clips/pro-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\pro-en.mp4"
+      },
+      {
+        "id": "pro-vi",
+        "src": "/products/handy-boards/kit/clips/pro-vi.mp4",
+        "poster": "/products/handy-boards/kit/clips/pro-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\pro-vi.mp4"
+      },
+      {
+        "id": "template-en",
+        "src": "/products/handy-boards/kit/clips/template-en.mp4",
+        "poster": "/products/handy-boards/kit/clips/template-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\template-en.mp4"
+      },
+      {
+        "id": "template-vi",
+        "src": "/products/handy-boards/kit/clips/template-vi.mp4",
+        "poster": "/products/handy-boards/kit/clips/template-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\template-vi.mp4"
+      },
+      {
+        "id": "timeline-en",
+        "src": "/products/handy-boards/kit/clips/timeline-en.mp4",
+        "poster": "/products/handy-boards/kit/clips/timeline-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\timeline-en.mp4"
+      },
+      {
+        "id": "timeline-vi",
+        "src": "/products/handy-boards/kit/clips/timeline-vi.mp4",
+        "poster": "/products/handy-boards/kit/clips/timeline-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\timeline-vi.mp4"
+      },
+      {
+        "id": "welcome-en",
+        "src": "/products/handy-boards/kit/clips/welcome-en.mp4",
+        "poster": "/products/handy-boards/kit/clips/welcome-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\welcome-en.mp4"
+      },
+      {
+        "id": "welcome-vi",
+        "src": "/products/handy-boards/kit/clips/welcome-vi.mp4",
+        "poster": "/products/handy-boards/kit/clips/welcome-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-boards\\clips\\welcome-vi.mp4"
+      }
+    ],
+    "pages": {
+      "en": {
+        "features": "## 1. Boards, columns, cards\n\n**One board for one piece of life.** A semester, a trip, the house, a launch, a sprint. Each board has columns that say where work is (To do, Doing, Done, or your own names) and cards, one per piece of work.\n\n- On a phone each column nearly fills the screen; swipe to the next. On a tablet or computer the columns sit side by side.\n- Drag a card to another column or another place. Rather not drag? **Move to…** lists the columns with \"Top\" and \"End\" . Everything can be undone.\n- Rename, add, reorder and delete columns; mark which one means finished.\n- Show compact cards, or show subtasks right on the cards.\n- Home lists your boards with their covers, how many cards are open and what is due today .\n\n**A card holds the whole job.** Title, column, category, due date, the day you plan to do it, a reminder, repeat, a cover, subtasks, notes and fields .\n- Subtasks: break a card into steps, tick them off, reorder them; the card shows 2/5.\n- Notes: links, details, whatever you need to remember.\n- Card history: what changed and when.\n\n**Covers.** Every board and card can wear a cover drawn for it: study, work, home, travel, events, shopping, wellness, goals, creative and abstract families, or a photo of your own. 30 covers free, all 60 with Pro .\n\n## 2. Categories that follow the card\n\nMaths, Literature, Kitchen, Design… Each category has its colour and stays with the card in every column.\n- The strip above the board shows each category's done/total with a bar.\n- **Tap categories to see only their cards.** Pick one, or several at once; tap again to drop one. The others are only hidden, never changed .\n- Add, rename, recolour, reorder and remove categories in one sheet .\n\n## 3. Plan by day, week or month (the timeline)\n\nNew in this version. Any board can be laid out over time, and the setting is one chip on the board: **Time** .\n\n- Choose **By day**, **By week** or **By month**. Each card sits in the period of the day you plan to do it (or the day it was made). Work still open from before comes to the current period, with Undo.\n- **‹ and ›** move between periods. Add a card in next week and it is planned for next week .\n- **A period gone by is read-only**: no new cards, no dragging. Cards still open there carry a red \"Not finished\" strip and a **Bring to this week** button; \"Bring them all\" sits at the top . Opening a past card shows it to read, with \"Mark as done\" and \"Bring to this week\" . Clip `timeline-en`.\n- A board can move to a longer period (day → week → month), never back to a shorter one, so nothing lands in the wrong place.\n- Turning the timeline off changes no card: the board becomes a plain Kanban again, with an option to archive cards already done. Turned on again, every card is back in its period.\n- Templates that live by time start with it on; six (Semester Planner, Exam Revision, Language Learning, Product Launch, 90-Day Goals, Social Campaign) ask \"Lay it out by: By week / By month / Not by time\" when you make the board.\n- **Due date vs planned day.** The due date is the deadline; the planned day is when you mean to do it. Moving work never changes a due date.\n- **Key dates**: a semester end, a launch, a moving day: up to 8 per board, shown under the title with \"65 days left\" .\n\n## 4. Reminders and notifications\n\n- A reminder on any card, at the time you choose. Asked for permission only the first time.\n- Notifications you switch on in Settings › Notifications : today's work, due soon (same day, a day or three days before), left behind, and quiet hours. \"Hide card names\" keeps titles off the lock screen. They ring on time where Android allows exact alarms.\n- **Board digest** (Pro): one morning note, daily or once a week, one line per board with work; empty boards skipped.\n- **Monday review** (Pro): a Monday-morning note of what was left behind last week.\n\n## 5. Templates: a board ready in a minute\n\n30 templates in five groups (Study, Work, Personal & home, Creative, Plans & occasions), 14 free and 16 Pro, plus a blank three-column board . The gallery has a search box (\"moving\", \"trip\").\n\nFree: **Semester Planner, Group Assignment, Exam Revision, Personal Course, Project Kanban, Weekly Work Plan, Idea Pipeline, Personal Tasks, Shopping Planner, Content Planner, Inspiration Board, Trip Preparation, Monthly Planner, Daily Focus**.\nPro: **Thesis / Capstone, Language Learning, Development Sprint, Product Launch, Meeting Actions, Home Improvement, Event Planning, 90-Day Goals, Home Organization, Photography Workflow, Writing Project, Game Development, Social Campaign, Workshop Preparation, Moving Home, Holiday Planner**.\n\n- **See the whole board before using it**: columns, categories, covers and example cards . Pro templates can be previewed for free.\n- **Smart Setup** asks a few questions (the board's name, your subjects, the semester's end, how to lay it out) and shows the board it will make before making it . Clip `template-en`.\n- **Fields that come with the template.** About 20 templates suggest fields for their cards, ticked and ready: a trip gets Cost, Booking link, Booked and Address; shopping gets Price and Where to buy; a sprint gets Points and Owner . Untick any you don't want. **Template fields are free to fill.**\n- A template only shapes a new board; changing your board never changes the template.\n- Save any board as your own template (board menu).\n\n## 6. Fields on cards\n\nEvery card has a **Fields** section, with \"Add a field\" or \"Edit fields\" right on it .\n- Types: text, number, date, yes/no, one choice, link. A field can also show on the card's front.\n- Fields that came with a template are free to fill. **Making your own fields is Pro** ; values you saved stay readable without Pro.\n\n## 7. Find anything\n\n- **Search every board** from Home: card titles and notes .\n- Search inside one board from its toolbar.\n- Filters on a board: by category, \"Due in 3 days\", and **saved filters** (Pro) such as \"Maths, due soon\" .\n\n## 8. Get things back\n\n- **Trash** keeps deleted cards until you empty it; restore any of them .\n- **Archive** finished cards and whole boards; they come back from Settings › Data.\n- **Undo** after every move, delete and change.\n- **Back up** to one file you keep, **restore** from it (with a preview), and **back up automatically**: the last seven copies on the device.\n- **Delete all data** when you want a clean start.\n\n## 9. Bring work in, send it out\n\n- **Share text to Handy Boards** from any app and it becomes a card.\n- Import: a **Trello** export (reviewed before anything is added), a **CSV** with your own column mapping, a plain **task list**, a board **template** file, or a backup.\n- Export: the board as a **picture or PDF** (plain style free), **CSV**, **Markdown**, an **ICS** calendar of the dates, or a full backup .\n\n## 10. On the home screen\n\nFive widgets :\n- Free: **Today**, **Board progress**, **Left behind & coming up**.\n- Pro: **My Work** and **Week**.\n- 3 widget styles free, all 9 with Pro. \"Show card names\" can be turned off so a widget shows only counts.\n\n## 11. Make it yours\n\n- Light, dark or follow the system; English or Vietnamese.\n- **Board looks**: 5 free grounds, 15 with Pro (paper, sage, blueprint, blush…), each made for light and dark .\n- A short **welcome** that lets you practise on a pretend board (add, drag, focus a category, tick a subtask) before you start; nothing is saved .\n- **How to use**: a built-in guide, topic by topic, with small moving examples .\n\n## 12. Sync between your Android devices (optional)\n\nOff unless you switch it on in Settings › Data › Sync. Your boards are kept in a hidden folder of **your own** Google Drive (`drive.appdata`): the app can't see your other files and the developer receives nothing. Other Android devices on the same Google account get the same boards. Turning it off deletes nothing.\n(Shipped in 1.0.0 (3). Tested on two Android emulators with a real Google account on 2026-11-08; not yet on phones. Android only.)\n\n## Handy Boards Pro (one payment)\n\n\"Pay once. Keep it.\" No subscription, no ads, no account. Screens: `…-29-pro.png`, clip `pro-en`.\n\n**Plan**\n- **My Work across boards**: today, left behind and coming up from every board in one list; a tap opens the card where it lives .\n- **Smart carry-over**: when a new day or week starts, review what was left behind or let it move to today by itself. Only the planned day changes, never a due date. Moving by hand is free.\n- **Repeating cards**: rent, reports, a Monday scrum come back on their rhythm: every few days, chosen weekdays, or a day of the month . On a timeline board the next one lands in the next period. Taking a repeat off is free.\n- **Board digest** and **Monday review** notifications.\n\n**Automate**\n- **Automation rules** written as sentences: \"when the last subtask is ticked, move the card to Done\"; \"when a card reaches Review, add its checklist\"; archive finished cards after a while. Each rule logs what it did; Undo works .\n- **Card templates**: a card you make again and again, made fresh in one tap .\n- **Saved filters** and **custom fields** (above).\n\n**Look**\n- 16 more board templates, every cover (60), every board look (15), every widget style (9).\n\n**Share and look back**\n- **Designed exports**: poster and printable styles, and a **report** (open and done, eight weeks of finished cards, progress by category) .\n- **Board insights**: done, late and finished this week, per category .\n- **Board history**: what happened, day by day .\n\n**Always free:** boards, cards, categories, subtasks, drag and drop, due dates, reminders, the timeline, search, backup and plain export. If Pro ever goes away nothing you made is deleted; Pro looks fall back to the defaults and return with Pro.\n\n## Next-update preview\n\nThe new timeline, multi-category selection and suggested template fields are not in Google Play 1.0.0 (3) yet. The screenshots show the next update.",
+        "press": "# Press kit text (English)\n\n## Fact sheet\n\n| | |\n|---|---|\n| Name | Handy Boards |\n| Maker | Winka Studio (independent developer, Vietnam) |\n| Category | Productivity: Kanban boards, study and weekly planner, task manager |\n| Platforms | Android (Google Play, closed testing since 8 November 2026). iPhone, Windows and web: not released |\n| Languages | English, Vietnamese |\n| Price | Free, no ads. Optional Pro: one-time purchase (99,000 đ in Vietnam, US$3.89 in the US; Google Play's local price elsewhere) |\n| Account | None. No sign-in |\n| Data | Stays on the device. No servers, no analytics, no tracking. Optional sync to the user's own Google Drive |\n| Package | `com.apps.winka.handyboards` |\n| Contact | apps.winka.studio@gmail.com |\n| Icon / graphics | `brand/icon/`, `brand/feature-graphic/`, `brand/social/` |\n\n## 20 words\n\nHandy Boards is an offline Kanban app for school, home and projects: categories, subtasks, reminders and weeks you can plan.\n\n## 60 words\n\nHandy Boards puts every piece of work on a card and every card on a board. Columns show where work is, colours show what it belongs to, and a board can be laid out by day, week or month. Thirty templates start a semester, a trip or a sprint in a minute. No account, no ads; everything stays on the phone.\n\n## 150 words\n\nWork arrives from everywhere: a line in your notes, a message in the class group, a scrap of paper on the desk. Handy Boards gathers it onto boards you can see at a glance. Each card is one piece of work; columns say how far along it is; categories, such as a subject, a project or a room, give it a colour that follows it into every column.\n\nAny board can be planned over time with one tap. Cards added in next week belong to next week; a week gone by stays as it was, read-only, and unfinished cards say so, with one button to bring them forward. Thirty templates for study, work, home and creative projects ask a few questions and build the board, including the fields its cards need.\n\nThere is no account and no advertising, and the boards stay on the device. An optional one-time Pro purchase adds automation, repeating cards, My Work and designed exports.\n\n## Boilerplate\n\nHandy Boards is made by Winka Studio, an independent developer in Vietnam building the Handy apps: small, local-first tools with no accounts and no cloud AI. Handy Boards is available for Android on Google Play.",
+        "comparison": "# Why Handy Boards · Vì sao Handy Boards\n\nA comparison by **approach**, not by brand. Don't name competitors on the site or claim anything about them; describe the kinds of tools people use today.\n\n## English\n\n| | A notes app or to-do list | An online team board | **Handy Boards** |\n|---|---|---|---|\n| See where each piece of work is (columns) | No | Yes | **Yes** |\n| Colours that follow a card (categories) | Rarely | Labels | **Yes, with done/total per category** |\n| Plan by week and keep past weeks read-only | No | Usually no | **Yes** |\n| Works offline, no account | Often | No | **Yes** |\n| Ready boards for school, home and trips | No | Business templates | **30, with questions and fields** |\n| Your data stays on your phone | Depends | No (their servers) | **Yes; optional sync to your own Drive** |\n| Price | Free / subscription | Subscription for most features | **Free; Pro paid once** |\n\nWho it is for: students planning a semester, people keeping the house, a trip or a small project in order, freelancers and small teams who each want their own board on their own phone. Not for: real-time collaboration on one shared board (there is none), or teams that need accounts and permissions.\n\n## Tiếng Việt\n\n| | App ghi chú hay danh sách việc | Bảng nhóm trực tuyến | **Handy Boards** |\n|---|---|---|---|\n| Thấy việc nào đang ở đâu (cột) | Không | Có | **Có** |\n| Màu đi theo thẻ (nhóm) | Hiếm | Nhãn | **Có, kèm xong/tổng từng nhóm** |\n| Xếp theo tuần, tuần cũ chỉ xem | Không | Thường không | **Có** |\n| Dùng không cần mạng, không tài khoản | Thường có | Không | **Có** |\n| Bảng mẫu cho việc học, việc nhà, chuyến đi | Không | Mẫu doanh nghiệp | **30 mẫu, có câu hỏi và trường** |\n| Dữ liệu nằm trên điện thoại | Tuỳ app | Không (máy chủ của họ) | **Có; đồng bộ vào Drive của bạn nếu muốn** |\n| Giá | Miễn phí / thuê bao | Thuê bao cho đa số tính năng | **Miễn phí; Pro trả một lần** |\n\nDành cho: học sinh, sinh viên lên kế hoạch học kỳ; người giữ việc nhà, chuyến đi hay dự án nhỏ ngăn nắp; người làm tự do và nhóm nhỏ mà mỗi người muốn bảng riêng trên máy mình. Không dành cho: nhiều người cùng sửa một bảng theo thời gian thực (app không có), hay nhóm cần tài khoản và phân quyền.",
+        "credits": "Handy Boards by Winka Studio.\n\nScreens and films are rendered from the real Flutter UI using demonstration data; they are not device recordings. Plus Jakarta Sans is bundled under the SIL Open Font License.",
+        "changelog": "### Next update (finished 2026-11-09, not uploaded yet)\n- Plan a board by day, week or month from one Time chip; past periods are read-only and unfinished work can be brought to this period in one tap.\n- Pick several categories at once to see only their cards.\n- Templates suggest fields for their cards (cost, link, booked…), free to fill; every card has a Fields section.\n- Some templates ask whether to lay the board out by week, by month or not by time.\n\n### 1.0.0 (3) · 8 November 2026\n- Time view on every board, with a planned day apart from the due date; move work to today in one tap, with Undo.\n- Notifications: today's work, due soon, left behind, quiet hours; they ring on time.\n- Home-screen widgets: Today, Board progress, Left behind & coming up.\n- Optional Google Drive sync between your devices.\n- Pro: automation rules, digest of your boards, My Work, card templates, custom fields, saved filters, board history, report export, widget styles.\n\n### 1.0.0 (1) · first build\n- Kanban boards with categories, subtasks, due dates and reminders.\n- Templates, covers, a time view and a short guided tour.\n- Backup, automatic copies, Trash and archive. No account, no ads."
+      },
+      "vi": {
+        "features": "## 1. Bảng, cột, thẻ\n\n**Mỗi bảng cho một việc lớn trong đời.** Một học kỳ, một chuyến đi, việc nhà, một lần ra mắt, một sprint. Bảng có các cột cho biết việc đang ở đâu (Cần làm, Đang làm, Xong, hoặc tên bạn tự đặt) và các thẻ, mỗi thẻ là một việc.\n\n- Trên điện thoại mỗi cột gần đầy màn hình, vuốt ngang sang cột kế. Trên máy tính bảng và máy tính các cột nằm cạnh nhau.\n- Kéo thẻ sang cột khác hay chỗ khác. Không muốn kéo? **Chuyển tới…** liệt kê các cột, chọn \"Đầu\" hoặc \"Cuối\" . Mọi thao tác đều có Hoàn tác.\n- Đổi tên, thêm, sắp xếp, xoá cột; đánh dấu cột nào là đã xong.\n- Hiện thẻ gọn, hoặc hiện việc con ngay trên thẻ.\n- Trang chủ liệt kê các bảng kèm ảnh bìa, số thẻ còn mở và việc đến hạn hôm nay .\n\n**Một thẻ chứa trọn một việc.** Tiêu đề, cột, nhóm, hạn, ngày định làm, nhắc, lặp lại, ảnh bìa, việc con, ghi chú và trường .\n- Việc con: chia thẻ thành từng bước, tích dần, sắp xếp lại; thẻ hiện 2/5.\n- Ghi chú: link, chi tiết, điều cần nhớ.\n- Lịch sử thẻ: đổi gì, lúc nào.\n\n**Ảnh bìa.** Mỗi bảng, mỗi thẻ đều có thể dùng ảnh bìa vẽ riêng: học tập, công việc, nhà cửa, du lịch, sự kiện, mua sắm, sức khoẻ, mục tiêu, sáng tạo, trừu tượng, hoặc ảnh của bạn. 30 bìa miễn phí, đủ 60 bìa với Pro .\n\n## 2. Nhóm đi theo thẻ\n\nToán, Văn, Bếp, Thiết kế… Mỗi nhóm một màu, đi theo thẻ qua mọi cột.\n- Dải nhóm phía trên bảng cho biết mỗi nhóm xong bao nhiêu trên tổng, kèm thanh tiến độ.\n- **Chạm nhóm để chỉ xem thẻ của nhóm đó.** Chọn một, hoặc nhiều nhóm cùng lúc; chạm lại để bỏ. Thẻ khác chỉ bị ẩn, không bị đổi .\n- Thêm, đổi tên, đổi màu, sắp xếp, xoá nhóm trong một bảng chọn .\n\n## 3. Xếp theo ngày, tuần, tháng (dòng thời gian)\n\nMới trong bản này. Bảng nào cũng xếp được theo thời gian, và chỉ cần một chip trên bảng: **Thời gian** .\n\n- Chọn **Theo ngày**, **Theo tuần** hoặc **Theo tháng**. Mỗi thẻ nằm ở kỳ của ngày định làm (chưa có thì ngày tạo). Việc chưa xong từ trước được đem về kỳ hiện tại, có Hoàn tác.\n- **‹ và ›** để qua lại giữa các kỳ. Thêm thẻ ở tuần sau thì thẻ được xếp cho tuần sau .\n- **Kỳ đã qua chỉ để xem**: không thêm thẻ, không kéo thả. Thẻ còn mở ở đó có dải đỏ \"Chưa xong\" và nút **Đem qua tuần này**; đầu kỳ có \"Đem tất cả qua tuần này\" . Mở thẻ của kỳ cũ thì chỉ đọc, kèm \"Đánh dấu xong\" và \"Đem qua tuần này\" . Clip `timeline-vi`.\n- Bảng chỉ đổi được sang kỳ dài hơn (ngày → tuần → tháng), không đổi ngược lại, nên không thẻ nào rơi sai chỗ.\n- Tắt dòng thời gian thì không thẻ nào bị đổi: bảng thành Kanban thường, có lựa chọn lưu trữ thẻ đã xong. Bật lại thì thẻ nào về kỳ nấy.\n- Mẫu bảng sống theo thời gian thì bật sẵn; sáu mẫu (Kế hoạch học kỳ, Ôn thi, Học ngoại ngữ, Ra mắt sản phẩm, Mục tiêu 90 ngày, Chiến dịch truyền thông) hỏi \"Xếp theo: Theo tuần / Theo tháng / Không theo thời gian\" lúc tạo.\n- **Hạn nộp khác ngày định làm.** Hạn là hạn chót; ngày định làm là lúc bạn tính làm. Chuyển việc không bao giờ đổi hạn.\n- **Ngày quan trọng**: kết thúc học kỳ, ngày ra mắt, ngày chuyển nhà: tối đa 8 ngày mỗi bảng, hiện dưới tên bảng kèm \"còn 65 ngày\" .\n\n## 4. Nhắc việc và thông báo\n\n- Nhắc trên từng thẻ, đúng giờ bạn chọn. App chỉ xin quyền lần đầu bạn đặt nhắc.\n- Thông báo bật trong Cài đặt › Thông báo : việc hôm nay, sắp đến hạn (trong ngày, trước 1 ngày hoặc 3 ngày), việc còn tồn và giờ yên lặng. \"Ẩn tên thẻ\" để màn hình khoá không lộ tiêu đề. Kêu đúng giờ ở nơi Android cho phép báo thức chính xác.\n- **Tóm tắt các bảng** (Pro): một thông báo buổi sáng, hằng ngày hoặc mỗi tuần một lần, mỗi bảng có việc một dòng; bỏ qua bảng trống.\n- **Xem lại đầu tuần** (Pro): sáng thứ Hai, những việc còn lại từ tuần trước.\n\n## 5. Mẫu bảng: một phút là có bảng\n\n30 mẫu chia năm nhóm (Học tập, Công việc, Cá nhân & nhà, Sáng tạo, Kế hoạch & dịp), 14 miễn phí và 16 Pro, cùng bảng trống ba cột . Có ô tìm mẫu (\"chuyển nhà\", \"chuyến đi\").\n\nMiễn phí: **Kế hoạch học kỳ, Bài tập nhóm, Ôn thi, Khóa học cá nhân, Dự án Kanban, Kế hoạch làm việc tuần, Luồng ý tưởng, Việc cá nhân, Kế hoạch mua sắm, Kế hoạch nội dung, Bảng cảm hứng, Chuẩn bị chuyến đi, Kế hoạch tháng, Việc trọng tâm hôm nay**.\nPro: **Luận văn / Đồ án, Học ngoại ngữ, Đợt phát triển, Ra mắt sản phẩm, Việc sau cuộc họp, Cải thiện nhà cửa, Chuẩn bị sự kiện, Mục tiêu 90 ngày, Sắp xếp nhà cửa, Quy trình nhiếp ảnh, Dự án viết, Phát triển trò chơi, Chiến dịch truyền thông, Chuẩn bị workshop, Chuyển nhà, Kế hoạch dịp lễ**.\n\n- **Xem trọn bảng trước khi dùng**: cột, nhóm, ảnh bìa và thẻ ví dụ . Mẫu Pro cũng xem trước miễn phí.\n- **Smart Setup** hỏi vài câu (tên bảng, các môn, ngày kết thúc học kỳ, xếp theo gì) rồi cho xem bảng sẽ tạo trước khi tạo . Clip `template-vi`.\n- **Trường đi kèm mẫu.** Khoảng 20 mẫu gợi ý sẵn trường cho thẻ, đã tích sẵn: chuyến đi có Chi phí, Link đặt chỗ, Đã đặt, Địa chỉ; mua sắm có Giá, Link mua; sprint có Điểm story, Người làm . Bỏ tích trường không cần. **Trường đi kèm mẫu điền miễn phí.**\n- Mẫu chỉ định hình bảng mới; sửa bảng không bao giờ đổi mẫu.\n- Lưu bảng bất kỳ thành mẫu của riêng bạn (menu bảng).\n\n## 6. Trường trên thẻ\n\nThẻ nào cũng có mục **Trường**, nút \"Thêm trường\" hoặc \"Sửa trường\" nằm ngay đó .\n- Kiểu: chữ, số, ngày, có/không, một lựa chọn, link. Trường có thể hiện luôn ở mặt thẻ.\n- Trường đi kèm mẫu thì điền miễn phí. **Tự tạo trường là Pro** ; giá trị đã lưu vẫn xem được khi không còn Pro.\n\n## 7. Tìm gì cũng thấy\n\n- **Tìm trên mọi bảng** từ Trang chủ: tiêu đề và ghi chú của thẻ .\n- Tìm trong một bảng từ thanh công cụ của bảng.\n- Bộ lọc trên bảng: theo nhóm, \"Hạn trong 3 ngày\", và **bộ lọc đã lưu** (Pro) như \"Toán, sắp hạn\" .\n\n## 8. Lấy lại được\n\n- **Thùng rác** giữ thẻ đã xoá cho tới khi bạn dọn; khôi phục thẻ nào cũng được .\n- **Lưu trữ** thẻ đã xong và cả bảng; lấy lại trong Cài đặt › Dữ liệu.\n- **Hoàn tác** sau mỗi lần chuyển, xoá, sửa.\n- **Sao lưu** thành một tệp bạn giữ, **khôi phục** từ tệp (xem trước rồi mới làm), và **tự sao lưu**: giữ bảy bản gần nhất trên máy.\n- **Xoá toàn bộ dữ liệu** khi muốn bắt đầu lại.\n\n## 9. Đưa việc vào, xuất ra\n\n- **Chia sẻ chữ sang Handy Boards** từ app bất kỳ, chữ thành một thẻ.\n- Nhập: tệp xuất từ **Trello** (kiểm tra trước khi thêm), **CSV** với cách ghép cột tự chọn, **danh sách việc** dạng chữ, tệp **mẫu bảng**, hoặc bản sao lưu.\n- Xuất: bảng thành **ảnh hoặc PDF** (kiểu thường miễn phí), **CSV**, **Markdown**, lịch **ICS** cho các ngày, hoặc sao lưu đầy đủ .\n\n## 10. Trên màn hình chính\n\nNăm widget :\n- Miễn phí: **Hôm nay**, **Tiến độ bảng**, **Còn tồn & sắp tới**.\n- Pro: **Việc của tôi** và **Tuần**.\n- 3 kiểu widget miễn phí, đủ 9 kiểu với Pro. Tắt \"Hiện tên thẻ\" thì widget chỉ hiện con số.\n\n## 11. Theo ý bạn\n\n- Sáng, tối hoặc theo hệ thống; tiếng Việt hoặc tiếng Anh.\n- **Giao diện bảng**: 5 nền miễn phí, 15 nền với Pro (giấy, xô thơm, bản vẽ, phấn hồng…), làm cho cả sáng lẫn tối .\n- **Phần giới thiệu** ngắn cho bạn tập trên một bảng mẫu (thêm thẻ, kéo thẻ, chọn nhóm, tích việc con) trước khi bắt đầu; không lưu gì .\n- **Cách dùng**: hướng dẫn trong app, từng chủ đề, có ví dụ chuyển động nhỏ .\n\n## 12. Đồng bộ giữa các máy Android (tuỳ chọn)\n\nTắt cho tới khi bạn bật trong Cài đặt › Dữ liệu › Đồng bộ. Bảng được giữ trong thư mục ẩn của **chính** Google Drive của bạn (`drive.appdata`): app không thấy tệp khác của bạn và nhà phát triển không nhận được gì. Máy Android khác cùng tài khoản Google có cùng các bảng. Tắt đồng bộ không xoá gì.\n(Có từ bản 1.0.0 (3). Đã chạy thử trên hai máy ảo Android với tài khoản Google thật ngày 08/11/2026; chưa thử trên điện thoại thật. Chỉ có trên Android.)\n\n## Handy Boards Pro (mua một lần)\n\n\"Trả một lần. Dùng mãi.\" Không thuê bao, không quảng cáo, không tài khoản. Ảnh: `…-29-pro.png`, clip `pro-vi`.\n\n**Lên kế hoạch**\n- **Việc của tôi trên mọi bảng**: hôm nay, việc còn tồn và sắp tới của mọi bảng trong một danh sách; chạm là mở thẻ ngay trong bảng của nó .\n- **Tự chuyển việc tồn**: sang ngày hay tuần mới, xem lại việc còn tồn hoặc để app tự chuyển về hôm nay. Chỉ đổi ngày định làm, không bao giờ đổi hạn. Chuyển bằng tay vẫn miễn phí.\n- **Thẻ lặp lại**: tiền nhà, báo cáo, họp scrum thứ Hai tự quay lại theo nhịp: mỗi vài ngày, vào các thứ đã chọn, hoặc một ngày trong tháng . Trên bảng có dòng thời gian, bản kế tiếp nằm ở kỳ kế tiếp. Bỏ lặp luôn miễn phí.\n- Thông báo **Tóm tắt các bảng** và **Xem lại đầu tuần**.\n\n**Tự động**\n- **Luật tự động** viết như một câu: \"tick việc con cuối thì chuyển thẻ sang Xong\"; \"thẻ vào Review thì thêm danh sách kiểm\"; lưu trữ thẻ xong sau một thời gian. Mỗi luật ghi lại đã làm gì, luôn hoàn tác được .\n- **Mẫu thẻ**: thẻ hay làm lại, một chạm là có thẻ mới .\n- **Bộ lọc đã lưu** và **trường tuỳ chỉnh** (ở trên).\n\n**Giao diện**\n- Thêm 16 mẫu bảng, mọi ảnh bìa (60), mọi nền bảng (15), mọi kiểu widget (9).\n\n**Xuất và xem lại**\n- **Bản xuất đẹp**: kiểu poster, bản in, và **báo cáo** (đang mở và đã xong, số thẻ xong 8 tuần, tiến độ theo nhóm) .\n- **Thống kê bảng**: xong, trễ và xong trong tuần, theo từng nhóm .\n- **Lịch sử bảng**: chuyện gì đã xảy ra, theo từng ngày .\n\n**Luôn miễn phí:** bảng, thẻ, nhóm, việc con, kéo thả, hạn, nhắc việc, dòng thời gian, tìm kiếm, sao lưu và xuất thường. Nếu không còn Pro, không gì bạn đã tạo bị xoá; kiểu Pro tạm về mặc định và trở lại khi có Pro.\n\n## Bản cập nhật tới\n\nDòng thời gian mới, chọn nhiều nhóm và trường gợi ý của mẫu chưa có trong Google Play 1.0.0 (3). Các ảnh mô tả bản cập nhật kế tiếp.",
+        "press": "# Thông tin báo chí (Tiếng Việt)\n\n## Thông tin nhanh\n\n| | |\n|---|---|\n| Tên | Handy Boards |\n| Nhà phát triển | Winka Studio (nhà phát triển độc lập, Việt Nam) |\n| Thể loại | Năng suất: bảng Kanban, kế hoạch học tập và tuần, quản lý việc |\n| Nền tảng | Android (Google Play, kiểm thử kín từ 08/11/2026). iPhone, Windows và web: chưa phát hành |\n| Ngôn ngữ | Tiếng Việt, tiếng Anh |\n| Giá | Miễn phí, không quảng cáo. Pro tuỳ chọn: mua một lần (99.000 đ ở Việt Nam, 3,89 USD ở Mỹ; nơi khác theo giá Google Play) |\n| Tài khoản | Không. Không đăng nhập |\n| Dữ liệu | Nằm trên máy. Không máy chủ, không thống kê, không theo dõi. Có thể đồng bộ vào chính Google Drive của người dùng |\n| Gói | `com.apps.winka.handyboards` |\n| Liên hệ | apps.winka.studio@gmail.com |\n| Biểu tượng / đồ hoạ | `brand/icon/`, `brand/feature-graphic/`, `brand/social/` |\n\n## 20 chữ\n\nHandy Boards là app Kanban không cần mạng cho việc học, việc nhà, dự án: nhóm màu, việc con, nhắc việc, xếp theo tuần.\n\n## 60 chữ\n\nHandy Boards đưa mỗi việc thành một thẻ và mỗi thẻ lên một bảng. Cột cho biết việc đang ở đâu, màu cho biết việc thuộc về gì, và bảng có thể xếp theo ngày, tuần hay tháng. Ba mươi mẫu giúp bắt đầu một học kỳ, một chuyến đi hay một sprint trong một phút. Không tài khoản, không quảng cáo; mọi thứ nằm trên điện thoại.\n\n## 150 chữ\n\nViệc đến từ khắp nơi: một dòng ghi chú, một tin nhắn nhóm lớp, một mẩu giấy trên bàn. Handy Boards gom tất cả về những tấm bảng nhìn một lần là hiểu. Mỗi thẻ là một việc; cột cho biết việc đã tới đâu; nhóm, như một môn học, một dự án hay một căn phòng, cho thẻ một màu đi theo nó qua mọi cột.\n\nBảng nào cũng xếp được theo thời gian bằng một chạm. Thẻ thêm ở tuần sau thì thuộc về tuần sau; tuần đã qua giữ nguyên để xem, thẻ chưa xong được đánh dấu, một nút là đem qua tuần này. Ba mươi mẫu cho việc học, công việc, việc nhà và dự án sáng tạo hỏi vài câu rồi dựng bảng, kể cả các trường thẻ cần.\n\nKhông tài khoản, không quảng cáo, bảng nằm trên máy. Gói Pro mua một lần (tuỳ chọn) thêm tự động hoá, thẻ lặp lại, Việc của tôi và bản xuất đẹp.\n\n## Đoạn giới thiệu chung\n\nHandy Boards do Winka Studio làm, một nhà phát triển độc lập ở Việt Nam đang xây dựng các app Handy: công cụ nhỏ, dữ liệu nằm trên máy, không tài khoản và không AI đám mây. Handy Boards có trên Android qua Google Play.",
+        "comparison": "# Why Handy Boards · Vì sao Handy Boards\n\nA comparison by **approach**, not by brand. Don't name competitors on the site or claim anything about them; describe the kinds of tools people use today.\n\n## English\n\n| | A notes app or to-do list | An online team board | **Handy Boards** |\n|---|---|---|---|\n| See where each piece of work is (columns) | No | Yes | **Yes** |\n| Colours that follow a card (categories) | Rarely | Labels | **Yes, with done/total per category** |\n| Plan by week and keep past weeks read-only | No | Usually no | **Yes** |\n| Works offline, no account | Often | No | **Yes** |\n| Ready boards for school, home and trips | No | Business templates | **30, with questions and fields** |\n| Your data stays on your phone | Depends | No (their servers) | **Yes; optional sync to your own Drive** |\n| Price | Free / subscription | Subscription for most features | **Free; Pro paid once** |\n\nWho it is for: students planning a semester, people keeping the house, a trip or a small project in order, freelancers and small teams who each want their own board on their own phone. Not for: real-time collaboration on one shared board (there is none), or teams that need accounts and permissions.\n\n## Tiếng Việt\n\n| | App ghi chú hay danh sách việc | Bảng nhóm trực tuyến | **Handy Boards** |\n|---|---|---|---|\n| Thấy việc nào đang ở đâu (cột) | Không | Có | **Có** |\n| Màu đi theo thẻ (nhóm) | Hiếm | Nhãn | **Có, kèm xong/tổng từng nhóm** |\n| Xếp theo tuần, tuần cũ chỉ xem | Không | Thường không | **Có** |\n| Dùng không cần mạng, không tài khoản | Thường có | Không | **Có** |\n| Bảng mẫu cho việc học, việc nhà, chuyến đi | Không | Mẫu doanh nghiệp | **30 mẫu, có câu hỏi và trường** |\n| Dữ liệu nằm trên điện thoại | Tuỳ app | Không (máy chủ của họ) | **Có; đồng bộ vào Drive của bạn nếu muốn** |\n| Giá | Miễn phí / thuê bao | Thuê bao cho đa số tính năng | **Miễn phí; Pro trả một lần** |\n\nDành cho: học sinh, sinh viên lên kế hoạch học kỳ; người giữ việc nhà, chuyến đi hay dự án nhỏ ngăn nắp; người làm tự do và nhóm nhỏ mà mỗi người muốn bảng riêng trên máy mình. Không dành cho: nhiều người cùng sửa một bảng theo thời gian thực (app không có), hay nhóm cần tài khoản và phân quyền.",
+        "credits": "Handy Boards của Winka Studio.\n\nẢnh và clip được kết xuất từ giao diện Flutter thật với dữ liệu minh họa; không phải bản quay thiết bị. Plus Jakarta Sans được đóng gói theo SIL Open Font License.",
+        "changelog": "### Bản cập nhật tới (xong 09/11/2026, chưa tải lên)\n- Xếp bảng theo ngày, tuần hoặc tháng từ một chip Thời gian; kỳ đã qua chỉ để xem, việc chưa xong đem qua kỳ này bằng một chạm.\n- Chọn nhiều nhóm cùng lúc để chỉ xem thẻ của chúng.\n- Mẫu bảng gợi ý trường cho thẻ (chi phí, link, đã đặt…), điền miễn phí; thẻ nào cũng có mục Trường.\n- Một số mẫu hỏi xếp bảng theo tuần, theo tháng hay không theo thời gian.\n\n### 1.0.0 (3) · 08/11/2026\n- Chế độ Thời gian cho mọi bảng, ngày làm tách khỏi hạn nộp; chuyển việc về hôm nay bằng một chạm, có Hoàn tác.\n- Thông báo: việc hôm nay, sắp đến hạn, còn tồn, giờ yên lặng; kêu đúng giờ.\n- Widget màn hình chính: Hôm nay, Tiến độ bảng, Còn tồn & sắp tới.\n- Đồng bộ Google Drive giữa các máy (tuỳ chọn).\n- Pro: luật tự động, tóm tắt các bảng, Việc của tôi, mẫu thẻ, trường tuỳ chỉnh, bộ lọc đã lưu, lịch sử bảng, xuất báo cáo, kiểu widget.\n\n### 1.0.0 (1) · bản đầu tiên\n- Bảng Kanban có nhóm, việc con, hạn và nhắc việc.\n- Mẫu bảng, ảnh bìa, xem theo thời gian và phần hướng dẫn ngắn.\n- Sao lưu, tự sao lưu, thùng rác và lưu trữ. Không tài khoản, không quảng cáo."
+      }
+    },
+    "faq": {
+      "en": [
+        {
+          "question": "Is Handy Boards free?",
+          "answer": "Yes. Boards, cards, categories, subtasks, drag and drop, due dates, reminders, the timeline, search, backups and plain export are free, with no ads and no limit on boards or cards. Handy Boards Pro is an optional one-time purchase for extra templates, covers and looks, repeating cards, automation, My Work, designed exports and insights."
+        },
+        {
+          "question": "Is Pro a subscription?",
+          "answer": "No. You pay once through Google Play and keep it. There is nothing to renew or cancel. Reinstalling, or using another device with the same Google account, restores it (Settings › Upgrade to Pro › Restore)."
+        },
+        {
+          "question": "How much is Pro?",
+          "answer": "The price Google Play shows before you buy, in your currency (99,000 đ in Vietnam and US$3.89 in the United States at launch; Google Play sets the equivalent elsewhere)."
+        },
+        {
+          "question": "What happens to my boards if Pro goes away?",
+          "answer": "Nothing you made is deleted. Pro looks fall back to the defaults and come back with Pro; values in your own fields stay readable; repeating cards keep their dates."
+        },
+        {
+          "question": "Do I need an account?",
+          "answer": "No. There is no sign-in. Open the app and make a board."
+        },
+        {
+          "question": "Where are my boards kept?",
+          "answer": "In the app's private storage on your device. The developer has no server and receives nothing. Backups are files you make and keep yourself."
+        },
+        {
+          "question": "Does it work offline?",
+          "answer": "Yes, completely. Nothing in the app needs the internet except Google Play's own purchase screen, and Google Drive sync if you switch it on."
+        },
+        {
+          "question": "Can I use it on two phones?",
+          "answer": "Yes, with the optional Google Drive sync (Settings › Data › Sync, Android): your boards go to a hidden folder in your own Google Drive and reach your other Android devices on the same account. Without sync, move boards with a backup file."
+        },
+        {
+          "question": "Is it for school or for work?",
+          "answer": "Both, and for home. The welcome asks what you mostly organise (study, work, or neither) only to suggest examples and templates; every template is open to everyone."
+        },
+        {
+          "question": "What is a category?",
+          "answer": "A colour for what a card is about: a subject, a project, a room, a person. It follows the card into every column. Tap one or several categories in the strip to see only their cards."
+        },
+        {
+          "question": "How do I plan by week?",
+          "answer": "Tap **Time** on the board and choose By day, By week or By month. Use ‹ and › to move between periods. Cards you add in next week are planned for next week. Past periods are read-only; unfinished cards there are marked and can be brought to this week with one tap."
+        },
+        {
+          "question": "Can I change a weekly board to monthly, or turn it off?",
+          "answer": "You can move to a longer period (day → week → month), not back to a shorter one, so no card lands in the wrong place. Turning the timeline off changes no card; you can archive cards already done at the same time. Turned on again, every card is back in its period."
+        },
+        {
+          "question": "What is the difference between a due date and the planned day?",
+          "answer": "The due date is the deadline. The planned day is when you mean to do it. Moving work to today, or bringing it to this week, changes only the planned day, never the due date."
+        },
+        {
+          "question": "Can a card repeat, like a meeting every Monday?",
+          "answer": "Yes, with Pro: daily, weekly (on the weekdays you choose), monthly, every few days, with an end if you want one. When it is done, the next one appears; on a timeline board it lands in the next period."
+        },
+        {
+          "question": "Will it remind me?",
+          "answer": "Yes. Set a reminder on any card. In Settings › Notifications you can also switch on today's work, due soon, left behind and quiet hours. \"Hide card names\" keeps titles off the lock screen."
+        },
+        {
+          "question": "Are there home-screen widgets?",
+          "answer": "Yes: Today, Board progress and Left behind & coming up are free; My Work and Week come with Pro. Long-press your home screen › Widgets › Handy Boards."
+        },
+        {
+          "question": "What are fields?",
+          "answer": "Extra details on every card of a board: a cost, a link, booked yes/no, an owner. Many templates bring suitable fields that are free to fill; making your own fields is Pro."
+        },
+        {
+          "question": "Can I bring my Trello boards?",
+          "answer": "Yes. Export a board from Trello as JSON and import it in Settings › Data; you see what will be added before anything changes. CSV files (with your own column mapping) and plain task lists work too."
+        },
+        {
+          "question": "Can I export a board?",
+          "answer": "Yes: a picture or PDF of the board (plain style free; poster, printable and report with Pro), CSV, Markdown, an ICS calendar, or a full backup."
+        },
+        {
+          "question": "What if I delete something by mistake?",
+          "answer": "Undo appears after every change. Deleted cards wait in Trash until you empty it, finished work can be archived instead of deleted, and automatic backups keep the last seven copies on the device."
+        },
+        {
+          "question": "Which platforms?",
+          "answer": "Android today, in early access on Google Play. iPhone, Windows and web versions are not released."
+        },
+        {
+          "question": "Which languages?",
+          "answer": "English and Vietnamese, chosen in Settings (or following the phone)."
+        },
+        {
+          "question": "How do I contact you?",
+          "answer": "apps.winka.studio@gmail.com, or Settings › Send feedback. Issues: https://github.com/Winka173/Handy-Suite/issues"
+        }
+      ],
+      "vi": [
+        {
+          "question": "Handy Boards có miễn phí không?",
+          "answer": "Có. Bảng, thẻ, nhóm, việc con, kéo thả, hạn, nhắc việc, dòng thời gian, tìm kiếm, sao lưu và xuất thường đều miễn phí, không quảng cáo, không giới hạn số bảng hay số thẻ. Handy Boards Pro là gói mua một lần (không bắt buộc) cho thêm mẫu, ảnh bìa và giao diện, thẻ lặp lại, tự động hoá, Việc của tôi, bản xuất đẹp và thống kê."
+        },
+        {
+          "question": "Pro có phải thuê bao không?",
+          "answer": "Không. Bạn trả một lần qua Google Play và dùng mãi. Không có gì phải gia hạn hay huỷ. Cài lại app, hoặc dùng máy khác cùng tài khoản Google, là có lại Pro (Cài đặt › Nâng cấp Pro › Khôi phục)."
+        },
+        {
+          "question": "Pro giá bao nhiêu?",
+          "answer": "Giá Google Play hiện trước khi bạn mua, theo tiền tệ của bạn (99.000 đ ở Việt Nam và 3,89 USD ở Mỹ lúc ra mắt; nơi khác do Google Play quy đổi)."
+        },
+        {
+          "question": "Nếu không còn Pro thì bảng của tôi sao?",
+          "answer": "Không gì bị xoá. Kiểu Pro tạm về mặc định và trở lại khi có Pro; giá trị trong trường tự tạo vẫn xem được; thẻ lặp lại giữ nguyên ngày."
+        },
+        {
+          "question": "Có cần tài khoản không?",
+          "answer": "Không. Không đăng nhập gì cả. Mở app là tạo bảng."
+        },
+        {
+          "question": "Bảng của tôi được lưu ở đâu?",
+          "answer": "Trong bộ nhớ riêng của app trên máy bạn. Nhà phát triển không có máy chủ và không nhận được gì. Bản sao lưu là tệp bạn tự tạo và tự giữ."
+        },
+        {
+          "question": "Có dùng được khi không có mạng không?",
+          "answer": "Có, hoàn toàn. App không cần mạng, trừ màn mua hàng của Google Play và đồng bộ Google Drive nếu bạn bật."
+        },
+        {
+          "question": "Dùng trên hai điện thoại được không?",
+          "answer": "Được, bằng đồng bộ Google Drive (Cài đặt › Dữ liệu › Đồng bộ, Android): bảng được giữ trong thư mục ẩn của chính Google Drive của bạn và tới các máy Android khác cùng tài khoản. Không bật đồng bộ thì chuyển bảng bằng tệp sao lưu."
+        },
+        {
+          "question": "App dành cho việc học hay công việc?",
+          "answer": "Cả hai, và cả việc nhà. Phần giới thiệu hỏi bạn chủ yếu sắp xếp gì (học tập, công việc, hoặc không chọn) chỉ để gợi ý ví dụ và mẫu; mẫu nào cũng dùng được."
+        },
+        {
+          "question": "Nhóm là gì?",
+          "answer": "Một màu cho biết thẻ thuộc về gì: một môn học, một dự án, một phòng, một người. Nhóm đi theo thẻ qua mọi cột. Chạm một hay nhiều nhóm trên dải nhóm để chỉ xem thẻ của chúng."
+        },
+        {
+          "question": "Làm sao xếp việc theo tuần?",
+          "answer": "Chạm **Thời gian** trên bảng, chọn Theo ngày, Theo tuần hoặc Theo tháng. Dùng ‹ và › để qua lại giữa các kỳ. Thẻ thêm ở tuần sau thì được xếp cho tuần sau. Kỳ đã qua chỉ để xem; thẻ chưa xong ở đó được đánh dấu và một chạm là đem qua tuần này."
+        },
+        {
+          "question": "Đổi bảng theo tuần sang theo tháng, hay tắt đi được không?",
+          "answer": "Đổi được sang kỳ dài hơn (ngày → tuần → tháng), không đổi ngược lại, để không thẻ nào rơi sai chỗ. Tắt dòng thời gian không đổi thẻ nào; có thể lưu trữ luôn các thẻ đã xong. Bật lại thì thẻ nào về kỳ nấy."
+        },
+        {
+          "question": "Hạn nộp và ngày định làm khác nhau thế nào?",
+          "answer": "Hạn nộp là hạn chót. Ngày định làm là lúc bạn tính làm. Chuyển việc về hôm nay hay đem qua tuần này chỉ đổi ngày định làm, không bao giờ đổi hạn."
+        },
+        {
+          "question": "Thẻ có lặp lại được không, như họp mỗi thứ Hai?",
+          "answer": "Được, với Pro: hằng ngày, hằng tuần (vào các thứ bạn chọn), hằng tháng, mỗi vài ngày, có ngày kết thúc nếu muốn. Xong lần này thì lần sau tự hiện ra; trên bảng có dòng thời gian, thẻ mới nằm ở kỳ kế tiếp."
+        },
+        {
+          "question": "App có nhắc tôi không?",
+          "answer": "Có. Đặt nhắc trên thẻ bất kỳ. Trong Cài đặt › Thông báo có thể bật thêm việc hôm nay, sắp đến hạn, việc còn tồn và giờ yên lặng. \"Ẩn tên thẻ\" để màn hình khoá không lộ tiêu đề."
+        },
+        {
+          "question": "Có widget màn hình chính không?",
+          "answer": "Có: Hôm nay, Tiến độ bảng và Còn tồn & sắp tới miễn phí; Việc của tôi và Tuần đi kèm Pro. Nhấn giữ màn hình chính › Tiện ích (Widget) › Handy Boards."
+        },
+        {
+          "question": "Trường là gì?",
+          "answer": "Thông tin thêm cho mọi thẻ của một bảng: chi phí, link, đã đặt hay chưa, người làm. Nhiều mẫu mang sẵn trường phù hợp và điền miễn phí; tự tạo trường là Pro."
+        },
+        {
+          "question": "Mang bảng Trello sang được không?",
+          "answer": "Được. Xuất bảng Trello ra JSON rồi nhập trong Cài đặt › Dữ liệu; bạn xem trước những gì sẽ được thêm. Tệp CSV (tự chọn cách ghép cột) và danh sách việc dạng chữ cũng nhập được."
+        },
+        {
+          "question": "Xuất bảng ra được không?",
+          "answer": "Được: ảnh hoặc PDF của bảng (kiểu thường miễn phí; poster, bản in và báo cáo với Pro), CSV, Markdown, lịch ICS, hoặc sao lưu đầy đủ."
+        },
+        {
+          "question": "Lỡ xoá nhầm thì sao?",
+          "answer": "Sau mỗi thay đổi đều có Hoàn tác. Thẻ đã xoá nằm trong Thùng rác tới khi bạn dọn, việc đã xong có thể lưu trữ thay vì xoá, và tự sao lưu giữ bảy bản gần nhất trên máy."
+        },
+        {
+          "question": "Có trên nền tảng nào?",
+          "answer": "Hiện có trên Android, thử nghiệm sớm trên Google Play. Bản iPhone, Windows và web chưa phát hành."
+        },
+        {
+          "question": "Có những ngôn ngữ nào?",
+          "answer": "Tiếng Việt và tiếng Anh, chọn trong Cài đặt (hoặc theo điện thoại)."
+        },
+        {
+          "question": "Liên hệ thế nào?",
+          "answer": "apps.winka.studio@gmail.com, hoặc Cài đặt › Gửi góp ý. Báo lỗi: https://github.com/Winka173/Handy-Suite/issues"
+        }
+      ]
+    },
+    "pricing": {
+      "en": "| | Free | Pro |\n|---|---|---|\n| Boards, cards, categories, subtasks | No limits | No limits |\n| Board templates | 14 | All 30 |\n| Covers | 30 | All 60 |\n| Board looks | 5 | All 15 |\n| Home-screen widgets | Today, Board progress, Left behind & coming up; 3 styles | + My Work and Week; all 9 styles |\n| Notifications | Reminders, today, due soon, left behind, quiet hours | + Board digest, Monday review |\n| Planning | Timeline by day/week/month, move to today by hand | + My Work, smart carry-over, repeating cards |\n| Automation | — | Rules, saved filters, card templates, custom fields |\n| Fields | Fields that come with a template, free to fill | + make your own |\n| Export | Plain picture/PDF, CSV, Markdown, ICS, backups | + Poster, printable, report |\n| Looking back | Card history | + Board insights, board history |\n| Sync, backup, Trash, archive | ✓ | ✓ |\n| Ads | None | None |\n\nIf Pro ever goes away, nothing you made is deleted; Pro looks fall back to the defaults and come back with Pro.",
+      "vi": "| | Miễn phí | Pro |\n|---|---|---|\n| Bảng, thẻ, nhóm, việc con | Không giới hạn | Không giới hạn |\n| Mẫu bảng | 14 | Cả 30 mẫu |\n| Ảnh bìa | 30 | Cả 60 bìa |\n| Nền bảng | 5 | Cả 15 nền |\n| Widget màn hình chính | Hôm nay, Tiến độ bảng, Còn tồn & sắp tới; 3 kiểu | + Việc của tôi và Tuần; đủ 9 kiểu |\n| Thông báo | Nhắc việc, hôm nay, sắp đến hạn, việc còn tồn, giờ yên lặng | + Tóm tắt các bảng, xem lại thứ Hai |\n| Lên kế hoạch | Dòng thời gian theo ngày/tuần/tháng, tự tay chuyển về hôm nay | + Việc của tôi, tự chuyển việc tồn, thẻ lặp lại |\n| Tự động | — | Luật, bộ lọc đã lưu, mẫu thẻ, trường tuỳ chỉnh |\n| Trường | Trường đi kèm mẫu, điền miễn phí | + tự tạo trường |\n| Xuất | Ảnh/PDF thường, CSV, Markdown, ICS, sao lưu | + Poster, bản in, báo cáo |\n| Xem lại | Lịch sử thẻ | + Thống kê bảng, lịch sử bảng |\n| Đồng bộ, sao lưu, thùng rác, lưu trữ | ✓ | ✓ |\n| Quảng cáo | Không | Không |\n\nNếu không còn Pro, không gì bạn đã tạo bị xoá; kiểu Pro tạm về mặc định và trở lại khi có Pro."
+    },
+    "legal": {
+      "en": {
+        "privacy": "# Privacy Policy · Chính sách quyền riêng tư\n\n**Handy Boards** — last updated 8 November 2026 (Google Drive sync added) · cập nhật 08/11/2026 (thêm đồng bộ Google Drive)\n\nHandy Boards keeps your boards, cards and pictures on your device. It has no\naccounts, no servers of its own, no analytics and no ads. We do not collect,\nstore, sell or share any personal data.\n\n### What the app keeps, and where\n\n- **Your boards** (columns, cards, subtasks, categories, notes, due dates,\n  reminders, covers, photos you add and settings) are stored in the app's\n  private storage on your device.\n- **Text shared to the app** from another app becomes a card, saved in the\n  same private storage.\n- **Automatic copies** (when you switch on *Back up automatically*) are kept\n  in the app's private storage on the same device, the last seven.\n- **Backups and exports** are files you create and place yourself.\n\n### What goes over the internet\n\nNothing from your boards, unless you switch on Google Drive sync (below). The\napp reads no web pages and sends no data anywhere else. Other network use is\nGoogle Play's own purchase screen when you buy or restore Pro. Links in your notes open in your browser only when you tap them.\n\n### Google Drive sync (optional, Android)\n\nOff unless you switch it on in *Settings › Data › Sync*. Then Google asks you\nto let Handy Boards use its own hidden folder in **your** Google Drive (the\n`drive.appdata` permission): the app cannot see your other Drive files.\n\n- Your boards (columns, cards, subtasks, categories, notes, dates, covers and\n  the photos you added) are copied there, so your other Android devices signed\n  in to the same Google account get the same boards. Theme, language,\n  reminder permission, the widget and the activity log stay on each device.\n- It goes from your device straight to Google; the developer has no server in\n  between and receives nothing. Google stores it under its own terms. It is\n  ordinary Drive data, not end-to-end encrypted.\n- Turning sync off deletes nothing. To delete the Drive copy, open Google\n  Drive › Settings › Manage apps › Handy Boards › Delete hidden app data.\n\n### Permissions\n\n- **Notifications**: reminders you set on a card; scheduled on the device,\n  and asked for only the first time you set one.\n- **Run at startup**: so reminders set before a restart still arrive.\n- Photos are added only through the system picker; the app has no access to\n  your photo library otherwise.\n\n### Deleting your data\n\nDelete cards or boards in the app (Trash keeps cards until you empty it),\nuse *Settings › Data › Delete all data*, or uninstall the app to remove\neverything it stored. Backup files you made stay where you put them until you\ndelete them.\n\n### Children\n\nHandy Boards is not directed at children and collects no personal information\nfrom anyone, children included.\n\n### Changes\n\nIf this policy changes, the new version will be published at the same address\nwith the date above updated.\n\n### Contact\n\nQuestions about this policy: open an issue at\n<https://github.com/Winka173/Handy-Suite/issues> or write to\napps.winka.studio@gmail.com.",
+        "terms": "# Terms of Service · Điều khoản dịch vụ\n\n**Handy Boards** — last updated 8 November 2026 · cập nhật 08/11/2026\n\nThese terms apply to the Handy Boards app, made by Winka Studio. By using\nthe app you accept them.\n\n### The app\n\n- Handy Boards keeps your boards, cards and pictures on your device and helps\n  you plan and finish work. It has no accounts and no servers of its own.\n- The free features can be used without paying.\n- What the app keeps and sends is described in the\n  [Privacy Policy](https://github.com/Winka173/Handy-Suite/blob/ui-rebuild/apps/handy_boards/PRIVACY.md).\n\n### Handy Boards Pro\n\n- Pro is a one-time in-app purchase through Google Play. It is not a\n  subscription; there is nothing to renew or cancel.\n- The price is the one Google Play shows before you buy, in your currency.\n- Pro is tied to the Google account that bought it. Reinstalling the app, or\n  using it on another device with the same account, restores it (Settings ›\n  Handy Boards Pro › Restore purchase).\n- Payments and refunds are handled by Google Play under its terms and refund\n  policy. Where the law of your country gives you further rights, they apply.\n\n### Your content\n\n- What you write and add is yours. You are responsible for it and for\n  respecting the rights of others in the pictures and texts you add.\n- Your boards live on your device. Keep backups (Settings › Data): if the\n  device is lost or the app is removed, data without a backup cannot be\n  recovered, because we hold no copy.\n\n### Fair use\n\nDo not use the app to break the law, to infringe others' rights, or to\nto harm others.\n\n### No warranty\n\nThe app is provided as it is. We work to keep it correct and safe but cannot\npromise it will always work\nor that it is free of errors. To the extent the law allows, we are not liable\nfor lost data or indirect damage arising from its use. Nothing here limits\nrights you have under consumer law that cannot be excluded.\n\n### Changes\n\nThese terms may change with the app. The new version is published at the\nsame address with the date above updated.\n\n### Contact\n\nQuestions: open an issue at <https://github.com/Winka173/Handy-Suite/issues>\nor write to apps.winka.studio@gmail.com."
+      },
+      "vi": {
+        "privacy": "# Privacy Policy · Chính sách quyền riêng tư\n\n**Handy Boards** — last updated 8 November 2026 (Google Drive sync added) · cập nhật 08/11/2026 (thêm đồng bộ Google Drive)\n\nHandy Boards giữ bảng, thẻ và ảnh của bạn trên máy của bạn. App không có tài\nkhoản, không có máy chủ riêng, không có công cụ thống kê và không có quảng\ncáo. Chúng tôi không thu thập, lưu trữ, bán hay chia sẻ dữ liệu cá nhân nào.\n\n### App giữ gì, ở đâu\n\n- **Các bảng của bạn** (cột, thẻ, việc con, nhóm, ghi chú, hạn, nhắc việc,\n  ảnh bìa, ảnh bạn thêm và cài đặt) được lưu trong bộ nhớ riêng của app trên\n  máy.\n- **Chữ được chia sẻ vào app** từ app khác trở thành một thẻ, lưu trong cùng\n  bộ nhớ riêng đó.\n- **Bản tự sao lưu** (khi bạn bật *Tự sao lưu*) nằm trong bộ nhớ riêng của\n  app trên chính máy đó, giữ 7 bản gần nhất.\n- **Bản sao lưu và bản xuất** là tệp do bạn tạo và tự đặt chỗ.\n\n### Những gì đi qua internet\n\nKhông có gì từ các bảng của bạn, trừ khi bạn bật đồng bộ Google Drive (bên\ndưới). App không đọc trang web nào và không gửi dữ liệu đi đâu khác. Ngoài ra\nchỉ có màn mua hàng của Google Play khi bạn mua hoặc khôi phục Pro. Link trong ghi chú chỉ mở bằng trình duyệt khi bạn bấm vào.\n\n### Đồng bộ Google Drive (tuỳ chọn, Android)\n\nTắt sẵn, chỉ chạy khi bạn bật trong *Cài đặt › Dữ liệu › Đồng bộ*. Khi đó\nGoogle sẽ hỏi bạn cho phép Handy Boards dùng thư mục ẩn riêng của nó trong\nGoogle Drive **của bạn** (quyền `drive.appdata`): app không thấy được các tệp\nDrive khác.\n\n- Các bảng của bạn (cột, thẻ, việc con, nhóm, ghi chú, ngày, ảnh bìa và ảnh\n  bạn thêm) được chép vào đó, để các máy Android khác đăng nhập cùng tài\n  khoản Google có cùng các bảng. Giao diện, ngôn ngữ, quyền nhắc việc, widget\n  và nhật ký hoạt động vẫn ở riêng từng máy.\n- Dữ liệu đi thẳng từ máy bạn tới Google; nhà phát triển không có máy chủ ở\n  giữa và không nhận gì. Google lưu theo điều khoản của Google. Đây là dữ liệu\n  Drive bình thường, không mã hoá đầu-cuối.\n- Tắt đồng bộ không xoá gì. Muốn xoá bản trên Drive: Google Drive › Cài đặt ›\n  Quản lý ứng dụng › Handy Boards › Xoá dữ liệu ẩn của ứng dụng.\n\n### Quyền\n\n- **Thông báo**: nhắc việc bạn đặt trên thẻ; hẹn giờ ngay trên máy, và chỉ\n  hỏi quyền lần đầu bạn đặt nhắc.\n- **Chạy khi khởi động máy**: để nhắc đã đặt vẫn đến sau khi máy khởi động\n  lại.\n- Ảnh chỉ được thêm qua trình chọn ảnh của hệ thống; ngoài ra app không truy\n  cập thư viện ảnh của bạn.\n\n### Xoá dữ liệu\n\nXoá thẻ hoặc bảng trong app (Thùng rác giữ thẻ tới khi bạn dọn), dùng *Cài\nđặt › Dữ liệu › Xoá toàn bộ dữ liệu*, hoặc gỡ app để xoá mọi thứ app đã lưu.\nCác tệp sao lưu bạn tạo vẫn nằm nguyên chỗ bạn đặt cho tới khi bạn xoá.\n\n### Trẻ em\n\nHandy Boards không hướng tới trẻ em và không thu thập thông tin cá nhân của\nbất kỳ ai, kể cả trẻ em.\n\n### Thay đổi\n\nNếu chính sách này thay đổi, bản mới sẽ được đăng tại cùng địa chỉ và ngày cập\nnhật ở trên sẽ đổi theo.\n\n### Liên hệ\n\nCâu hỏi về chính sách này: mở một issue tại\n<https://github.com/Winka173/Handy-Suite/issues> hoặc viết thư tới\napps.winka.studio@gmail.com.",
+        "terms": "# Terms of Service · Điều khoản dịch vụ\n\n**Handy Boards** — last updated 8 November 2026 · cập nhật 08/11/2026\n\nCác điều khoản này áp dụng cho ứng dụng Handy Boards của Winka Studio. Khi\ndùng app, bạn đồng ý với chúng.\n\n### Ứng dụng\n\n- Handy Boards giữ bảng, thẻ và ảnh trên máy của bạn, giúp bạn lên kế hoạch\n  và làm xong việc. App không có tài khoản và không có máy chủ riêng.\n- Các tính năng miễn phí dùng được mà không phải trả tiền.\n- Những gì app giữ và gửi đi được nêu trong\n  [Chính sách quyền riêng tư](https://github.com/Winka173/Handy-Suite/blob/ui-rebuild/apps/handy_boards/PRIVACY.md).\n\n### Handy Boards Pro\n\n- Pro là gói mua một lần trong app qua Google Play. Không phải gói thuê bao;\n  không có gì phải gia hạn hay huỷ.\n- Giá là giá Google Play hiện trước khi bạn mua, theo đơn vị tiền của bạn.\n- Pro gắn với tài khoản Google đã mua. Cài lại app, hoặc dùng trên máy khác\n  với cùng tài khoản, sẽ khôi phục được (Cài đặt › Handy Boards Pro ›\n  Khôi phục giao dịch).\n- Thanh toán và hoàn tiền do Google Play xử lý theo điều khoản và chính sách\n  hoàn tiền của Google Play. Nếu luật nước bạn cho bạn thêm quyền, các quyền\n  đó vẫn được áp dụng.\n\n### Nội dung của bạn\n\n- Những gì bạn viết và thêm vào là của bạn. Bạn chịu trách nhiệm về chúng và\n  tôn trọng quyền của người khác với ảnh và chữ bạn thêm.\n- Các bảng nằm trên máy của bạn. Hãy sao lưu (Cài đặt › Dữ liệu): nếu mất máy\n  hoặc gỡ app, dữ liệu chưa sao lưu không khôi phục được, vì chúng tôi không\n  giữ bản nào.\n\n### Sử dụng đúng mực\n\nKhông dùng app để vi phạm pháp luật, xâm phạm quyền của người khác, hoặc gây\nhại cho người khác.\n\n### Không bảo đảm\n\nApp được cung cấp như hiện có. Chúng tôi cố gắng để app đúng và an toàn nhưng\nkhông thể hứa app luôn chạy, hoặc không có lỗi. Trong phạm vi pháp luật cho phép, chúng tôi không chịu trách\nnhiệm về dữ liệu bị mất hay thiệt hại gián tiếp do việc sử dụng app. Không\nđiều nào ở đây hạn chế các quyền của bạn theo luật bảo vệ người tiêu dùng mà\nkhông thể loại trừ.\n\n### Thay đổi\n\nCác điều khoản này có thể thay đổi cùng app. Bản mới sẽ được đăng tại cùng\nđịa chỉ và ngày cập nhật ở trên sẽ đổi theo.\n\n### Liên hệ\n\nCâu hỏi: mở một issue tại <https://github.com/Winka173/Handy-Suite/issues>\nhoặc viết thư tới apps.winka.studio@gmail.com."
+      }
+    }
   }
 }

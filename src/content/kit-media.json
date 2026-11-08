@@ -6172,108 +6172,6 @@
   },
   {
     "slug": "arcane-brigade",
-    "id": "boss-night-12-a",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-12-a.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Night 12 boss: The Door That Stayed Shut",
-      "vi": "Boss đêm 12: The Door That Stayed Shut"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-12-a.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-12-b",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-12-b.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Night 12 boss: The Door That Stayed Shut",
-      "vi": "Boss đêm 12: The Door That Stayed Shut"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-12-b.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-16-a",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-16-a.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Night 16 boss: The Marquee Maw",
-      "vi": "Boss đêm 16: The Marquee Maw"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-16-a.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-16-b",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-16-b.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Night 16 boss: The Marquee Maw",
-      "vi": "Boss đêm 16: The Marquee Maw"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-16-b.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-20-a",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-20-a.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Night 20, the dawn: The Last Customer",
-      "vi": "Đêm 20, bình minh: The Last Customer"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-20-a.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-20-b",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-20-b.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Night 20, the dawn: The Last Customer",
-      "vi": "Đêm 20, bình minh: The Last Customer"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-20-b.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
     "id": "fight-01-early-night-a",
     "src": "/products/arcane-brigade/kit/02_Screenshots/pc/fight-01-early-night-a.webp",
     "device": "desktop",
@@ -6387,6 +6285,244 @@
     },
     "kind": "kit-game-capture",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\fight-04-chest-and-coins.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-comet-runner-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-skill-a.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Comet Courier's meteor shower: stars fall on the crowd",
+      "vi": "Mưa sao băng của Người Đưa Thư Sao Chổi trút xuống đám đông"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-comet-runner-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-comet-runner-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-skill-b.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Comet Courier's meteor shower: stars fall on the crowd",
+      "vi": "Mưa sao băng của Người Đưa Thư Sao Chổi trút xuống đám đông"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-comet-runner-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-comet-runner-transformed",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-transformed.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Comet Courier transformed",
+      "vi": "Người Đưa Thư Sao Chổi biến hình"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-comet-runner-transformed.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lantern-knight-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-lantern-knight-skill-a.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Lantern Knight's lighthouse cuts through a night-17 crowd",
+      "vi": "Tia hải đăng của Hiệp Sĩ Đèn Lồng xuyên qua đám đông đêm 17"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lantern-knight-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lantern-knight-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-lantern-knight-skill-b.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Lantern Knight's lighthouse cuts through a night-17 crowd",
+      "vi": "Tia hải đăng của Hiệp Sĩ Đèn Lồng xuyên qua đám đông đêm 17"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lantern-knight-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lantern-knight-transformed",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-lantern-knight-transformed.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Lantern Knight transformed",
+      "vi": "Hiệp Sĩ Đèn Lồng biến hình"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lantern-knight-transformed.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lone-jelly-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-lone-jelly-skill-a.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Lone Jelly's skill in a late-night crowd",
+      "vi": "Kỹ năng của Sứa Cô Độc giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lone-jelly-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lone-jelly-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-lone-jelly-skill-b.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Lone Jelly's skill in a late-night crowd",
+      "vi": "Kỹ năng của Sứa Cô Độc giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lone-jelly-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tide-singer-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-tide-singer-skill-a.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Tide Singer's skill in a late-night crowd",
+      "vi": "Kỹ năng của Ca sĩ thủy triều giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tide-singer-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tide-singer-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-tide-singer-skill-b.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "The Tide Singer's skill in a late-night crowd",
+      "vi": "Kỹ năng của Ca sĩ thủy triều giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tide-singer-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tin-virtuoso-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-tin-virtuoso-skill-a.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Tin Virtuoso's skill in a late-night crowd",
+      "vi": "Kỹ năng của Tin Virtuoso giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tin-virtuoso-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tin-virtuoso-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-tin-virtuoso-skill-b.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Tin Virtuoso's skill in a late-night crowd",
+      "vi": "Kỹ năng của Tin Virtuoso giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tin-virtuoso-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-velvet-regent-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-velvet-regent-skill-a.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Velvet Regent's skill in a late-night crowd",
+      "vi": "Kỹ năng của Nhiếp chính Nhung giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-velvet-regent-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-velvet-regent-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/hero-velvet-regent-skill-b.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Velvet Regent's skill in a late-night crowd",
+      "vi": "Kỹ năng của Nhiếp chính Nhung giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-velvet-regent-skill-b.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
@@ -6574,23 +6710,6 @@
     },
     "kind": "kit-game-capture",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\market-03-ferry.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "market-04-last-customer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/market-04-last-customer.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "The Last Customer's trade",
-      "vi": "Giao kèo của Vị Khách Cuối Cùng"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\market-04-last-customer.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
@@ -7226,25 +7345,8 @@
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-11-VerdantMatron",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-11-VerdantMatron.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Verdant Matron's skill: The Nursery Plan",
-      "vi": "Kỹ năng của Verdant Matron: The Nursery Plan"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-11-VerdantMatron.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-12-CopperCauldron",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-12-CopperCauldron.webp",
+    "id": "skill-11-CopperCauldron",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-11-CopperCauldron.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7253,15 +7355,15 @@
       "vi": "Kỹ năng của Copper Cauldron: Pressure Cooker"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-12-CopperCauldron.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-11-CopperCauldron.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-13-ChinaMarionette",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-13-ChinaMarionette.webp",
+    "id": "skill-12-ChinaMarionette",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-12-ChinaMarionette.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7270,15 +7372,15 @@
       "vi": "Kỹ năng của China Marionette: The Repaired Doll"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-13-ChinaMarionette.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-12-ChinaMarionette.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-14-SoapSkater",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-14-SoapSkater.webp",
+    "id": "skill-13-SoapSkater",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-13-SoapSkater.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7287,15 +7389,15 @@
       "vi": "Kỹ năng của Soap Skater: Bubble Calligraphy"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-14-SoapSkater.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-13-SoapSkater.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-15-VelvetRegent",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-15-VelvetRegent.webp",
+    "id": "skill-14-VelvetRegent",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-14-VelvetRegent.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7304,15 +7406,15 @@
       "vi": "Kỹ năng của Velvet Regent: The Three Commands"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-15-VelvetRegent.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-14-VelvetRegent.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-16-ButtonCavalier",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-16-ButtonCavalier.webp",
+    "id": "skill-15-ButtonCavalier",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-15-ButtonCavalier.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7321,15 +7423,15 @@
       "vi": "Kỹ năng của Button Cavalier: The Courteous Riposte"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-16-ButtonCavalier.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-15-ButtonCavalier.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-17-NightMaw",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-17-NightMaw.webp",
+    "id": "skill-16-NightMaw",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-16-NightMaw.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7338,15 +7440,15 @@
       "vi": "Kỹ năng của Night Maw: The Hungry Mouth"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-17-NightMaw.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-16-NightMaw.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-18-ThornTreasurer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-18-ThornTreasurer.webp",
+    "id": "skill-17-ThornTreasurer",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-17-ThornTreasurer.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7355,15 +7457,15 @@
       "vi": "Kỹ năng của Thorn Treasurer: The Collateral Crown"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-18-ThornTreasurer.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-17-ThornTreasurer.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-19-CitrusMarshal",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-19-CitrusMarshal.webp",
+    "id": "skill-18-CitrusMarshal",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-18-CitrusMarshal.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7372,15 +7474,15 @@
       "vi": "Kỹ năng của Citrus Marshal: The Citrus Convoy"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-19-CitrusMarshal.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-18-CitrusMarshal.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-20-IvorySovereign",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-20-IvorySovereign.webp",
+    "id": "skill-19-IvorySovereign",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-19-IvorySovereign.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7389,15 +7491,15 @@
       "vi": "Kỹ năng của Ivory Sovereign: The Last Decree"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-20-IvorySovereign.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-19-IvorySovereign.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-21-PetalCitadel",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-21-PetalCitadel.webp",
+    "id": "skill-20-PetalCitadel",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-20-PetalCitadel.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7406,15 +7508,15 @@
       "vi": "Kỹ năng của Petal Citadel: The Four-Petal Citadel"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-21-PetalCitadel.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-20-PetalCitadel.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-22-PatchworkHost",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-22-PatchworkHost.webp",
+    "id": "skill-21-PatchworkHost",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-21-PatchworkHost.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7423,15 +7525,15 @@
       "vi": "Kỹ năng của Patchwork Host: The Featured Friend"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-22-PatchworkHost.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-21-PatchworkHost.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-23-ArchiveCurator",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-23-ArchiveCurator.webp",
+    "id": "skill-22-ArchiveCurator",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-22-ArchiveCurator.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7440,49 +7542,15 @@
       "vi": "Kỹ năng của Archive Curator: The Forbidden Index"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-23-ArchiveCurator.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-22-ArchiveCurator.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-24-PennyBroker",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-24-PennyBroker.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Penny Broker's skill: The Forward Order",
-      "vi": "Kỹ năng của Penny Broker: The Forward Order"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-24-PennyBroker.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-25-StormFencer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-25-StormFencer.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Storm Fencer's skill: The Thunder Sheath",
-      "vi": "Kỹ năng của Storm Fencer: The Thunder Sheath"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-25-StormFencer.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-26-TinVirtuoso",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-26-TinVirtuoso.webp",
+    "id": "skill-23-TinVirtuoso",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-23-TinVirtuoso.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7491,49 +7559,15 @@
       "vi": "Kỹ năng của Tin Virtuoso: The Brigade Score"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-26-TinVirtuoso.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-23-TinVirtuoso.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-27-MoonProwler",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-27-MoonProwler.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Moon Prowler's skill: The Shadow That Follows",
-      "vi": "Kỹ năng của Moon Prowler: The Shadow That Follows"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-27-MoonProwler.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-28-SupperMortar",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-28-SupperMortar.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Supper Mortar's skill: Supper Is Served",
-      "vi": "Kỹ năng của Supper Mortar: Supper Is Served"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-28-SupperMortar.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-29-LanternWeaver",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-29-LanternWeaver.webp",
+    "id": "skill-24-LanternWeaver",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-24-LanternWeaver.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7542,134 +7576,32 @@
       "vi": "Kỹ năng của Lantern Weaver: The Living Network"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-29-LanternWeaver.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-24-LanternWeaver.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-30-HourglassStag",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-30-HourglassStag.webp",
+    "id": "transform-CometRunner",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/transform-CometRunner.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
     "title": {
-      "en": "Hourglass Stag's skill: The Time Debt",
-      "vi": "Kỹ năng của Hourglass Stag: The Time Debt"
+      "en": "The Comet Courier transformed",
+      "vi": "The Comet Courier biến hình"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-30-HourglassStag.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-CometRunner.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-31-RainArchivist",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-31-RainArchivist.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Rain Archivist's skill: The Weather Book",
-      "vi": "Kỹ năng của Rain Archivist: The Weather Book"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-31-RainArchivist.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-32-KiteAdmiral",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-32-KiteAdmiral.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Kite Admiral's skill: The Paper Fleet",
-      "vi": "Kỹ năng của Kite Admiral: The Paper Fleet"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-32-KiteAdmiral.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-33-SundaeDuchess",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-33-SundaeDuchess.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Sundae Duchess's skill: The Melting Sundae",
-      "vi": "Kỹ năng của Sundae Duchess: The Melting Sundae"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-33-SundaeDuchess.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-34-BonsaiClocksmith",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-34-BonsaiClocksmith.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Bonsai Clocksmith's skill: The Clockwork Garden",
-      "vi": "Kỹ năng của Bonsai Clocksmith: The Clockwork Garden"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-34-BonsaiClocksmith.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-35-JugglingJester",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-35-JugglingJester.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Juggling Jester's skill: The Five-Ball Act",
-      "vi": "Kỹ năng của Juggling Jester: The Five-Ball Act"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-35-JugglingJester.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-36-BellDiver",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/skill-36-BellDiver.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Bell Diver's skill: The Depth Gauge",
-      "vi": "Kỹ năng của Bell Diver: The Depth Gauge"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-36-BellDiver.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-01-LanternKnight",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/transform-01-LanternKnight.webp",
+    "id": "transform-LanternKnight",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/transform-LanternKnight.webp",
     "device": "desktop",
     "width": 1800,
     "height": 1013,
@@ -7678,58 +7610,7 @@
       "vi": "Lantern Knight biến hình"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-01-LanternKnight.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-02-Postmaster",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/transform-02-Postmaster.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Postmaster transformed",
-      "vi": "Postmaster biến hình"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-02-Postmaster.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-03-DrowsySeer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/transform-03-DrowsySeer.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "Drowsy Seer transformed",
-      "vi": "Drowsy Seer biến hình"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-03-DrowsySeer.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-04-RootOracle",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/pc/transform-04-RootOracle.webp",
-    "device": "desktop",
-    "width": 1800,
-    "height": 1013,
-    "title": {
-      "en": "The Root Oracle transformed",
-      "vi": "The Root Oracle biến hình"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-04-RootOracle.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-LanternKnight.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
@@ -7815,108 +7696,6 @@
     },
     "kind": "kit-game-capture",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-08-b.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-12-a",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-12-a.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Night 12 boss: The Door That Stayed Shut",
-      "vi": "Boss đêm 12: The Door That Stayed Shut"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-12-a.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-12-b",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-12-b.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Night 12 boss: The Door That Stayed Shut",
-      "vi": "Boss đêm 12: The Door That Stayed Shut"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-12-b.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-16-a",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-16-a.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Night 16 boss: The Marquee Maw",
-      "vi": "Boss đêm 16: The Marquee Maw"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-16-a.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-16-b",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-16-b.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Night 16 boss: The Marquee Maw",
-      "vi": "Boss đêm 16: The Marquee Maw"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-16-b.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-20-a",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-20-a.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Night 20, the dawn: The Last Customer",
-      "vi": "Đêm 20, bình minh: The Last Customer"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-20-a.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "boss-night-20-b",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-20-b.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Night 20, the dawn: The Last Customer",
-      "vi": "Đêm 20, bình minh: The Last Customer"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-20-b.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
@@ -8036,6 +7815,244 @@
     },
     "kind": "kit-game-capture",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\fight-04-chest-and-coins.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-comet-runner-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-comet-runner-skill-a.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Comet Courier's meteor shower: stars fall on the crowd",
+      "vi": "Mưa sao băng của Người Đưa Thư Sao Chổi trút xuống đám đông"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-comet-runner-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-comet-runner-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-comet-runner-skill-b.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Comet Courier's meteor shower: stars fall on the crowd",
+      "vi": "Mưa sao băng của Người Đưa Thư Sao Chổi trút xuống đám đông"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-comet-runner-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-comet-runner-transformed",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-comet-runner-transformed.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Comet Courier transformed",
+      "vi": "Người Đưa Thư Sao Chổi biến hình"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-comet-runner-transformed.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lantern-knight-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lantern-knight-skill-a.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Lantern Knight's lighthouse cuts through a night-17 crowd",
+      "vi": "Tia hải đăng của Hiệp Sĩ Đèn Lồng xuyên qua đám đông đêm 17"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lantern-knight-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lantern-knight-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lantern-knight-skill-b.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Lantern Knight's lighthouse cuts through a night-17 crowd",
+      "vi": "Tia hải đăng của Hiệp Sĩ Đèn Lồng xuyên qua đám đông đêm 17"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lantern-knight-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lantern-knight-transformed",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lantern-knight-transformed.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Lantern Knight transformed",
+      "vi": "Hiệp Sĩ Đèn Lồng biến hình"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lantern-knight-transformed.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lone-jelly-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lone-jelly-skill-a.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Lone Jelly's skill in a late-night crowd",
+      "vi": "Kỹ năng của Sứa Cô Độc giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lone-jelly-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-lone-jelly-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lone-jelly-skill-b.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Lone Jelly's skill in a late-night crowd",
+      "vi": "Kỹ năng của Sứa Cô Độc giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lone-jelly-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tide-singer-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tide-singer-skill-a.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Tide Singer's skill in a late-night crowd",
+      "vi": "Kỹ năng của Ca sĩ thủy triều giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tide-singer-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tide-singer-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tide-singer-skill-b.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "The Tide Singer's skill in a late-night crowd",
+      "vi": "Kỹ năng của Ca sĩ thủy triều giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tide-singer-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tin-virtuoso-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tin-virtuoso-skill-a.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "Tin Virtuoso's skill in a late-night crowd",
+      "vi": "Kỹ năng của Tin Virtuoso giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tin-virtuoso-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-tin-virtuoso-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tin-virtuoso-skill-b.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "Tin Virtuoso's skill in a late-night crowd",
+      "vi": "Kỹ năng của Tin Virtuoso giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tin-virtuoso-skill-b.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-velvet-regent-skill-a",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-velvet-regent-skill-a.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "Velvet Regent's skill in a late-night crowd",
+      "vi": "Kỹ năng của Nhiếp chính Nhung giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-velvet-regent-skill-a.jpg",
+    "locale": "shared",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "hero-velvet-regent-skill-b",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/hero-velvet-regent-skill-b.webp",
+    "device": "mobile",
+    "width": 1800,
+    "height": 810,
+    "title": {
+      "en": "Velvet Regent's skill in a late-night crowd",
+      "vi": "Kỹ năng của Nhiếp chính Nhung giữa đám đông đêm muộn"
+    },
+    "kind": "kit-game-capture",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-velvet-regent-skill-b.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
@@ -8223,23 +8240,6 @@
     },
     "kind": "kit-game-capture",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\market-03-ferry.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "market-04-last-customer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/market-04-last-customer.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "The Last Customer's trade",
-      "vi": "Giao kèo của Vị Khách Cuối Cùng"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\market-04-last-customer.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
@@ -8875,25 +8875,8 @@
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-11-VerdantMatron",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-11-VerdantMatron.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Verdant Matron's skill: The Nursery Plan",
-      "vi": "Kỹ năng của Verdant Matron: The Nursery Plan"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-11-VerdantMatron.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-12-CopperCauldron",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-12-CopperCauldron.webp",
+    "id": "skill-11-CopperCauldron",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-11-CopperCauldron.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -8902,15 +8885,15 @@
       "vi": "Kỹ năng của Copper Cauldron: Pressure Cooker"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-12-CopperCauldron.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-11-CopperCauldron.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-13-ChinaMarionette",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-13-ChinaMarionette.webp",
+    "id": "skill-12-ChinaMarionette",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-12-ChinaMarionette.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -8919,15 +8902,15 @@
       "vi": "Kỹ năng của China Marionette: The Repaired Doll"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-13-ChinaMarionette.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-12-ChinaMarionette.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-14-SoapSkater",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-14-SoapSkater.webp",
+    "id": "skill-13-SoapSkater",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-13-SoapSkater.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -8936,15 +8919,15 @@
       "vi": "Kỹ năng của Soap Skater: Bubble Calligraphy"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-14-SoapSkater.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-13-SoapSkater.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-15-VelvetRegent",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-15-VelvetRegent.webp",
+    "id": "skill-14-VelvetRegent",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-14-VelvetRegent.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -8953,15 +8936,15 @@
       "vi": "Kỹ năng của Velvet Regent: The Three Commands"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-15-VelvetRegent.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-14-VelvetRegent.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-16-ButtonCavalier",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-16-ButtonCavalier.webp",
+    "id": "skill-15-ButtonCavalier",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-15-ButtonCavalier.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -8970,15 +8953,15 @@
       "vi": "Kỹ năng của Button Cavalier: The Courteous Riposte"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-16-ButtonCavalier.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-15-ButtonCavalier.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-17-NightMaw",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-17-NightMaw.webp",
+    "id": "skill-16-NightMaw",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-16-NightMaw.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -8987,15 +8970,15 @@
       "vi": "Kỹ năng của Night Maw: The Hungry Mouth"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-17-NightMaw.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-16-NightMaw.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-18-ThornTreasurer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-18-ThornTreasurer.webp",
+    "id": "skill-17-ThornTreasurer",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-17-ThornTreasurer.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9004,15 +8987,15 @@
       "vi": "Kỹ năng của Thorn Treasurer: The Collateral Crown"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-18-ThornTreasurer.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-17-ThornTreasurer.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-19-CitrusMarshal",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-19-CitrusMarshal.webp",
+    "id": "skill-18-CitrusMarshal",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-18-CitrusMarshal.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9021,15 +9004,15 @@
       "vi": "Kỹ năng của Citrus Marshal: The Citrus Convoy"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-19-CitrusMarshal.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-18-CitrusMarshal.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-20-IvorySovereign",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-20-IvorySovereign.webp",
+    "id": "skill-19-IvorySovereign",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-19-IvorySovereign.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9038,15 +9021,15 @@
       "vi": "Kỹ năng của Ivory Sovereign: The Last Decree"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-20-IvorySovereign.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-19-IvorySovereign.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-21-PetalCitadel",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-21-PetalCitadel.webp",
+    "id": "skill-20-PetalCitadel",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-20-PetalCitadel.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9055,15 +9038,15 @@
       "vi": "Kỹ năng của Petal Citadel: The Four-Petal Citadel"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-21-PetalCitadel.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-20-PetalCitadel.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-22-PatchworkHost",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-22-PatchworkHost.webp",
+    "id": "skill-21-PatchworkHost",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-21-PatchworkHost.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9072,15 +9055,15 @@
       "vi": "Kỹ năng của Patchwork Host: The Featured Friend"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-22-PatchworkHost.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-21-PatchworkHost.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-23-ArchiveCurator",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-23-ArchiveCurator.webp",
+    "id": "skill-22-ArchiveCurator",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-22-ArchiveCurator.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9089,49 +9072,15 @@
       "vi": "Kỹ năng của Archive Curator: The Forbidden Index"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-23-ArchiveCurator.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-22-ArchiveCurator.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-24-PennyBroker",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-24-PennyBroker.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Penny Broker's skill: The Forward Order",
-      "vi": "Kỹ năng của Penny Broker: The Forward Order"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-24-PennyBroker.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-25-StormFencer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-25-StormFencer.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Storm Fencer's skill: The Thunder Sheath",
-      "vi": "Kỹ năng của Storm Fencer: The Thunder Sheath"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-25-StormFencer.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-26-TinVirtuoso",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-26-TinVirtuoso.webp",
+    "id": "skill-23-TinVirtuoso",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-23-TinVirtuoso.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9140,49 +9089,15 @@
       "vi": "Kỹ năng của Tin Virtuoso: The Brigade Score"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-26-TinVirtuoso.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-23-TinVirtuoso.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-27-MoonProwler",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-27-MoonProwler.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Moon Prowler's skill: The Shadow That Follows",
-      "vi": "Kỹ năng của Moon Prowler: The Shadow That Follows"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-27-MoonProwler.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-28-SupperMortar",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-28-SupperMortar.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Supper Mortar's skill: Supper Is Served",
-      "vi": "Kỹ năng của Supper Mortar: Supper Is Served"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-28-SupperMortar.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-29-LanternWeaver",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-29-LanternWeaver.webp",
+    "id": "skill-24-LanternWeaver",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-24-LanternWeaver.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9191,134 +9106,32 @@
       "vi": "Kỹ năng của Lantern Weaver: The Living Network"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-29-LanternWeaver.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-24-LanternWeaver.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-30-HourglassStag",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-30-HourglassStag.webp",
+    "id": "transform-CometRunner",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/transform-CometRunner.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
     "title": {
-      "en": "Hourglass Stag's skill: The Time Debt",
-      "vi": "Kỹ năng của Hourglass Stag: The Time Debt"
+      "en": "The Comet Courier transformed",
+      "vi": "The Comet Courier biến hình"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-30-HourglassStag.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-CometRunner.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"
   },
   {
     "slug": "arcane-brigade",
-    "id": "skill-31-RainArchivist",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-31-RainArchivist.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Rain Archivist's skill: The Weather Book",
-      "vi": "Kỹ năng của Rain Archivist: The Weather Book"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-31-RainArchivist.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-32-KiteAdmiral",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-32-KiteAdmiral.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Kite Admiral's skill: The Paper Fleet",
-      "vi": "Kỹ năng của Kite Admiral: The Paper Fleet"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-32-KiteAdmiral.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-33-SundaeDuchess",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-33-SundaeDuchess.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Sundae Duchess's skill: The Melting Sundae",
-      "vi": "Kỹ năng của Sundae Duchess: The Melting Sundae"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-33-SundaeDuchess.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-34-BonsaiClocksmith",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-34-BonsaiClocksmith.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Bonsai Clocksmith's skill: The Clockwork Garden",
-      "vi": "Kỹ năng của Bonsai Clocksmith: The Clockwork Garden"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-34-BonsaiClocksmith.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-35-JugglingJester",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-35-JugglingJester.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Juggling Jester's skill: The Five-Ball Act",
-      "vi": "Kỹ năng của Juggling Jester: The Five-Ball Act"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-35-JugglingJester.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "skill-36-BellDiver",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/skill-36-BellDiver.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Bell Diver's skill: The Depth Gauge",
-      "vi": "Kỹ năng của Bell Diver: The Depth Gauge"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-36-BellDiver.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-01-LanternKnight",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/transform-01-LanternKnight.webp",
+    "id": "transform-LanternKnight",
+    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/transform-LanternKnight.webp",
     "device": "mobile",
     "width": 1800,
     "height": 810,
@@ -9327,58 +9140,7 @@
       "vi": "Lantern Knight biến hình"
     },
     "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-01-LanternKnight.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-02-Postmaster",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/transform-02-Postmaster.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Postmaster transformed",
-      "vi": "Postmaster biến hình"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-02-Postmaster.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-03-DrowsySeer",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/transform-03-DrowsySeer.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "Drowsy Seer transformed",
-      "vi": "Drowsy Seer biến hình"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-03-DrowsySeer.jpg",
-    "locale": "shared",
-    "pro": false,
-    "theme": "light"
-  },
-  {
-    "slug": "arcane-brigade",
-    "id": "transform-04-RootOracle",
-    "src": "/products/arcane-brigade/kit/02_Screenshots/mobile/transform-04-RootOracle.webp",
-    "device": "mobile",
-    "width": 1800,
-    "height": 810,
-    "title": {
-      "en": "The Root Oracle transformed",
-      "vi": "The Root Oracle biến hình"
-    },
-    "kind": "kit-game-capture",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-04-RootOracle.jpg",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-LanternKnight.jpg",
     "locale": "shared",
     "pro": false,
     "theme": "light"

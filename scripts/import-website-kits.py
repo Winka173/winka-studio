@@ -162,11 +162,11 @@ for slug,r in KITS.items():
    full=read(r,f'04_Copy/website-copy.{lang}.md')
    pages[lang]={'features':clean(section(full,['Feature blocks','Các khối tính năng'])),'press':clean(section(full,['Press kit facts','Thông tin báo chí'])),'credits':'Game by Winka Studio.\n\nFonts: Noto, Be Vietnam Pro, Alegreya Sans, Caveat, Coiny, Fraunces, Lilita One, Young Serif (SIL Open Font License).\n\nSome sound effects use CC0 recordings by [Kenney](https://kenney.nl/).'}
    faqs[lang]=faq(section(full,['FAQ','Hỏi đáp']));pricing[lang]=clean(section(full,['Price and business model (state it plainly)','Price and monetisation','Price and monetization','Giá và cách kiếm tiền']))
-   if not pages[lang]['press']:pages[lang]['press']='| | |\n|---|---|\n| '+('Trò chơi' if lang=='vi' else 'Title')+' | Arcane Brigade |\n| Studio | Winka Studio |\n| '+('Thể loại' if lang=='vi' else 'Genre')+' | Auto-battler / roguelite / storybook |\n| Android | '+('Thử nghiệm kín' if lang=='vi' else 'Closed testing')+' |\n| PC / iOS | '+('Dự định phát hành' if lang=='vi' else 'Planned release')+' |\n| '+('Giá' if lang=='vi' else 'Price')+' | '+('Miễn phí; Deluxe tùy chọn, mua một lần' if lang=='vi' else 'Free; optional one-time Deluxe')+' |\n| Contact | apps.winka.studio@gmail.com |'
+   if not pages[lang]['press']:pages[lang]['press']='| | |\n|---|---|\n| '+('Trò chơi' if lang=='vi' else 'Title')+' | Arcane Brigade |\n| Studio | Winka Studio |\n| '+('Thể loại' if lang=='vi' else 'Genre')+' | Auto-battler / roguelite / storybook |\n| '+('Nền tảng' if lang=='vi' else 'Platforms')+' | Google Play, App Store, Steam |\n| '+('Giá' if lang=='vi' else 'Price')+' | '+('Miễn phí; Deluxe tùy chọn, mua một lần' if lang=='vi' else 'Free; optional one-time Deluxe')+' |\n| Contact | apps.winka.studio@gmail.com |'
   for p in (r/'01_Brand').glob('*.png'):assets[p.relative_to(r).as_posix()]=image(slug,r,p)[0]
   assets['icon']=assets['01_Brand/app-icon-1024.png']
   assets['og-en']=assets['og-vi']=assets['01_Brand/feature-graphic-1024x500.png']
-  # All 36 original hero portraits; supporting art stays in the source kit.
+  # The 24 heroes in the game today (the kit leaves out heroes held for later updates and acts); supporting art stays in the source kit.
   for p in (r/'07_Art/heroes').glob('*.png'):assets[p.relative_to(r).as_posix()]=image(slug,r,p,maxsize=650)[0]
   facts=json.loads(read(r,'06_Data/facts.json'))
   font_root=DOCS/'Arcane-Brigade/Assets/ArcaneBrigade/Resources/Fonts'
@@ -174,9 +174,12 @@ for slug,r in KITS.items():
    destination=ROOT/'public/fonts/website-kits/arcane-brigade'/name;destination.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(font_root/name,destination)
   kits.setdefault(slug,{})['facts']={k:facts[k] for k in ['Heroes','Friends','Weapons','Relics','Enemies','Bosses','Duets']}
   # Explicit-play trailer retains the supplied soundtrack; ambient clips remain muted.
-  sound=r/'03_Clips/trailer-40s-web-720p.mp4';dest=OUT/slug/'kit/03_Clips/trailer-with-sound.mp4';shutil.copy2(sound,dest)
+  sound=r/'03_Clips/trailer-web-720p.mp4';dest=OUT/slug/'kit/03_Clips/trailer-with-sound.mp4';dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(sound,dest)
   provenance.append({'file':dest.relative_to(ROOT).as_posix(),'source':str(sound),'kind':'explicit-play-trailer-with-audio'})
  for p in sorted(r.rglob('*.mp4')):
+  # One trailer is enough as an ambient film (the muted loop); the explicit-play copy above keeps its sound. The PC, phone and
+  # web encodes of the same cut are kit downloads, not separate films.
+  if slug=='arcane-brigade' and p.stem in ('trailer-pc','trailer-phone','trailer-web-720p'):continue
   clips.append(movie(slug,r,p))
  # Bundle the supplied fonts and licenses; no external font requests.
  fonts=r/'brand/fonts'

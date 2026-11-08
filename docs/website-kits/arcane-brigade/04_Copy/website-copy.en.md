@@ -11,9 +11,21 @@ All numbers come from the game's own catalogue (`06_Data/facts.json`) on 8 Novem
 
 A hand-painted auto-battler. You steer one small hero, and your friends fight on their own. Between nights a curious shop rolls out its rug.
 
-Buttons: **Get it on Google Play** · **Join the test** · **Watch the trailer**
+Buttons: **Get it on Google Play** · **Download on the App Store** · **Buy on Steam** · **Watch the trailer**
 
-Background: `03_Clips/trailer-40s-muted-loop-720p.mp4` (autoplay, muted, loop), with `02_Screenshots/pc/fight-03-late-night-a.jpg` as the poster image.
+Background: `03_Clips/trailer-muted-loop-720p.mp4` (autoplay, muted, loop), with `02_Screenshots/pc/hero-comet-runner-skill-a.jpg` as the poster image.
+
+---
+
+## The story (keep it short; it is a mystery)
+
+You fall asleep and wake in the Waiting Realm, where places are kept waiting by promises that were never kept. Eight lamps burn there. Each one is a time someone came looking for you.
+
+Every night the dark puts one out, and with it a memory of them: their voice, the colour of their raincoat, the way they knocked. Something in the dark wants you to forget them completely.
+
+Keep the last lamp burning until dawn. Remember who was coming.
+
+*(Do not say more than this. Who is waiting, and why, is the game's to tell.)*
 
 ---
 
@@ -37,9 +49,9 @@ Every hero plays differently. Each has a signature skill, three ways to aim it a
 
 | | |
 |---|---|
-| **36** | heroes, each with a signature skill and a transformation |
+| **24** | heroes, each with a signature skill and a transformation |
 | **66** | friends to recruit (96 including special guests) |
-| **117** | weapons, one signature weapon per character |
+| **105** | weapons, one signature weapon per character |
 | **204** | relics |
 | **51** | kinds of creatures |
 | **94** | duets: pairs of friends that power each other up |
@@ -71,13 +83,13 @@ Pictures: `shop-08-star-up` / `shop-09-after-star-up`. Clip: `clip-01-buy-and-st
 Friends who share a trait light up bonds at 2, 4 and 6. Field the right pair for one of 94 duets, or gather a named group for one of 23 combos: a joint move that grows with the group.
 Pictures: `shop-04-bond`, `shop-05-brigade-details`, `pause-04` (the combos page).
 
-### 5. 36 heroes, each with their own skill
-The Lantern Knight lights a lamp from his friends' attacks. The Postmaster stamps addresses and delivers parcels. The Drowsy Seer leaves a dream of herself behind. Each skill can be aimed three ways, and every hero has a transformation.
-Pictures: `skill-01…` (one per hero) and `transform-01…04`. Clip: `clip-06-transformation`.
+### 5. 24 heroes, each with their own skill
+Lead with two. The Lantern Knight gathers light from his friends' attacks until a lighthouse beam cuts through the crowd. The Comet Courier turns its own path into a burning wake, and the wake ends in a starfall. Each skill can be aimed three ways, and every hero has a transformation.
+Pictures: `hero-lantern-knight-…`, `hero-comet-runner-…`, `transform-…`; for a gallery of the others, `skill-01…24` (one per hero). Clips: `clip-hero-lantern-knight`, `clip-hero-comet-runner`; more heroes in play: `clip-hero-tide-singer`, `clip-hero-velvet-regent`, `clip-hero-tin-virtuoso`, `clip-hero-lone-jelly` and the matching `hero-…-skill` pictures. Gameplay: `03_Clips/gameplay/`.
 
 ### 6. A boss every fourth night
-The Coin Widow on night 4, the Chair Porter on night 8, the Door That Stayed Shut on night 12, the Marquee Maw on night 16 and the Last Customer at the dawn of night 20. Read the red warnings on the floor, then step out of the way.
-Pictures: `boss-night-04…20`, `boss-night-04-attack-warning`. Clips: `clip-04-boss-night-4`, `clip-05-boss-night-16`.
+The Coin Widow waits at the end of night 4, the Chair Porter at night 8. What waits deeper in the night, you will have to find out. Read the red warnings on the floor, then step out of the way.
+Pictures: `boss-night-04…08`, `boss-night-04-attack-warning`. Clips: `clip-04-boss-night-4`, `clip-05-boss-night-8`. (Show only these two bosses: the later ones are surprises.)
 
 ### 7. Six dream places
 The Waiting Room, the Post Office, the Glasshouse, the Lamp Hall, the Forgotten Theatre and the Archive Vault. Each has its own living pieces and tricks. In the Waiting Room, a wall clock freezes every creature in the room when you reach it as it strikes.
@@ -85,10 +97,10 @@ Pictures: `place-…` (six). Clips: `clip-place-…` (six).
 
 ### 8. Strange visitors and secret rooms
 A visitor may knock with an offer. The ferry takes a friend home across the water. Every third night a secret door may open onto the Thirteenth-Hour Bank, the Impossible Tailor or a contraband train. Every deal costs something.
-Pictures: `shop-06-visitor`, `shop-07-keeper-gifts`, `market-01…04`, `secret-01-…`.
+Pictures: `shop-06-visitor`, `shop-07-keeper-gifts`, `market-01…03`, `secret-01-…`. Clips: `clip-visitor`, `clip-dream-market`, `clip-secret-room`.
 
 ### 9. The dream market
-Some nights a second market opens. Its wares are paid in Dreamsand, or in blood.
+After every night the dream market opens first. Its wares are paid in Dreamsand, or in blood. Then the keeper rolls out the gold shop.
 Pictures: `market-01-dream-market`, `market-02-dream-price`.
 
 ### 10. The Waiting Room between runs
@@ -120,7 +132,7 @@ Optional cloud save in your own Google Drive: start a run on one phone and finis
 
 ## Price and business model (state it plainly)
 
-- **Free to play, the whole game.** All 36 heroes and all 20 nights.
+- **Free to play, the whole game.** All 24 heroes and all 20 nights.
 - **No ads.** None, on any platform.
 - **One optional purchase, Deluxe** (about US$4.99, the price set by the store): Endless mode and the two hardest difficulties, Sleepless and The Last Night. Act II will be included when it is released.
 - **Nothing that makes a run stronger is ever sold.** No gems, no loot boxes, no energy.
@@ -129,19 +141,19 @@ Optional cloud save in your own Google Drive: start a run on one phone and finis
 
 ## Platforms and status (keep this up to date)
 
-| Platform | Status on 8 November 2026 |
+| Platform | Status |
 |---|---|
-| Android | In closed testing on Google Play (package `com.winka.arcanebrigade`). Public release date not announced. |
-| PC (Windows) | Built and playable. A Steam release is planned; no date yet. Deluxe content is included in the PC version. |
-| iPhone / iPad | Planned. Not released. |
+| Android | Out now on Google Play (package `com.winka.arcanebrigade`). |
+| iPhone / iPad | Out now on the App Store. |
+| PC (Windows) | Out now on Steam. Deluxe content is included in the PC version. |
 
-Do not show a "Download on the App Store" or Steam button until those pages exist.
+Show all three store buttons. Fill in the store links when the pages are live.
 
 ---
 
 ## FAQ
 
-**Is it really free?** Yes. The whole game, all heroes and all twenty nights, is free on phones. Deluxe adds Endless and the two hardest difficulties.
+**Is it really free?** Yes. The whole game, all heroes and all twenty nights, is free on Android and iPhone. Deluxe adds Endless and the two hardest difficulties.
 
 **Are there ads?** No.
 
@@ -151,7 +163,7 @@ Do not show a "Download on the App Store" or Steam button until those pages exis
 
 **Which languages?** English and Vietnamese.
 
-**Can I continue on another phone?** Yes, with cloud save turned on in Settings. Deluxe follows your Google Play account.
+**Can I continue on another phone?** On Android, yes, with cloud save turned on in Settings. Deluxe follows your store account.
 
 **How long is a run?** About half an hour for all twenty nights. You can leave at any shop and continue later.
 
@@ -166,7 +178,7 @@ Do not show a "Download on the App Store" or Steam button until those pages exis
 | Title | Arcane Brigade |
 | Developer and publisher | Winka Studio |
 | Genre | Auto-battler, roguelite, storybook |
-| Platforms | Android (closed testing), PC (planned), iOS (planned) |
+| Platforms | Android (Google Play), iPhone and iPad (App Store), PC (Steam) |
 | Price | Free with one optional purchase (Deluxe) |
 | Ads | None |
 | Languages | English, Vietnamese |
@@ -178,7 +190,7 @@ Do not show a "Download on the App Store" or Steam button until those pages exis
 
 ## SEO
 
-- **Title:** Arcane Brigade: storybook auto-battler for Android and PC
+- **Title:** Arcane Brigade: storybook auto-battler for Android, iPhone and PC
 - **Description (155 characters):** Lead a brigade of odd little friends through twenty hand-painted nights. Free to play, no ads, one optional Deluxe purchase.
 - **Keywords:** auto-battler, roguelite, hand-painted, storybook game, mobile game, offline game, no ads
 - **Open Graph image:** `01_Brand/feature-graphic-1024x500.png` (or a 1200×630 crop of `fight-03-late-night-a`)

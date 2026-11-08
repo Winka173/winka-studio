@@ -39,3 +39,12 @@ Android remains closed testing for all three products. No unverified public down
 Store-listing copy flagged as stale by the Bookmark kit is not repeated as a feature claim. Builder directions, internal file paths and test prices are removed from marketing presentation. Raw reference catalogues and unused source art stay editorial assets rather than becoming unsupported product promises.
 
 The studio's domain/public deployment approval is still unset. This local integration does not publish the website or claim independent legal certification. Other products retain their individually marked draft documents. See QA_REPORT.md for final checks.
+
+## Arcane Brigade refresh — 9 November 2026
+
+The owner re-shot the Arcane kit. The site now follows it:
+
+- **Status:** the owner's instruction for launch is "now on Google Play, the App Store and Steam"; the page says so. No store link is invented: buttons appear once real, verified links are added to the registry.
+- **Unreleased content stays hidden:** 24 heroes (twelve more wait for later updates and acts and are never shown or named); only the first two bosses (the Coin Widow, the Chair Porter) appear. `validate-website-kits.ts` fails the build if Arcane media names a hidden hero or a later boss.
+- **Story:** a short, spoiler-free story section (the Waiting Realm, eight lamps, keep the last one burning until dawn).
+- **Footage:** a 2-minute trailer with the game's music (PC and phone layouts; explicit-play copy keeps its sound), clips of six heroes, the Waiting Room, a visitor, the dream market and a secret room, and three edited gameplay videos per layout. Counts come from the kit's `facts.json`: 24 heroes, 66 friends, 105 weapons, 204 relics, 94 duets.

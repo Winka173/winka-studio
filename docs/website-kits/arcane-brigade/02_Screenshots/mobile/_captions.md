@@ -7,12 +7,6 @@
 | `boss-night-04-b.jpg` | 2400x1080 | Night 4 boss: The Coin Widow | Boss đêm 4: The Coin Widow |
 | `boss-night-08-a.jpg` | 2400x1080 | Night 8 boss: The Chair Porter | Boss đêm 8: The Chair Porter |
 | `boss-night-08-b.jpg` | 2400x1080 | Night 8 boss: The Chair Porter | Boss đêm 8: The Chair Porter |
-| `boss-night-12-a.jpg` | 2400x1080 | Night 12 boss: The Door That Stayed Shut | Boss đêm 12: The Door That Stayed Shut |
-| `boss-night-12-b.jpg` | 2400x1080 | Night 12 boss: The Door That Stayed Shut | Boss đêm 12: The Door That Stayed Shut |
-| `boss-night-16-a.jpg` | 2400x1080 | Night 16 boss: The Marquee Maw | Boss đêm 16: The Marquee Maw |
-| `boss-night-16-b.jpg` | 2400x1080 | Night 16 boss: The Marquee Maw | Boss đêm 16: The Marquee Maw |
-| `boss-night-20-a.jpg` | 2400x1080 | Night 20, the dawn: The Last Customer | Đêm 20, bình minh: The Last Customer |
-| `boss-night-20-b.jpg` | 2400x1080 | Night 20, the dawn: The Last Customer | Đêm 20, bình minh: The Last Customer |
 | `fight-01-early-night-a.jpg` | 2400x1080 | An early night | Một đêm đầu |
 | `fight-01-early-night-b.jpg` | 2400x1080 | An early night | Một đêm đầu |
 | `fight-02-mid-night-a.jpg` | 2400x1080 | Night 14: the brigade in a crowd | Đêm 14: đội giữa đám đông |
@@ -20,6 +14,20 @@
 | `fight-03-late-night-a.jpg` | 2400x1080 | Night 18: a late-night crowd | Đêm 18: đám đông đêm muộn |
 | `fight-03-late-night-b.jpg` | 2400x1080 | Night 18: a late-night crowd | Đêm 18: đám đông đêm muộn |
 | `fight-04-chest-and-coins.jpg` | 2400x1080 | A chest opens; coins on the floor | Rương mở, xu rơi đầy sàn |
+| `hero-comet-runner-skill-a.jpg` | 2400x1080 | The Comet Courier's meteor shower: stars fall on the crowd | Mưa sao băng của Người Đưa Thư Sao Chổi trút xuống đám đông |
+| `hero-comet-runner-skill-b.jpg` | 2400x1080 | The Comet Courier's meteor shower: stars fall on the crowd | Mưa sao băng của Người Đưa Thư Sao Chổi trút xuống đám đông |
+| `hero-comet-runner-transformed.jpg` | 2400x1080 | The Comet Courier transformed | Người Đưa Thư Sao Chổi biến hình |
+| `hero-lantern-knight-skill-a.jpg` | 2400x1080 | The Lantern Knight's lighthouse cuts through a night-17 crowd | Tia hải đăng của Hiệp Sĩ Đèn Lồng xuyên qua đám đông đêm 17 |
+| `hero-lantern-knight-skill-b.jpg` | 2400x1080 | The Lantern Knight's lighthouse cuts through a night-17 crowd | Tia hải đăng của Hiệp Sĩ Đèn Lồng xuyên qua đám đông đêm 17 |
+| `hero-lantern-knight-transformed.jpg` | 2400x1080 | The Lantern Knight transformed | Hiệp Sĩ Đèn Lồng biến hình |
+| `hero-lone-jelly-skill-a.jpg` | 2400x1080 | The Lone Jelly's skill in a late-night crowd | Kỹ năng của Sứa Cô Độc giữa đám đông đêm muộn |
+| `hero-lone-jelly-skill-b.jpg` | 2400x1080 | The Lone Jelly's skill in a late-night crowd | Kỹ năng của Sứa Cô Độc giữa đám đông đêm muộn |
+| `hero-tide-singer-skill-a.jpg` | 2400x1080 | The Tide Singer's skill in a late-night crowd | Kỹ năng của Ca sĩ thủy triều giữa đám đông đêm muộn |
+| `hero-tide-singer-skill-b.jpg` | 2400x1080 | The Tide Singer's skill in a late-night crowd | Kỹ năng của Ca sĩ thủy triều giữa đám đông đêm muộn |
+| `hero-tin-virtuoso-skill-a.jpg` | 2400x1080 | Tin Virtuoso's skill in a late-night crowd | Kỹ năng của Tin Virtuoso giữa đám đông đêm muộn |
+| `hero-tin-virtuoso-skill-b.jpg` | 2400x1080 | Tin Virtuoso's skill in a late-night crowd | Kỹ năng của Tin Virtuoso giữa đám đông đêm muộn |
+| `hero-velvet-regent-skill-a.jpg` | 2400x1080 | Velvet Regent's skill in a late-night crowd | Kỹ năng của Nhiếp chính Nhung giữa đám đông đêm muộn |
+| `hero-velvet-regent-skill-b.jpg` | 2400x1080 | Velvet Regent's skill in a late-night crowd | Kỹ năng của Nhiếp chính Nhung giữa đám đông đêm muộn |
 | `hub-00-waiting-room.jpg` | 2400x1080 | The Waiting Room between runs | Phòng Chờ giữa các lượt chơi |
 | `hub-01-lantern.jpg` | 2400x1080 | The Lamp Tree: upgrades for every run | Cây Đèn: nâng cấp cho mọi lượt chơi |
 | `hub-02-wardrobe.jpg` | 2400x1080 | The Wardrobe: hero mastery | Tủ Áo: làm chủ anh hùng |
@@ -31,7 +39,6 @@
 | `market-01-dream-market.jpg` | 2400x1080 | The dream market | Chợ trong mơ |
 | `market-02-dream-price.jpg` | 2400x1080 | A relic paid in Dreamsand or blood | Di vật trả bằng Cát Mơ hoặc máu |
 | `market-03-ferry.jpg` | 2400x1080 | The ferry: see a friend home | Con đò: đưa một bạn đồng hành về nhà |
-| `market-04-last-customer.jpg` | 2400x1080 | The Last Customer's trade | Giao kèo của Vị Khách Cuối Cùng |
 | `menu-01-main.jpg` | 2400x1080 | Main menu | Màn hình chính |
 | `menu-02-hero-select.jpg` | 2400x1080 | Choosing a hero for the night | Chọn anh hùng cho đêm nay |
 | `menu-03-continue.jpg` | 2400x1080 | Continue a run left at night 13 | Chơi tiếp lượt dừng ở đêm 13 |
@@ -69,33 +76,19 @@
 | `skill-08-CometRunner.jpg` | 2400x1080 | The Comet Courier's skill: The Comet'S Wake | Kỹ năng của The Comet Courier: The Comet'S Wake |
 | `skill-09-MirrorKeeper.jpg` | 2400x1080 | The Mirror Keeper's skill: The Borrowed Volley | Kỹ năng của The Mirror Keeper: The Borrowed Volley |
 | `skill-10-TreasureAcorn.jpg` | 2400x1080 | The Treasure Clerk's skill: The Bounty Ledger | Kỹ năng của The Treasure Clerk: The Bounty Ledger |
-| `skill-11-VerdantMatron.jpg` | 2400x1080 | Verdant Matron's skill: The Nursery Plan | Kỹ năng của Verdant Matron: The Nursery Plan |
-| `skill-12-CopperCauldron.jpg` | 2400x1080 | Copper Cauldron's skill: Pressure Cooker | Kỹ năng của Copper Cauldron: Pressure Cooker |
-| `skill-13-ChinaMarionette.jpg` | 2400x1080 | China Marionette's skill: The Repaired Doll | Kỹ năng của China Marionette: The Repaired Doll |
-| `skill-14-SoapSkater.jpg` | 2400x1080 | Soap Skater's skill: Bubble Calligraphy | Kỹ năng của Soap Skater: Bubble Calligraphy |
-| `skill-15-VelvetRegent.jpg` | 2400x1080 | Velvet Regent's skill: The Three Commands | Kỹ năng của Velvet Regent: The Three Commands |
-| `skill-16-ButtonCavalier.jpg` | 2400x1080 | Button Cavalier's skill: The Courteous Riposte | Kỹ năng của Button Cavalier: The Courteous Riposte |
-| `skill-17-NightMaw.jpg` | 2400x1080 | Night Maw's skill: The Hungry Mouth | Kỹ năng của Night Maw: The Hungry Mouth |
-| `skill-18-ThornTreasurer.jpg` | 2400x1080 | Thorn Treasurer's skill: The Collateral Crown | Kỹ năng của Thorn Treasurer: The Collateral Crown |
-| `skill-19-CitrusMarshal.jpg` | 2400x1080 | Citrus Marshal's skill: The Citrus Convoy | Kỹ năng của Citrus Marshal: The Citrus Convoy |
-| `skill-20-IvorySovereign.jpg` | 2400x1080 | Ivory Sovereign's skill: The Last Decree | Kỹ năng của Ivory Sovereign: The Last Decree |
-| `skill-21-PetalCitadel.jpg` | 2400x1080 | Petal Citadel's skill: The Four-Petal Citadel | Kỹ năng của Petal Citadel: The Four-Petal Citadel |
-| `skill-22-PatchworkHost.jpg` | 2400x1080 | Patchwork Host's skill: The Featured Friend | Kỹ năng của Patchwork Host: The Featured Friend |
-| `skill-23-ArchiveCurator.jpg` | 2400x1080 | Archive Curator's skill: The Forbidden Index | Kỹ năng của Archive Curator: The Forbidden Index |
-| `skill-24-PennyBroker.jpg` | 2400x1080 | Penny Broker's skill: The Forward Order | Kỹ năng của Penny Broker: The Forward Order |
-| `skill-25-StormFencer.jpg` | 2400x1080 | Storm Fencer's skill: The Thunder Sheath | Kỹ năng của Storm Fencer: The Thunder Sheath |
-| `skill-26-TinVirtuoso.jpg` | 2400x1080 | Tin Virtuoso's skill: The Brigade Score | Kỹ năng của Tin Virtuoso: The Brigade Score |
-| `skill-27-MoonProwler.jpg` | 2400x1080 | Moon Prowler's skill: The Shadow That Follows | Kỹ năng của Moon Prowler: The Shadow That Follows |
-| `skill-28-SupperMortar.jpg` | 2400x1080 | Supper Mortar's skill: Supper Is Served | Kỹ năng của Supper Mortar: Supper Is Served |
-| `skill-29-LanternWeaver.jpg` | 2400x1080 | Lantern Weaver's skill: The Living Network | Kỹ năng của Lantern Weaver: The Living Network |
-| `skill-30-HourglassStag.jpg` | 2400x1080 | Hourglass Stag's skill: The Time Debt | Kỹ năng của Hourglass Stag: The Time Debt |
-| `skill-31-RainArchivist.jpg` | 2400x1080 | Rain Archivist's skill: The Weather Book | Kỹ năng của Rain Archivist: The Weather Book |
-| `skill-32-KiteAdmiral.jpg` | 2400x1080 | Kite Admiral's skill: The Paper Fleet | Kỹ năng của Kite Admiral: The Paper Fleet |
-| `skill-33-SundaeDuchess.jpg` | 2400x1080 | Sundae Duchess's skill: The Melting Sundae | Kỹ năng của Sundae Duchess: The Melting Sundae |
-| `skill-34-BonsaiClocksmith.jpg` | 2400x1080 | Bonsai Clocksmith's skill: The Clockwork Garden | Kỹ năng của Bonsai Clocksmith: The Clockwork Garden |
-| `skill-35-JugglingJester.jpg` | 2400x1080 | Juggling Jester's skill: The Five-Ball Act | Kỹ năng của Juggling Jester: The Five-Ball Act |
-| `skill-36-BellDiver.jpg` | 2400x1080 | Bell Diver's skill: The Depth Gauge | Kỹ năng của Bell Diver: The Depth Gauge |
-| `transform-01-LanternKnight.jpg` | 2400x1080 | Lantern Knight transformed | Lantern Knight biến hình |
-| `transform-02-Postmaster.jpg` | 2400x1080 | Postmaster transformed | Postmaster biến hình |
-| `transform-03-DrowsySeer.jpg` | 2400x1080 | Drowsy Seer transformed | Drowsy Seer biến hình |
-| `transform-04-RootOracle.jpg` | 2400x1080 | The Root Oracle transformed | The Root Oracle biến hình |
+| `skill-11-CopperCauldron.jpg` | 2400x1080 | Copper Cauldron's skill: Pressure Cooker | Kỹ năng của Copper Cauldron: Pressure Cooker |
+| `skill-12-ChinaMarionette.jpg` | 2400x1080 | China Marionette's skill: The Repaired Doll | Kỹ năng của China Marionette: The Repaired Doll |
+| `skill-13-SoapSkater.jpg` | 2400x1080 | Soap Skater's skill: Bubble Calligraphy | Kỹ năng của Soap Skater: Bubble Calligraphy |
+| `skill-14-VelvetRegent.jpg` | 2400x1080 | Velvet Regent's skill: The Three Commands | Kỹ năng của Velvet Regent: The Three Commands |
+| `skill-15-ButtonCavalier.jpg` | 2400x1080 | Button Cavalier's skill: The Courteous Riposte | Kỹ năng của Button Cavalier: The Courteous Riposte |
+| `skill-16-NightMaw.jpg` | 2400x1080 | Night Maw's skill: The Hungry Mouth | Kỹ năng của Night Maw: The Hungry Mouth |
+| `skill-17-ThornTreasurer.jpg` | 2400x1080 | Thorn Treasurer's skill: The Collateral Crown | Kỹ năng của Thorn Treasurer: The Collateral Crown |
+| `skill-18-CitrusMarshal.jpg` | 2400x1080 | Citrus Marshal's skill: The Citrus Convoy | Kỹ năng của Citrus Marshal: The Citrus Convoy |
+| `skill-19-IvorySovereign.jpg` | 2400x1080 | Ivory Sovereign's skill: The Last Decree | Kỹ năng của Ivory Sovereign: The Last Decree |
+| `skill-20-PetalCitadel.jpg` | 2400x1080 | Petal Citadel's skill: The Four-Petal Citadel | Kỹ năng của Petal Citadel: The Four-Petal Citadel |
+| `skill-21-PatchworkHost.jpg` | 2400x1080 | Patchwork Host's skill: The Featured Friend | Kỹ năng của Patchwork Host: The Featured Friend |
+| `skill-22-ArchiveCurator.jpg` | 2400x1080 | Archive Curator's skill: The Forbidden Index | Kỹ năng của Archive Curator: The Forbidden Index |
+| `skill-23-TinVirtuoso.jpg` | 2400x1080 | Tin Virtuoso's skill: The Brigade Score | Kỹ năng của Tin Virtuoso: The Brigade Score |
+| `skill-24-LanternWeaver.jpg` | 2400x1080 | Lantern Weaver's skill: The Living Network | Kỹ năng của Lantern Weaver: The Living Network |
+| `transform-CometRunner.jpg` | 2400x1080 | The Comet Courier transformed | The Comet Courier biến hình |
+| `transform-LanternKnight.jpg` | 2400x1080 | Lantern Knight transformed | Lantern Knight biến hình |

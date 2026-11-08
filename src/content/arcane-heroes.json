@@ -4,7 +4,7 @@
     "art": "07_Art/heroes/lantern-knight.png",
     "skill": "THE GUIDING LAMP",
     "description": "A keyblade-bearing pioneer. Travel to charge a lantern pulse; build a bustling brigade.",
-    "image": "skill-01-LanternKnight"
+    "image": "hero-lantern-knight-skill-a"
   },
   {
     "name": "Postmaster",
@@ -53,7 +53,7 @@
     "art": "07_Art/heroes/the-comet-courier.png",
     "skill": "THE COMET'S WAKE",
     "description": "Travel 10 units to release a slowing pulse. Moving charges it; shops do not.",
-    "image": "skill-08-CometRunner"
+    "image": "hero-comet-runner-skill-a"
   },
   {
     "name": "The Mirror Keeper",
@@ -70,185 +70,101 @@
     "image": "skill-10-TreasureAcorn"
   },
   {
-    "name": "Verdant Matron",
-    "art": "07_Art/heroes/verdant-matron.png",
-    "skill": "THE NURSERY PLAN",
-    "description": "Nursery shops sell Little Sprouts. Buying a Sprout adds 1 projectile (max 6) and costs 2 maximum HP. Two Sprouts grow into a random evolved friend plus a Grand Sprout.",
-    "image": "skill-11-VerdantMatron"
-  },
-  {
     "name": "Copper Cauldron",
     "art": "07_Art/heroes/copper-cauldron.png",
     "skill": "PRESSURE COOKER",
     "description": "Start with +8 contact damage. Each Morning Bells activation gives +0.15 armor. Taking damage adds 0.15 regeneration for this run. Enemies move 10% faster.",
-    "image": "skill-12-CopperCauldron"
+    "image": "skill-11-CopperCauldron"
   },
   {
     "name": "China Marionette",
     "art": "07_Art/heroes/china-marionette.png",
     "skill": "THE REPAIRED DOLL",
     "description": "Healing is 2.5 times as effective, but armor starts 0.25 lower. Each Wild Stitch activation adds 0.4 regeneration. Taking damage adds 1 contact damage.",
-    "image": "skill-13-ChinaMarionette"
+    "image": "skill-12-ChinaMarionette"
   },
   {
     "name": "Soap Skater",
     "art": "07_Art/heroes/soap-skater.png",
     "skill": "BUBBLE CALLIGRAPHY",
     "description": "Ordinary attacks deal 35% less damage. Push ordinary enemies harder, within the push cap. Each Clockwork Union activation adds 4 wave income. Treasure +20%.",
-    "image": "skill-14-SoapSkater"
+    "image": "skill-13-SoapSkater"
   },
   {
     "name": "Velvet Regent",
     "art": "07_Art/heroes/velvet-regent.png",
     "skill": "THE THREE COMMANDS",
     "description": "You do not attack. Your personal damage, attack speed, critical chance and projectile bonuses also help allies. Shops may sell evolved companions. More enemies appear.",
-    "image": "skill-15-VelvetRegent"
+    "image": "skill-14-VelvetRegent"
   },
   {
     "name": "Button Cavalier",
     "art": "07_Art/heroes/button-cavalier.png",
     "skill": "THE COURTEOUS RIPOSTE",
     "description": "Start with 35% dodge and 35% less HP. Dodge cap: 75%. Dodges add treasure detection for this run. Toy Knights deal 30% more damage.",
-    "image": "skill-16-ButtonCavalier"
+    "image": "skill-15-ButtonCavalier"
   },
   {
     "name": "Night Maw",
     "art": "07_Art/heroes/night-maw.png",
     "skill": "THE HUNGRY MOUTH",
     "description": "Lose 1 HP each second in battle. Each enemy defeated heals 1 HP. Regeneration and hearts do not heal. Every fourth wave raises everyone's movement speed.",
-    "image": "skill-17-NightMaw"
+    "image": "skill-16-NightMaw"
   },
   {
     "name": "Thorn Treasurer",
     "art": "07_Art/heroes/thorn-treasurer.png",
     "skill": "THE COLLATERAL CROWN",
     "description": "Dream shops follow the shared 3-4-wave schedule. At wave start, maximum HP follows saved gold (20–400). Buying a spiked relic recruits a Bristle Ball. Team damage -20%.",
-    "image": "skill-18-ThornTreasurer"
+    "image": "skill-17-ThornTreasurer"
   },
   {
     "name": "Citrus Marshal",
     "art": "07_Art/heroes/citrus-marshal.png",
     "skill": "THE CITRUS CONVOY",
     "description": "You do not attack. Move 20% faster and gain 50% HP. Allies stay close; contact damage scales with your movement speed. Team attack speed -25%.",
-    "image": "skill-19-CitrusMarshal"
+    "image": "skill-18-CitrusMarshal"
   },
   {
     "name": "Ivory Sovereign",
     "art": "07_Art/heroes/ivory-sovereign.png",
     "skill": "THE LAST DECREE",
     "description": "Start each wave with 18 royal health. Each injury consumes exactly 1 royal health and releases a short retaliation. Ordinary healing cannot refill it. Velvet Court allies gain a projectile.",
-    "image": "skill-20-IvorySovereign"
+    "image": "skill-19-IvorySovereign"
   },
   {
     "name": "Petal Citadel",
     "art": "07_Art/heroes/petal-citadel.png",
     "skill": "THE FOUR-PETAL CITADEL",
     "description": "Start each wave with a balanced blessing: +2 flat melee and ranged damage, +10 HP, +5% speed and +0.15 armor.",
-    "image": "skill-21-PetalCitadel"
+    "image": "skill-20-PetalCitadel"
   },
   {
     "name": "Patchwork Host",
     "art": "07_Art/heroes/patchwork-host.png",
     "skill": "THE FEATURED FRIEND",
     "description": "All ordinary companion themes may appear. Enemy health +12% and count +6% through wave 8, rising to +35% / +20% at wave 20. Rerolls cost 1 less gold.",
-    "image": "skill-22-PatchworkHost"
+    "image": "skill-21-PatchworkHost"
   },
   {
     "name": "Archive Curator",
     "art": "07_Art/heroes/archive-curator.png",
     "skill": "THE FORBIDDEN INDEX",
     "description": "Shops offer memory companions. Buying one absorbs its support trait instead of adding a body; your last two memories fight beside you as paper exhibits. Each memory makes enemies 2% tougher (max 12%). Your positive personal modifiers are 25% stronger.",
-    "image": "skill-23-ArchiveCurator"
-  },
-  {
-    "name": "Penny Broker",
-    "art": "07_Art/heroes/penny-broker.png",
-    "skill": "THE FORWARD ORDER",
-    "description": "Relics cost 20% less. Rerolls cost 2 more gold. Each paid refresh adds 1 income and 1% luck for this run.",
-    "image": "skill-24-PennyBroker"
-  },
-  {
-    "name": "Storm Fencer",
-    "art": "07_Art/heroes/storm-fencer.png",
-    "skill": "THE THUNDER SHEATH",
-    "description": "You do not attack normally. Your contact damage is doubled. Dodging triggers a short forward lightning barrage. Start with +20% dodge.",
-    "image": "skill-25-StormFencer"
+    "image": "skill-22-ArchiveCurator"
   },
   {
     "name": "Tin Virtuoso",
     "art": "07_Art/heroes/tin-virtuoso.png",
     "skill": "THE BRIGADE SCORE",
     "description": "Your shots cannot split. Allies fire only in response to your critical attacks, with their own weapon damage and a short cooldown. Start with +10% critical chance and 2 projectiles.",
-    "image": "skill-26-TinVirtuoso"
-  },
-  {
-    "name": "Moon Prowler",
-    "art": "07_Art/heroes/moon-prowler.png",
-    "skill": "THE SHADOW THAT FOLLOWS",
-    "description": "Move 20% faster. Every 3 seconds spent moving in combat grants 2 gold. Each ally reduces wave income by 1.",
-    "image": "skill-27-MoonProwler"
-  },
-  {
-    "name": "Supper Mortar",
-    "art": "07_Art/heroes/supper-mortar.png",
-    "skill": "SUPPER IS SERVED",
-    "description": "Fire up to two delayed mortar shells. Shells cannot pierce. Start with +0.4 armor and +15% movement speed. Enemies move 20% faster.",
-    "image": "skill-28-SupperMortar"
+    "image": "skill-23-TinVirtuoso"
   },
   {
     "name": "Lantern Weaver",
     "art": "07_Art/heroes/lantern-weaver.png",
     "skill": "THE LIVING NETWORK",
     "description": "Every fourth attack stitches three nearby enemies with a delayed lantern thread. The thread shares one damage budget.",
-    "image": "skill-29-LanternWeaver"
-  },
-  {
-    "name": "Hourglass Stag",
-    "art": "07_Art/heroes/hourglass-stag.png",
-    "skill": "THE TIME DEBT",
-    "description": "Every 6 seconds, briefly slow nearby ordinary enemies and release an expanding clock ring. Bosses keep moving.",
-    "image": "skill-30-HourglassStag"
-  },
-  {
-    "name": "Rain Archivist",
-    "art": "07_Art/heroes/rain-archivist.png",
-    "skill": "THE WEATHER BOOK",
-    "description": "Each opened chest heals 4 HP and records a raindrop. Every third record releases a fan of frost shots.",
-    "image": "skill-31-RainArchivist"
-  },
-  {
-    "name": "Kite Admiral",
-    "art": "07_Art/heroes/kite-admiral.png",
-    "skill": "THE PAPER FLEET",
-    "description": "A mouse admiral whose kites fly over the brigade's archers.",
-    "image": "skill-32-KiteAdmiral"
-  },
-  {
-    "name": "Sundae Duchess",
-    "art": "07_Art/heroes/sundae-duchess.png",
-    "skill": "THE MELTING SUNDAE",
-    "description": "A porcelain duchess crowned in ice cream; what she freezes pays.",
-    "image": "skill-33-SundaeDuchess"
-  },
-  {
-    "name": "Bonsai Clocksmith",
-    "art": "07_Art/heroes/bonsai-clocksmith.png",
-    "skill": "THE CLOCKWORK GARDEN",
-    "description": "A tortoise clocksmith whose bonsai garden keeps time.",
-    "image": "skill-34-BonsaiClocksmith"
-  },
-  {
-    "name": "Juggling Jester",
-    "art": "07_Art/heroes/juggling-jester.png",
-    "skill": "THE FIVE-BALL ACT",
-    "description": "A felt jester who keeps five balls in the air.",
-    "image": "skill-35-JugglingJester"
-  },
-  {
-    "name": "Bell Diver",
-    "art": "07_Art/heroes/bell-diver.png",
-    "skill": "THE DEPTH GAUGE",
-    "description": "A frog diver who probes the deep and rides a brass bell.",
-    "image": "skill-36-BellDiver"
+    "image": "skill-24-LanternWeaver"
   }
 ]

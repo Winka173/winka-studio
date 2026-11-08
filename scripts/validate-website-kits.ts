@@ -40,8 +40,15 @@ assert.equal(
 assert.equal(portfolioMedia.filter((m) => m.slug === "sticky-wall").length, 88);
 assert.equal(
   portfolioMedia.filter((m) => m.slug === "arcane-brigade").length,
-  227,
+  213,
 );
+// Arcane: heroes held for later updates and acts, and every boss after the first two, stay surprises
+const hiddenHeroes = /StormFencer|MoonProwler|PennyBroker|VerdantMatron|SupperMortar|HourglassStag|RainArchivist|KiteAdmiral|SundaeDuchess|BonsaiClocksmith|JugglingJester|BellDiver/;
+const laterBosses = /boss-night-(12|16|20)|last-customer|marquee|door-that/i;
+for (const m of portfolioMedia.filter((m) => m.slug === "arcane-brigade"))
+  assert.ok(!hiddenHeroes.test(m.id) && !laterBosses.test(m.id), `Arcane media reveals unreleased content: ${m.id}`);
+for (const c of websiteKits["arcane-brigade"].clips)
+  assert.ok(!laterBosses.test(c.id), `Arcane clip reveals a later boss: ${c.id}`);
 assert.ok(
   !portfolioMedia.some((m) => m.slug === "sticky-wall" && m.id === "21_pro"),
   "Sticky test-price screenshot must stay excluded",
@@ -66,5 +73,5 @@ assert.ok(
   ),
 );
 console.log(
-  "PASS: supplied EN/VI copy, pricing, 76 FAQ answers, legal documents, 585 new screen captures, Pro labels and closed-testing boundaries.",
+  "PASS: supplied EN/VI copy, pricing, 76 FAQ answers, legal documents, 571 screen captures, Pro labels, and no unreleased Arcane heroes or later bosses.",
 );

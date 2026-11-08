@@ -1,10 +1,10 @@
 {
-    "Heroes": 36,
+    "Heroes": 24,
     "Friends": 66,
     "Relics": 204,
-    "Weapons": 117,
+    "Weapons": 105,
     "Enemies": 51,
-    "Bosses": 10,
+    "Bosses": 2,
     "Duets": 94,
     "HeroList": [
         {
@@ -135,19 +135,6 @@
                 "Local accounts",
                 "Collectors",
                 "Large accounts"
-            ]
-        },
-        {
-            "Id": "VerdantMatron",
-            "Name": "Verdant Matron",
-            "Description": "Nursery shops sell Little Sprouts. Buying a Sprout adds 1 projectile (max 6) and costs 2 maximum HP. Two Sprouts grow into a random evolved friend plus a Grand Sprout.",
-            "Skill": "THE NURSERY PLAN",
-            "SkillResource": "Nursery bloom",
-            "SkillDescription": "Choose how your nursery grows. Two Sprouts still inherit ingredient weapons and also create Grand Sprout; the random evolved friend's pool now favors the selected role. Every 6s, a nursery bloom (radius 1.6) from a sprout shelters, strikes, or nourishes the brigade. No new friend species or permanent extra bodies are created.",
-            "Approaches": [
-                "Guard nursery",
-                "Striker nursery",
-                "Guide nursery"
             ]
         },
         {
@@ -307,32 +294,6 @@
             ]
         },
         {
-            "Id": "PennyBroker",
-            "Name": "Penny Broker",
-            "Description": "Relics cost 20% less. Rerolls cost 2 more gold. Each paid refresh adds 1 income and 1% luck for this run.",
-            "Skill": "THE FORWARD ORDER",
-            "SkillResource": "Reserved delivery",
-            "SkillDescription": "In a shop, invest 8 + wave gold (maximum 40) to reserve a named relic for the next shop at a quoted price. Choose curio, drink, or food. One order per wave; the delivery remains through rerolls until bought, then clears. If it becomes ineligible, the investment is returned. Every 10 collected gold signs a small receipt strike in battle.",
-            "Approaches": [
-                "Curios",
-                "Drinks",
-                "Food"
-            ]
-        },
-        {
-            "Id": "StormFencer",
-            "Name": "Storm Fencer",
-            "Description": "You do not attack normally. Your contact damage is doubled. Dodging triggers a short forward lightning barrage. Start with +20% dodge.",
-            "Skill": "THE THUNDER SHEATH",
-            "SkillResource": "Static",
-            "SkillDescription": "Danger nearby slowly charges the sheath; near misses add one static and dodges add two. At 3 static, automatically draw a telegraphed lightning strike, at most once per 3s. Choose a piercing draw, a split barrage, or a cross. No basic attack is required to charge; bosses are never stunned by the draw.",
-            "Approaches": [
-                "Quickdraw",
-                "Forked lightning",
-                "Crosscut"
-            ]
-        },
-        {
             "Id": "TinVirtuoso",
             "Name": "Tin Virtuoso",
             "Description": "Your shots cannot split. Allies fire only in response to your critical attacks, with their own weapon damage and a short cooldown. Start with +10% critical chance and 2 projectiles.",
@@ -346,32 +307,6 @@
             ]
         },
         {
-            "Id": "MoonProwler",
-            "Name": "Moon Prowler",
-            "Description": "Move 20% faster. Every 3 seconds spent moving in combat grants 2 gold. Each ally reduces wave income by 1.",
-            "Skill": "THE SHADOW THAT FOLLOWS",
-            "SkillResource": "Shadow steps",
-            "SkillDescription": "Travel 5 units and your shadow slips behind the nearest enemy. Your next basic attack sends it out of that enemy's far side for a delayed 80% W cut; strike from truly behind the enemy (against its facing) and the basic itself also gains +45%. Flank kills pay 1 gold, maximum 6 per wave. Choose a straight rear cut, a side crescent, or a crossing shadow. Your movement income remains.",
-            "Approaches": [
-                "Rear cut",
-                "Side crescent",
-                "Crossing shadow"
-            ]
-        },
-        {
-            "Id": "SupperMortar",
-            "Name": "Supper Mortar",
-            "Description": "Fire up to two delayed mortar shells. Shells cannot pierce. Start with +0.4 armor and +15% movement speed. Enemies move 20% faster.",
-            "Skill": "SUPPER IS SERVED",
-            "SkillResource": "Recipe",
-            "SkillDescription": "Your basic attack is served as two quick courses that land where the diner is heading, each carrying 85% of the attack (110% for the narrow Pepper lines). Dumplings burst, Pepper lays an ember line, and Sorbet chills an area. Bought food widens the bursts up to a small cap. Courses cannot pierce; each burst shares its budget across at most three targets.",
-            "Approaches": [
-                "Dumplings",
-                "Pepper",
-                "Sorbet"
-            ]
-        },
-        {
             "Id": "LanternWeaver",
             "Name": "Lantern Weaver",
             "Description": "Every fourth attack stitches three nearby enemies with a delayed lantern thread. The thread shares one damage budget.",
@@ -382,97 +317,6 @@
                 "Closed weave",
                 "Pull stitch",
                 "Broad seam"
-            ]
-        },
-        {
-            "Id": "HourglassStag",
-            "Name": "Hourglass Stag",
-            "Description": "Every 6 seconds, briefly slow nearby ordinary enemies and release an expanding clock ring. Bosses keep moving.",
-            "Skill": "THE TIME DEBT",
-            "SkillResource": "Stored damage",
-            "SkillDescription": "Every blow is a loan: 35% of a personal basic that does not finish its target is deferred, up to three times your weapon damage. The debt is collected from that same enemy after 4s, 2.5s, or 5s depending on your approach, with interest: 320%, 260% or 320% of the bank. Choose a focused payment, early settlement, or frost instalments. Bosses keep moving; debt cannot recursively bank itself.",
-            "Approaches": [
-                "Full payment",
-                "Early settlement",
-                "Winter instalments"
-            ]
-        },
-        {
-            "Id": "RainArchivist",
-            "Name": "Rain Archivist",
-            "Description": "Each opened chest heals 4 HP and records a raindrop. Every third record releases a fan of frost shots.",
-            "Skill": "THE WEATHER BOOK",
-            "SkillResource": "Written pages",
-            "SkillDescription": "Write pages by opening chests, recovering HP, dodging, or making three personal attacks. Three pages release a frost rain; healing and chest pages alter its recovery and spread. Its own recovery cannot write another page. Choose rain, storm, or mist. Chest healing remains; the book works before the first chest too.",
-            "Approaches": [
-                "Rain",
-                "Storm",
-                "Mist"
-            ]
-        },
-        {
-            "Id": "KiteAdmiral",
-            "Name": "Kite Admiral",
-            "Description": "A mouse admiral whose kites fly over the brigade's archers.",
-            "Skill": "THE PAPER FLEET",
-            "SkillResource": "Long shots",
-            "SkillDescription": "Your own hits beyond 4 units fill the gauge fastest. Full, four kites fly over your nearest ranged friends and split their shots.",
-            "Approaches": [
-                "Tight formation",
-                "Wide formation",
-                "Long voyage"
-            ]
-        },
-        {
-            "Id": "SundaeDuchess",
-            "Name": "Sundae Duchess",
-            "Description": "A porcelain duchess crowned in ice cream; what she freezes pays.",
-            "Skill": "THE MELTING SUNDAE",
-            "SkillResource": "Melt",
-            "SkillDescription": "The sundae melts into the gauge over time; blows you take and frozen enemies felled melt it faster. Full, giant scoops fall and freeze.",
-            "Approaches": [
-                "Single scoop",
-                "Banana split",
-                "Slow melt"
-            ]
-        },
-        {
-            "Id": "BonsaiClocksmith",
-            "Name": "Bonsai Clocksmith",
-            "Description": "A tortoise clocksmith whose bonsai garden keeps time.",
-            "Skill": "THE CLOCKWORK GARDEN",
-            "SkillResource": "Ticks",
-            "SkillDescription": "Your hits, kills and time wind the clock. Full, a clockwork bonsai is planted ahead and its hand sweeps once round.",
-            "Approaches": [
-                "Pruned hand",
-                "Wide canopy",
-                "Evergreen"
-            ]
-        },
-        {
-            "Id": "JugglingJester",
-            "Name": "Juggling Jester",
-            "Description": "A felt jester who keeps five balls in the air.",
-            "Skill": "THE FIVE-BALL ACT",
-            "SkillResource": "Applause",
-            "SkillDescription": "Friends' crits and your hits toss balls into the air. Full, five balls slam down and every throw tosses two pins.",
-            "Approaches": [
-                "Solo act",
-                "Full troupe",
-                "Encore"
-            ]
-        },
-        {
-            "Id": "BellDiver",
-            "Name": "Bell Diver",
-            "Description": "A frog diver who probes the deep and rides a brass bell.",
-            "Skill": "THE DEPTH GAUGE",
-            "SkillResource": "Fathoms",
-            "SkillDescription": "Time near enemies and your hits sink the gauge; probed enemies count more. Full, you ride a brass diving bell.",
-            "Approaches": [
-                "Deep strike",
-                "Wide sonar",
-                "Long dive"
             ]
         }
     ],
@@ -1154,54 +998,14 @@
     ],
     "BossList": [
         {
-            "Id": "UndeliveredKing",
-            "Name": "Undelivered King",
-            "Description": "Royal Stampede. Dead Letter Cross. Break organs to weaken attacks."
-        },
-        {
-            "Id": "ScarletIndex",
-            "Name": "Scarlet Index",
-            "Description": "Quill Guillotine. Spilled Archive. Break organs to weaken attacks."
-        },
-        {
-            "Id": "SleepCollector",
-            "Name": "Sleep Collector",
-            "Description": "Pillow Drop. Nightmare Hop. Break organs to weaken attacks."
-        },
-        {
-            "Id": "WaxAdmiral",
-            "Name": "Wax Admiral",
-            "Description": "Anchor Rake. Melting Broadside. Break organs to weaken attacks."
-        },
-        {
-            "Id": "LastLantern",
-            "Name": "Last Lantern",
-            "Description": "Shutter Cage. Fuel Rain. Break organs to weaken attacks."
-        },
-        {
-            "Id": "MarqueeMaw",
-            "Name": "The Marquee Maw",
-            "Description": "Curtain Call. Stage Dive. Break organs to weaken attacks."
-        },
-        {
-            "Id": "UmbraCradle",
-            "Name": "Mother Umbra",
-            "Description": "Cradle Crash. Shadow Lullaby. Break organs to weaken attacks."
-        },
-        {
             "Id": "CoinWidow",
             "Name": "The Coin Widow",
             "Description": "Vault Scissor. Bank Run. Break organs to weaken attacks."
         },
         {
-            "Id": "ChoirEngine",
-            "Name": "The Howling Organ",
-            "Description": "Bass Procession. Falling Requiem. Break organs to weaken attacks."
-        },
-        {
-            "Id": "SuitcaseLeviathan",
-            "Name": "Suitcase Leviathan",
-            "Description": "Lost Luggage Drop. Leviathan Landing. Break organs to weaken attacks."
+            "Id": "ChairPorter",
+            "Name": "The Chair Porter",
+            "Description": "Night 8. Carries a tower of chairs on his back, the travellers still sitting in them."
         }
     ],
     "RelicList": [

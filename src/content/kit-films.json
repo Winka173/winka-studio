@@ -162,10 +162,59 @@
   },
   {
     "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-01-lantern-knight-night-3.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-01-lantern-knight-night-3.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-01-lantern-knight-night-3-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-02-comet-runner-night-7.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-02-comet-runner-night-7.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-02-comet-runner-night-7-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-04-velvet-regent-night-13.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-04-velvet-regent-night-13.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-04-velvet-regent-night-13-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-01-lantern-knight-night-3.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-01-lantern-knight-night-3.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-01-lantern-knight-night-3-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-02-comet-runner-night-7.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-02-comet-runner-night-7.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-02-comet-runner-night-7-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-04-velvet-regent-night-13.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-04-velvet-regent-night-13.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-04-velvet-regent-night-13-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
     "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-01-buy-and-star-up.mp4",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-01-buy-and-star-up.mp4",
     "kind": "owner-kit-native-capture",
     "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-01-buy-and-star-up-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-02-fight-wave-14.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14-poster.webp"
   },
   {
     "slug": "arcane-brigade",
@@ -180,6 +229,125 @@
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-04-boss-night-4.mp4",
     "kind": "owner-kit-native-capture",
     "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-04-boss-night-4-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-8.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-05-boss-night-8.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-8-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-dream-market.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-dream-market.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-dream-market-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-comet-runner.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-comet-runner.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-comet-runner-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lantern-knight.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-lantern-knight.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lantern-knight-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lone-jelly.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-lone-jelly.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lone-jelly-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tide-singer.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-tide-singer.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tide-singer-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tin-virtuoso.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-tin-virtuoso.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tin-virtuoso-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-velvet-regent.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-velvet-regent.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-velvet-regent-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hub-waiting-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hub-waiting-room.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hub-waiting-room-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-archive-vault.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-glasshouse.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-lamp-hall.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-post-office.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-theatre.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-waiting-room.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-secret-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-secret-room.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-secret-room-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-visitor.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-visitor.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-visitor-poster.webp"
   },
   {
     "slug": "arcane-brigade",
@@ -211,17 +379,66 @@
   },
   {
     "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-16.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-05-boss-night-16.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-8.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-05-boss-night-8.mp4",
     "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-16-poster.webp"
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-8-poster.webp"
   },
   {
     "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-06-transformation.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-06-transformation.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-dream-market.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-dream-market.mp4",
     "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-06-transformation-poster.webp"
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-dream-market-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-comet-runner.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-comet-runner.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-comet-runner-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lantern-knight.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-lantern-knight.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lantern-knight-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lone-jelly.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-lone-jelly.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lone-jelly-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tide-singer.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-tide-singer.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tide-singer-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tin-virtuoso.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-tin-virtuoso.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tin-virtuoso-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-velvet-regent.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-velvet-regent.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-velvet-regent-poster.webp"
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hub-waiting-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hub-waiting-room.mp4",
+    "kind": "owner-kit-native-capture",
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hub-waiting-room-poster.webp"
   },
   {
     "slug": "arcane-brigade",
@@ -267,23 +484,23 @@
   },
   {
     "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-40s-muted-loop-720p.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-muted-loop-720p.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-secret-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-secret-room.mp4",
     "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-muted-loop-720p-poster.webp"
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-secret-room-poster.webp"
   },
   {
     "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-40s-web-720p.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-web-720p.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-visitor.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-visitor.mp4",
     "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-web-720p-poster.webp"
+    "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-visitor-poster.webp"
   },
   {
     "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-40s.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-muted-loop-720p.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-muted-loop-720p.mp4",
     "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-poster.webp"
+    "poster": "/products/arcane-brigade/kit/03_Clips/trailer-muted-loop-720p-poster.webp"
   }
 ]

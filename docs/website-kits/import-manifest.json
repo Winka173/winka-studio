@@ -1134,8 +1134,8 @@
     "height": 2532
   },
   {
-    "file": "public/products/handy-bookmark/kit/screenshots/mobile/mobile-en-26-weekly-nudge.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-en-26-weekly-nudge.png",
+    "file": "public/products/handy-bookmark/kit/screenshots/mobile/mobile-en-26-remind-me.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-en-26-remind-me.png",
     "kind": "optimized-image",
     "width": 1170,
     "height": 2532
@@ -1596,8 +1596,8 @@
     "height": 2532
   },
   {
-    "file": "public/products/handy-bookmark/kit/screenshots/mobile/mobile-vi-26-weekly-nudge.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-vi-26-weekly-nudge.png",
+    "file": "public/products/handy-bookmark/kit/screenshots/mobile/mobile-vi-26-remind-me.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-vi-26-remind-me.png",
     "kind": "optimized-image",
     "width": 1170,
     "height": 2532
@@ -3125,48 +3125,6 @@
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-12-a.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-12-a.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-12-b.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-12-b.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-16-a.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-16-a.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-16-b.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-16-b.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-20-a.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-20-a.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/boss-night-20-b.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\boss-night-20-b.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
     "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/fight-01-early-night-a.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\fight-01-early-night-a.jpg",
     "kind": "optimized-image",
@@ -3211,6 +3169,104 @@
   {
     "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/fight-04-chest-and-coins.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\fight-04-chest-and-coins.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-comet-runner-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-comet-runner-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-transformed.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-comet-runner-transformed.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-lantern-knight-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lantern-knight-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-lantern-knight-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lantern-knight-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-lantern-knight-transformed.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lantern-knight-transformed.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-lone-jelly-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lone-jelly-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-lone-jelly-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-lone-jelly-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-tide-singer-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tide-singer-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-tide-singer-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tide-singer-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-tin-virtuoso-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tin-virtuoso-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-tin-virtuoso-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-tin-virtuoso-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-velvet-regent-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-velvet-regent-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 1013
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/hero-velvet-regent-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\hero-velvet-regent-skill-b.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
@@ -3288,13 +3344,6 @@
   {
     "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/market-03-ferry.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\market-03-ferry.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/market-04-last-customer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\market-04-last-customer.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
@@ -3559,211 +3608,113 @@
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-11-VerdantMatron.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-11-VerdantMatron.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-11-CopperCauldron.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-11-CopperCauldron.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-12-CopperCauldron.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-12-CopperCauldron.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-12-ChinaMarionette.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-12-ChinaMarionette.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-13-ChinaMarionette.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-13-ChinaMarionette.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-13-SoapSkater.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-13-SoapSkater.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-14-SoapSkater.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-14-SoapSkater.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-14-VelvetRegent.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-14-VelvetRegent.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-15-VelvetRegent.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-15-VelvetRegent.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-15-ButtonCavalier.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-15-ButtonCavalier.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-16-ButtonCavalier.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-16-ButtonCavalier.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-16-NightMaw.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-16-NightMaw.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-17-NightMaw.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-17-NightMaw.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-17-ThornTreasurer.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-17-ThornTreasurer.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-18-ThornTreasurer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-18-ThornTreasurer.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-18-CitrusMarshal.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-18-CitrusMarshal.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-19-CitrusMarshal.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-19-CitrusMarshal.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-19-IvorySovereign.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-19-IvorySovereign.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-20-IvorySovereign.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-20-IvorySovereign.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-20-PetalCitadel.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-20-PetalCitadel.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-21-PetalCitadel.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-21-PetalCitadel.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-21-PatchworkHost.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-21-PatchworkHost.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-22-PatchworkHost.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-22-PatchworkHost.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-22-ArchiveCurator.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-22-ArchiveCurator.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-23-ArchiveCurator.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-23-ArchiveCurator.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-23-TinVirtuoso.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-23-TinVirtuoso.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-24-PennyBroker.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-24-PennyBroker.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-24-LanternWeaver.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-24-LanternWeaver.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-25-StormFencer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-25-StormFencer.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/transform-CometRunner.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-CometRunner.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-26-TinVirtuoso.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-26-TinVirtuoso.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-27-MoonProwler.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-27-MoonProwler.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-28-SupperMortar.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-28-SupperMortar.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-29-LanternWeaver.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-29-LanternWeaver.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-30-HourglassStag.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-30-HourglassStag.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-31-RainArchivist.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-31-RainArchivist.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-32-KiteAdmiral.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-32-KiteAdmiral.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-33-SundaeDuchess.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-33-SundaeDuchess.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-34-BonsaiClocksmith.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-34-BonsaiClocksmith.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-35-JugglingJester.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-35-JugglingJester.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/skill-36-BellDiver.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\skill-36-BellDiver.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/transform-01-LanternKnight.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-01-LanternKnight.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/transform-02-Postmaster.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-02-Postmaster.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/transform-03-DrowsySeer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-03-DrowsySeer.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 1013
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/transform-04-RootOracle.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-04-RootOracle.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/pc/transform-LanternKnight.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\pc\\transform-LanternKnight.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 1013
@@ -3799,48 +3750,6 @@
   {
     "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-08-b.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-08-b.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-12-a.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-12-a.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-12-b.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-12-b.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-16-a.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-16-a.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-16-b.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-16-b.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-20-a.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-20-a.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/boss-night-20-b.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\boss-night-20-b.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
@@ -3890,6 +3799,104 @@
   {
     "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/fight-04-chest-and-coins.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\fight-04-chest-and-coins.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-comet-runner-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-comet-runner-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-comet-runner-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-comet-runner-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-comet-runner-transformed.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-comet-runner-transformed.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lantern-knight-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lantern-knight-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lantern-knight-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lantern-knight-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lantern-knight-transformed.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lantern-knight-transformed.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lone-jelly-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lone-jelly-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-lone-jelly-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-lone-jelly-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tide-singer-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tide-singer-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tide-singer-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tide-singer-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tin-virtuoso-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tin-virtuoso-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-tin-virtuoso-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-tin-virtuoso-skill-b.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-velvet-regent-skill-a.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-velvet-regent-skill-a.jpg",
+    "kind": "optimized-image",
+    "width": 1800,
+    "height": 810
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/hero-velvet-regent-skill-b.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\hero-velvet-regent-skill-b.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
@@ -3967,13 +3974,6 @@
   {
     "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/market-03-ferry.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\market-03-ferry.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/market-04-last-customer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\market-04-last-customer.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
@@ -4238,211 +4238,113 @@
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-11-VerdantMatron.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-11-VerdantMatron.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-11-CopperCauldron.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-11-CopperCauldron.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-12-CopperCauldron.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-12-CopperCauldron.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-12-ChinaMarionette.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-12-ChinaMarionette.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-13-ChinaMarionette.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-13-ChinaMarionette.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-13-SoapSkater.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-13-SoapSkater.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-14-SoapSkater.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-14-SoapSkater.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-14-VelvetRegent.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-14-VelvetRegent.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-15-VelvetRegent.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-15-VelvetRegent.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-15-ButtonCavalier.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-15-ButtonCavalier.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-16-ButtonCavalier.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-16-ButtonCavalier.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-16-NightMaw.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-16-NightMaw.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-17-NightMaw.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-17-NightMaw.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-17-ThornTreasurer.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-17-ThornTreasurer.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-18-ThornTreasurer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-18-ThornTreasurer.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-18-CitrusMarshal.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-18-CitrusMarshal.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-19-CitrusMarshal.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-19-CitrusMarshal.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-19-IvorySovereign.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-19-IvorySovereign.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-20-IvorySovereign.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-20-IvorySovereign.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-20-PetalCitadel.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-20-PetalCitadel.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-21-PetalCitadel.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-21-PetalCitadel.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-21-PatchworkHost.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-21-PatchworkHost.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-22-PatchworkHost.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-22-PatchworkHost.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-22-ArchiveCurator.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-22-ArchiveCurator.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-23-ArchiveCurator.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-23-ArchiveCurator.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-23-TinVirtuoso.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-23-TinVirtuoso.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-24-PennyBroker.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-24-PennyBroker.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-24-LanternWeaver.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-24-LanternWeaver.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-25-StormFencer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-25-StormFencer.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/transform-CometRunner.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-CometRunner.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
   },
   {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-26-TinVirtuoso.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-26-TinVirtuoso.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-27-MoonProwler.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-27-MoonProwler.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-28-SupperMortar.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-28-SupperMortar.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-29-LanternWeaver.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-29-LanternWeaver.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-30-HourglassStag.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-30-HourglassStag.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-31-RainArchivist.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-31-RainArchivist.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-32-KiteAdmiral.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-32-KiteAdmiral.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-33-SundaeDuchess.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-33-SundaeDuchess.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-34-BonsaiClocksmith.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-34-BonsaiClocksmith.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-35-JugglingJester.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-35-JugglingJester.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/skill-36-BellDiver.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\skill-36-BellDiver.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/transform-01-LanternKnight.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-01-LanternKnight.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/transform-02-Postmaster.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-02-Postmaster.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/transform-03-DrowsySeer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-03-DrowsySeer.jpg",
-    "kind": "optimized-image",
-    "width": 1800,
-    "height": 810
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/transform-04-RootOracle.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-04-RootOracle.jpg",
+    "file": "public/products/arcane-brigade/kit/02_Screenshots/mobile/transform-LanternKnight.webp",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\02_Screenshots\\mobile\\transform-LanternKnight.jpg",
     "kind": "optimized-image",
     "width": 1800,
     "height": 810
@@ -4721,20 +4623,6 @@
     "height": 534
   },
   {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/bell-diver.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\bell-diver.png",
-    "kind": "optimized-image",
-    "width": 350,
-    "height": 446
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/bonsai-clocksmith.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\bonsai-clocksmith.png",
-    "kind": "optimized-image",
-    "width": 390,
-    "height": 454
-  },
-  {
     "file": "public/products/arcane-brigade/kit/07_Art/heroes/button-cavalier.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\button-cavalier.png",
     "kind": "optimized-image",
@@ -4770,32 +4658,11 @@
     "height": 294
   },
   {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/hourglass-stag.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\hourglass-stag.png",
-    "kind": "optimized-image",
-    "width": 386,
-    "height": 548
-  },
-  {
     "file": "public/products/arcane-brigade/kit/07_Art/heroes/ivory-sovereign.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\ivory-sovereign.png",
     "kind": "optimized-image",
     "width": 368,
     "height": 522
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/juggling-jester.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\juggling-jester.png",
-    "kind": "optimized-image",
-    "width": 332,
-    "height": 432
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/kite-admiral.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\kite-admiral.png",
-    "kind": "optimized-image",
-    "width": 362,
-    "height": 400
   },
   {
     "file": "public/products/arcane-brigade/kit/07_Art/heroes/lady-loaded-dice.webp",
@@ -4819,13 +4686,6 @@
     "height": 452
   },
   {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/moon-prowler.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\moon-prowler.png",
-    "kind": "optimized-image",
-    "width": 502,
-    "height": 460
-  },
-  {
     "file": "public/products/arcane-brigade/kit/07_Art/heroes/night-maw.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\night-maw.png",
     "kind": "optimized-image",
@@ -4838,13 +4698,6 @@
     "kind": "optimized-image",
     "width": 410,
     "height": 520
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/penny-broker.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\penny-broker.png",
-    "kind": "optimized-image",
-    "width": 492,
-    "height": 534
   },
   {
     "file": "public/products/arcane-brigade/kit/07_Art/heroes/petal-citadel.webp",
@@ -4861,39 +4714,11 @@
     "height": 348
   },
   {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/rain-archivist.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\rain-archivist.png",
-    "kind": "optimized-image",
-    "width": 416,
-    "height": 458
-  },
-  {
     "file": "public/products/arcane-brigade/kit/07_Art/heroes/soap-skater.webp",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\soap-skater.png",
     "kind": "optimized-image",
     "width": 472,
     "height": 464
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/storm-fencer.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\storm-fencer.png",
-    "kind": "optimized-image",
-    "width": 436,
-    "height": 500
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/sundae-duchess.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\sundae-duchess.png",
-    "kind": "optimized-image",
-    "width": 316,
-    "height": 484
-  },
-  {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/supper-mortar.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\supper-mortar.png",
-    "kind": "optimized-image",
-    "width": 534,
-    "height": 458
   },
   {
     "file": "public/products/arcane-brigade/kit/07_Art/heroes/the-comet-courier.webp",
@@ -4959,20 +4784,48 @@
     "height": 570
   },
   {
-    "file": "public/products/arcane-brigade/kit/07_Art/heroes/verdant-matron.webp",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\07_Art\\heroes\\verdant-matron.png",
-    "kind": "optimized-image",
-    "width": 362,
-    "height": 522
+    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-with-sound.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-web-720p.mp4",
+    "kind": "explicit-play-trailer-with-audio"
   },
   {
-    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-with-sound.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-web-720p.mp4",
-    "kind": "explicit-play-trailer-with-audio"
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-01-lantern-knight-night-3.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-01-lantern-knight-night-3.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-02-comet-runner-night-7.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-02-comet-runner-night-7.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-04-velvet-regent-night-13.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-04-velvet-regent-night-13.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-01-lantern-knight-night-3.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-01-lantern-knight-night-3.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-02-comet-runner-night-7.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-02-comet-runner-night-7.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-04-velvet-regent-night-13.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-04-velvet-regent-night-13.mp4",
+    "kind": "muted-web-video"
   },
   {
     "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-01-buy-and-star-up.mp4",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-01-buy-and-star-up.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-02-fight-wave-14.mp4",
     "kind": "muted-web-video"
   },
   {
@@ -4983,6 +4836,91 @@
   {
     "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-04-boss-night-4.mp4",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-04-boss-night-4.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-8.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-05-boss-night-8.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-dream-market.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-dream-market.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-comet-runner.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-comet-runner.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lantern-knight.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-lantern-knight.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lone-jelly.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-lone-jelly.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tide-singer.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-tide-singer.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tin-virtuoso.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-tin-virtuoso.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-velvet-regent.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-velvet-regent.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-hub-waiting-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hub-waiting-room.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-archive-vault.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-glasshouse.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-lamp-hall.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-post-office.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-theatre.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-waiting-room.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-secret-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-secret-room.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-visitor.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-visitor.mp4",
     "kind": "muted-web-video"
   },
   {
@@ -5006,13 +4944,48 @@
     "kind": "muted-web-video"
   },
   {
-    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-16.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-05-boss-night-16.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-8.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-05-boss-night-8.mp4",
     "kind": "muted-web-video"
   },
   {
-    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-06-transformation.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-06-transformation.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-dream-market.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-dream-market.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-comet-runner.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-comet-runner.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lantern-knight.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-lantern-knight.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lone-jelly.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-lone-jelly.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tide-singer.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-tide-singer.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tin-virtuoso.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-tin-virtuoso.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hero-velvet-regent.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-velvet-regent.mp4",
+    "kind": "muted-web-video"
+  },
+  {
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-hub-waiting-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hub-waiting-room.mp4",
     "kind": "muted-web-video"
   },
   {
@@ -5046,18 +5019,18 @@
     "kind": "muted-web-video"
   },
   {
-    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-40s-muted-loop-720p.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-muted-loop-720p.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-secret-room.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-secret-room.mp4",
     "kind": "muted-web-video"
   },
   {
-    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-40s-web-720p.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-web-720p.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/pc/clip-visitor.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-visitor.mp4",
     "kind": "muted-web-video"
   },
   {
-    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-40s.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s.mp4",
+    "file": "public/products/arcane-brigade/kit/03_Clips/trailer-muted-loop-720p.mp4",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-muted-loop-720p.mp4",
     "kind": "muted-web-video"
   }
 ]

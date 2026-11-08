@@ -40,7 +40,7 @@ export function ArcaneHeroSelector({
         <div className="hero-portrait-plate">
           <span aria-hidden="true">✦</span>
           <img src={hero.art} width={500} height={500} alt={hero.name} />
-          <small>{String(selected + 1).padStart(2, "0")} / 36</small>
+          <small>{String(selected + 1).padStart(2, "0")} / {heroes.length}</small>
         </div>
         <div className="hero-skill-copy" aria-live="polite">
           <span className="folio-kicker">
@@ -79,7 +79,7 @@ export function ArcaneHeroSelector({
       <div
         className="hero-selection-roster"
         role="group"
-        aria-label={vi ? "36 anh hùng" : "36 heroes"}
+        aria-label={vi ? `${heroes.length} anh hùng` : `${heroes.length} heroes`}
       >
         {heroes.map((h, i) => (
           <button

@@ -24,8 +24,8 @@ export function ArcanePortfolio({
   const vi = locale === "vi",
     kit = websiteKits[product.slug];
   const shot = (id: string) => mediaImage(product.slug, id, locale)!;
-  const trailer = kitClip(product.slug, "trailer-40s-muted-loop-720p");
-  const ambient = kitClip(product.slug, "clip-03-fight-wave-18", "pc");
+  const trailer = kitClip(product.slug, "trailer-muted-loop-720p");
+  const ambient = kitClip(product.slug, "clip-hero-comet-runner", "pc");
   const heroes = heroFacts.map((hero) => ({
     ...hero,
     art: kit.assets[hero.art],
@@ -42,7 +42,7 @@ export function ArcanePortfolio({
           <div className="arcane-cinema-film">
             <ProductFilm
               {...ambient}
-              poster={shot("fight-03-late-night-a")}
+              poster={shot("hero-comet-runner-skill-a")}
               locale={locale}
               label={
                 vi
@@ -71,13 +71,18 @@ export function ArcanePortfolio({
               ? "Dẫn một đội bạn nhỏ kỳ lạ qua hai mươi đêm như bước ra từ truyện tranh. Bạn di chuyển. Anh hùng và đồng đội tự chiến đấu."
               : "Lead a brigade of odd little friends through twenty storybook nights. You move. Your hero and companions fight automatically."}
           </p>
+          <p className="arcane-available">
+            {vi
+              ? "Đã có trên Google Play, App Store và Steam"
+              : "Now on Google Play, the App Store and Steam"}
+          </p>
           <ProductAction product={product} locale={locale} />
           <a className="folio-text-link" href="#trailer">
             {vi ? "Xem trailer có âm thanh" : "Watch the trailer with sound"} ↗
           </a>
         </div>
         <div className="arcane-cinema-bottom portfolio-wrap">
-          <span>20 NIGHTS / 36 HEROES / ONE STRANGE DREAM</span>
+          <span>20 NIGHTS / {kit.facts!["Heroes"]} HEROES / ONE STRANGE DREAM</span>
           <span>
             {vi ? "Ảnh và video từ trò chơi" : "Images & footage from the game"}
           </span>
@@ -113,6 +118,30 @@ export function ArcanePortfolio({
           </p>
         </div>
       </section>
+      <section className="arcane-opening-night arcane-story portfolio-wrap" data-scene>
+        <div className="arcane-chapter-number" aria-hidden="true">
+          II.
+        </div>
+        <div>
+          <span className="folio-kicker">
+            {vi ? "MIỀN CHỜ" : "THE WAITING REALM"}
+          </span>
+          <h2>
+            {vi ? "Tám ngọn đèn." : "Eight lamps."}
+            <em>{vi ? "Một người đang đến." : "Someone is coming."}</em>
+          </h2>
+          <p>
+            {vi
+              ? "Bạn chìm vào giấc ngủ và tỉnh dậy ở Miền Chờ, nơi những chốn bị giữ lại bởi những lời hứa chưa thành. Ở đó có tám ngọn đèn. Mỗi ngọn là một lần có người đến tìm bạn."
+              : "You fall asleep and wake in the Waiting Realm, where places are kept waiting by promises that were never kept. Eight lamps burn there. Each one is a time someone came looking for you."}
+          </p>
+          <p>
+            {vi
+              ? "Mỗi đêm, bóng tối thổi tắt một ngọn, và cùng với nó là một ký ức về người ấy: giọng nói, màu áo mưa, cách họ gõ cửa. Hãy giữ ngọn đèn cuối cùng cháy đến bình minh."
+              : "Every night the dark puts one out, and with it a memory of them: their voice, the colour of their raincoat, the way they knocked. Keep the last lamp burning until dawn."}
+          </p>
+        </div>
+      </section>
       <div className="arcane-kit-stats portfolio-wrap">
         {[
           ["Heroes", vi ? "anh hùng" : "heroes"],
@@ -139,13 +168,13 @@ export function ArcanePortfolio({
           {vi ? "KHÔNG AI GIỐNG AI" : "NO TWO QUITE ALIKE"}
         </span>
         <h2>
-          {vi ? "36 anh hùng." : "36 heroes."}
-          <em>{vi ? "36 cách bước vào đêm." : "36 ways into the night."}</em>
+          {vi ? `${heroes.length} anh hùng.` : `${heroes.length} heroes.`}
+          <em>{vi ? `${heroes.length} cách bước vào đêm.` : `${heroes.length} ways into the night.`}</em>
         </h2>
         <p>
           {vi
-            ? "Mỗi anh hùng có kỹ năng đặc trưng, ba cách dùng và một lần biến hình. Hiệp Sĩ Đèn Lồng, Trưởng Bưu Cục, Tiên Tri Ngái Ngủ — mỗi người mang một nhịp chơi riêng."
-            : "Every hero has a signature skill, three approaches and a transformation. Lantern Knight, Postmaster, Drowsy Seer — each brings a different rhythm to the night."}
+            ? "Mỗi anh hùng có kỹ năng đặc trưng, ba cách dùng và một lần biến hình. Hiệp Sĩ Đèn Lồng gom ánh sáng từ đòn đánh của bạn bè cho tới khi tia hải đăng xé ngang đám đông; Người Đưa Thư Sao Chổi biến đường mình chạy thành vệt lửa, kết thúc bằng mưa sao băng."
+            : "Every hero has a signature skill, three approaches and a transformation. The Lantern Knight gathers light from his friends' attacks until a lighthouse beam cuts through the crowd; the Comet Courier turns its own path into a burning wake that ends in a starfall."}
         </p>
         <ArcaneHeroSelector heroes={heroes} locale={locale} />
       </section>
@@ -153,8 +182,8 @@ export function ArcanePortfolio({
       <section className="arcane-full-trailer portfolio-wrap" id="trailer">
         <h2>
           {vi
-            ? "Hai mươi đêm, trong bốn mươi giây."
-            : "Twenty nights in forty seconds."}
+            ? "Hai mươi đêm, trong hai phút."
+            : "Twenty nights in two minutes."}
         </h2>
         <KitTrailer
           poster={trailer.poster}

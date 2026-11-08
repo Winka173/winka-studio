@@ -219,7 +219,7 @@ try {
   await page.goto(`${base}/en/games/arcane-brigade/`, {
     waitUntil: "networkidle",
   });
-  assert.equal(await page.locator(".hero-selection-roster button").count(), 36);
+  assert.equal(await page.locator(".hero-selection-roster button").count(), 24);
   await page.locator(".hero-selection-roster button").nth(1).click();
   await expect(page.locator(".hero-skill-copy h3")).toHaveText("Postmaster");
   assert.match(
@@ -231,9 +231,9 @@ try {
   await page.locator(".hero-selection-roster button").last().click();
   await expect(
     page.locator(".hero-skill-scene .image-preview-trigger img"),
-  ).toHaveAttribute("src", /skill-36-/);
+  ).toHaveAttribute("src", /skill-24-/);
   report.checks.push(
-    "All 36 original heroes selectable with corresponding real skill capture.",
+    "All 24 heroes in the game today selectable with corresponding real skill capture (heroes held for later updates and acts stay hidden).",
   );
 
   await page.goto(`${base}/en/lab/`, { waitUntil: "networkidle" });

@@ -191,8 +191,8 @@ export const products: Product[] = [
       "Dẫn đội bạn nhỏ qua hai mươi đêm truyện tranh. Bạn di chuyển; anh hùng và đồng đội tự đánh. Miễn phí, không quảng cáo, Deluxe tùy chọn.",
     ),
     accent: "#f0c060",
-    platforms: ["Android"],
-    image: "/products/arcane-brigade/kit/02_Screenshots/pc/fight-03-late-night-a.webp",
+    platforms: ["Android", "iOS", "PC (Steam)"],
+    image: "/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-skill-a.webp",
     mediaKind: "screenshot",
     features: [
       text(

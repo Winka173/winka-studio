@@ -1,6 +1,8 @@
-# Heroes (36)
+# Heroes (24)
 
-Every hero has a signature skill (its name in capitals), three ways to aim it, and a transformation. Art: `07_Art/heroes/<name>.png`. Skill picture: `02_Screenshots/pc/skill-NN-<Id>.png`.
+Every hero has a signature skill (its name in capitals), three ways to aim it, and a transformation. Art: `07_Art/heroes/<name>.png`. Skill picture: `02_Screenshots/pc/skill-NN-<Id>.jpg`.
+
+Twelve more heroes are finished but held back for content updates and Acts II and III; they are left out on purpose, so the website must not mention or show them.
 
 ## Lantern Knight
 
@@ -81,14 +83,6 @@ Every hero has a signature skill (its name in capitals), three ways to aim it, a
 - Skill: **THE BOUNTY LEDGER** (gauge: Bounty stamps)
 - How it works: A visible bounty marks one enemy. Basic hits put stamps on it; three stamps settle the claim even against a boss. A kill also settles it. Claims pay 1 gold (maximum 8 per wave) and send a bounded archive strike. Choose the closest threat, a ranged threat, or the richest-health target.
 - Three ways to aim it: Local accounts, Collectors, Large accounts
-
-## Verdant Matron
-
-- Art: `07_Art/heroes/verdant-matron.png`
-- In one line: Nursery shops sell Little Sprouts. Buying a Sprout adds 1 projectile (max 6) and costs 2 maximum HP. Two Sprouts grow into a random evolved friend plus a Grand Sprout.
-- Skill: **THE NURSERY PLAN** (gauge: Nursery bloom)
-- How it works: Choose how your nursery grows. Two Sprouts still inherit ingredient weapons and also create Grand Sprout; the random evolved friend's pool now favors the selected role. Every 6s, a nursery bloom (radius 1.6) from a sprout shelters, strikes, or nourishes the brigade. No new friend species or permanent extra bodies are created.
-- Three ways to aim it: Guard nursery, Striker nursery, Guide nursery
 
 ## Copper Cauldron
 
@@ -186,22 +180,6 @@ Every hero has a signature skill (its name in capitals), three ways to aim it, a
 - How it works: Basic hits record up to three enemy species and their attack styles. Every 6s, replay their shapes against the dream: charging lines, ranged volleys, or close strikes. Choose to update the newest page, preserve your first specimens, or favor new species. Absorbed friend passives remain a separate collection.
 - Three ways to aim it: Current edition, Preserve, New specimens
 
-## Penny Broker
-
-- Art: `07_Art/heroes/penny-broker.png`
-- In one line: Relics cost 20% less. Rerolls cost 2 more gold. Each paid refresh adds 1 income and 1% luck for this run.
-- Skill: **THE FORWARD ORDER** (gauge: Reserved delivery)
-- How it works: In a shop, invest 8 + wave gold (maximum 40) to reserve a named relic for the next shop at a quoted price. Choose curio, drink, or food. One order per wave; the delivery remains through rerolls until bought, then clears. If it becomes ineligible, the investment is returned. Every 10 collected gold signs a small receipt strike in battle.
-- Three ways to aim it: Curios, Drinks, Food
-
-## Storm Fencer
-
-- Art: `07_Art/heroes/storm-fencer.png`
-- In one line: You do not attack normally. Your contact damage is doubled. Dodging triggers a short forward lightning barrage. Start with +20% dodge.
-- Skill: **THE THUNDER SHEATH** (gauge: Static)
-- How it works: Danger nearby slowly charges the sheath; near misses add one static and dodges add two. At 3 static, automatically draw a telegraphed lightning strike, at most once per 3s. Choose a piercing draw, a split barrage, or a cross. No basic attack is required to charge; bosses are never stunned by the draw.
-- Three ways to aim it: Quickdraw, Forked lightning, Crosscut
-
 ## Tin Virtuoso
 
 - Art: `07_Art/heroes/tin-virtuoso.png`
@@ -209,22 +187,6 @@ Every hero has a signature skill (its name in capitals), three ways to aim it, a
 - Skill: **THE BRIGADE SCORE** (gauge: Beats)
 - How it works: Your basic attacks conduct the score; critical attacks count twice. Friends use their equipped weapons normally; a completed phrase also guarantees a response instead of relying on another random roll. Solo needs 2 beats and one performer; Duet needs 4 and two; Tutti needs 6 and up to four. All responses share one damage budget.
 - Three ways to aim it: Solo, Duet, Tutti
-
-## Moon Prowler
-
-- Art: `07_Art/heroes/moon-prowler.png`
-- In one line: Move 20% faster. Every 3 seconds spent moving in combat grants 2 gold. Each ally reduces wave income by 1.
-- Skill: **THE SHADOW THAT FOLLOWS** (gauge: Shadow steps)
-- How it works: Travel 5 units and your shadow slips behind the nearest enemy. Your next basic attack sends it out of that enemy's far side for a delayed 80% W cut; strike from truly behind the enemy (against its facing) and the basic itself also gains +45%. Flank kills pay 1 gold, maximum 6 per wave. Choose a straight rear cut, a side crescent, or a crossing shadow. Your movement income remains.
-- Three ways to aim it: Rear cut, Side crescent, Crossing shadow
-
-## Supper Mortar
-
-- Art: `07_Art/heroes/supper-mortar.png`
-- In one line: Fire up to two delayed mortar shells. Shells cannot pierce. Start with +0.4 armor and +15% movement speed. Enemies move 20% faster.
-- Skill: **SUPPER IS SERVED** (gauge: Recipe)
-- How it works: Your basic attack is served as two quick courses that land where the diner is heading, each carrying 85% of the attack (110% for the narrow Pepper lines). Dumplings burst, Pepper lays an ember line, and Sorbet chills an area. Bought food widens the bursts up to a small cap. Courses cannot pierce; each burst shares its budget across at most three targets.
-- Three ways to aim it: Dumplings, Pepper, Sorbet
 
 ## Lantern Weaver
 
@@ -234,58 +196,3 @@ Every hero has a signature skill (its name in capitals), three ways to aim it, a
 - How it works: Basic hits pin up to three living targets. Every fourth attack closes the network, sharing damage over its links. Choose a closed triangle, a stitch toward your position, or a broad seam. Knots last 6s and broken targets are removed; no infinite linked-hit chain.
 - Three ways to aim it: Closed weave, Pull stitch, Broad seam
 
-## Hourglass Stag
-
-- Art: `07_Art/heroes/hourglass-stag.png`
-- In one line: Every 6 seconds, briefly slow nearby ordinary enemies and release an expanding clock ring. Bosses keep moving.
-- Skill: **THE TIME DEBT** (gauge: Stored damage)
-- How it works: Every blow is a loan: 35% of a personal basic that does not finish its target is deferred, up to three times your weapon damage. The debt is collected from that same enemy after 4s, 2.5s, or 5s depending on your approach, with interest: 320%, 260% or 320% of the bank. Choose a focused payment, early settlement, or frost instalments. Bosses keep moving; debt cannot recursively bank itself.
-- Three ways to aim it: Full payment, Early settlement, Winter instalments
-
-## Rain Archivist
-
-- Art: `07_Art/heroes/rain-archivist.png`
-- In one line: Each opened chest heals 4 HP and records a raindrop. Every third record releases a fan of frost shots.
-- Skill: **THE WEATHER BOOK** (gauge: Written pages)
-- How it works: Write pages by opening chests, recovering HP, dodging, or making three personal attacks. Three pages release a frost rain; healing and chest pages alter its recovery and spread. Its own recovery cannot write another page. Choose rain, storm, or mist. Chest healing remains; the book works before the first chest too.
-- Three ways to aim it: Rain, Storm, Mist
-
-## Kite Admiral
-
-- Art: `07_Art/heroes/kite-admiral.png`
-- In one line: A mouse admiral whose kites fly over the brigade's archers.
-- Skill: **THE PAPER FLEET** (gauge: Long shots)
-- How it works: Your own hits beyond 4 units fill the gauge fastest. Full, four kites fly over your nearest ranged friends and split their shots.
-- Three ways to aim it: Tight formation, Wide formation, Long voyage
-
-## Sundae Duchess
-
-- Art: `07_Art/heroes/sundae-duchess.png`
-- In one line: A porcelain duchess crowned in ice cream; what she freezes pays.
-- Skill: **THE MELTING SUNDAE** (gauge: Melt)
-- How it works: The sundae melts into the gauge over time; blows you take and frozen enemies felled melt it faster. Full, giant scoops fall and freeze.
-- Three ways to aim it: Single scoop, Banana split, Slow melt
-
-## Bonsai Clocksmith
-
-- Art: `07_Art/heroes/bonsai-clocksmith.png`
-- In one line: A tortoise clocksmith whose bonsai garden keeps time.
-- Skill: **THE CLOCKWORK GARDEN** (gauge: Ticks)
-- How it works: Your hits, kills and time wind the clock. Full, a clockwork bonsai is planted ahead and its hand sweeps once round.
-- Three ways to aim it: Pruned hand, Wide canopy, Evergreen
-
-## Juggling Jester
-
-- Art: `07_Art/heroes/juggling-jester.png`
-- In one line: A felt jester who keeps five balls in the air.
-- Skill: **THE FIVE-BALL ACT** (gauge: Applause)
-- How it works: Friends' crits and your hits toss balls into the air. Full, five balls slam down and every throw tosses two pins.
-- Three ways to aim it: Solo act, Full troupe, Encore
-
-## Bell Diver
-
-- Art: `07_Art/heroes/bell-diver.png`
-- In one line: A frog diver who probes the deep and rides a brass bell.
-- Skill: **THE DEPTH GAUGE** (gauge: Fathoms)
-- How it works: Time near enemies and your hits sink the gauge; probed enemies count more. Full, you ride a brass diving bell.
-- Three ways to aim it: Deep strike, Wide sonar, Long dive

@@ -526,12 +526,12 @@
   },
   "arcane-brigade": {
     "facts": {
-      "Heroes": 36,
+      "Heroes": 24,
       "Friends": 66,
-      "Weapons": 117,
+      "Weapons": 105,
       "Relics": 204,
       "Enemies": 51,
-      "Bosses": 10,
+      "Bosses": 2,
       "Duets": 94
     },
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit",
@@ -545,31 +545,20 @@
       "og-en": "/products/arcane-brigade/kit/01_Brand/feature-graphic-1024x500.webp",
       "og-vi": "/products/arcane-brigade/kit/01_Brand/feature-graphic-1024x500.webp",
       "07_Art/heroes/archive-curator.png": "/products/arcane-brigade/kit/07_Art/heroes/archive-curator.webp",
-      "07_Art/heroes/bell-diver.png": "/products/arcane-brigade/kit/07_Art/heroes/bell-diver.webp",
-      "07_Art/heroes/bonsai-clocksmith.png": "/products/arcane-brigade/kit/07_Art/heroes/bonsai-clocksmith.webp",
       "07_Art/heroes/button-cavalier.png": "/products/arcane-brigade/kit/07_Art/heroes/button-cavalier.webp",
       "07_Art/heroes/china-marionette.png": "/products/arcane-brigade/kit/07_Art/heroes/china-marionette.webp",
       "07_Art/heroes/citrus-marshal.png": "/products/arcane-brigade/kit/07_Art/heroes/citrus-marshal.webp",
       "07_Art/heroes/copper-cauldron.png": "/products/arcane-brigade/kit/07_Art/heroes/copper-cauldron.webp",
       "07_Art/heroes/drowsy-seer.png": "/products/arcane-brigade/kit/07_Art/heroes/drowsy-seer.webp",
-      "07_Art/heroes/hourglass-stag.png": "/products/arcane-brigade/kit/07_Art/heroes/hourglass-stag.webp",
       "07_Art/heroes/ivory-sovereign.png": "/products/arcane-brigade/kit/07_Art/heroes/ivory-sovereign.webp",
-      "07_Art/heroes/juggling-jester.png": "/products/arcane-brigade/kit/07_Art/heroes/juggling-jester.webp",
-      "07_Art/heroes/kite-admiral.png": "/products/arcane-brigade/kit/07_Art/heroes/kite-admiral.webp",
       "07_Art/heroes/lady-loaded-dice.png": "/products/arcane-brigade/kit/07_Art/heroes/lady-loaded-dice.webp",
       "07_Art/heroes/lantern-knight.png": "/products/arcane-brigade/kit/07_Art/heroes/lantern-knight.webp",
       "07_Art/heroes/lantern-weaver.png": "/products/arcane-brigade/kit/07_Art/heroes/lantern-weaver.webp",
-      "07_Art/heroes/moon-prowler.png": "/products/arcane-brigade/kit/07_Art/heroes/moon-prowler.webp",
       "07_Art/heroes/night-maw.png": "/products/arcane-brigade/kit/07_Art/heroes/night-maw.webp",
       "07_Art/heroes/patchwork-host.png": "/products/arcane-brigade/kit/07_Art/heroes/patchwork-host.webp",
-      "07_Art/heroes/penny-broker.png": "/products/arcane-brigade/kit/07_Art/heroes/penny-broker.webp",
       "07_Art/heroes/petal-citadel.png": "/products/arcane-brigade/kit/07_Art/heroes/petal-citadel.webp",
       "07_Art/heroes/postmaster.png": "/products/arcane-brigade/kit/07_Art/heroes/postmaster.webp",
-      "07_Art/heroes/rain-archivist.png": "/products/arcane-brigade/kit/07_Art/heroes/rain-archivist.webp",
       "07_Art/heroes/soap-skater.png": "/products/arcane-brigade/kit/07_Art/heroes/soap-skater.webp",
-      "07_Art/heroes/storm-fencer.png": "/products/arcane-brigade/kit/07_Art/heroes/storm-fencer.webp",
-      "07_Art/heroes/sundae-duchess.png": "/products/arcane-brigade/kit/07_Art/heroes/sundae-duchess.webp",
-      "07_Art/heroes/supper-mortar.png": "/products/arcane-brigade/kit/07_Art/heroes/supper-mortar.webp",
       "07_Art/heroes/the-comet-courier.png": "/products/arcane-brigade/kit/07_Art/heroes/the-comet-courier.webp",
       "07_Art/heroes/the-lone-jelly.png": "/products/arcane-brigade/kit/07_Art/heroes/the-lone-jelly.webp",
       "07_Art/heroes/the-mirror-keeper.png": "/products/arcane-brigade/kit/07_Art/heroes/the-mirror-keeper.webp",
@@ -578,15 +567,56 @@
       "07_Art/heroes/the-treasure-clerk.png": "/products/arcane-brigade/kit/07_Art/heroes/the-treasure-clerk.webp",
       "07_Art/heroes/thorn-treasurer.png": "/products/arcane-brigade/kit/07_Art/heroes/thorn-treasurer.webp",
       "07_Art/heroes/tin-virtuoso.png": "/products/arcane-brigade/kit/07_Art/heroes/tin-virtuoso.webp",
-      "07_Art/heroes/velvet-regent.png": "/products/arcane-brigade/kit/07_Art/heroes/velvet-regent.webp",
-      "07_Art/heroes/verdant-matron.png": "/products/arcane-brigade/kit/07_Art/heroes/verdant-matron.webp"
+      "07_Art/heroes/velvet-regent.png": "/products/arcane-brigade/kit/07_Art/heroes/velvet-regent.webp"
     },
     "clips": [
+      {
+        "id": "gameplay-01-lantern-knight-night-3",
+        "src": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-01-lantern-knight-night-3.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-01-lantern-knight-night-3-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-01-lantern-knight-night-3.mp4"
+      },
+      {
+        "id": "gameplay-02-comet-runner-night-7",
+        "src": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-02-comet-runner-night-7.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-02-comet-runner-night-7-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-02-comet-runner-night-7.mp4"
+      },
+      {
+        "id": "gameplay-04-velvet-regent-night-13",
+        "src": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-04-velvet-regent-night-13.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/pc/gameplay-04-velvet-regent-night-13-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\pc\\gameplay-04-velvet-regent-night-13.mp4"
+      },
+      {
+        "id": "gameplay-01-lantern-knight-night-3",
+        "src": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-01-lantern-knight-night-3.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-01-lantern-knight-night-3-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-01-lantern-knight-night-3.mp4"
+      },
+      {
+        "id": "gameplay-02-comet-runner-night-7",
+        "src": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-02-comet-runner-night-7.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-02-comet-runner-night-7-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-02-comet-runner-night-7.mp4"
+      },
+      {
+        "id": "gameplay-04-velvet-regent-night-13",
+        "src": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-04-velvet-regent-night-13.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/gameplay/phone/gameplay-04-velvet-regent-night-13-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\gameplay\\phone\\gameplay-04-velvet-regent-night-13.mp4"
+      },
       {
         "id": "clip-01-buy-and-star-up",
         "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-01-buy-and-star-up.mp4",
         "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-01-buy-and-star-up-poster.webp",
         "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-01-buy-and-star-up.mp4"
+      },
+      {
+        "id": "clip-02-fight-wave-14",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-02-fight-wave-14.mp4"
       },
       {
         "id": "clip-03-fight-wave-18",
@@ -599,6 +629,108 @@
         "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-04-boss-night-4.mp4",
         "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-04-boss-night-4-poster.webp",
         "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-04-boss-night-4.mp4"
+      },
+      {
+        "id": "clip-05-boss-night-8",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-8.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-8-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-05-boss-night-8.mp4"
+      },
+      {
+        "id": "clip-dream-market",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-dream-market.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-dream-market-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-dream-market.mp4"
+      },
+      {
+        "id": "clip-hero-comet-runner",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-comet-runner.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-comet-runner-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-comet-runner.mp4"
+      },
+      {
+        "id": "clip-hero-lantern-knight",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lantern-knight.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lantern-knight-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-lantern-knight.mp4"
+      },
+      {
+        "id": "clip-hero-lone-jelly",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lone-jelly.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-lone-jelly-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-lone-jelly.mp4"
+      },
+      {
+        "id": "clip-hero-tide-singer",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tide-singer.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tide-singer-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-tide-singer.mp4"
+      },
+      {
+        "id": "clip-hero-tin-virtuoso",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tin-virtuoso.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-tin-virtuoso-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-tin-virtuoso.mp4"
+      },
+      {
+        "id": "clip-hero-velvet-regent",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-velvet-regent.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hero-velvet-regent-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hero-velvet-regent.mp4"
+      },
+      {
+        "id": "clip-hub-waiting-room",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hub-waiting-room.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-hub-waiting-room-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-hub-waiting-room.mp4"
+      },
+      {
+        "id": "clip-place-archive-vault",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-archive-vault.mp4"
+      },
+      {
+        "id": "clip-place-glasshouse",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-glasshouse.mp4"
+      },
+      {
+        "id": "clip-place-lamp-hall",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-lamp-hall.mp4"
+      },
+      {
+        "id": "clip-place-post-office",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-post-office.mp4"
+      },
+      {
+        "id": "clip-place-theatre",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-theatre.mp4"
+      },
+      {
+        "id": "clip-place-waiting-room",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-waiting-room.mp4"
+      },
+      {
+        "id": "clip-secret-room",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-secret-room.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-secret-room-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-secret-room.mp4"
+      },
+      {
+        "id": "clip-visitor",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-visitor.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-visitor-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-visitor.mp4"
       },
       {
         "id": "clip-01-buy-and-star-up",
@@ -625,16 +757,58 @@
         "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-04-boss-night-4.mp4"
       },
       {
-        "id": "clip-05-boss-night-16",
-        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-16.mp4",
-        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-16-poster.webp",
-        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-05-boss-night-16.mp4"
+        "id": "clip-05-boss-night-8",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-8.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-8-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-05-boss-night-8.mp4"
       },
       {
-        "id": "clip-06-transformation",
-        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-06-transformation.mp4",
-        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-06-transformation-poster.webp",
-        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-06-transformation.mp4"
+        "id": "clip-dream-market",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-dream-market.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-dream-market-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-dream-market.mp4"
+      },
+      {
+        "id": "clip-hero-comet-runner",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-comet-runner.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-comet-runner-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-comet-runner.mp4"
+      },
+      {
+        "id": "clip-hero-lantern-knight",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lantern-knight.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lantern-knight-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-lantern-knight.mp4"
+      },
+      {
+        "id": "clip-hero-lone-jelly",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lone-jelly.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-lone-jelly-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-lone-jelly.mp4"
+      },
+      {
+        "id": "clip-hero-tide-singer",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tide-singer.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tide-singer-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-tide-singer.mp4"
+      },
+      {
+        "id": "clip-hero-tin-virtuoso",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tin-virtuoso.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-tin-virtuoso-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-tin-virtuoso.mp4"
+      },
+      {
+        "id": "clip-hero-velvet-regent",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-velvet-regent.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hero-velvet-regent-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hero-velvet-regent.mp4"
+      },
+      {
+        "id": "clip-hub-waiting-room",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-hub-waiting-room.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-hub-waiting-room-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-hub-waiting-room.mp4"
       },
       {
         "id": "clip-place-archive-vault",
@@ -673,33 +847,33 @@
         "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-place-waiting-room.mp4"
       },
       {
-        "id": "trailer-40s-muted-loop-720p",
-        "src": "/products/arcane-brigade/kit/03_Clips/trailer-40s-muted-loop-720p.mp4",
-        "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-muted-loop-720p-poster.webp",
-        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-muted-loop-720p.mp4"
+        "id": "clip-secret-room",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-secret-room.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-secret-room-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-secret-room.mp4"
       },
       {
-        "id": "trailer-40s-web-720p",
-        "src": "/products/arcane-brigade/kit/03_Clips/trailer-40s-web-720p.mp4",
-        "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-web-720p-poster.webp",
-        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-web-720p.mp4"
+        "id": "clip-visitor",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-visitor.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-visitor-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-visitor.mp4"
       },
       {
-        "id": "trailer-40s",
-        "src": "/products/arcane-brigade/kit/03_Clips/trailer-40s.mp4",
-        "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-poster.webp",
-        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s.mp4"
+        "id": "trailer-muted-loop-720p",
+        "src": "/products/arcane-brigade/kit/03_Clips/trailer-muted-loop-720p.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/trailer-muted-loop-720p-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-muted-loop-720p.mp4"
       }
     ],
     "pages": {
       "en": {
-        "features": "### 1. You move. Your brigade fights.\nSteer one small hero through crowds of creatures. Your friends follow and fight on their own. Where you stand decides who gets hit.\n\n### 2. A shop between every night\nThe rug rolls out, the keeper pours tea and the stalls fill up. Walk up to a stall to see what a friend or relic does, then buy, refresh or move on.\n\n### 3. Merge friends into stars\nA second copy gives half a star. The third merges into the next star, with a little ceremony. Stars go past three for the brave.\n\n### 4. Bonds, duets and combos\nFriends who share a trait light up bonds at 2, 4 and 6. Field the right pair for one of 94 duets, or gather a named group for one of 23 combos: a joint move that grows with the group.\n\n### 5. 36 heroes, each with their own skill\nThe Lantern Knight lights a lamp from his friends' attacks. The Postmaster stamps addresses and delivers parcels. The Drowsy Seer leaves a dream of herself behind. Each skill can be aimed three ways, and every hero has a transformation.\n\n### 6. A boss every fourth night\nThe Coin Widow on night 4, the Chair Porter on night 8, the Door That Stayed Shut on night 12, the Marquee Maw on night 16 and the Last Customer at the dawn of night 20. Read the red warnings on the floor, then step out of the way.\n\n### 7. Six dream places\nThe Waiting Room, the Post Office, the Glasshouse, the Lamp Hall, the Forgotten Theatre and the Archive Vault. Each has its own living pieces and tricks. In the Waiting Room, a wall clock freezes every creature in the room when you reach it as it strikes.\n\n### 8. Strange visitors and secret rooms\nA visitor may knock with an offer. The ferry takes a friend home across the water. Every third night a secret door may open onto the Thirteenth-Hour Bank, the Impossible Tailor or a contraband train. Every deal costs something.\n\n### 9. The dream market\nSome nights a second market opens. Its wares are paid in Dreamsand, or in blood.\n\n### 10. The Waiting Room between runs\nSpend the Lamp Oil and Keepsakes you earned at the Lamp Tree. Read letters that arrive after milestones, fill the Museum, sign a Night Pact for a bigger reward, try the Daily Dream, and ring the Keeper's Bell.\n\n### 11. Records worth keeping\nEvery finished run keeps its brigade, its damage chart and a nickname. The Collection tracks every weapon, relic, friend, chain and boss you have found.\n\n### 12. Play your way\nFive difficulties, from Peaceful to The Last Night. English and Vietnamese. Comfort settings: reduced motion, flashes, shake and effects; a high-readability mode; a damage-number toggle; separate music, effects and voice volumes.\n\n### 13. Your save on every phone\nOptional cloud save in your own Google Drive: start a run on one phone and finish it on another. It is offline-first, needs no account to play and never overwrites a save without asking.\n(No picture needed; the settings screenshot shows the section on phones.)",
-        "press": "| | |\n|---|---|\n| Title | Arcane Brigade |\n| Developer and publisher | Winka Studio |\n| Genre | Auto-battler, roguelite, storybook |\n| Platforms | Android (closed testing), PC (planned), iOS (planned) |\n| Price | Free with one optional purchase (Deluxe) |\n| Ads | None |\n| Languages | English, Vietnamese |\n| Contact | apps.winka.studio@gmail.com |\n| Privacy | `05_Legal/privacy-policy.md` |\n| Terms | `05_Legal/terms-of-service.md` |",
+        "features": "### 1. You move. Your brigade fights.\nSteer one small hero through crowds of creatures. Your friends follow and fight on their own. Where you stand decides who gets hit.\n\n### 2. A shop between every night\nThe rug rolls out, the keeper pours tea and the stalls fill up. Walk up to a stall to see what a friend or relic does, then buy, refresh or move on.\n\n### 3. Merge friends into stars\nA second copy gives half a star. The third merges into the next star, with a little ceremony. Stars go past three for the brave.\n\n### 4. Bonds, duets and combos\nFriends who share a trait light up bonds at 2, 4 and 6. Field the right pair for one of 94 duets, or gather a named group for one of 23 combos: a joint move that grows with the group.\n\n### 6. A boss every fourth night\nThe Coin Widow waits at the end of night 4, the Chair Porter at night 8. What waits deeper in the night, you will have to find out. Read the red warnings on the floor, then step out of the way.\n\n### 7. Six dream places\nThe Waiting Room, the Post Office, the Glasshouse, the Lamp Hall, the Forgotten Theatre and the Archive Vault. Each has its own living pieces and tricks. In the Waiting Room, a wall clock freezes every creature in the room when you reach it as it strikes.\n\n### 8. Strange visitors and secret rooms\nA visitor may knock with an offer. The ferry takes a friend home across the water. Every third night a secret door may open onto the Thirteenth-Hour Bank, the Impossible Tailor or a contraband train. Every deal costs something.\n\n### 9. The dream market\nAfter every night the dream market opens first. Its wares are paid in Dreamsand, or in blood. Then the keeper rolls out the gold shop.\n\n### 10. The Waiting Room between runs\nSpend the Lamp Oil and Keepsakes you earned at the Lamp Tree. Read letters that arrive after milestones, fill the Museum, sign a Night Pact for a bigger reward, try the Daily Dream, and ring the Keeper's Bell.\n\n### 11. Records worth keeping\nEvery finished run keeps its brigade, its damage chart and a nickname. The Collection tracks every weapon, relic, friend, chain and boss you have found.\n\n### 12. Play your way\nFive difficulties, from Peaceful to The Last Night. English and Vietnamese. Comfort settings: reduced motion, flashes, shake and effects; a high-readability mode; a damage-number toggle; separate music, effects and voice volumes.\n\n### 13. Your save on every phone\nOptional cloud save in your own Google Drive: start a run on one phone and finish it on another. It is offline-first, needs no account to play and never overwrites a save without asking.\n(No picture needed; the settings screenshot shows the section on phones.)",
+        "press": "| | |\n|---|---|\n| Title | Arcane Brigade |\n| Developer and publisher | Winka Studio |\n| Genre | Auto-battler, roguelite, storybook |\n| Platforms | Android (Google Play), iPhone and iPad (App Store), PC (Steam) |\n| Price | Free with one optional purchase (Deluxe) |\n| Ads | None |\n| Languages | English, Vietnamese |\n| Contact | apps.winka.studio@gmail.com |\n| Privacy | `05_Legal/privacy-policy.md` |\n| Terms | `05_Legal/terms-of-service.md` |",
         "credits": "Game by Winka Studio.\n\nFonts: Noto, Be Vietnam Pro, Alegreya Sans, Caveat, Coiny, Fraunces, Lilita One, Young Serif (SIL Open Font License).\n\nSome sound effects use CC0 recordings by [Kenney](https://kenney.nl/)."
       },
       "vi": {
-        "features": "### 1. Bạn di chuyển. Đội của bạn chiến đấu.\nĐiều khiển một anh hùng nhỏ băng qua đám đông sinh vật. Đồng đội đi theo và tự chiến đấu. Bạn đứng ở đâu sẽ quyết định ai bị đánh.\n\n### 2. Một cửa tiệm sau mỗi đêm\nTấm thảm trải ra, chủ tiệm rót trà, các quầy đầy hàng. Bước tới quầy để xem bạn đồng hành hay di vật làm được gì, rồi mua, làm mới hoặc đi tiếp.\n\n### 3. Gộp bạn đồng hành thành sao\nBản thứ hai cho nửa sao. Bản thứ ba gộp lên sao kế tiếp, kèm một màn ăn mừng nhỏ. Người gan dạ có thể vượt quá ba sao.\n\n### 4. Liên kết, song tấu và combo\nNhững bạn chung đặc điểm thắp sáng liên kết ở mốc 2, 4 và 6. Đưa đúng cặp vào đội để có một trong 94 song tấu, hoặc gom đủ nhóm để có một trong 23 combo: chiêu chung càng mạnh khi nhóm càng đông.\n\n### 5. 36 anh hùng, mỗi người một kỹ năng\nHiệp Sĩ Đèn Lồng thắp đèn từ đòn đánh của bạn bè. Trưởng Bưu Cục đóng dấu địa chỉ rồi giao bưu kiện. Tiên Tri Ngái Ngủ để lại một giấc mơ của chính mình. Mỗi kỹ năng có ba cách dùng, và anh hùng nào cũng có một lần biến hình.\n\n### 6. Cứ bốn đêm một boss\nThe Coin Widow ở đêm 4, The Chair Porter ở đêm 8, The Door That Stayed Shut ở đêm 12, The Marquee Maw ở đêm 16 và The Last Customer ở bình minh đêm 20. Nhìn vạch cảnh báo đỏ trên sàn rồi tránh đi.\n\n### 7. Sáu nơi chốn trong giấc mơ\nPhòng chờ, Bưu điện, Nhà kính, Sảnh Đèn, Nhà hát bị lãng quên và Kho lưu trữ. Mỗi nơi có những thứ sống động và cơ chế riêng. Trong Phòng Chờ, nếu bạn chạm tới chiếc đồng hồ treo tường đúng lúc nó điểm giờ, mọi sinh vật trong phòng sẽ đứng im.\n\n### 8. Khách lạ và căn phòng bí mật\nMột vị khách có thể gõ cửa với lời đề nghị. Con đò chở một bạn đồng hành về nhà qua mặt nước. Cứ ba đêm, một cánh cửa bí mật có thể mở ra Ngân Hàng 13 Giờ, Người thợ may bất khả thi hay một chuyến tàu hàng lậu. Mọi giao kèo đều có cái giá của nó.\n\n### 9. Chợ trong mơ\nCó những đêm, khu chợ thứ hai mở cửa. Hàng ở đây trả bằng Cát Mơ, hoặc bằng máu.\n\n### 10. Phòng Chờ giữa các lượt chơi\nTiêu Dầu Đèn và Kỷ vật ở Cây Đèn. Đọc thư gửi đến sau mỗi cột mốc, lấp đầy Bảo tàng, ký Hiệp Ước Đêm để nhận thưởng lớn hơn, thử Giấc mơ hàng ngày và rung Chuông của Người Canh Giữ.\n\n### 11. Kỷ lục đáng giữ\nMỗi lượt chơi đã xong giữ lại đội hình, biểu đồ sát thương và một biệt danh. Bộ sưu tập ghi lại mọi vũ khí, di vật, bạn đồng hành, chuỗi và boss bạn đã gặp.\n\n### 12. Chơi theo cách của bạn\nNăm độ khó: Yên Bình, Lang Thang, Ác Mộng, Thao Thức, Đêm Cuối. Tiếng Anh và tiếng Việt. Tuỳ chọn dễ chịu: giảm chuyển động, chớp sáng, rung màn hình và hiệu ứng; chế độ dễ đọc; bật tắt số sát thương; chỉnh riêng âm lượng nhạc, hiệu ứng và giọng nói.\n\n### 13. Bản lưu trên mọi điện thoại\nLưu đám mây tuỳ chọn trong Google Drive của chính bạn: bắt đầu trên máy này, chơi tiếp trên máy khác. Chơi được không cần mạng, không cần tài khoản, và không bao giờ ghi đè bản lưu mà không hỏi.",
-        "press": "| | |\n|---|---|\n| Trò chơi | Arcane Brigade |\n| Studio | Winka Studio |\n| Thể loại | Auto-battler / roguelite / storybook |\n| Android | Thử nghiệm kín |\n| PC / iOS | Dự định phát hành |\n| Giá | Miễn phí; Deluxe tùy chọn, mua một lần |\n| Contact | apps.winka.studio@gmail.com |",
+        "features": "### 1. Bạn di chuyển. Đội của bạn chiến đấu.\nĐiều khiển một anh hùng nhỏ băng qua đám đông sinh vật. Đồng đội đi theo và tự chiến đấu. Bạn đứng ở đâu sẽ quyết định ai bị đánh.\n\n### 2. Một cửa tiệm sau mỗi đêm\nTấm thảm trải ra, chủ tiệm rót trà, các quầy đầy hàng. Bước tới quầy để xem bạn đồng hành hay di vật làm được gì, rồi mua, làm mới hoặc đi tiếp.\n\n### 3. Gộp bạn đồng hành thành sao\nBản thứ hai cho nửa sao. Bản thứ ba gộp lên sao kế tiếp, kèm một màn ăn mừng nhỏ. Người gan dạ có thể vượt quá ba sao.\n\n### 4. Liên kết, song tấu và combo\nNhững bạn chung đặc điểm thắp sáng liên kết ở mốc 2, 4 và 6. Đưa đúng cặp vào đội để có một trong 94 song tấu, hoặc gom đủ nhóm để có một trong 23 combo: chiêu chung càng mạnh khi nhóm càng đông.\n\n### 6. Cứ bốn đêm một boss\nThe Coin Widow chờ ở cuối đêm 4, The Chair Porter ở đêm 8. Thứ gì chờ sâu hơn trong đêm, bạn sẽ phải tự tìm ra. Nhìn vạch cảnh báo đỏ trên sàn rồi tránh đi.\n\n### 7. Sáu nơi chốn trong giấc mơ\nPhòng chờ, Bưu điện, Nhà kính, Sảnh Đèn, Nhà hát bị lãng quên và Kho lưu trữ. Mỗi nơi có những thứ sống động và cơ chế riêng. Trong Phòng Chờ, nếu bạn chạm tới chiếc đồng hồ treo tường đúng lúc nó điểm giờ, mọi sinh vật trong phòng sẽ đứng im.\n\n### 8. Khách lạ và căn phòng bí mật\nMột vị khách có thể gõ cửa với lời đề nghị. Con đò chở một bạn đồng hành về nhà qua mặt nước. Cứ ba đêm, một cánh cửa bí mật có thể mở ra Ngân Hàng 13 Giờ, Người thợ may bất khả thi hay một chuyến tàu hàng lậu. Mọi giao kèo đều có cái giá của nó.\n\n### 9. Chợ trong mơ\nSau mỗi đêm, chợ trong mơ mở cửa trước. Hàng ở đây trả bằng Cát Mơ, hoặc bằng máu. Rồi người giữ tiệm mới trải thảm cửa tiệm vàng.\n\n### 10. Phòng Chờ giữa các lượt chơi\nTiêu Dầu Đèn và Kỷ vật ở Cây Đèn. Đọc thư gửi đến sau mỗi cột mốc, lấp đầy Bảo tàng, ký Hiệp Ước Đêm để nhận thưởng lớn hơn, thử Giấc mơ hàng ngày và rung Chuông của Người Canh Giữ.\n\n### 11. Kỷ lục đáng giữ\nMỗi lượt chơi đã xong giữ lại đội hình, biểu đồ sát thương và một biệt danh. Bộ sưu tập ghi lại mọi vũ khí, di vật, bạn đồng hành, chuỗi và boss bạn đã gặp.\n\n### 12. Chơi theo cách của bạn\nNăm độ khó: Yên Bình, Lang Thang, Ác Mộng, Thao Thức, Đêm Cuối. Tiếng Anh và tiếng Việt. Tuỳ chọn dễ chịu: giảm chuyển động, chớp sáng, rung màn hình và hiệu ứng; chế độ dễ đọc; bật tắt số sát thương; chỉnh riêng âm lượng nhạc, hiệu ứng và giọng nói.\n\n### 13. Bản lưu trên mọi điện thoại\nLưu đám mây tuỳ chọn trong Google Drive của chính bạn: bắt đầu trên máy này, chơi tiếp trên máy khác. Chơi được không cần mạng, không cần tài khoản, và không bao giờ ghi đè bản lưu mà không hỏi.",
+        "press": "| | |\n|---|---|\n| Trò chơi | Arcane Brigade |\n| Studio | Winka Studio |\n| Thể loại | Auto-battler / roguelite / storybook |\n| Nền tảng | Google Play, App Store, Steam |\n| Giá | Miễn phí; Deluxe tùy chọn, mua một lần |\n| Contact | apps.winka.studio@gmail.com |",
         "credits": "Game by Winka Studio.\n\nFonts: Noto, Be Vietnam Pro, Alegreya Sans, Caveat, Coiny, Fraunces, Lilita One, Young Serif (SIL Open Font License).\n\nSome sound effects use CC0 recordings by [Kenney](https://kenney.nl/)."
       }
     },
@@ -707,7 +881,7 @@
       "en": [
         {
           "question": "Is it really free?",
-          "answer": "Yes. The whole game, all heroes and all twenty nights, is free on phones. Deluxe adds Endless and the two hardest difficulties."
+          "answer": "Yes. The whole game, all heroes and all twenty nights, is free on Android and iPhone. Deluxe adds Endless and the two hardest difficulties."
         },
         {
           "question": "Are there ads?",
@@ -727,7 +901,7 @@
         },
         {
           "question": "Can I continue on another phone?",
-          "answer": "Yes, with cloud save turned on in Settings. Deluxe follows your Google Play account."
+          "answer": "On Android, yes, with cloud save turned on in Settings. Deluxe follows your store account."
         },
         {
           "question": "How long is a run?",
@@ -741,7 +915,7 @@
       "vi": [
         {
           "question": "Có thật sự miễn phí không?",
-          "answer": "Có. Toàn bộ trò chơi, mọi anh hùng và đủ hai mươi đêm đều miễn phí trên điện thoại. Deluxe thêm chế độ Vô tận và hai độ khó cao nhất."
+          "answer": "Có. Toàn bộ trò chơi, mọi anh hùng và đủ hai mươi đêm đều miễn phí trên Android và iPhone. Deluxe thêm chế độ Vô tận và hai độ khó cao nhất."
         },
         {
           "question": "Có quảng cáo không?",
@@ -761,7 +935,7 @@
         },
         {
           "question": "Chơi tiếp trên máy khác được không?",
-          "answer": "Được, khi bật lưu đám mây trong Cài đặt. Deluxe đi theo tài khoản Google Play."
+          "answer": "Trên Android thì được, khi bật lưu đám mây trong Cài đặt. Deluxe đi theo tài khoản cửa hàng của bạn."
         },
         {
           "question": "Một lượt chơi dài bao lâu?",
@@ -774,8 +948,8 @@
       ]
     },
     "pricing": {
-      "en": "- **Free to play, the whole game.** All 36 heroes and all 20 nights.\n- **No ads.** None, on any platform.\n- **One optional purchase, Deluxe** (about US$4.99, the price set by the store): Endless mode and the two hardest difficulties, Sleepless and The Last Night. Act II will be included when it is released.\n- **Nothing that makes a run stronger is ever sold.** No gems, no loot boxes, no energy.",
-      "vi": "- **Miễn phí toàn bộ trò chơi:** cả 36 anh hùng và đủ 20 đêm.\n- **Không quảng cáo** trên mọi nền tảng.\n- **Một gói mua tuỳ chọn, Deluxe** (khoảng 4,99 USD, giá theo cửa hàng): chế độ Vô tận và hai độ khó cao nhất, Thao Thức và Đêm Cuối. Act II sẽ có sẵn trong Deluxe khi phát hành.\n- **Không bán bất cứ thứ gì làm lượt chơi mạnh hơn.** Không đá quý, không hộp ngẫu nhiên, không thể lực."
+      "en": "- **Free to play, the whole game.** All 24 heroes and all 20 nights.\n- **No ads.** None, on any platform.\n- **One optional purchase, Deluxe** (about US$4.99, the price set by the store): Endless mode and the two hardest difficulties, Sleepless and The Last Night. Act II will be included when it is released.\n- **Nothing that makes a run stronger is ever sold.** No gems, no loot boxes, no energy.",
+      "vi": "- **Miễn phí toàn bộ trò chơi:** cả 24 anh hùng và đủ 20 đêm.\n- **Không quảng cáo** trên mọi nền tảng.\n- **Một gói mua tuỳ chọn, Deluxe** (khoảng 4,99 USD, giá theo cửa hàng): chế độ Vô tận và hai độ khó cao nhất, Thao Thức và Đêm Cuối. Act II sẽ có sẵn trong Deluxe khi phát hành.\n- **Không bán bất cứ thứ gì làm lượt chơi mạnh hơn.** Không đá quý, không hộp ngẫu nhiên, không thể lực."
     },
     "legal": {
       "en": {

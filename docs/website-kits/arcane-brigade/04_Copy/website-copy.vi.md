@@ -11,7 +11,19 @@ Số liệu lấy từ dữ liệu của chính trò chơi (`06_Data/facts.json`
 
 Trò chơi chiến đấu tự động vẽ tay. Bạn điều khiển một anh hùng nhỏ; đồng đội tự chiến đấu. Giữa các đêm, một cửa tiệm kỳ lạ trải thảm mời bạn vào.
 
-Nút: **Tải trên Google Play** · **Tham gia thử nghiệm** · **Xem trailer**
+Nút: **Tải trên Google Play** · **Tải trên App Store** · **Mua trên Steam** · **Xem trailer**
+
+---
+
+## Cốt truyện (ngắn thôi; đây là một bí ẩn)
+
+Bạn chìm vào giấc ngủ và tỉnh dậy ở Miền Chờ, nơi những chốn bị giữ lại bởi những lời hứa chưa thành. Ở đó có tám ngọn đèn. Mỗi ngọn là một lần có người đến tìm bạn.
+
+Mỗi đêm, bóng tối thổi tắt một ngọn, và cùng với nó là một ký ức về người ấy: giọng nói, màu áo mưa, cách họ gõ cửa. Có thứ gì đó trong bóng tối muốn bạn quên họ hoàn toàn.
+
+Hãy giữ ngọn đèn cuối cùng cháy đến bình minh. Hãy nhớ ai đang đến.
+
+*(Đừng kể thêm. Ai đang chờ, và vì sao, là để trò chơi kể.)*
 
 ---
 
@@ -35,9 +47,9 @@ Mỗi anh hùng chơi một kiểu. Ai cũng có kỹ năng đặc trưng, ba c�
 
 | | |
 |---|---|
-| **36** | anh hùng, mỗi người một kỹ năng đặc trưng và một lần biến hình |
+| **24** | anh hùng, mỗi người một kỹ năng đặc trưng và một lần biến hình |
 | **66** | bạn đồng hành để tuyển (96 nếu tính cả khách đặc biệt) |
-| **117** | vũ khí, mỗi nhân vật một vũ khí riêng |
+| **105** | vũ khí, mỗi nhân vật một vũ khí riêng |
 | **204** | di vật |
 | **51** | loại sinh vật |
 | **94** | song tấu: những cặp bạn tiếp sức cho nhau |
@@ -67,13 +79,13 @@ Bản thứ hai cho nửa sao. Bản thứ ba gộp lên sao kế tiếp, kèm m
 Những bạn chung đặc điểm thắp sáng liên kết ở mốc 2, 4 và 6. Đưa đúng cặp vào đội để có một trong 94 song tấu, hoặc gom đủ nhóm để có một trong 23 combo: chiêu chung càng mạnh khi nhóm càng đông.
 Ảnh: `shop-04-bond`, `shop-05-brigade-details`, `pause-04`.
 
-### 5. 36 anh hùng, mỗi người một kỹ năng
-Hiệp Sĩ Đèn Lồng thắp đèn từ đòn đánh của bạn bè. Trưởng Bưu Cục đóng dấu địa chỉ rồi giao bưu kiện. Tiên Tri Ngái Ngủ để lại một giấc mơ của chính mình. Mỗi kỹ năng có ba cách dùng, và anh hùng nào cũng có một lần biến hình.
-Ảnh: `skill-01…` (mỗi anh hùng một ảnh), `transform-01…04`. Clip: `clip-06-transformation`.
+### 5. 24 anh hùng, mỗi người một kỹ năng
+Dẫn đầu là hai người. Hiệp Sĩ Đèn Lồng gom ánh sáng từ đòn đánh của bạn bè cho tới khi một tia hải đăng xé ngang đám đông. Người Đưa Thư Sao Chổi biến chính đường mình chạy thành một vệt lửa, và vệt lửa kết thúc bằng mưa sao băng. Mỗi kỹ năng có ba cách dùng, và anh hùng nào cũng có một lần biến hình.
+Ảnh: `hero-lantern-knight-…`, `hero-comet-runner-…`, `transform-…`; thư viện các anh hùng khác: `skill-01…24`. Clip: `clip-hero-lantern-knight`, `clip-hero-comet-runner`; thêm các anh hùng khác: `clip-hero-tide-singer`, `clip-hero-velvet-regent`, `clip-hero-tin-virtuoso`, `clip-hero-lone-jelly` và các ảnh `hero-…-skill` tương ứng. Gameplay: `03_Clips/gameplay/`.
 
 ### 6. Cứ bốn đêm một boss
-The Coin Widow ở đêm 4, The Chair Porter ở đêm 8, The Door That Stayed Shut ở đêm 12, The Marquee Maw ở đêm 16 và The Last Customer ở bình minh đêm 20. Nhìn vạch cảnh báo đỏ trên sàn rồi tránh đi.
-Ảnh: `boss-night-04…20`, `boss-night-04-attack-warning`. Clip: `clip-04-boss-night-4`, `clip-05-boss-night-16`.
+The Coin Widow chờ ở cuối đêm 4, The Chair Porter ở đêm 8. Thứ gì chờ sâu hơn trong đêm, bạn sẽ phải tự tìm ra. Nhìn vạch cảnh báo đỏ trên sàn rồi tránh đi.
+Ảnh: `boss-night-04…08`, `boss-night-04-attack-warning`. Clip: `clip-04-boss-night-4`, `clip-05-boss-night-8`. (Chỉ cho thấy hai boss này: các boss sau là bất ngờ.)
 
 ### 7. Sáu nơi chốn trong giấc mơ
 Phòng chờ, Bưu điện, Nhà kính, Sảnh Đèn, Nhà hát bị lãng quên và Kho lưu trữ. Mỗi nơi có những thứ sống động và cơ chế riêng. Trong Phòng Chờ, nếu bạn chạm tới chiếc đồng hồ treo tường đúng lúc nó điểm giờ, mọi sinh vật trong phòng sẽ đứng im.
@@ -81,10 +93,10 @@ Phòng chờ, Bưu điện, Nhà kính, Sảnh Đèn, Nhà hát bị lãng quên
 
 ### 8. Khách lạ và căn phòng bí mật
 Một vị khách có thể gõ cửa với lời đề nghị. Con đò chở một bạn đồng hành về nhà qua mặt nước. Cứ ba đêm, một cánh cửa bí mật có thể mở ra Ngân Hàng 13 Giờ, Người thợ may bất khả thi hay một chuyến tàu hàng lậu. Mọi giao kèo đều có cái giá của nó.
-Ảnh: `shop-06-visitor`, `shop-07-keeper-gifts`, `market-01…04`, `secret-01-…`.
+Ảnh: `shop-06-visitor`, `shop-07-keeper-gifts`, `market-01…03`, `secret-01-…`. Clips: `clip-visitor`, `clip-dream-market`, `clip-secret-room`.
 
 ### 9. Chợ trong mơ
-Có những đêm, khu chợ thứ hai mở cửa. Hàng ở đây trả bằng Cát Mơ, hoặc bằng máu.
+Sau mỗi đêm, chợ trong mơ mở cửa trước. Hàng ở đây trả bằng Cát Mơ, hoặc bằng máu. Rồi người giữ tiệm mới trải thảm cửa tiệm vàng.
 Ảnh: `market-01-dream-market`, `market-02-dream-price`.
 
 ### 10. Phòng Chờ giữa các lượt chơi
@@ -115,7 +127,7 @@ Lưu đám mây tuỳ chọn trong Google Drive của chính bạn: bắt đầu
 
 ## Giá và cách kiếm tiền
 
-- **Miễn phí toàn bộ trò chơi:** cả 36 anh hùng và đủ 20 đêm.
+- **Miễn phí toàn bộ trò chơi:** cả 24 anh hùng và đủ 20 đêm.
 - **Không quảng cáo** trên mọi nền tảng.
 - **Một gói mua tuỳ chọn, Deluxe** (khoảng 4,99 USD, giá theo cửa hàng): chế độ Vô tận và hai độ khó cao nhất, Thao Thức và Đêm Cuối. Act II sẽ có sẵn trong Deluxe khi phát hành.
 - **Không bán bất cứ thứ gì làm lượt chơi mạnh hơn.** Không đá quý, không hộp ngẫu nhiên, không thể lực.
@@ -124,17 +136,17 @@ Lưu đám mây tuỳ chọn trong Google Drive của chính bạn: bắt đầu
 
 ## Nền tảng và tình trạng
 
-| Nền tảng | Tình trạng ngày 8/11/2026 |
+| Nền tảng | Tình trạng |
 |---|---|
-| Android | Đang thử nghiệm kín trên Google Play. Chưa công bố ngày phát hành. |
-| PC (Windows) | Đã chơi được. Dự định phát hành trên Steam, chưa có ngày. Bản PC có sẵn nội dung Deluxe. |
-| iPhone / iPad | Dự định, chưa phát hành. |
+| Android | Đã có trên Google Play. |
+| iPhone / iPad | Đã có trên App Store. |
+| PC (Windows) | Đã có trên Steam. Bản PC có sẵn nội dung Deluxe. |
 
 ---
 
 ## Hỏi đáp
 
-**Có thật sự miễn phí không?** Có. Toàn bộ trò chơi, mọi anh hùng và đủ hai mươi đêm đều miễn phí trên điện thoại. Deluxe thêm chế độ Vô tận và hai độ khó cao nhất.
+**Có thật sự miễn phí không?** Có. Toàn bộ trò chơi, mọi anh hùng và đủ hai mươi đêm đều miễn phí trên Android và iPhone. Deluxe thêm chế độ Vô tận và hai độ khó cao nhất.
 
 **Có quảng cáo không?** Không.
 
@@ -144,7 +156,7 @@ Lưu đám mây tuỳ chọn trong Google Drive của chính bạn: bắt đầu
 
 **Có những ngôn ngữ nào?** Tiếng Anh và tiếng Việt.
 
-**Chơi tiếp trên máy khác được không?** Được, khi bật lưu đám mây trong Cài đặt. Deluxe đi theo tài khoản Google Play.
+**Chơi tiếp trên máy khác được không?** Trên Android thì được, khi bật lưu đám mây trong Cài đặt. Deluxe đi theo tài khoản cửa hàng của bạn.
 
 **Một lượt chơi dài bao lâu?** Khoảng nửa tiếng cho cả hai mươi đêm. Bạn có thể dừng ở bất kỳ cửa tiệm nào và chơi tiếp sau.
 

@@ -1,0 +1,69 @@
+{
+  "source": "apps/handy_bookmark/lib/design/theme.dart",
+  "light": {
+    "canvas": "#F6F4EE",
+    "surface": "#FFFFFF",
+    "raised": "#EFEDE6",
+    "sunk": "#EAE8E0",
+    "primary": "#0E7490",
+    "pressed": "#0B5A70",
+    "tint": "#D9EEF2",
+    "onPrimary": "#FFFFFF",
+    "ink": "#1C2627",
+    "muted": "#5B6767",
+    "line": "#E3E2DA",
+    "control": "#C9CCC4",
+    "sage": "#557A66",
+    "sageTint": "#E3EDE4",
+    "warm": "#C97A5B",
+    "danger": "#B03A36",
+    "dangerTint": "#F8E4E1",
+    "warning": "#8A5A14",
+    "warningTint": "#F6ECD8"
+  },
+  "dark": {
+    "canvas": "#171D1C",
+    "surface": "#222A29",
+    "raised": "#2B3432",
+    "sunk": "#121716",
+    "primary": "#7CC8D8",
+    "pressed": "#9AD6E3",
+    "tint": "#21424A",
+    "onPrimary": "#0C2A31",
+    "ink": "#EEF2EF",
+    "muted": "#B0BEBA",
+    "line": "#34403E",
+    "control": "#4A5856",
+    "sage": "#9CC2AC",
+    "sageTint": "#263A31",
+    "warm": "#E2A188",
+    "danger": "#F0A29C",
+    "dangerTint": "#3F2624",
+    "warning": "#E8C07A",
+    "warningTint": "#3A2F1C"
+  },
+  "icon": {
+    "teal": "#0E7490",
+    "deepTeal": "#0B4F63",
+    "sky": "#5FB0C2",
+    "ivory": "#F7F2E8",
+    "amber": "#F2B44B",
+    "sun": "#FFF4DA"
+  },
+  "radiiPx": {
+    "chip": 999,
+    "field": 14,
+    "button": 14,
+    "thumb": 12,
+    "item": 16,
+    "collection": 20,
+    "focus": 22,
+    "dialog": 22,
+    "sheet": 26
+  },
+  "fonts": {
+    "display": "Newsreader",
+    "body": "Geist",
+    "mono": "Geist Mono"
+  }
+}

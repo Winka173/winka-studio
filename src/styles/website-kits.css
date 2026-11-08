@@ -1,0 +1,1443 @@
+/* Owner kit typography and materials. Original media carries each product's identity. */
+@font-face {
+  font-family: KitGeist;
+  src: url("/fonts/website-kits/handy-bookmark/Geist/Geist-Regular.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: KitGeist;
+  src: url("/fonts/website-kits/handy-bookmark/Geist/Geist-Medium.ttf")
+    format("truetype");
+  font-weight: 500 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: KitPacifico;
+  src: url("/fonts/website-kits/sticky-wall/Pacifico-Regular.ttf")
+    format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: KitPatrick;
+  src: url("/fonts/website-kits/sticky-wall/PatrickHand-Regular.ttf")
+    format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: KitVietnam;
+  src: url("/fonts/website-kits/arcane-brigade/BeVietnamPro-Medium.ttf")
+    format("truetype");
+  font-weight: 400 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: KitVietnam;
+  src: url("/fonts/website-kits/arcane-brigade/BeVietnamPro-SemiBold.ttf")
+    format("truetype");
+  font-weight: 600 800;
+  font-display: swap;
+}
+.site.site--folio-bookmark {
+  --bg: #f6f4ee;
+  --surface: #efede6;
+  --raised: #fff;
+  --ink: #1c2627;
+  --muted: #5b6767;
+  --line: #d3d4cb;
+  --accent: #0e7490;
+  --on-accent: #fff;
+  font-family: KitGeist, sans-serif;
+}
+.site.site--folio-bookmark[data-preference="dark"] {
+  --bg: #171d1c;
+  --surface: #222a29;
+  --raised: #2b3432;
+  --ink: #eef2ef;
+  --muted: #b0beba;
+  --line: #34403e;
+  --accent: #7cc8d8;
+  --on-accent: #0c2a31;
+}
+.site.site--folio-sticky {
+  --bg: #fff9e6;
+  --surface: #f3e8cb;
+  --raised: #fcfaf4;
+  --ink: #3b372f;
+  --muted: #675b49;
+  --line: #3b372f3d;
+  --accent: #ffca28;
+  --on-accent: #3b372f;
+  --display: KitPatrick, cursive;
+}
+.site.site--folio-sticky[data-preference="dark"] {
+  --bg: #282019;
+  --surface: #3b3025;
+  --raised: #4b3b2b;
+  --ink: #fdfbf3;
+  --muted: #deccb1;
+  --line: #fdfbf338;
+  --accent: #ffca28;
+  --on-accent: #3b372f;
+}
+.site.site--folio-arcane {
+  --bg: #0d1430;
+  --surface: #18203c;
+  --raised: #25304c;
+  --ink: #f4e6c8;
+  --muted: #c9c1b3;
+  --line: #f0c0603e;
+  --accent: #f0c060;
+  --on-accent: #0d1430;
+}
+.portfolio-bookmark,
+.portfolio-sticky {
+  font-family: KitGeist, sans-serif;
+}
+.portfolio-arcane,
+.portfolio-arcane p,
+.portfolio-arcane .arcane-cinema-title p {
+  font-family: KitVietnam, sans-serif;
+}
+.bookmark-kit-hero {
+  padding-top: 24px;
+  overflow: clip;
+}
+.bookmark-kit-title {
+  padding-top: 65px;
+  position: relative;
+  z-index: 2;
+  max-width: 1150px;
+}
+.bookmark-kit-title h1 {
+  font:
+    400 clamp(64px, 7.8vw, 118px) / 0.99 Newsreader,
+    serif;
+  letter-spacing: -4.5px;
+  max-width: 1100px;
+  margin-top: 30px;
+  text-wrap: balance;
+}
+.bookmark-kit-title h1 em {
+  display: block;
+  font-weight: 400;
+  color: var(--accent);
+}
+.bookmark-kit-title > p {
+  max-width: 550px;
+  font-size: 16px;
+  line-height: 1.9;
+  margin-top: 30px;
+}
+.bookmark-kit-title .product-actions {
+  margin-top: 28px;
+  max-width: 580px;
+}
+.bookmark-kit-stage {
+  position: relative;
+  min-height: 740px;
+  margin-top: 45px;
+  perspective: 1800px;
+}
+.bookmark-kit-desktop {
+  position: absolute;
+  left: 0;
+  top: 80px;
+  width: 83%;
+  border: 8px solid var(--raised);
+  box-shadow: 0 35px 80px #18302d38;
+  transform: rotateY(5deg) rotateZ(-3deg);
+  animation: kit-library-float 10s ease-in-out infinite;
+}
+.bookmark-kit-share {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 23%;
+  max-width: 300px;
+  rotate: 7deg;
+  box-shadow: 0 30px 70px #18302d4d;
+  border: 7px solid #162627;
+  border-radius: 28px;
+  overflow: hidden;
+}
+.bookmark-kit-share .product-film {
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+}
+.bookmark-kit-share .product-film video {
+  aspect-ratio: 390/844;
+  object-fit: cover;
+}
+.bookmark-kit-share .product-film figcaption {left:auto;right:10px;bottom:10px}
+.bookmark-kit-share .product-film figcaption>span {display:none}
+.bookmark-stage-note {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  font-size: 11px;
+  color: var(--muted);
+  max-width: 520px;
+  line-height: 1.7;
+}
+@keyframes kit-library-float {
+  50% {
+    transform: rotateY(2deg) rotateZ(-1deg) translateY(-12px);
+  }
+}
+.bookmark-kit-story {
+  padding-block: 100px 110px;
+  border-top: 1px solid var(--line);
+}
+.bookmark-kit-story h2 {
+  font:
+    400 clamp(44px, 5vw, 78px) / 1.1 Newsreader,
+    serif;
+  letter-spacing: -2px;
+  margin-top: 35px;
+  max-width: 900px;
+}
+.bookmark-kit-story h2 em {
+  display: block;
+  color: var(--accent);
+}
+.bookmark-kit-story > p {
+  max-width: 540px;
+  margin: 30px 0 0 auto;
+  font-size: 16px;
+  line-height: 1.9;
+  color: var(--muted);
+}
+.bookmark-feature {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 12%;
+  align-items: center;
+  padding-block: 75px;
+  min-height: 750px;
+  border-top: 1px solid var(--line);
+}
+.bookmark-feature:nth-child(even) {
+  grid-template-columns: 1.2fr 1fr;
+}
+.bookmark-feature:nth-child(even) .bookmark-feature-copy {
+  grid-column: 2;
+  grid-row: 1;
+}
+.bookmark-feature:nth-child(even) .bookmark-feature-media {
+  grid-column: 1;
+  grid-row: 1;
+}
+.bookmark-feature h2 {
+  font:
+    400 clamp(40px, 4.5vw, 66px) / 1.07 Newsreader,
+    serif;
+  letter-spacing: -2px;
+  margin-top: 30px;
+  text-wrap: balance;
+}
+.bookmark-feature-copy > p {
+  font-size: 16px;
+  line-height: 1.9;
+  color: var(--muted);
+  margin-top: 26px;
+  max-width: 430px;
+}
+.bookmark-feature-media {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  min-width: 0;
+}
+.bookmark-feature-media > img {
+  width: auto;
+  max-width: 70%;
+  height: auto;
+  max-height: 680px;
+  object-fit: contain;
+  filter: drop-shadow(0 22px 30px #142c2b2b);
+}
+.bookmark-feature-media > .portrait-film {
+  width: 60%;
+  border: 6px solid #192526;
+  border-radius: 25px;
+  overflow: hidden;
+  rotate: 3deg;
+  box-shadow: 0 28px 65px #152c2a33;
+  margin: 0;
+}
+.bookmark-feature-media > .bookmark-reader-companion {
+  position: absolute;
+  width: 47%;
+  right: -5%;
+  bottom: -20px;
+  rotate: 10deg;
+  z-index: 2;
+}
+.bookmark-pro-exhibit {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.5fr 0.8fr 0.8fr;
+  gap: 40px;
+  align-items: center;
+  padding-block: 95px;
+  background: var(--surface);
+  overflow: clip;
+}
+.bookmark-pro-exhibit h2 {
+  font:
+    400 clamp(42px, 4.5vw, 66px) / 1.08 Newsreader,
+    serif;
+  letter-spacing: -2px;
+  margin-top: 30px;
+}
+.bookmark-pro-exhibit h2 em {
+  display: block;
+  color: var(--accent);
+}
+.bookmark-pro-exhibit p {
+  font-size: 15px;
+  line-height: 1.9;
+  color: var(--muted);
+  max-width: 440px;
+  margin-top: 30px;
+}
+.bookmark-pro-exhibit > img {
+  width: 100%;
+  height: auto;
+  rotate: 5deg;
+  filter: drop-shadow(0 20px 35px #152c2a33);
+}
+.bookmark-pro-exhibit > img:last-child {
+  rotate: -7deg;
+  translate: 0 50px;
+}
+.sticky-kit-hero h1,
+.sticky-panorama h2,
+.sticky-kit-chapter h2,
+.sticky-materials h2 {
+  font-family: KitPatrick, cursive;
+}
+.sticky-kit-hero h1 em {
+  font-family: KitPacifico, cursive;
+  font-size: 0.8em;
+  line-height: 1.45;
+  color: var(--ink);
+}
+.sticky-kit-hero .sticky-screen-fan {
+  margin-top: 65px;
+}
+.portfolio-sticky h2 em {
+  color: var(--ink);
+}
+.sticky-kit-chapter {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.25fr 0.8fr 0.55fr;
+  gap: 5%;
+  padding-block: 100px;
+  align-items: center;
+  min-height: 800px;
+  border-top: 1px solid var(--line);
+}
+.sticky-paper-copy {
+  position: relative;
+  background: #fff3b8;
+  color: #3b372f;
+  padding: 45px 35px 40px;
+  rotate: -3deg;
+  box-shadow: 3px 14px 30px #30231829;
+  align-self: center;
+}
+.sticky-paper-copy::before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 48%;
+  width: 18px;
+  height: 18px;
+  background: #c62828;
+  border-radius: 50%;
+  box-shadow: 2px 5px 4px #30231850;
+}
+.sticky-paper-copy h2 {
+  font:
+    400 clamp(36px, 4vw, 60px) / 1.08 KitPatrick,
+    cursive;
+  margin-top: 25px;
+  letter-spacing: -1px;
+}
+.sticky-paper-copy p {
+  font-size: 15px;
+  line-height: 1.9;
+  margin-top: 25px;
+}
+.sticky-paper-copy .folio-kicker {
+  color: #3b372f;
+}
+.sticky-kit-film {
+  rotate: 3deg;
+  position: relative;
+  z-index: 2;
+  min-width: 0;
+}
+.sticky-kit-film .product-film {
+  margin: 0;
+  border: 5px solid #302318;
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px #30231840;
+}
+.sticky-chapter-print {
+  width: 100%;
+  height: auto;
+  border: 6px solid #fcfaf4;
+  border-bottom-width: 25px;
+  rotate: -7deg;
+  box-shadow: 0 16px 30px #30231835;
+  align-self: end;
+  margin-bottom: 40px;
+}
+.sticky-chapter-2 .sticky-paper-copy {
+  background: #b2dfdb;
+  rotate: 2deg;
+}
+.sticky-chapter-3 .sticky-paper-copy {
+  background: #f8bbd0;
+  rotate: -2deg;
+}
+.sticky-chapter-4 .sticky-paper-copy {
+  background: #b3e5fc;
+  rotate: 2deg;
+}
+.sticky-materials {
+  padding-block: 85px;
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 12%;
+  align-items: center;
+  background: var(--surface);
+}
+.sticky-materials h2 {
+  font:
+    400 clamp(36px, 4vw, 60px) / 1.1 KitPatrick,
+    cursive;
+  margin-top: 30px;
+  letter-spacing: -1px;
+}
+.sticky-materials p {
+  font-size: 15px;
+  line-height: 1.9;
+  color: var(--muted);
+  margin-top: 25px;
+}
+.sticky-material-swatches {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+.sticky-material-swatches figure {
+  min-width: 0;
+  rotate: -5deg;
+}
+.sticky-material-swatches figure:nth-child(even) {
+  rotate: 5deg;
+  translate: 0 15px;
+}
+.sticky-material-swatches img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 5px;
+  box-shadow: 3px 6px 15px #30231830;
+  transition:
+    rotate 0.5s,
+    scale 0.5s;
+}
+.sticky-material-swatches figure:hover img {
+  rotate: 8deg;
+  scale: 1.08;
+}
+.sticky-material-swatches figcaption {
+  font:
+    20px KitPatrick,
+    cursive;
+  text-align: center;
+  margin-top: 12px;
+}
+.arcane-kit-intro .arcane-cinema-title h1 {
+  max-width: 800px;
+  font-size: inherit;
+}
+.arcane-kit-intro .arcane-cinema-title h1 img {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 10px 30px #0009);
+}
+.arcane-kit-intro .arcane-cinema-title p {
+  font-size: 16px;
+  max-width: 550px;
+  line-height: 1.85;
+}
+.arcane-kit-intro .arcane-cinema-title .folio-text-link {
+  margin-top: 20px;
+  color: #f4e6c8;
+}
+.arcane-kit-stats {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 25px;
+  padding-block: 35px 70px;
+  border-bottom: 1px solid var(--line);
+}
+.arcane-kit-stats > div {
+  display: grid;
+  gap: 12px;
+  text-align: center;
+}
+.arcane-kit-stats strong {
+  font:
+    400 clamp(38px, 4vw, 62px) ArcaneHeading,
+    serif;
+  color: var(--accent);
+}
+.arcane-kit-stats span {
+  font-size: 12px;
+  line-height: 1.6;
+}
+.arcane-kit-friends {
+  padding-block: 100px;
+  text-align: center;
+  overflow: clip;
+}
+.arcane-kit-friends h2 {
+  font:
+    400 clamp(42px, 4.5vw, 70px) / 1.08 ArcaneHeading,
+    serif;
+  letter-spacing: -1.5px;
+  margin: 35px auto 0;
+  max-width: 900px;
+}
+.arcane-kit-friends h2 em {
+  display: block;
+  color: var(--accent);
+}
+.arcane-kit-friends > p {
+  font-size: 16px;
+  line-height: 1.9;
+  color: var(--muted);
+  max-width: 750px;
+  margin: 35px auto 0;
+}
+.arcane-hero-procession {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 5px;
+  margin-top: 65px;
+  align-items: center;
+  min-height: 200px;
+}
+.arcane-hero-procession figure {
+  animation: kit-hero-step 5s ease-in-out infinite;
+  animation-delay: calc(var(--hero-i) * -0.55s);
+  filter: drop-shadow(0 18px 15px #0005);
+}
+.arcane-hero-procession img {
+  width: 100%;
+  height: auto;
+  max-height: 210px;
+  object-fit: contain;
+}
+@keyframes kit-hero-step {
+  50% {
+    translate: 0 -15px;
+    rotate: 4deg;
+  }
+}
+.arcane-hero-catalogue {
+  margin-top: 55px;
+  border-block: 1px solid var(--line);
+}
+.arcane-hero-catalogue > summary {
+  cursor: pointer;
+  min-height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 15px;
+}
+.arcane-hero-catalogue > div {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 30px;
+  padding-bottom: 40px;
+}
+.arcane-hero-catalogue figure {
+  min-width: 0;
+  text-transform: capitalize;
+}
+.arcane-hero-catalogue img {
+  width: 100%;
+  height: 160px;
+  object-fit: contain;
+}
+.arcane-hero-catalogue figcaption {
+  font-size: 11px;
+  line-height: 1.6;
+  margin-top: 12px;
+}
+.arcane-boss-chapter p {
+  font-size: 15px;
+  line-height: 1.9;
+  max-width: 700px;
+  color: var(--muted);
+  margin: 25px 0 40px;
+}
+.arcane-dream-places {
+  padding-block: 90px;
+}
+.arcane-dream-places > div:last-child {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+  margin-top: 50px;
+}
+.arcane-dream-places figure {
+  min-width: 0;
+  position: relative;
+  transition: translate 0.5s;
+}
+.arcane-dream-places figure:nth-child(3n + 2) {
+  translate: 0 25px;
+}
+.arcane-dream-places figure:hover {
+  translate: 0 -8px;
+}
+.arcane-dream-places img {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  box-shadow: 0 10px 30px #0004;
+}
+.arcane-dream-places figcaption {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font:
+    20px/1.5 ArcaneHeading,
+    serif;
+  padding-top: 15px;
+}
+.arcane-dream-places figcaption i {
+  color: var(--accent);
+  font-style: normal;
+}
+.arcane-hub-story {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 8%;
+  align-items: center;
+  padding-block: 95px;
+  border-top: 1px solid var(--line);
+}
+.arcane-hub-story h2 {
+  font:
+    400 clamp(36px, 4vw, 58px) / 1.1 ArcaneHeading,
+    serif;
+  letter-spacing: -1px;
+  margin-top: 30px;
+}
+.arcane-hub-story p {
+  font-size: 15px;
+  line-height: 1.9;
+  color: var(--muted);
+  margin-top: 25px;
+}
+.arcane-full-trailer {
+  padding-block: 65px 90px;
+}
+.arcane-full-trailer h2 {
+  font:
+    400 clamp(32px, 4vw, 54px) / 1.15 ArcaneHeading,
+    serif;
+  letter-spacing: -1px;
+  margin-bottom: 35px;
+}
+.arcane-full-trailer video {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+  background: #080d20;
+  border: 1px solid var(--line);
+}
+.kit-section-heading {
+  max-width: 850px;
+}
+.kit-section-heading h2,
+.kit-faq h2,
+.kit-resources h2,
+.kit-pricing h2 {
+  font: 400 clamp(34px, 3.8vw, 58px) / 1.12 var(--display);
+  letter-spacing: -1.5px;
+  margin-top: 25px;
+  text-wrap: balance;
+}
+.kit-section-heading p,
+.kit-pricing > div > p {
+  font-size: 15px;
+  line-height: 1.9;
+  color: var(--muted);
+  max-width: 650px;
+  margin-top: 24px;
+}
+.kit-film-shelf {
+  padding-block: 85px;
+  border-top: 1px solid var(--line);
+}
+.kit-film-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 25px;
+  margin-top: 45px;
+  align-items: start;
+}
+.kit-clip {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  min-width: 0;
+}
+.kit-clip summary {
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+}
+.kit-clip summary::-webkit-details-marker {
+  display: none;
+}
+.kit-clip summary > img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  object-position: 50% 30%;
+  display: block;
+  transition: filter 0.4s;
+}
+.kit-clip summary:hover > img {
+  filter: brightness(1.1);
+}
+.kit-clip summary > span {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  min-height: 70px;
+  padding: 15px;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.kit-clip summary i {
+  font-size: 25px;
+  font-style: normal;
+  color: var(--accent);
+}
+.kit-clip summary small {
+  display: block;
+  flex-basis: 100%;
+  font:
+    9px GeistMono,
+    monospace;
+  color: var(--muted);
+}
+.kit-clip[open] {
+  grid-column: span 2;
+}
+.kit-clip[open] summary > img {
+  display: none;
+}
+.kit-clip .product-film {
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+}
+.kit-clip .portrait-film {
+  max-width: 330px;
+  margin-inline: auto;
+}
+.kit-pro-label {
+  display: inline-block;
+  font:
+    10px/1.7 GeistMono,
+    monospace;
+  letter-spacing: 0.08em;
+  border: 1px solid var(--accent);
+  color: var(--ink);
+  padding: 8px 12px;
+}
+.kit-pricing {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 10%;
+  padding-block: 100px;
+  border-top: 1px solid var(--line);
+  align-items: start;
+}
+.kit-price-content {
+  min-width: 0;
+}
+.kit-price-content > .kit-markdown {
+  margin-top: 30px;
+}
+.kit-faq {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 10%;
+  padding-block: 90px;
+  border-top: 1px solid var(--line);
+}
+.kit-faq-list details {
+  border-top: 1px solid var(--line);
+  padding-block: 20px;
+}
+.kit-faq-list summary {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 24px;
+  cursor: pointer;
+  list-style: none;
+  font-size: 16px;
+  line-height: 1.7;
+  min-height: 44px;
+}
+.kit-faq-list summary::-webkit-details-marker {
+  display: none;
+}
+.kit-faq-list summary > span {
+  font-size: 24px;
+  flex-shrink: 0;
+  transition: rotate 0.3s;
+}
+.kit-faq-list details[open] summary > span {
+  rotate: 45deg;
+}
+.kit-faq-list .kit-markdown {
+  padding-top: 12px;
+  font-size: 14px;
+  color: var(--muted);
+}
+.kit-resources {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 50px 10%;
+  padding-block: 90px;
+  border-top: 1px solid var(--line);
+}
+.kit-resource-links > a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  min-height: 58px;
+  padding: 15px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 14px;
+  overflow-wrap: anywhere;
+}
+.kit-resource-links > a:last-child {
+  justify-content: start;
+}
+.kit-capture-note {
+  grid-column: 2;
+  font-size: 12px;
+  line-height: 1.85;
+  color: var(--muted);
+}
+.kit-document {
+  padding-block: 50px 100px;
+  min-height: 70vh;
+}
+.kit-document-header {
+  padding: 45px 0;
+  border-bottom: 1px solid var(--line);
+}
+.kit-document-header h1 {
+  font: 400 clamp(40px, 5vw, 72px) / 1.08 var(--display);
+  letter-spacing: -2px;
+  margin-top: 30px;
+  text-wrap: balance;
+}
+.kit-document-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 25px;
+  padding-block: 25px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 40px;
+}
+.kit-document-links a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 13px;
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.kit-document > .kit-markdown {
+  max-width: 950px;
+  margin-inline: auto;
+}
+.kit-markdown {
+  font-size: 15px;
+  line-height: 1.95;
+  overflow-wrap: anywhere;
+}
+.kit-markdown h2 {
+  font: 400 32px/1.25 var(--display);
+  letter-spacing: -0.7px;
+  margin: 45px 0 22px;
+}
+.kit-markdown h3 {
+  font: 500 22px/1.4 var(--display);
+  margin: 32px 0 16px;
+}
+.kit-markdown p,
+.kit-markdown ul,
+.kit-markdown ol {
+  margin-block: 15px;
+}
+.kit-markdown ul,
+.kit-markdown ol {
+  padding-left: 25px;
+  list-style: revert;
+}
+.kit-markdown li {
+  padding-left: 4px;
+  margin-block: 8px;
+}
+.kit-markdown a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.kit-markdown strong {
+  font-weight: 650;
+  color: var(--ink);
+}
+.kit-markdown code {
+  font:
+    12px/1.7 GeistMono,
+    monospace;
+  background: var(--surface);
+  padding: 2px 5px;
+  border-radius: 3px;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.kit-markdown blockquote {
+  border-left: 2px solid var(--accent);
+  padding-left: 22px;
+  margin: 24px 0;
+  color: var(--muted);
+}
+.markdown-table {
+  overflow-x: auto;
+  max-width: 100%;
+  margin-block: 25px;
+}
+.markdown-table table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 350px;
+  font-size: 13px;
+  line-height: 1.8;
+}
+.markdown-table th,
+.markdown-table td {
+  padding: 14px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+.markdown-table th {
+  font-weight: 600;
+  background: var(--surface);
+}
+.markdown-table tbody tr:hover {
+  background: var(--surface);
+}
+.kit-credit-changes {
+  max-width: 950px;
+  margin: 30px auto;
+  font-size: 14px;
+  line-height: 1.9;
+  color: var(--muted);
+}
+.capture-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 5px;
+}
+.capture-badges > span {
+  font:
+    9px/1.5 GeistMono,
+    monospace;
+  border: 1px solid var(--line);
+  padding: 4px 7px;
+  color: var(--ink);
+}
+.gallery-credits {
+  display: inline;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  color: var(--ink);
+}
+.footer-photo-credits {
+  font-size: 11px;
+  line-height: 1.9;
+  color: var(--muted);
+  margin-top: 25px;
+  overflow-wrap: anywhere;
+}
+.footer-photo-credits a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+@media (max-width: 1000px) {
+  .bookmark-kit-title h1 {
+    font-size: 82px;
+  }
+  .bookmark-kit-stage {
+    min-height: 590px;
+  }
+  .bookmark-kit-share {
+    width: 27%;
+  }
+  .bookmark-kit-desktop {
+    top: 90px;
+    width: 88%;
+  }
+  .bookmark-feature {
+    gap: 7%;
+    min-height: 650px;
+  }
+  .bookmark-feature-media > .portrait-film {
+    width: 75%;
+  }
+  .sticky-kit-chapter {
+    grid-template-columns: 1.1fr 0.8fr;
+    gap: 9%;
+    min-height: 680px;
+  }
+  .sticky-chapter-print {
+    display: none;
+  }
+  .sticky-paper-copy {
+    padding: 38px 28px;
+  }
+  .kit-film-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .kit-pricing,
+  .kit-faq,
+  .kit-resources {
+    gap: 50px;
+  }
+  .arcane-kit-stats {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+  }
+  .arcane-hero-procession {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+  }
+  .arcane-hero-procession img {
+    max-height: 180px;
+  }
+  .arcane-dream-places > div:last-child {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .arcane-dream-places figure:nth-child(3n + 2) {
+    translate: none;
+  }
+}
+@media (max-width: 760px) {
+  .bookmark-kit-hero {
+    padding-top: 12px;
+  }
+  .reading-brand {
+    gap: 10px;
+    padding-bottom: 22px;
+  }
+  .reading-brand > span:last-child {
+    display: none;
+  }
+  .bookmark-kit-title {
+    padding-top: 40px;
+  }
+  .bookmark-kit-title h1 {
+    font-size: clamp(48px, 12vw, 78px);
+    letter-spacing: -2px;
+    margin-top: 24px;
+  }
+  .bookmark-kit-title > p {
+    font-size: 14px;
+    line-height: 1.9;
+    margin-top: 25px;
+  }
+  .bookmark-kit-title .product-actions {
+    max-width: 100%;
+  }
+  .bookmark-kit-stage {
+    min-height: 440px;
+    margin-top: 25px;
+  }
+  .bookmark-kit-desktop {
+    width: 95%;
+    top: 90px;
+    left: -12%;
+    border-width: 4px;
+  }
+  .bookmark-kit-share {
+    width: 37%;
+    top: 15px;
+    right: 0;
+    border-width: 4px;
+    border-radius: 17px;
+  }
+  .bookmark-kit-share .product-film figcaption > span {
+    font-size: 6px;
+  }
+  .bookmark-stage-note {
+    bottom: 20px;
+    max-width: 85%;
+    font-size: 10px;
+  }
+  .bookmark-kit-story {
+    padding-block: 60px;
+  }
+  .bookmark-kit-story h2 {
+    font-size: 40px;
+    letter-spacing: -1px;
+    margin-top: 25px;
+  }
+  .bookmark-kit-story > p {
+    font-size: 14px;
+    margin-top: 25px;
+  }
+  .bookmark-feature,
+  .bookmark-feature:nth-child(even) {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 40px;
+    padding-block: 50px;
+    min-height: 0;
+  }
+  .bookmark-feature h2 {
+    font-size: 42px;
+    letter-spacing: -1px;
+    margin-top: 24px;
+  }
+  .bookmark-feature-copy > p {
+    font-size: 14px;
+    margin-top: 22px;
+  }
+  .bookmark-feature-media > img {
+    max-height: 570px;
+    max-width: 78%;
+  }
+  .bookmark-feature-media > .portrait-film {
+    width: 70%;
+    max-width: 290px;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .bookmark-feature-media > .bookmark-reader-companion {
+    width: 42%;
+    right: 0;
+    bottom: 15px;
+  }
+  .bookmark-pro-exhibit {
+    grid-template-columns: 1fr 1fr;
+    gap: 30px 15px;
+    padding-block: 55px;
+  }
+  .bookmark-pro-exhibit > div {
+    grid-column: 1/-1;
+  }
+  .bookmark-pro-exhibit h2 {
+    font-size: 45px;
+    letter-spacing: -1px;
+  }
+  .bookmark-pro-exhibit p {
+    font-size: 14px;
+    margin-top: 25px;
+  }
+  .bookmark-pro-exhibit > img {
+    max-height: 420px;
+    object-fit: contain;
+  }
+  .bookmark-pro-exhibit > img:last-child {
+    translate: 0 15px;
+  }
+  .sticky-kit-hero h1 {
+    font-size: clamp(49px, 13vw, 85px);
+    letter-spacing: -2px;
+    line-height: 1.02;
+  }
+  .sticky-kit-hero h1 em {
+    font-size: 0.8em;
+    margin-top: 5px;
+    letter-spacing: -1px;
+  }
+  .sticky-kit-hero .sticky-screen-fan {
+    margin-top: 45px;
+  }
+  .sticky-kit-chapter {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 45px;
+    padding-block: 55px;
+    min-height: 0;
+  }
+  .sticky-paper-copy {
+    padding: 35px 24px;
+    margin-inline: 8px;
+  }
+  .sticky-paper-copy h2 {
+    font-size: 42px;
+  }
+  .sticky-paper-copy p {
+    font-size: 14px;
+  }
+  .sticky-kit-film {
+    max-width: 270px;
+    width: 75%;
+    align-self: center;
+  }
+  .sticky-kit-film .product-film {
+    border-width: 4px;
+  }
+  .sticky-materials {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding-block: 55px;
+  }
+  .sticky-materials h2 {
+    font-size: 40px;
+  }
+  .sticky-materials p {
+    font-size: 14px;
+  }
+  .sticky-material-swatches {
+    gap: 20px;
+  }
+  .sticky-material-swatches figcaption {
+    font-size: 17px;
+  }
+  .arcane-kit-intro .arcane-cinema-title h1 {
+    max-width: 100%;
+    margin-top: 30px;
+  }
+  .arcane-kit-intro .arcane-cinema-title p {
+    font-size: 14px;
+    line-height: 1.9;
+  }
+  .arcane-kit-intro .arcane-cinema-title .folio-text-link {
+    font-size: 11px;
+  }
+  .arcane-kit-intro .arcane-cinema-bottom > span:first-child {
+    max-width: 60%;
+    line-height: 1.8;
+  }
+  .arcane-kit-stats {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 25px 15px;
+    padding-block: 20px 45px;
+  }
+  .arcane-kit-stats strong {
+    font-size: 40px;
+  }
+  .arcane-kit-stats span {
+    font-size: 10px;
+  }
+  .arcane-kit-friends {
+    padding-block: 60px;
+  }
+  .arcane-kit-friends h2 {
+    font-size: 40px;
+    letter-spacing: -1px;
+    margin-top: 25px;
+  }
+  .arcane-kit-friends > p {
+    font-size: 14px;
+    margin-top: 25px;
+  }
+  .arcane-hero-procession {
+    gap: 18px 10px;
+    margin-top: 45px;
+  }
+  .arcane-hero-procession img {
+    max-height: 120px;
+  }
+  .arcane-hero-catalogue {
+    margin-top: 35px;
+  }
+  .arcane-hero-catalogue > summary {
+    font-size: 13px;
+  }
+  .arcane-hero-catalogue > div {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 20px 12px;
+  }
+  .arcane-hero-catalogue img {
+    height: 100px;
+  }
+  .arcane-hero-catalogue figcaption {
+    font-size: 9px;
+  }
+  .arcane-boss-chapter p {
+    font-size: 14px;
+  }
+  .arcane-dream-places {
+    padding-block: 55px;
+  }
+  .arcane-dream-places > div:last-child {
+    grid-template-columns: 1fr;
+    gap: 30px;
+    margin-top: 30px;
+  }
+  .arcane-dream-places figcaption {
+    font-size: 22px;
+  }
+  .arcane-hub-story {
+    grid-template-columns: 1fr;
+    gap: 35px;
+    padding-block: 55px;
+  }
+  .arcane-hub-story h2 {
+    font-size: 36px;
+  }
+  .arcane-hub-story p {
+    font-size: 14px;
+  }
+  .arcane-full-trailer {
+    padding-block: 45px 55px;
+  }
+  .arcane-full-trailer h2 {
+    font-size: 34px;
+    letter-spacing: -0.7px;
+    margin-bottom: 25px;
+  }
+  .kit-section-heading h2,
+  .kit-faq h2,
+  .kit-resources h2,
+  .kit-pricing h2 {
+    font-size: 35px;
+    letter-spacing: -1px;
+  }
+  .kit-section-heading p,
+  .kit-pricing > div > p {
+    font-size: 14px;
+  }
+  .kit-film-shelf {
+    padding-block: 55px;
+  }
+  .kit-film-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    margin-top: 30px;
+  }
+  .kit-clip summary > span {
+    font-size: 11px;
+    padding: 12px;
+    gap: 8px;
+    min-height: 90px;
+  }
+  .kit-clip summary i {
+    font-size: 21px;
+  }
+  .kit-clip summary small {
+    font-size: 7px;
+  }
+  .kit-clip[open] {
+    grid-column: 1/-1;
+  }
+  .kit-pricing,
+  .kit-faq,
+  .kit-resources {
+    grid-template-columns: 1fr;
+    gap: 35px;
+    padding-block: 55px;
+  }
+  .kit-pricing .kit-markdown {
+    font-size: 13px;
+  }
+  .markdown-table table {
+    font-size: 12px;
+  }
+  .markdown-table th,
+  .markdown-table td {
+    padding: 12px 9px;
+  }
+  .kit-faq-list summary {
+    font-size: 14px;
+    gap: 18px;
+  }
+  .kit-faq-list .kit-markdown {
+    font-size: 13px;
+  }
+  .kit-capture-note {
+    grid-column: auto;
+    font-size: 11px;
+  }
+  .kit-resource-links > a {
+    font-size: 13px;
+  }
+  .kit-document {
+    padding-block: 30px 60px;
+  }
+  .kit-document-header {
+    padding-block: 35px;
+  }
+  .kit-document-header h1 {
+    font-size: 42px;
+    letter-spacing: -1.2px;
+  }
+  .kit-document-links {
+    gap: 5px 20px;
+    margin-bottom: 30px;
+  }
+  .kit-document-links a {
+    font-size: 12px;
+  }
+  .kit-markdown {
+    font-size: 14px;
+  }
+  .kit-markdown h2 {
+    font-size: 29px;
+    margin-top: 35px;
+  }
+  .kit-markdown h3 {
+    font-size: 22px;
+  }
+  .kit-credit-changes {
+    font-size: 13px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .bookmark-kit-desktop,
+  .arcane-hero-procession figure {
+    animation: none;
+  }
+  .sticky-material-swatches img,
+  .arcane-dream-places figure,
+  .kit-clip summary > img {
+    transition: none;
+  }
+}

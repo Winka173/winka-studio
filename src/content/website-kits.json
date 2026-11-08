@@ -1,0 +1,839 @@
+{
+  "handy-bookmark": {
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark",
+    "assets": {
+      "highlights/01-share-sheet-en.png": "/products/handy-bookmark/kit/highlights/01-share-sheet-en.webp",
+      "highlights/01-share-sheet-vi.png": "/products/handy-bookmark/kit/highlights/01-share-sheet-vi.webp",
+      "highlights/01b-share-sheet-saved-en.png": "/products/handy-bookmark/kit/highlights/01b-share-sheet-saved-en.webp",
+      "highlights/01b-share-sheet-saved-vi.png": "/products/handy-bookmark/kit/highlights/01b-share-sheet-saved-vi.webp",
+      "highlights/02-home-desktop-en.jpg": "/products/handy-bookmark/kit/highlights/02-home-desktop-en.webp",
+      "highlights/02-home-desktop-vi.jpg": "/products/handy-bookmark/kit/highlights/02-home-desktop-vi.webp",
+      "highlights/02-home-en.png": "/products/handy-bookmark/kit/highlights/02-home-en.webp",
+      "highlights/02-home-vi.png": "/products/handy-bookmark/kit/highlights/02-home-vi.webp",
+      "highlights/03-collection-en.png": "/products/handy-bookmark/kit/highlights/03-collection-en.webp",
+      "highlights/03-collection-vi.png": "/products/handy-bookmark/kit/highlights/03-collection-vi.webp",
+      "highlights/04-search-en.png": "/products/handy-bookmark/kit/highlights/04-search-en.webp",
+      "highlights/04-search-vi.png": "/products/handy-bookmark/kit/highlights/04-search-vi.webp",
+      "highlights/05-focus-en.png": "/products/handy-bookmark/kit/highlights/05-focus-en.webp",
+      "highlights/05-focus-vi.png": "/products/handy-bookmark/kit/highlights/05-focus-vi.webp",
+      "highlights/06-reader-desktop-en.jpg": "/products/handy-bookmark/kit/highlights/06-reader-desktop-en.webp",
+      "highlights/06-reader-desktop-vi.jpg": "/products/handy-bookmark/kit/highlights/06-reader-desktop-vi.webp",
+      "highlights/06-reader-en.png": "/products/handy-bookmark/kit/highlights/06-reader-en.webp",
+      "highlights/06-reader-vi.png": "/products/handy-bookmark/kit/highlights/06-reader-vi.webp",
+      "highlights/07-dark-desktop-en.jpg": "/products/handy-bookmark/kit/highlights/07-dark-desktop-en.webp",
+      "highlights/07-dark-desktop-vi.jpg": "/products/handy-bookmark/kit/highlights/07-dark-desktop-vi.webp",
+      "highlights/07-dark-en.png": "/products/handy-bookmark/kit/highlights/07-dark-en.webp",
+      "highlights/07-dark-vi.png": "/products/handy-bookmark/kit/highlights/07-dark-vi.webp",
+      "highlights/08-backup-en.png": "/products/handy-bookmark/kit/highlights/08-backup-en.webp",
+      "highlights/08-backup-vi.png": "/products/handy-bookmark/kit/highlights/08-backup-vi.webp",
+      "highlights/09-pro-layouts-en.png": "/products/handy-bookmark/kit/highlights/09-pro-layouts-en.webp",
+      "highlights/09-pro-layouts-vi.png": "/products/handy-bookmark/kit/highlights/09-pro-layouts-vi.webp",
+      "highlights/10-pro-highlights-en.png": "/products/handy-bookmark/kit/highlights/10-pro-highlights-en.webp",
+      "highlights/10-pro-highlights-vi.png": "/products/handy-bookmark/kit/highlights/10-pro-highlights-vi.webp",
+      "highlights/11-welcome-en.png": "/products/handy-bookmark/kit/highlights/11-welcome-en.webp",
+      "highlights/11-welcome-vi.png": "/products/handy-bookmark/kit/highlights/11-welcome-vi.webp",
+      "highlights/12-pro-themes-en.png": "/products/handy-bookmark/kit/highlights/12-pro-themes-en.webp",
+      "highlights/12-pro-themes-vi.png": "/products/handy-bookmark/kit/highlights/12-pro-themes-vi.webp",
+      "highlights/13-picture-en.png": "/products/handy-bookmark/kit/highlights/13-picture-en.webp",
+      "highlights/13-picture-vi.png": "/products/handy-bookmark/kit/highlights/13-picture-vi.webp",
+      "highlights/14-dark-reader-en.png": "/products/handy-bookmark/kit/highlights/14-dark-reader-en.webp",
+      "highlights/14-dark-reader-vi.png": "/products/handy-bookmark/kit/highlights/14-dark-reader-vi.webp",
+      "icon": "/products/handy-bookmark/kit/brand/icon/icon-rounded-1024.webp",
+      "og-en": "/products/handy-bookmark/kit/brand/social/og-1200x630-en.webp",
+      "og-vi": "/products/handy-bookmark/kit/brand/social/og-1200x630-vi.webp"
+    },
+    "clips": [
+      {
+        "id": "collection-en",
+        "src": "/products/handy-bookmark/kit/clips/collection-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/collection-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\collection-en.mp4"
+      },
+      {
+        "id": "collection-vi",
+        "src": "/products/handy-bookmark/kit/clips/collection-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/collection-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\collection-vi.mp4"
+      },
+      {
+        "id": "dark-mode-en",
+        "src": "/products/handy-bookmark/kit/clips/dark-mode-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/dark-mode-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\dark-mode-en.mp4"
+      },
+      {
+        "id": "dark-mode-vi",
+        "src": "/products/handy-bookmark/kit/clips/dark-mode-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/dark-mode-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\dark-mode-vi.mp4"
+      },
+      {
+        "id": "file-en",
+        "src": "/products/handy-bookmark/kit/clips/file-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/file-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\file-en.mp4"
+      },
+      {
+        "id": "file-vi",
+        "src": "/products/handy-bookmark/kit/clips/file-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/file-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\file-vi.mp4"
+      },
+      {
+        "id": "focus-en",
+        "src": "/products/handy-bookmark/kit/clips/focus-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/focus-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\focus-en.mp4"
+      },
+      {
+        "id": "focus-vi",
+        "src": "/products/handy-bookmark/kit/clips/focus-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/focus-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\focus-vi.mp4"
+      },
+      {
+        "id": "layouts-en",
+        "src": "/products/handy-bookmark/kit/clips/layouts-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/layouts-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\layouts-en.mp4"
+      },
+      {
+        "id": "layouts-vi",
+        "src": "/products/handy-bookmark/kit/clips/layouts-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/layouts-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\layouts-vi.mp4"
+      },
+      {
+        "id": "search-en",
+        "src": "/products/handy-bookmark/kit/clips/search-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/search-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\search-en.mp4"
+      },
+      {
+        "id": "search-vi",
+        "src": "/products/handy-bookmark/kit/clips/search-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/search-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\search-vi.mp4"
+      },
+      {
+        "id": "share-sheet-en",
+        "src": "/products/handy-bookmark/kit/clips/share-sheet-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/share-sheet-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\share-sheet-en.mp4"
+      },
+      {
+        "id": "share-sheet-vi",
+        "src": "/products/handy-bookmark/kit/clips/share-sheet-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/share-sheet-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\share-sheet-vi.mp4"
+      },
+      {
+        "id": "welcome-en",
+        "src": "/products/handy-bookmark/kit/clips/welcome-en.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/welcome-en-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\welcome-en.mp4"
+      },
+      {
+        "id": "welcome-vi",
+        "src": "/products/handy-bookmark/kit/clips/welcome-vi.mp4",
+        "poster": "/products/handy-bookmark/kit/clips/welcome-vi-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\clips\\welcome-vi.mp4"
+      }
+    ],
+    "pages": {
+      "en": {
+        "features": "## 1. Save from any app\n\n**Share it, it's saved.** In Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit or your browser, tap Share and choose Handy Bookmark. The link is saved at that moment, before anything else happens.\n\n- A small sheet slides up over the app you were in, with the page's picture and title. Tap a collection and it goes there (\"Saved to Recipes\"), name a new collection on the spot, or just close it: it waits in **Not sorted**. \"Don't save\" takes it back.\n- Your collections also sit in the top row of Android's share menu, so one tap saves straight into one.\n- The sheet lists every collection, the one you added to most recently first.\n- You stay in the app you were watching.\n- Screens: `mobile-en-13-share-sheet.png`, `…-13-share-sheet-saved.png`, clip `share-sheet-en`.\n\n**Paste or add in the app.** Paste a link into the field at the top of Home and tap Save (Undo takes it back). The + button adds a picture or several links at once. On a computer, Ctrl+V saves what you copied (Windows app, not released yet).\nScreens: `…-14-save-sheet.png`, `…-14-save-sheet-paste.png`, `…-15-quick-saved.png`.\n\n**Screenshots and photos, kept like links.** Save a screenshot or photo from the + button or by sharing it from your gallery. Open it to see it whole.\nScreens: `…-17-picture.png`, `…-17-picture-full.png`.\n\n**Titles and pictures by themselves.** Each link gets its own page's title and picture: reels, videos, posts and articles. No more lists of bare addresses. To do this the app asks that page's own site, with no cookies and no sign-in; it can be switched off in Settings.\n(Live checks on 2026-11-07 worked for Facebook posts and reels, Instagram, YouTube and Shorts, X and Threads, TikTok and ordinary websites. Reddit gives a title but no picture. Private or age-restricted posts can't be read.)\n\n**A practice run on first launch.** The welcome guide lets you rehearse sharing a video on a pretend phone before you do it for real. Nothing is saved.\nScreens: `mobile-en-50-welcome-1.png` … `-8-find.png`, clip `welcome-en`.\n\n## 2. Keep it in order\n\n**Not sorted, then sorted.** Everything new waits in Not sorted at the top of Home. One tap on the folder under a card files it.\nScreens: `mobile-en-01-home.png`, clip `file-en`.\n\n**Collections that look like yours.** Give each collection an icon and one of eight colours, start from a ready template (Recipes, Trips, To buy, Read later, Watch later, Work, Ideas, Gifts), keep smaller collections inside bigger ones, and pick its cover from its own pictures.\nScreens: `…-03-collection.png`, `…-03-collection-cards.png`, `…-04-collection-trips.png`, `…-09-new-collection.png`, `…-10-cover-chooser.png`.\n\n**Tags, notes, favourites.** Add tags and a private note right on an item's page; mark it a favourite, archive it, rename it.\nScreen: `…-05-item-detail.png`.\n\n**Rows or cards, filters, your own order.** Show a collection as rows or picture cards, filter to links or pictures, and rearrange by hand.\nScreens: `…-03-collection-cards.png`, `…-11-filters.png`.\n\n**Many at once.** Press and hold to select, then move, archive or delete them together, add or remove a tag, mark read or not read, favourite, copy the addresses, export them, save offline copies or check the links. (Pro adds \"Organize with rules\" and \"Clean up titles\" here.)\nScreen: `…-12-select-move.png`.\n\n**The Library page.** Every place in one view: all items, collections as a tree, tags, and (Pro) smart collections and saved searches.\nScreens: `…-06-library.png`, `…-06-library-smart-and-saved.png`, `…-08-everything.png`.\n\n## 3. Find it again\n\n**Search in a moment.** Search titles, sites, tags, notes and collections. Accents are optional: \"banh xeo\" finds \"Bánh xèo\". Before typing, the search page offers your numbers and tags to tap.\nScreens: `…-18-search-start.png`, `…-18-search-results.png`, clip `search-en`.\n\n**Focus.** One thing you haven't opened yet, full screen, at a time. Swipe right when you're done, left for later. It's how saved things actually get looked at.\nScreens: `…-20-focus.png`, clip `focus-en`.\n\n**Weekly nudge.** Once a week, on the day and hour you pick, a notification says how many new saves are still waiting. It shows a count, never titles.\nScreen: `…-26-weekly-nudge.png`.\n\n## 4. Read\n\n**A clean reader.** Open an article and tap Read for clean text without the clutter. Save an offline copy for when there's no internet. Find in the text, a night tone, and it remembers where you stopped.\nScreens: `…-22-reader.png`, `…-22-reader-night-tone.png`, `…-24-reader-find.png`.\n(Many social-app pages and pages behind a sign-in or paywall have no readable text; the app says so and opens the original instead. Offline copies are not available in the web version.)\n\n## 5. Share with others\n\n- **One item:** the link goes out without tracking bits (`utm_`, `fbclid` and the like). A picture is shared without camera, place or time data.\n- **A whole collection as a page:** a single page with its pictures, titles and links, optionally with your notes.\nScreens: `…-34-share-collection-menu.png`, `…-34-share-collection.png`.\n\n## 6. Tidy up\n\n- **Duplicates:** finds the same link saved twice (even with different tracking bits) and merges them.\n- **Links that stopped working:** checks every link and sorts them into gone, moved and couldn't-tell; a moved link can take its new address, with Undo. It never changes anything by itself.\n- **Recently deleted:** Undo right after deleting, or bring things back from Recently deleted for 30 days.\n- **Storage:** see what takes space and clear the picture cache.\nScreens: `…-28-duplicates.png`, `desktop-en-29-broken-links.png`, `…-27-trash.png`, `…-32-library-tools.png`, `…-32-library-tools-storage.png`.\n\n## 7. Keep it safe, keep it yours\n\n- **No account, no sign-in, no ads, no tracking.** The library lives on your phone. The developer has no server and receives nothing.\n- **Back up to one file** and keep it anywhere. Restore shows what the file holds before anything changes, adds only what's new, and Undo takes it back.\n- **Automatic backups:** a copy each day something changed, the last seven kept, in a folder you choose; they can be locked with a password that is never stored.\n- **Bring your links:** browser bookmarks (HTML), Pocket (CSV or HTML export), Raindrop, and JSON, CSV, Markdown, TXT or ZIP files. Pocket keeps read state, dates and tags.\n- **App lock** with your fingerprint, face or screen lock.\nScreens: `…-31-backup-and-data.png`, `…-33-pocket-import.png`, `…-30-settings*.png`.\n\n## 8. Feels like a library, in two languages\n\n## Pro (one-time purchase, no subscription)\n\n\"Make your library yours. One payment, yours for good.\"\n\n**Personalisation studio**\n- 10 themes (Ink & Paper, Midnight Gallery, Forest Archive, Sakura Notes, Ocean Glass, Terracotta Studio, Monochrome, Retro Film, Lavender Haze, Solar Citrus). Try them on your own library before buying.\n- 8 ways to lay out a collection: Magazine, Masonry, Film strip, Scrapbook, Lookbook, Research board, Timeline journal, Moodboard.\n- 4 Focus skins: Minimal, Film, Editorial, Nocturne.\nScreens: `…-41-themes*.png`, `…-42-layouts-*.png`, `…-21-focus-skins.png`, clip `layouts-en`.\n\n**Smart organisation**\n- Auto organize files new saves where they belong by their source.\n- Batch tools clean titles and file many items at once, with a dry run and Undo.\n- Smart collections fill themselves from rules (a site, a tag, unread, videos…); saved searches keep a search one tap away.\nScreens: `…-43-auto-organize.png`, `…-07-smart-collection.png`, `…-06-library-smart-and-saved.png`.\n\n**Reading and search**\n- Highlight passages in the reader in five colours and add notes; they travel with the item in backups.\n- Copy the text in a picture, read on the device (Android).\n- Deep search also looks inside offline articles, highlights and pictures, and says where it found each one.\nScreens: `…-23-reader-highlights.png`, `…-23-reader-highlights-list.png`, `…-19-deep-search.png`.\n\n**Designed exports**\n- Turn a collection into a PDF or web page in one of 8 designs: Collection catalog, Travel journal, Recipe book, Research bibliography, Reading list magazine, Wishlist, Moodboard, Minimal print list.\nScreen: `…-44-export-studio.png`.\n\n**Always free:** saving links and pictures, search, collections, Focus, the reader, backups, Recently deleted.",
+        "press": "# Press kit text (English)\n\n## Fact sheet\n\n| | |\n|---|---|\n| Name | Handy Bookmark |\n| Maker | Winka Studio (independent developer, Vietnam) |\n| Category | Productivity: bookmarks, read later, link organizer |\n| Platforms | Android (Google Play, closed testing since 7 November 2026). iPhone, Windows and web: not released |\n| Languages | English, Vietnamese |\n| Price | Free, no ads. Optional Pro: one-time purchase (99,000 đ in Vietnam; Google Play's local price elsewhere) |\n| Account | None. No sign-in |\n| Data | Stays on the device. No servers, no analytics, no tracking |\n| Package | `com.apps.winka.handybookmark` |\n| Contact | apps.winka.studio@gmail.com |\n| Icon / graphics | `brand/icon/`, `brand/feature-graphic/`, `brand/social/` |\n\n## One line (≈ 20 words)\n\nHandy Bookmark saves links, reels and videos from any app with their pictures, sorts them into collections, and finds them again.\n\n## Short (≈ 60 words)\n\nYou save a reel on Facebook, a video on TikTok, a screenshot… and never see it again. Handy Bookmark gathers them in one place. Share from any app and it's saved at once, with its title and picture; one tap files it into a collection. Search, Focus and a clean reader bring it back. No account, no ads: your library stays on your phone.\n\n## Long (≈ 150 words)\n\nMost of what we \"save\" disappears into the app we saved it in. Handy Bookmark is one library for all of it. Tap Share in Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit or a browser and the link is saved instantly; a small sheet shows its picture and title, and one tap puts it in a collection such as Recipes or Trips. Screenshots and photos sit alongside.\n\nCollections get their own icon and colour and can nest. Search works with or without Vietnamese accents. Focus shows one unopened save at a time, the reader offers clean text and offline copies, and a weekly nudge says how many saves are waiting.\n\nThere is no account and no server: the library stays on the phone, with backups to a file or a folder you choose, password-locked backups and an optional app lock. Pro, a one-time purchase, adds themes, layouts, highlights, smart collections and designed exports.\n\n## Boilerplate\n\nWinka Studio makes small, local-first apps that keep your data on your device, with no account to create. Handy Bookmark is part of the Handy suite of apps.",
+        "credits": "# Photo credits for the screenshots and clips\n\nEvery photo visible inside the screenshots, highlights and clips is a Creative Commons picture from Wikimedia Commons, resized (nothing else changed). Licences with **BY** need the author credited; **SA** (share-alike) means a screenshot that contains the photo should be offered under the same licence. Simplest for the website: put this list on a \"Credits\" page (or in the footer) and link to it under the screenshot gallery. CC0 needs no credit.\n\n## From the app itself (assets/welcome, also used in the Play listing)\n\n| Name in screenshots | Photo | Author | Licence |\n|---|---|---|---|\n| bun-cha | [Bun-cha-hanoi](https://commons.wikimedia.org/w/index.php?curid=89254951) | Valentin Orange | CC BY-SA 4.0 |\n| pho | [Nam pho bowl](https://commons.wikimedia.org/w/index.php?curid=140534833) | Wesoree | CC BY-SA 4.0 |\n| guitars | [Acoustic guitars in store 20180625](https://commons.wikimedia.org/w/index.php?curid=76919878) | Santeri Viinamäki | CC BY-SA 4.0 |\n| ga-ha-noi | [Hanoi train station from trackside](https://commons.wikimedia.org/w/index.php?curid=73416778) | shankar s. | CC BY 2.0 |\n| hoi-an | [Hoi An lantern lampion (38834258624)](https://commons.wikimedia.org/w/index.php?curid=65466255) | dronepicr | CC BY 2.0 |\n\n## Added for the website kit (downloaded 2026-11-08, 720 px wide; not in the app)\n\n| Name in screenshots | Photo | Author | Licence |\n|---|---|---|---|\n| bun-bo-hue | [Bun-Bo-Hue-from-Huong-Giang-2011.jpg](https://commons.wikimedia.org/wiki/File:Bun-Bo-Hue-from-Huong-Giang-2011.jpg) | Kham Tran - www.khamtran.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |\n| ha-giang | [Mã Pí Lèng Pass, Vietnam.jpg](https://commons.wikimedia.org/wiki/File:M%C3%A3_P%C3%AD_L%C3%A8ng_Pass,_Vietnam.jpg) | Hoach Le Dinh | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |\n| egg-coffee | [Egg Coffee (6923068614).jpg](https://commons.wikimedia.org/wiki/File:Egg_Coffee_(6923068614).jpg) | David McKelvey from Brisbane, Australia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| mi-quang | [Mi Quang at Ngoc Mai (with noodles uncovered).jpg](https://commons.wikimedia.org/wiki/File:Mi_Quang_at_Ngoc_Mai_(with_noodles_uncovered).jpg) | Gary Stevens | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| my-khe | [My Khe Beach Danang Coastline.jpg](https://commons.wikimedia.org/wiki/File:My_Khe_Beach_Danang_Coastline.jpg) | Jpatokal | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |\n| balcony | [Green plants for my 24th floor Balcony.jpg](https://commons.wikimedia.org/wiki/File:Green_plants_for_my_24th_floor_Balcony.jpg) | Jason M. C., Han | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |\n| yoga | [Woman enjoying coffee while sitting on yoga mat in home living space.jpg](https://commons.wikimedia.org/wiki/File:Woman_enjoying_coffee_while_sitting_on_yoga_mat_in_home_living_space.jpg) | Shixart1985 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| air-fryer | [Air Fryer 2020.jpg](https://commons.wikimedia.org/wiki/File:Air_Fryer_2020.jpg) | I am R. | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| banh-xeo | [Bánh xèo 1.jpg](https://commons.wikimedia.org/wiki/File:B%C3%A1nh_x%C3%A8o_1.jpg) | Kent Wang from Austin, TX | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |\n\nShort footer line (EN): \"Photos in screenshots: Wikimedia Commons contributors Valentin Orange, Wesoree, Santeri Viinamäki, shankar s., dronepicr, Kham Tran, Hoach Le Dinh, David McKelvey, Gary Stevens, Jpatokal, Jason M. C. Han, Shixart1985, I am R., Kent Wang (CC BY / CC BY-SA / CC0). Full credits →\"\n\nDòng chân trang (VI): \"Ảnh trong hình minh hoạ: các tác giả trên Wikimedia Commons (CC BY / CC BY-SA / CC0). Xem đầy đủ →\"",
+        "comparison": "# Why Handy Bookmark · Vì sao chọn Handy Bookmark\n\nA comparison by **approach**, not by competitor names. Naming other products with claims about them needs checking against their current versions, so this section compares with the ways people save things today. (If the owner wants a named table, verify each competitor's current features first.)\n\n## English\n\n| | Saving inside each app (Facebook Saved, TikTok Favourites, YouTube Watch later, screenshots) | Browser bookmarks / notes app | **Handy Bookmark** |\n|---|---|---|---|\n| Everything in one place | No: one list per app | Partly: links only, no reels from apps | **Yes: links, reels, videos, screenshots** |\n| Picture and title for each | In that app only | Rarely | **Yes, fetched from the page itself** |\n| Save from any app's Share menu | No | Usually not | **Yes, in one tap; pick a collection on the spot** |\n| Your own collections, colours, nesting | Limited | Folders | **Yes** |\n| Search with or without accents | Per app | Varies | **Yes** |\n| Brings things back (Focus, weekly nudge) | No | No | **Yes** |\n| Survives the post being deleted | No | Link only | **Title, picture, your note; offline copy for articles** |\n| Account required | Yes | Usually | **No** |\n| Ads / tracking | Yes | Varies | **None** |\n| Export / backup | No | Varies | **Yes: file, folder, password option** |\n\nThree short reasons to put on the page:\n1. **One place for all of it.** Stop hunting through five apps' \"Saved\" lists.\n2. **It looks like what you saved.** Pictures, not bare addresses.\n3. **It's yours.** No account, no ads, on your phone, with backups you control.\n\n## Tiếng Việt\n\n| | Lưu trong từng app (Đã lưu của Facebook, Yêu thích TikTok, Xem sau YouTube, ảnh chụp màn hình) | Dấu trang trình duyệt / app ghi chú | **Handy Bookmark** |\n|---|---|---|---|\n| Tất cả về một chỗ | Không: mỗi app một danh sách | Một phần: chỉ link, không có reel trong app | **Có: link, reel, video, ảnh chụp màn hình** |\n| Có hình và tiêu đề | Chỉ trong app đó | Hiếm | **Có, lấy từ chính trang** |\n| Lưu từ khung Chia sẻ của mọi app | Không | Thường là không | **Có, một chạm; chọn bộ sưu tập ngay tại chỗ** |\n| Bộ sưu tập riêng, màu, lồng nhau | Hạn chế | Thư mục | **Có** |\n| Tìm có dấu hay không dấu | Tuỳ app | Tuỳ | **Có** |\n| Nhắc xem lại (Tập trung, nhắc mỗi tuần) | Không | Không | **Có** |\n| Bài gốc bị xoá vẫn còn | Không | Chỉ còn link | **Còn tiêu đề, hình, ghi chú; bài viết có bản offline** |\n| Cần tài khoản | Có | Thường có | **Không** |\n| Quảng cáo / theo dõi | Có | Tuỳ | **Không** |\n| Xuất / sao lưu | Không | Tuỳ | **Có: tệp, thư mục, có thể đặt mật khẩu** |\n\nBa lý do ngắn cho trang chủ:\n1. **Một chỗ cho tất cả.** Thôi lục danh sách \"Đã lưu\" của năm app khác nhau.\n2. **Trông đúng như thứ bạn đã lưu.** Có hình, không phải địa chỉ trơn.\n3. **Là của bạn.** Không tài khoản, không quảng cáo, nằm trên máy, sao lưu do bạn giữ.\n\nNote for honesty: \"Survives the post being deleted\" means the saved title, picture (when it was fetched), note and offline copy stay in the library; the original page itself is gone. Link pictures are kept as a local cache and are not inside backup files (screenshots and photos you saved are).",
+        "changelog": "## 1.0.0 (build 5) — 7 November 2026 · 07/11/2026\n\n**EN**\n- Collections you make while sharing now show up the next time you share, even before you open the app.\n- The share sheet lists every collection, the one you added to most recently first.\n\n**VI**\n- Bộ sưu tập tạo khi chia sẻ hiện ngay ở lần chia sẻ sau, kể cả khi chưa mở app.\n- Khung lưu liệt kê mọi bộ sưu tập, bộ vừa thêm mục gần nhất ở trên cùng.\n\n## 1.0.0 (build 4) — first test release · bản thử nghiệm đầu tiên\n\n**EN**\n- Save from any app: the sheet shows the picture and title; tap a collection to put it there, or make a new one in place.\n- Titles and pictures for Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit and websites.\n- Handy Bookmark Pro, a one-time purchase.\n\n**VI**\n- Lưu từ mọi app: khung hiện hình và tiêu đề; chạm bộ sưu tập để cho vào, hoặc tạo bộ mới tại chỗ.\n- Tiêu đề và hình cho Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit và các trang web.\n- Handy Bookmark Pro, mua một lần.\n\n\n"
+      },
+      "vi": {
+        "features": "## 1. Lưu từ mọi app\n\n**Chia sẻ là lưu.** Trong Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit hay trình duyệt, bấm Chia sẻ rồi chọn Handy Bookmark. Link được lưu ngay lúc đó, trước mọi bước khác.\n\n- Một khung nhỏ trượt lên ngay trên app bạn đang xem, có hình và tiêu đề của trang. Chạm một bộ sưu tập là cho vào (\"Đã lưu vào Công thức nấu ăn\"), đặt tên bộ mới ngay tại chỗ, hoặc đóng lại: mục nằm chờ ở **Chưa xếp**. \"Không lưu\" để bỏ lại.\n- Các bộ sưu tập của bạn cũng nằm sẵn ở hàng đầu khung chia sẻ Android: một chạm là lưu thẳng vào bộ đó.\n- Khung lưu liệt kê mọi bộ sưu tập, bộ vừa thêm mục gần nhất ở trên cùng.\n- Bạn vẫn ở lại app đang xem.\n- Ảnh: `mobile-vi-13-share-sheet.png`, `…-13-share-sheet-saved.png`, clip `share-sheet-vi`.\n\n**Dán hoặc thêm ngay trong app.** Dán link vào ô trên cùng Trang chủ rồi bấm Lưu (Hoàn tác để bỏ lại). Nút + để lưu ảnh, hoặc nhiều link một lúc. Trên máy tính, Ctrl+V lưu thứ vừa chép (bản Windows, chưa phát hành).\n\n**Ảnh chụp màn hình và ảnh, giữ như một link.** Lưu ảnh chụp màn hình hay ảnh bằng nút +, hoặc chia sẻ từ thư viện ảnh sang. Mở ra để xem trọn vẹn.\n\n**Tự có tiêu đề và hình.** Mỗi link tự lấy tiêu đề và hình của chính trang đó: reel, video, bài đăng, bài báo. Không còn danh sách toàn địa chỉ trơn. Để làm việc này, app hỏi chính trang web của link, không kèm cookie, không đăng nhập; tắt được trong Cài đặt.\n(Kiểm tra thật ngày 07/11/2026: chạy được với bài và reel Facebook, Instagram, YouTube và Shorts, X và Threads, TikTok và các trang web thường. Reddit có tiêu đề nhưng không có hình. Bài riêng tư hoặc giới hạn tuổi thì không đọc được.)\n\n**Tập thử ngay lần đầu mở app.** Màn chào cho bạn tập chia sẻ một video trên chiếc điện thoại \"giả\" trước khi làm thật. Không lưu gì cả.\n\n## 2. Gọn gàng theo cách của bạn\n\n**Chưa xếp, rồi xếp.** Mục mới chờ ở dải Chưa xếp trên đầu Trang chủ. Một chạm vào biểu tượng thư mục dưới thẻ là xếp xong.\n\n**Bộ sưu tập mang dấu ấn riêng.** Chọn biểu tượng và một trong tám màu, bắt đầu từ mẫu có sẵn (Công thức nấu ăn, Du lịch, Cần mua, Đọc sau, Xem sau, Công việc, Ý tưởng, Quà tặng), lồng bộ nhỏ vào bộ lớn, và chọn ảnh bìa từ chính ảnh trong bộ.\n\n**Thẻ, ghi chú, yêu thích.** Thêm thẻ và ghi chú riêng ngay trên trang của mục; đánh dấu yêu thích, lưu trữ, đổi tên.\n\n**Dạng dòng hay dạng thẻ, bộ lọc, thứ tự tự sắp.** Xem bộ sưu tập dạng dòng hoặc thẻ ảnh, lọc chỉ link hay chỉ ảnh, và tự kéo sắp thứ tự.\n\n**Làm nhiều mục một lúc.** Nhấn giữ để chọn, rồi chuyển, lưu trữ hay xoá cùng lúc, thêm hoặc bỏ thẻ, đánh dấu đã đọc/chưa đọc, yêu thích, chép các địa chỉ, xuất ra, lưu bản đọc offline hoặc kiểm tra link. (Pro có thêm \"Xếp theo quy tắc\" và \"Dọn tiêu đề\".)\n\n**Trang Thư viện.** Mọi chỗ trong một màn: tất cả mục, cây bộ sưu tập, thẻ, và (Pro) bộ sưu tập thông minh, tìm kiếm đã lưu.\n\n## 3. Tìm lại trong tích tắc\n\n**Tìm kiếm.** Tìm theo tiêu đề, tên trang, thẻ, ghi chú và bộ sưu tập. Gõ không dấu cũng được: \"banh xeo\" ra \"Bánh xèo\". Trước khi gõ, màn tìm đã đưa sẵn các con số và thẻ để chạm.\n\n**Tập trung.** Mỗi lần một mục bạn chưa mở, toàn màn hình. Vuốt phải khi xem xong, vuốt trái để sau. Nhờ vậy thứ đã lưu mới thật sự được xem lại.\n\n**Nhắc mỗi tuần.** Mỗi tuần một lần, vào ngày và giờ bạn chọn, một thông báo cho biết còn bao nhiêu mục mới chưa xem. Chỉ ghi số lượng, không bao giờ ghi tiêu đề.\n\n## 4. Đọc\n\n**Trình đọc gọn gàng.** Mở bài viết và bấm Đọc để xem chữ sạch, không rối mắt. Lưu bản offline để đọc khi không có mạng. Tìm trong bài, tông đêm dịu mắt, và nhớ chỗ bạn đang đọc dở.\n\n## 5. Chia sẻ cho người khác\n\n- **Một mục:** link được bỏ phần theo dõi (`utm_`, `fbclid`…) trước khi gửi. Ảnh được gửi đi không kèm thông tin máy chụp, vị trí hay thời gian.\n- **Cả bộ sưu tập thành một trang:** một trang có hình, tiêu đề và link, kèm ghi chú của bạn nếu muốn.\n\n## 6. Dọn dẹp\n\n- **Mục trùng:** tìm link lưu hai lần (kể cả khác phần theo dõi) để gộp lại.\n- **Link không còn mở được:** kiểm tra mọi link, chia thành đã mất, đã chuyển chỗ và chưa rõ; link đã chuyển chỗ có thể dùng địa chỉ mới, có Hoàn tác. App không bao giờ tự sửa gì.\n- **Đã xoá gần đây:** Hoàn tác ngay sau khi xoá, hoặc lấy lại trong 30 ngày.\n- **Dung lượng:** xem cái gì chiếm chỗ và dọn ảnh xem trước.\n\n## 7. An toàn, và là của bạn\n\n- **Không tài khoản, không đăng nhập, không quảng cáo, không theo dõi.** Thư viện nằm trên điện thoại của bạn. Nhà phát triển không có máy chủ và không nhận gì.\n- **Sao lưu thành một tệp**, cất ở đâu cũng được. Khôi phục cho xem trước tệp có gì rồi mới đổi, chỉ thêm mục mới, và Hoàn tác được.\n- **Tự sao lưu:** mỗi ngày có thay đổi giữ một bản, 7 bản gần nhất, trong thư mục bạn chọn; có thể khoá bằng mật khẩu (mật khẩu không bao giờ được lưu).\n- **Mang link sang:** dấu trang trình duyệt (HTML), Pocket (tệp CSV hoặc HTML), Raindrop, và các tệp JSON, CSV, Markdown, TXT, ZIP. Nhập từ Pocket giữ trạng thái đã đọc, ngày lưu và thẻ.\n- **Khoá app** bằng vân tay, khuôn mặt hoặc khoá màn hình.\n\n## 8. Như một thư viện, hai ngôn ngữ\n\n## Pro (mua một lần, không thuê bao)\n\n\"Biến thư viện thành của bạn. Trả một lần, dùng mãi.\"\n\n**Xưởng giao diện**\n- 10 giao diện (Mực & Giấy, Phòng tranh đêm, Kho lưu trữ rừng, Sổ hoa anh đào, Kính biển, Xưởng đất nung, Đơn sắc, Phim cũ, Sương oải hương, Nắng cam). Thử trên chính thư viện của bạn trước khi mua.\n- 8 kiểu bày bộ sưu tập: Tạp chí, Xếp gạch, Cuộn phim, Sổ dán, Lookbook, Bảng nghiên cứu, Nhật ký thời gian, Bảng cảm hứng.\n- 4 kiểu Tập trung: Tối giản, Phim, Báo chí, Đêm sâu.\n\n**Sắp xếp thông minh**\n- Tự sắp xếp đưa mục mới về đúng chỗ theo nguồn.\n- Công cụ hàng loạt dọn tiêu đề và xếp nhiều mục cùng lúc, có chạy thử và Hoàn tác.\n- Bộ sưu tập thông minh tự gom theo quy tắc (một trang, một thẻ, chưa đọc, video…); tìm kiếm đã lưu luôn sẵn một chạm.\n\n**Đọc và tìm kiếm**\n- Đánh dấu đoạn văn trong trình đọc với năm màu và thêm ghi chú; chúng đi cùng mục trong bản sao lưu.\n- Chép chữ trong ảnh, đọc ngay trên máy (Android).\n- Tìm sâu: tìm cả trong bài đã lưu offline, đoạn đánh dấu và ảnh, và cho biết tìm thấy ở đâu.\n\n**Bản xuất có thiết kế**\n- Biến một bộ sưu tập thành PDF hoặc trang web theo 8 mẫu: Danh mục bộ sưu tập, Nhật ký chuyến đi, Sổ công thức, Danh mục tài liệu, Tạp chí danh sách đọc, Danh sách mong muốn, Bảng cảm hứng, Danh sách in tối giản.\n\n**Luôn miễn phí:** lưu link và ảnh, tìm kiếm, bộ sưu tập, Tập trung, trình đọc, sao lưu, Đã xoá gần đây.",
+        "press": "# Bộ tài liệu báo chí (Tiếng Việt)\n\n## Thông tin nhanh\n\n| | |\n|---|---|\n| Tên | Handy Bookmark |\n| Nhà phát triển | Winka Studio (nhà phát triển độc lập, Việt Nam) |\n| Danh mục | Năng suất: lưu link, đọc sau, sắp xếp dấu trang |\n| Nền tảng | Android (Google Play, kiểm thử kín từ 07/11/2026). iPhone, Windows và web: chưa phát hành |\n| Ngôn ngữ | Tiếng Việt, tiếng Anh |\n| Giá | Miễn phí, không quảng cáo. Pro tuỳ chọn: mua một lần (99.000 đ tại Việt Nam; nơi khác theo giá Google Play) |\n| Tài khoản | Không cần. Không đăng nhập |\n| Dữ liệu | Nằm trên máy. Không máy chủ, không thống kê, không theo dõi |\n| Mã gói | `com.apps.winka.handybookmark` |\n| Liên hệ | apps.winka.studio@gmail.com |\n| Biểu tượng / đồ hoạ | `brand/icon/`, `brand/feature-graphic/`, `brand/social/` |\n\n## Một câu (≈ 20 chữ)\n\nHandy Bookmark lưu link, reel và video từ mọi app kèm hình, xếp vào bộ sưu tập và giúp bạn tìm lại dễ dàng.\n\n## Ngắn (≈ 60 chữ)\n\nBạn lưu một reel trên Facebook, một video TikTok, chụp màn hình… rồi không bao giờ xem lại. Handy Bookmark gom tất cả về một chỗ. Chia sẻ từ bất kỳ app nào là lưu ngay, kèm tiêu đề và hình; một chạm để xếp vào bộ sưu tập. Tìm kiếm, chế độ Tập trung và trình đọc gọn gàng giúp bạn xem lại. Không tài khoản, không quảng cáo: thư viện nằm trên điện thoại của bạn.\n\n## Dài (≈ 150 chữ)\n\nPhần lớn thứ ta \"lưu\" đều chìm mất trong chính app đã lưu nó. Handy Bookmark là một thư viện chung cho tất cả. Bấm Chia sẻ trong Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit hay trình duyệt là link được lưu ngay; một khung nhỏ hiện hình và tiêu đề, một chạm là vào bộ sưu tập như Công thức nấu ăn hay Du lịch. Ảnh chụp màn hình và ảnh nằm cùng chỗ.\n\nMỗi bộ sưu tập có biểu tượng và màu riêng, lồng vào nhau được. Tìm kiếm gõ có dấu hay không dấu đều ra. Chế độ Tập trung đưa từng mục chưa mở ra xem, trình đọc cho chữ gọn và bản đọc offline, mỗi tuần một lời nhắc cho biết còn bao nhiêu mục đang chờ.\n\nKhông tài khoản, không máy chủ: thư viện nằm trên máy, có sao lưu ra tệp hoặc vào thư mục bạn chọn, bản sao lưu đặt mật khẩu và khoá app tuỳ chọn. Pro, mua một lần, thêm giao diện, kiểu bày, đánh dấu, bộ sưu tập thông minh và bản xuất có thiết kế.\n\n## Giới thiệu nhà phát triển\n\nWinka Studio làm những app nhỏ giữ dữ liệu ngay trên máy của bạn, không cần tạo tài khoản. Handy Bookmark thuộc bộ ứng dụng Handy.",
+        "credits": "# Photo credits for the screenshots and clips\n\nEvery photo visible inside the screenshots, highlights and clips is a Creative Commons picture from Wikimedia Commons, resized (nothing else changed). Licences with **BY** need the author credited; **SA** (share-alike) means a screenshot that contains the photo should be offered under the same licence. Simplest for the website: put this list on a \"Credits\" page (or in the footer) and link to it under the screenshot gallery. CC0 needs no credit.\n\n## From the app itself (assets/welcome, also used in the Play listing)\n\n| Name in screenshots | Photo | Author | Licence |\n|---|---|---|---|\n| bun-cha | [Bun-cha-hanoi](https://commons.wikimedia.org/w/index.php?curid=89254951) | Valentin Orange | CC BY-SA 4.0 |\n| pho | [Nam pho bowl](https://commons.wikimedia.org/w/index.php?curid=140534833) | Wesoree | CC BY-SA 4.0 |\n| guitars | [Acoustic guitars in store 20180625](https://commons.wikimedia.org/w/index.php?curid=76919878) | Santeri Viinamäki | CC BY-SA 4.0 |\n| ga-ha-noi | [Hanoi train station from trackside](https://commons.wikimedia.org/w/index.php?curid=73416778) | shankar s. | CC BY 2.0 |\n| hoi-an | [Hoi An lantern lampion (38834258624)](https://commons.wikimedia.org/w/index.php?curid=65466255) | dronepicr | CC BY 2.0 |\n\n## Added for the website kit (downloaded 2026-11-08, 720 px wide; not in the app)\n\n| Name in screenshots | Photo | Author | Licence |\n|---|---|---|---|\n| bun-bo-hue | [Bun-Bo-Hue-from-Huong-Giang-2011.jpg](https://commons.wikimedia.org/wiki/File:Bun-Bo-Hue-from-Huong-Giang-2011.jpg) | Kham Tran - www.khamtran.com | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |\n| ha-giang | [Mã Pí Lèng Pass, Vietnam.jpg](https://commons.wikimedia.org/wiki/File:M%C3%A3_P%C3%AD_L%C3%A8ng_Pass,_Vietnam.jpg) | Hoach Le Dinh | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |\n| egg-coffee | [Egg Coffee (6923068614).jpg](https://commons.wikimedia.org/wiki/File:Egg_Coffee_(6923068614).jpg) | David McKelvey from Brisbane, Australia | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| mi-quang | [Mi Quang at Ngoc Mai (with noodles uncovered).jpg](https://commons.wikimedia.org/wiki/File:Mi_Quang_at_Ngoc_Mai_(with_noodles_uncovered).jpg) | Gary Stevens | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| my-khe | [My Khe Beach Danang Coastline.jpg](https://commons.wikimedia.org/wiki/File:My_Khe_Beach_Danang_Coastline.jpg) | Jpatokal | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |\n| balcony | [Green plants for my 24th floor Balcony.jpg](https://commons.wikimedia.org/wiki/File:Green_plants_for_my_24th_floor_Balcony.jpg) | Jason M. C., Han | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |\n| yoga | [Woman enjoying coffee while sitting on yoga mat in home living space.jpg](https://commons.wikimedia.org/wiki/File:Woman_enjoying_coffee_while_sitting_on_yoga_mat_in_home_living_space.jpg) | Shixart1985 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| air-fryer | [Air Fryer 2020.jpg](https://commons.wikimedia.org/wiki/File:Air_Fryer_2020.jpg) | I am R. | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |\n| banh-xeo | [Bánh xèo 1.jpg](https://commons.wikimedia.org/wiki/File:B%C3%A1nh_x%C3%A8o_1.jpg) | Kent Wang from Austin, TX | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |\n\nShort footer line (EN): \"Photos in screenshots: Wikimedia Commons contributors Valentin Orange, Wesoree, Santeri Viinamäki, shankar s., dronepicr, Kham Tran, Hoach Le Dinh, David McKelvey, Gary Stevens, Jpatokal, Jason M. C. Han, Shixart1985, I am R., Kent Wang (CC BY / CC BY-SA / CC0). Full credits →\"\n\nDòng chân trang (VI): \"Ảnh trong hình minh hoạ: các tác giả trên Wikimedia Commons (CC BY / CC BY-SA / CC0). Xem đầy đủ →\"",
+        "comparison": "# Why Handy Bookmark · Vì sao chọn Handy Bookmark\n\nA comparison by **approach**, not by competitor names. Naming other products with claims about them needs checking against their current versions, so this section compares with the ways people save things today. (If the owner wants a named table, verify each competitor's current features first.)\n\n## English\n\n| | Saving inside each app (Facebook Saved, TikTok Favourites, YouTube Watch later, screenshots) | Browser bookmarks / notes app | **Handy Bookmark** |\n|---|---|---|---|\n| Everything in one place | No: one list per app | Partly: links only, no reels from apps | **Yes: links, reels, videos, screenshots** |\n| Picture and title for each | In that app only | Rarely | **Yes, fetched from the page itself** |\n| Save from any app's Share menu | No | Usually not | **Yes, in one tap; pick a collection on the spot** |\n| Your own collections, colours, nesting | Limited | Folders | **Yes** |\n| Search with or without accents | Per app | Varies | **Yes** |\n| Brings things back (Focus, weekly nudge) | No | No | **Yes** |\n| Survives the post being deleted | No | Link only | **Title, picture, your note; offline copy for articles** |\n| Account required | Yes | Usually | **No** |\n| Ads / tracking | Yes | Varies | **None** |\n| Export / backup | No | Varies | **Yes: file, folder, password option** |\n\nThree short reasons to put on the page:\n1. **One place for all of it.** Stop hunting through five apps' \"Saved\" lists.\n2. **It looks like what you saved.** Pictures, not bare addresses.\n3. **It's yours.** No account, no ads, on your phone, with backups you control.\n\n## Tiếng Việt\n\n| | Lưu trong từng app (Đã lưu của Facebook, Yêu thích TikTok, Xem sau YouTube, ảnh chụp màn hình) | Dấu trang trình duyệt / app ghi chú | **Handy Bookmark** |\n|---|---|---|---|\n| Tất cả về một chỗ | Không: mỗi app một danh sách | Một phần: chỉ link, không có reel trong app | **Có: link, reel, video, ảnh chụp màn hình** |\n| Có hình và tiêu đề | Chỉ trong app đó | Hiếm | **Có, lấy từ chính trang** |\n| Lưu từ khung Chia sẻ của mọi app | Không | Thường là không | **Có, một chạm; chọn bộ sưu tập ngay tại chỗ** |\n| Bộ sưu tập riêng, màu, lồng nhau | Hạn chế | Thư mục | **Có** |\n| Tìm có dấu hay không dấu | Tuỳ app | Tuỳ | **Có** |\n| Nhắc xem lại (Tập trung, nhắc mỗi tuần) | Không | Không | **Có** |\n| Bài gốc bị xoá vẫn còn | Không | Chỉ còn link | **Còn tiêu đề, hình, ghi chú; bài viết có bản offline** |\n| Cần tài khoản | Có | Thường có | **Không** |\n| Quảng cáo / theo dõi | Có | Tuỳ | **Không** |\n| Xuất / sao lưu | Không | Tuỳ | **Có: tệp, thư mục, có thể đặt mật khẩu** |\n\nBa lý do ngắn cho trang chủ:\n1. **Một chỗ cho tất cả.** Thôi lục danh sách \"Đã lưu\" của năm app khác nhau.\n2. **Trông đúng như thứ bạn đã lưu.** Có hình, không phải địa chỉ trơn.\n3. **Là của bạn.** Không tài khoản, không quảng cáo, nằm trên máy, sao lưu do bạn giữ.\n\nNote for honesty: \"Survives the post being deleted\" means the saved title, picture (when it was fetched), note and offline copy stay in the library; the original page itself is gone. Link pictures are kept as a local cache and are not inside backup files (screenshots and photos you saved are).",
+        "changelog": "## 1.0.0 (build 5) — 7 November 2026 · 07/11/2026\n\n**EN**\n- Collections you make while sharing now show up the next time you share, even before you open the app.\n- The share sheet lists every collection, the one you added to most recently first.\n\n**VI**\n- Bộ sưu tập tạo khi chia sẻ hiện ngay ở lần chia sẻ sau, kể cả khi chưa mở app.\n- Khung lưu liệt kê mọi bộ sưu tập, bộ vừa thêm mục gần nhất ở trên cùng.\n\n## 1.0.0 (build 4) — first test release · bản thử nghiệm đầu tiên\n\n**EN**\n- Save from any app: the sheet shows the picture and title; tap a collection to put it there, or make a new one in place.\n- Titles and pictures for Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit and websites.\n- Handy Bookmark Pro, a one-time purchase.\n\n**VI**\n- Lưu từ mọi app: khung hiện hình và tiêu đề; chạm bộ sưu tập để cho vào, hoặc tạo bộ mới tại chỗ.\n- Tiêu đề và hình cho Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit và các trang web.\n- Handy Bookmark Pro, mua một lần.\n\n\n"
+      }
+    },
+    "faq": {
+      "en": [
+        {
+          "question": "Is Handy Bookmark free?",
+          "answer": "Yes. Saving links and pictures, collections, search, Focus, the reader, backups and Recently deleted are free, with no ads. Handy Bookmark Pro is an optional one-time purchase for themes, layouts, highlights, smart collections, auto organize, deep search and designed exports."
+        },
+        {
+          "question": "Is Pro a subscription?",
+          "answer": "No. You pay once through Google Play and keep it. There is nothing to renew or cancel. Reinstalling, or using another device with the same Google account, restores it (Settings › Upgrade to Pro › Restore purchase)."
+        },
+        {
+          "question": "How much is Pro?",
+          "answer": "The price Google Play shows before you buy, in your currency (99,000 đ in Vietnam at launch; Google Play sets the equivalent elsewhere)."
+        },
+        {
+          "question": "Do I need an account?",
+          "answer": "No account and no sign-in. Open the app and start saving."
+        },
+        {
+          "question": "Where is my library kept?",
+          "answer": "In the app's private storage on your phone. The developer has no server and receives nothing from the app."
+        },
+        {
+          "question": "Does the app send anything over the internet?",
+          "answer": "Only to show a link's title and picture: it asks that page's own website for the page, the way a browser would, with no cookies, no sign-in and nothing from your library. You can switch this off in Settings. Reading copies and link checks run only when you ask. Nothing else is sent."
+        },
+        {
+          "question": "How do I save from Facebook, TikTok or YouTube?",
+          "answer": "Tap Share in that app, then Handy Bookmark (in Facebook you may need to tap More first). It's saved at once; tap a collection in the small sheet to file it, or close the sheet and it waits in Not sorted. Tip: press and hold Handy Bookmark in the share menu and pin it so it's always first."
+        },
+        {
+          "question": "Why doesn't a link show a picture?",
+          "answer": "Some pages don't give one to apps: private or age-restricted posts, pages behind a sign-in, and Reddit (title only). The link is always saved anyway, and the app tries again later."
+        },
+        {
+          "question": "Can I save screenshots and photos?",
+          "answer": "Yes. Use the + button on Home, or share a picture from your gallery to Handy Bookmark. With Pro you can copy the text in a picture, read on the device."
+        },
+        {
+          "question": "I used Pocket. Can I bring my saves?",
+          "answer": "Yes. Export from Pocket (CSV or HTML), then Settings › Data › Import and export › Import from Pocket. Read state, dates and tags come along, into a \"Pocket\" collection. Raindrop and browser bookmarks (HTML) import too. You see what the file holds before anything is added."
+        },
+        {
+          "question": "How do I back up, or move to a new phone?",
+          "answer": "Settings › Data › Back up makes one file with everything; keep it somewhere safe, then use Restore on the new phone. You can also turn on automatic backups to a folder you choose, optionally locked with a password."
+        },
+        {
+          "question": "What if I delete something by mistake?",
+          "answer": "Tap Undo in the message, or find it in Recently deleted for 30 days."
+        },
+        {
+          "question": "Can I lock the app?",
+          "answer": "Yes. App lock asks for your fingerprint, face or screen lock when the app opens."
+        },
+        {
+          "question": "Does it remind me to look at what I saved?",
+          "answer": "If you turn on the weekly nudge (Settings › General), once a week it tells you how many new saves are still waiting. It shows a number, never titles. Focus then shows them one at a time."
+        },
+        {
+          "question": "Can I read articles offline?",
+          "answer": "Yes. Open an article, tap Read, then save an offline copy. Many social-media pages and pages behind a sign-in or paywall have no readable text; then the app opens the original."
+        },
+        {
+          "question": "Is it in Vietnamese?",
+          "answer": "Yes, the whole app is in Vietnamese and English. Search works with or without accents."
+        },
+        {
+          "question": "Which devices does it run on?",
+          "answer": "Android, through Google Play (currently in closed testing). An iPhone version, a Windows app and a web app are being prepared but are not available yet."
+        },
+        {
+          "question": "Does it sync between devices?",
+          "answer": "Not in the current store version. Use a backup file to move your library. (Google Drive sync between Android devices is in development and will be announced when it has been verified.)"
+        },
+        {
+          "question": "Is my data used for ads or sold?",
+          "answer": "No. There are no ads, no analytics and no tracking. The developer collects nothing."
+        },
+        {
+          "question": "How do I contact you?",
+          "answer": "Settings › Send feedback, or email apps.winka.studio@gmail.com."
+        }
+      ],
+      "vi": [
+        {
+          "question": "Handy Bookmark có miễn phí không?",
+          "answer": "Có. Lưu link và ảnh, bộ sưu tập, tìm kiếm, Tập trung, trình đọc, sao lưu và Đã xoá gần đây đều miễn phí, không quảng cáo. Handy Bookmark Pro là gói mua một lần, không bắt buộc, thêm giao diện, kiểu bày, đánh dấu, bộ sưu tập thông minh, tự sắp xếp, tìm sâu và bản xuất có thiết kế."
+        },
+        {
+          "question": "Pro có phải thuê bao không?",
+          "answer": "Không. Bạn trả một lần qua Google Play và dùng mãi, không có gì phải gia hạn hay huỷ. Cài lại app, hoặc dùng máy khác cùng tài khoản Google, sẽ khôi phục được (Cài đặt › Nâng cấp Pro › Khôi phục giao dịch)."
+        },
+        {
+          "question": "Pro giá bao nhiêu?",
+          "answer": "Đúng giá Google Play hiện trước khi mua, theo tiền tệ của bạn (lúc ra mắt ở Việt Nam là 99.000 đ; nơi khác do Google Play quy đổi)."
+        },
+        {
+          "question": "Có cần tài khoản không?",
+          "answer": "Không cần tài khoản, không đăng nhập. Mở app là lưu được."
+        },
+        {
+          "question": "Thư viện của tôi nằm ở đâu?",
+          "answer": "Trong bộ nhớ riêng của app trên điện thoại. Nhà phát triển không có máy chủ và không nhận gì từ app."
+        },
+        {
+          "question": "App có gửi gì lên mạng không?",
+          "answer": "Chỉ để hiện tiêu đề và hình của link: app hỏi chính trang web của link đó, như trình duyệt vẫn làm, không cookie, không đăng nhập, không gửi gì từ thư viện của bạn. Tắt được trong Cài đặt. Bản đọc offline và kiểm tra link chỉ chạy khi bạn yêu cầu. Ngoài ra không gửi gì."
+        },
+        {
+          "question": "Lưu từ Facebook, TikTok, YouTube thế nào?",
+          "answer": "Bấm Chia sẻ trong app đó, rồi chọn Handy Bookmark (với Facebook có thể phải bấm Khác trước). Link được lưu ngay; chạm một bộ sưu tập trong khung nhỏ để xếp, hoặc đóng khung để mục nằm chờ ở Chưa xếp. Mẹo: nhấn giữ Handy Bookmark trong khung chia sẻ rồi Ghim để nó luôn đứng đầu."
+        },
+        {
+          "question": "Sao có link không hiện hình?",
+          "answer": "Một số trang không cho app lấy hình: bài riêng tư hoặc giới hạn tuổi, trang cần đăng nhập, và Reddit (chỉ có tiêu đề). Link vẫn luôn được lưu, và app sẽ thử lại sau."
+        },
+        {
+          "question": "Có lưu được ảnh chụp màn hình và ảnh không?",
+          "answer": "Được. Bấm nút + ở Trang chủ, hoặc chia sẻ ảnh từ thư viện ảnh sang Handy Bookmark. Có Pro thì chép được chữ trong ảnh, đọc ngay trên máy."
+        },
+        {
+          "question": "Tôi từng dùng Pocket. Mang dữ liệu sang được không?",
+          "answer": "Được. Xuất từ Pocket (tệp CSV hoặc HTML), rồi vào Cài đặt › Dữ liệu › Nhập và xuất › Nhập từ Pocket. Trạng thái đã đọc, ngày lưu và thẻ được giữ, vào bộ sưu tập \"Pocket\". Raindrop và dấu trang trình duyệt (HTML) cũng nhập được. Bạn xem trước tệp có gì rồi mới thêm."
+        },
+        {
+          "question": "Sao lưu hay chuyển sang máy mới thế nào?",
+          "answer": "Cài đặt › Dữ liệu › Sao lưu tạo một tệp chứa mọi thứ; cất ở chỗ an toàn, rồi dùng Khôi phục ở máy mới. Bạn cũng có thể bật tự sao lưu vào thư mục bạn chọn, đặt mật khẩu nếu muốn."
+        },
+        {
+          "question": "Lỡ xoá nhầm thì sao?",
+          "answer": "Bấm Hoàn tác trong thông báo, hoặc tìm lại trong Đã xoá gần đây trong 30 ngày."
+        },
+        {
+          "question": "Khoá app được không?",
+          "answer": "Được. Khoá app hỏi vân tay, khuôn mặt hoặc khoá màn hình khi mở app."
+        },
+        {
+          "question": "App có nhắc tôi xem lại không?",
+          "answer": "Nếu bạn bật Nhắc mỗi tuần (Cài đặt › Chung), mỗi tuần một lần app báo còn bao nhiêu mục mới chưa xem. Chỉ ghi con số, không ghi tiêu đề. Sau đó chế độ Tập trung đưa ra từng mục một."
+        },
+        {
+          "question": "Đọc bài offline được không?",
+          "answer": "Được. Mở bài, bấm Đọc, rồi lưu bản offline. Nhiều trang mạng xã hội và trang cần đăng nhập hoặc trả phí không có chữ để đọc; khi đó app mở bản gốc."
+        },
+        {
+          "question": "App có tiếng Việt không?",
+          "answer": "Có, toàn bộ app có tiếng Việt và tiếng Anh. Tìm kiếm gõ có dấu hay không dấu đều được."
+        },
+        {
+          "question": "Chạy trên thiết bị nào?",
+          "answer": "Android, qua Google Play (đang kiểm thử kín). Bản iPhone, app Windows và bản web đang được chuẩn bị, chưa phát hành."
+        },
+        {
+          "question": "Có đồng bộ giữa các máy không?",
+          "answer": "Bản hiện tại trên store thì chưa. Dùng tệp sao lưu để chuyển thư viện. (Đồng bộ Google Drive giữa các máy Android đang phát triển, sẽ thông báo khi đã kiểm tra xong.)"
+        },
+        {
+          "question": "Dữ liệu có bị dùng cho quảng cáo hay bị bán không?",
+          "answer": "Không. Không quảng cáo, không công cụ thống kê, không theo dõi. Nhà phát triển không thu thập gì."
+        },
+        {
+          "question": "Liên hệ thế nào?",
+          "answer": "Cài đặt › Gửi góp ý, hoặc email apps.winka.studio@gmail.com."
+        }
+      ]
+    },
+    "pricing": {
+      "en": "| | Free | Pro |\n|---|:---:|:---:|\n| Save from any app through Share, with the picture and title | ✓ | ✓ |\n| Pick a collection in the share sheet, or name a new one there | ✓ | ✓ |\n| Paste links, save screenshots and photos | ✓ | ✓ |\n| Collections with icon and colour, nested; tags, notes, favourites | ✓ | ✓ |\n| Rows or cards, filters, your own order, choose a cover | ✓ | ✓ |\n| Select many: move, tag, mark read, archive, delete, export, check | ✓ | ✓ |\n| Search (accents optional) | ✓ | ✓ |\n| Focus (one at a time) and the weekly nudge | ✓ | ✓ |\n| Reader with offline copies, find in text, night tone | ✓ | ✓ |\n| Share an item without tracking bits; share a collection as a page | ✓ | ✓ |\n| Duplicates, link check, Recently deleted (30 days), Undo | ✓ | ✓ |\n| Backups, automatic backups with optional password, import from Pocket / Raindrop / browsers | ✓ | ✓ |\n| App lock, light and dark, English and Vietnamese | ✓ | ✓ |\n| No ads, no account | ✓ | ✓ |\n| 10 extra themes |  | ✓ |\n| 8 collection layouts (Magazine, Masonry, Film strip, Scrapbook, Lookbook, Research board, Timeline journal, Moodboard) |  | ✓ |\n| 4 Focus skins |  | ✓ |\n| Highlights in 5 colours, with notes |  | ✓ |\n| Copy text from pictures (on the device) |  | ✓ |\n| Deep search inside offline articles, highlights and pictures |  | ✓ |\n| Smart collections and saved searches |  | ✓ |\n| Auto organize new saves; batch \"Organize with rules\" and \"Clean up titles\" (dry run + Undo) |  | ✓ |\n| Designed exports: PDF or web page in 8 designs |  | ✓ |\n\nPro notes: one payment, no subscription; restore on reinstall or another device with the same Google account (Settings › Upgrade to Pro › Restore purchase). Losing Pro never deletes anything made with it.",
+      "vi": "| | Miễn phí | Pro |\n|---|:---:|:---:|\n| Lưu từ mọi app qua Chia sẻ, kèm hình và tiêu đề | ✓ | ✓ |\n| Chọn bộ sưu tập ngay trong khung lưu, hoặc đặt tên bộ mới tại chỗ | ✓ | ✓ |\n| Dán link, lưu ảnh chụp màn hình và ảnh | ✓ | ✓ |\n| Bộ sưu tập có biểu tượng, màu, lồng nhau; thẻ, ghi chú, yêu thích | ✓ | ✓ |\n| Dạng dòng hoặc thẻ, bộ lọc, tự sắp thứ tự, chọn ảnh bìa | ✓ | ✓ |\n| Chọn nhiều: chuyển, gắn thẻ, đánh dấu đã đọc, lưu trữ, xoá, xuất, kiểm tra | ✓ | ✓ |\n| Tìm kiếm (gõ không dấu cũng được) | ✓ | ✓ |\n| Tập trung (từng mục một) và Nhắc mỗi tuần | ✓ | ✓ |\n| Trình đọc có bản offline, tìm trong bài, tông đêm | ✓ | ✓ |\n| Chia sẻ một mục đã bỏ phần theo dõi; chia sẻ cả bộ sưu tập thành trang | ✓ | ✓ |\n| Mục trùng, kiểm tra link, Đã xoá gần đây (30 ngày), Hoàn tác | ✓ | ✓ |\n| Sao lưu, tự sao lưu có mật khẩu tuỳ chọn, nhập từ Pocket / Raindrop / trình duyệt | ✓ | ✓ |\n| Khoá app, sáng và tối, tiếng Việt và tiếng Anh | ✓ | ✓ |\n| Không quảng cáo, không tài khoản | ✓ | ✓ |\n| 10 giao diện thêm |  | ✓ |\n| 8 kiểu bày bộ sưu tập (Tạp chí, Xếp gạch, Cuộn phim, Sổ dán, Lookbook, Bảng nghiên cứu, Nhật ký thời gian, Bảng cảm hứng) |  | ✓ |\n| 4 kiểu Tập trung |  | ✓ |\n| Đánh dấu 5 màu, kèm ghi chú |  | ✓ |\n| Chép chữ trong ảnh (ngay trên máy) |  | ✓ |\n| Tìm sâu trong bài offline, đoạn đánh dấu và ảnh |  | ✓ |\n| Bộ sưu tập thông minh và tìm kiếm đã lưu |  | ✓ |\n| Tự sắp xếp mục mới; \"Xếp theo quy tắc\" và \"Dọn tiêu đề\" hàng loạt (chạy thử + Hoàn tác) |  | ✓ |\n| Bản xuất có thiết kế: PDF hoặc trang web, 8 mẫu |  | ✓ |\n\nGhi chú Pro: trả một lần, không thuê bao; khôi phục khi cài lại hoặc ở máy khác cùng tài khoản Google (Cài đặt › Nâng cấp Pro › Khôi phục giao dịch). Mất Pro không làm mất thứ đã tạo bằng Pro."
+    },
+    "legal": {
+      "en": {
+        "privacy": "# Privacy Policy · Chính sách quyền riêng tư\n\n**Handy Bookmark** (`com.apps.winka.handybookmark`) — last updated 7 November 2026 (Google Drive sync added) · cập nhật 07/11/2026 (thêm đồng bộ Google Drive)\n\nHandy Bookmark keeps the links, pictures and notes you save on your device.\nIt has no accounts, no servers of its own, no analytics and no ads. We do not\ncollect, store, sell or share any personal data.\n\n### What the app keeps, and where\n\n- **Your library** (links, titles, pictures, notes, collections, reminders and\n  settings) is stored in the app's private storage on your device.\n- **Things shared to the app** from other apps (a link, text or a picture) are\n  saved in the same private storage.\n- **Backups** are files you create and place yourself (a folder or file you\n  choose). A backup can be protected with a password you choose; the password\n  is not stored in the backup or sent anywhere.\n\n### What goes over the internet, and only then\n\n- **Titles and pictures of saved links.** To show a link's title and picture,\n  the app asks that page's own website (for example facebook.com or\n  youtube.com) for the page, and its picture from where the page says it is.\n  The request contains the link itself, as when you open it in a browser. It\n  carries no cookies, no sign-in and nothing from your library. This is on by\n  default and can be switched off in *Settings › Data*.\n- **Reading copies and link checks** run only when you ask for them, the same\n  way.\n- **Opening a link** opens it in your browser or in the app it belongs to.\n\nNothing else is sent. The developer receives no data from the app.\n\n### Google Drive sync (optional, Android)\n\nOff unless you switch it on in *Settings › Sync*. Then Google asks you to let\nHandy Bookmark use its own hidden folder in **your** Google Drive (the\n`drive.appdata` permission): the app cannot see your other Drive files.\n\n- Your library (links, titles, notes, collections, Recently Deleted and the\n  pictures you saved) is copied there, so your other Android devices signed\n  in to the same Google account get the same library. Device settings, the\n  app lock and offline reading copies stay on each device.\n- It goes from your device straight to Google; the developer has no server in\n  between and receives nothing. Google stores it under its own terms. It is\n  ordinary Drive data, not end-to-end encrypted.\n- Turning sync off deletes nothing. To delete the Drive copy, open Google\n  Drive › Settings › Manage apps › Handy Bookmark › Delete hidden app data.\n\n### Permissions\n\n- **Internet**: the reads described above.\n- **Notifications**: reminders you set; they are scheduled on the device.\n- **Biometrics** (optional app lock): Android checks your fingerprint, face or\n  device PIN; the app only learns whether it succeeded.\n- Pictures are added only through the system picker or Share; the app has no\n  access to your photo library otherwise.\n\n### Deleting your data\n\nDelete items in the app (Recently Deleted keeps them for 30 days, then they\nare gone), or uninstall the app to remove everything it stored. Backup files\nyou made stay where you put them until you delete them.\n\n### Children\n\nHandy Bookmark is not directed at children and collects no personal\ninformation from anyone, children included.\n\n### Changes\n\nIf this policy changes, the new version will be published at the same address\nwith the date above updated.\n\n### Contact\n\nQuestions about this policy: open an issue at\n<https://github.com/Winka173/Handy-Suite/issues>.",
+        "terms": "# Terms of Service · Điều khoản dịch vụ\n\n**Handy Bookmark** (`com.apps.winka.handybookmark`) — last updated 7 November 2026 · cập nhật 07/11/2026\n\nThese terms apply to the Handy Bookmark app, made by Winka Studio. By using\nthe app you accept them.\n\n### The app\n\n- Handy Bookmark saves links, pictures and notes on your device and helps you\n  sort and find them. It has no accounts and no servers of its own.\n- The free features can be used without paying.\n- What the app keeps and sends is described in the\n  [Privacy Policy](https://github.com/Winka173/Handy-Suite/blob/ui-rebuild/apps/handy_bookmark/PRIVACY.md).\n\n### Handy Bookmark Pro\n\n- Pro is a one-time in-app purchase through Google Play. It is not a\n  subscription; there is nothing to renew or cancel.\n- The price is the one Google Play shows before you buy, in your currency.\n- Pro is tied to the Google account that bought it. Reinstalling the app, or\n  using it on another device with the same account, restores it (Settings ›\n  Handy Bookmark Pro › Restore purchase).\n- Payments and refunds are handled by Google Play under its terms and refund\n  policy. Where the law of your country gives you further rights, they apply.\n\n### Your content\n\n- What you save is yours. You are responsible for what you save and for\n  respecting the rights of the people and sites it comes from.\n- Titles, pictures and texts of saved pages belong to their sites and\n  authors. The app shows them to you only to help you find what you saved.\n- Your library lives on your device. Keep backups (Settings › Data): if the\n  device is lost or the app is removed, data without a backup cannot be\n  recovered, because we hold no copy.\n\n### Fair use\n\nDo not use the app to break the law, to infringe others' rights, or to\ninterfere with the websites it reads.\n\n### No warranty\n\nThe app is provided as it is. We work to keep it correct and safe but cannot\npromise it will always work, that every site's title or picture can be read,\nor that it is free of errors. To the extent the law allows, we are not liable\nfor lost data or indirect damage arising from its use. Nothing here limits\nrights you have under consumer law that cannot be excluded.\n\n### Changes\n\nThese terms may change with the app. The new version is published at the\nsame address with the date above updated.\n\n### Contact\n\nQuestions: open an issue at <https://github.com/Winka173/Handy-Suite/issues>\nor write to apps.winka.studio@gmail.com."
+      },
+      "vi": {
+        "privacy": "# Privacy Policy · Chính sách quyền riêng tư\n\n**Handy Bookmark** (`com.apps.winka.handybookmark`) — last updated 7 November 2026 (Google Drive sync added) · cập nhật 07/11/2026 (thêm đồng bộ Google Drive)\n\nHandy Bookmark giữ các link, hình và ghi chú bạn lưu trên máy của bạn. App\nkhông có tài khoản, không có máy chủ riêng, không có công cụ thống kê và không\ncó quảng cáo. Chúng tôi không thu thập, lưu trữ, bán hay chia sẻ dữ liệu cá\nnhân nào.\n\n### App giữ gì, ở đâu\n\n- **Thư viện của bạn** (link, tiêu đề, hình, ghi chú, bộ sưu tập, nhắc nhở và\n  cài đặt) được lưu trong bộ nhớ riêng của app trên máy.\n- **Những thứ được chia sẻ vào app** từ app khác (link, chữ hoặc ảnh) được lưu\n  trong cùng bộ nhớ riêng đó.\n- **Bản sao lưu** là tệp do bạn tạo và tự đặt chỗ (thư mục hay tệp bạn chọn).\n  Bản sao lưu có thể đặt mật khẩu do bạn chọn; mật khẩu không nằm trong bản sao\n  lưu và không được gửi đi đâu.\n\n### Những gì đi qua internet, và chỉ khi đó\n\n- **Tiêu đề và hình của link đã lưu.** Để hiện tiêu đề và hình của một link,\n  app hỏi chính trang web của link đó (ví dụ facebook.com hay youtube.com) và\n  lấy hình từ địa chỉ trang đó cho biết. Yêu cầu chỉ chứa chính link đó, như khi\n  bạn mở nó bằng trình duyệt; không kèm cookie, không đăng nhập, không có gì từ\n  thư viện của bạn. Tính năng này bật sẵn và tắt được trong *Cài đặt › Dữ liệu*.\n- **Bản đọc ngoại tuyến và kiểm tra link** chỉ chạy khi bạn yêu cầu, theo cùng\n  cách đó.\n- **Mở một link** sẽ mở nó trong trình duyệt hoặc trong app của nó.\n\nNgoài ra không có gì được gửi đi. Nhà phát triển không nhận dữ liệu nào từ app.\n\n### Đồng bộ Google Drive (tuỳ chọn, Android)\n\nTắt sẵn, chỉ chạy khi bạn bật trong *Cài đặt › Đồng bộ*. Khi đó Google sẽ hỏi\nbạn cho phép Handy Bookmark dùng thư mục ẩn riêng của nó trong Google Drive\n**của bạn** (quyền `drive.appdata`): app không thấy được các tệp Drive khác.\n\n- Thư viện của bạn (link, tiêu đề, ghi chú, bộ sưu tập, Đã xoá gần đây và ảnh\n  bạn đã lưu) được chép vào đó, để các máy Android khác đăng nhập cùng tài\n  khoản Google có cùng thư viện. Cài đặt của máy, khoá app và bản đọc ngoại\n  tuyến vẫn ở riêng từng máy.\n- Dữ liệu đi thẳng từ máy bạn tới Google; nhà phát triển không có máy chủ ở\n  giữa và không nhận gì. Google lưu theo điều khoản của Google. Đây là dữ liệu\n  Drive bình thường, không mã hoá đầu-cuối.\n- Tắt đồng bộ không xoá gì. Muốn xoá bản trên Drive: Google Drive › Cài đặt ›\n  Quản lý ứng dụng › Handy Bookmark › Xoá dữ liệu ẩn của ứng dụng.\n\n### Quyền\n\n- **Internet**: cho các lần đọc trang nêu trên.\n- **Thông báo**: nhắc nhở bạn đặt; được hẹn giờ ngay trên máy.\n- **Sinh trắc học** (khoá app, tuỳ chọn): Android kiểm tra vân tay, khuôn mặt\n  hoặc mã PIN; app chỉ biết là đúng hay sai.\n- Ảnh chỉ được thêm qua trình chọn ảnh của hệ thống hoặc Chia sẻ; ngoài ra app\n  không truy cập thư viện ảnh của bạn.\n\n### Xoá dữ liệu\n\nXoá mục trong app (Đã xoá gần đây giữ chúng 30 ngày rồi xoá hẳn), hoặc gỡ app\nđể xoá mọi thứ app đã lưu. Các tệp sao lưu bạn tạo vẫn nằm nguyên chỗ bạn đặt\ncho tới khi bạn xoá.\n\n### Trẻ em\n\nHandy Bookmark không hướng tới trẻ em và không thu thập thông tin cá nhân của\nbất kỳ ai, kể cả trẻ em.\n\n### Thay đổi\n\nNếu chính sách này thay đổi, bản mới sẽ được đăng tại cùng địa chỉ và ngày cập\nnhật ở trên sẽ đổi theo.\n\n### Liên hệ\n\nCâu hỏi về chính sách này: mở một issue tại\n<https://github.com/Winka173/Handy-Suite/issues>.",
+        "terms": "# Terms of Service · Điều khoản dịch vụ\n\n**Handy Bookmark** (`com.apps.winka.handybookmark`) — last updated 7 November 2026 · cập nhật 07/11/2026\n\nCác điều khoản này áp dụng cho ứng dụng Handy Bookmark của Winka Studio. Khi\ndùng app, bạn đồng ý với chúng.\n\n### Ứng dụng\n\n- Handy Bookmark lưu link, hình và ghi chú trên máy của bạn, giúp bạn xếp và\n  tìm lại chúng. App không có tài khoản và không có máy chủ riêng.\n- Các tính năng miễn phí dùng được mà không phải trả tiền.\n- Những gì app giữ và gửi đi được nêu trong\n  [Chính sách quyền riêng tư](https://github.com/Winka173/Handy-Suite/blob/ui-rebuild/apps/handy_bookmark/PRIVACY.md).\n\n### Handy Bookmark Pro\n\n- Pro là gói mua một lần trong app qua Google Play. Không phải gói thuê bao;\n  không có gì phải gia hạn hay huỷ.\n- Giá là giá Google Play hiện trước khi bạn mua, theo đơn vị tiền của bạn.\n- Pro gắn với tài khoản Google đã mua. Cài lại app, hoặc dùng trên máy khác\n  với cùng tài khoản, sẽ khôi phục được (Cài đặt › Handy Bookmark Pro ›\n  Khôi phục giao dịch).\n- Thanh toán và hoàn tiền do Google Play xử lý theo điều khoản và chính sách\n  hoàn tiền của Google Play. Nếu luật nước bạn cho bạn thêm quyền, các quyền\n  đó vẫn được áp dụng.\n\n### Nội dung của bạn\n\n- Những gì bạn lưu là của bạn. Bạn chịu trách nhiệm về những gì mình lưu và\n  tôn trọng quyền của người và trang web mà nội dung đến từ đó.\n- Tiêu đề, hình và chữ của các trang đã lưu thuộc về trang và tác giả của\n  chúng. App chỉ hiện chúng để giúp bạn tìm lại thứ đã lưu.\n- Thư viện nằm trên máy của bạn. Hãy sao lưu (Cài đặt › Dữ liệu): nếu mất máy\n  hoặc gỡ app, dữ liệu chưa sao lưu không khôi phục được, vì chúng tôi không\n  giữ bản nào.\n\n### Sử dụng đúng mực\n\nKhông dùng app để vi phạm pháp luật, xâm phạm quyền của người khác, hoặc gây\ncản trở các trang web mà app đọc.\n\n### Không bảo đảm\n\nApp được cung cấp như hiện có. Chúng tôi cố gắng để app đúng và an toàn nhưng\nkhông thể hứa app luôn chạy, mọi trang đều đọc được tiêu đề hay hình, hoặc\nkhông có lỗi. Trong phạm vi pháp luật cho phép, chúng tôi không chịu trách\nnhiệm về dữ liệu bị mất hay thiệt hại gián tiếp do việc sử dụng app. Không\nđiều nào ở đây hạn chế các quyền của bạn theo luật bảo vệ người tiêu dùng mà\nkhông thể loại trừ.\n\n### Thay đổi\n\nCác điều khoản này có thể thay đổi cùng app. Bản mới sẽ được đăng tại cùng\nđịa chỉ và ngày cập nhật ở trên sẽ đổi theo.\n\n### Liên hệ\n\nCâu hỏi: mở một issue tại <https://github.com/Winka173/Handy-Suite/issues>\nhoặc viết thư tới apps.winka.studio@gmail.com."
+      }
+    }
+  },
+  "sticky-wall": {
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website",
+    "assets": {
+      "media/walls/wall_brick.jpg": "/products/sticky-wall/kit/media/walls/wall_brick.webp",
+      "media/walls/wall_cardboard.jpg": "/products/sticky-wall/kit/media/walls/wall_cardboard.webp",
+      "media/walls/wall_cement.jpg": "/products/sticky-wall/kit/media/walls/wall_cement.webp",
+      "media/walls/wall_concrete.jpg": "/products/sticky-wall/kit/media/walls/wall_concrete.webp",
+      "media/walls/wall_cork.jpg": "/products/sticky-wall/kit/media/walls/wall_cork.webp",
+      "media/walls/wall_cotton.jpg": "/products/sticky-wall/kit/media/walls/wall_cotton.webp",
+      "media/walls/wall_dark_marble.jpg": "/products/sticky-wall/kit/media/walls/wall_dark_marble.webp",
+      "media/walls/wall_dark_wood.jpg": "/products/sticky-wall/kit/media/walls/wall_dark_wood.webp",
+      "media/walls/wall_denim.jpg": "/products/sticky-wall/kit/media/walls/wall_denim.webp",
+      "media/walls/wall_felt.jpg": "/products/sticky-wall/kit/media/walls/wall_felt.webp",
+      "media/walls/wall_kraft.jpg": "/products/sticky-wall/kit/media/walls/wall_kraft.webp",
+      "media/walls/wall_leather.jpg": "/products/sticky-wall/kit/media/walls/wall_leather.webp",
+      "media/walls/wall_linen.jpg": "/products/sticky-wall/kit/media/walls/wall_linen.webp",
+      "media/walls/wall_love.jpg": "/products/sticky-wall/kit/media/walls/wall_love.webp",
+      "media/walls/wall_marble.jpg": "/products/sticky-wall/kit/media/walls/wall_marble.webp",
+      "media/walls/wall_moon.jpg": "/products/sticky-wall/kit/media/walls/wall_moon.webp",
+      "media/walls/wall_moss.jpg": "/products/sticky-wall/kit/media/walls/wall_moss.webp",
+      "media/walls/wall_paper.jpg": "/products/sticky-wall/kit/media/walls/wall_paper.webp",
+      "media/walls/wall_plaster.jpg": "/products/sticky-wall/kit/media/walls/wall_plaster.webp",
+      "media/walls/wall_terrazzo.jpg": "/products/sticky-wall/kit/media/walls/wall_terrazzo.webp",
+      "media/walls/wall_tet.jpg": "/products/sticky-wall/kit/media/walls/wall_tet.webp",
+      "media/walls/wall_tet_dao.jpg": "/products/sticky-wall/kit/media/walls/wall_tet_dao.webp",
+      "media/walls/wall_tiles.jpg": "/products/sticky-wall/kit/media/walls/wall_tiles.webp",
+      "media/walls/wall_wood.jpg": "/products/sticky-wall/kit/media/walls/wall_wood.webp",
+      "media/walls/wall_xmas.jpg": "/products/sticky-wall/kit/media/walls/wall_xmas.webp",
+      "icon": "/products/sticky-wall/kit/brand/logo/app-icon-1024.webp",
+      "og-en": "/products/sticky-wall/kit/brand/og-image-1200x630.webp",
+      "og-vi": "/products/sticky-wall/kit/brand/og-image-1200x630-vi.webp"
+    },
+    "clips": [
+      {
+        "id": "apply_theme",
+        "src": "/products/sticky-wall/kit/clips/apply_theme.mp4",
+        "poster": "/products/sticky-wall/kit/clips/apply_theme-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website\\clips\\apply_theme.mp4"
+      },
+      {
+        "id": "drag_and_turn",
+        "src": "/products/sticky-wall/kit/clips/drag_and_turn.mp4",
+        "poster": "/products/sticky-wall/kit/clips/drag_and_turn-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website\\clips\\drag_and_turn.mp4"
+      },
+      {
+        "id": "draw_on_wall",
+        "src": "/products/sticky-wall/kit/clips/draw_on_wall.mp4",
+        "poster": "/products/sticky-wall/kit/clips/draw_on_wall-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website\\clips\\draw_on_wall.mp4"
+      },
+      {
+        "id": "lights_off",
+        "src": "/products/sticky-wall/kit/clips/lights_off.mp4",
+        "poster": "/products/sticky-wall/kit/clips/lights_off-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website\\clips\\lights_off.mp4"
+      },
+      {
+        "id": "switch_boards",
+        "src": "/products/sticky-wall/kit/clips/switch_boards.mp4",
+        "poster": "/products/sticky-wall/kit/clips/switch_boards-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website\\clips\\switch_boards.mp4"
+      },
+      {
+        "id": "tick_and_thread",
+        "src": "/products/sticky-wall/kit/clips/tick_and_thread.mp4",
+        "poster": "/products/sticky-wall/kit/clips/tick_and_thread-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website\\clips\\tick_and_thread.mp4"
+      },
+      {
+        "id": "tidy_up",
+        "src": "/products/sticky-wall/kit/clips/tidy_up.mp4",
+        "poster": "/products/sticky-wall/kit/clips/tidy_up-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Sticky-Wall\\docs\\website\\clips\\tidy_up.mp4"
+      }
+    ],
+    "pages": {
+      "en": {
+        "features": "## Three things at a glance\n1. **A wall that feels real.** Cork, chalkboard, brick, linen or your own\n   photo. Handwritten fonts, push-pins, washi tape and yarn.\n2. **Every kind of note.** Text, to-do lists, links, drawings, photo prints,\n   tape labels and voice notes that look like little cassettes.\n3. **Yours alone.** Everything stays on your phone. No account, no servers,\n   no ads, no tracking.\n\n## Move them like paper\nDrag a note anywhere. Turn it with a corner grip, or with two fingers. Pinch\nto resize. Stack a few into a pile, lock one in place, tidy the whole wall\ninto neat rows in one tap. Every move can be undone.\n\n- Wall runs well past the screen edges: pan and zoom like a real board\n- Alignment guides click a card into line with its neighbours\n- Tidy up, or arrange by paper colour\n- Undo for moves, turns, resizes and tidies (40 steps)\n\n## Tie ideas together\nDrag from one pin to another and a thread ties the two notes. Write a word on\nthe thread, give it an arrow for \"this, then that\", pick the yarn colour. A\nplan becomes a map you can read at a glance.\n\n## Seven kinds of notes\n| Kind | One line |\n|---|---|\n| Text | Write it the way you think, with **bold**, *italic* and bullets |\n| To-do list | Tick items right on the wall; the card shows how far along you are |\n| Link | A label and a link, opened in your browser |\n| Drawing | Sketch on plain, ruled, grid or dotted paper |\n| Photo print | Your photo pinned like a real print, with a caption |\n| Label | A strip of tape to head a column or a corner |\n| Voice note | A little cassette with its title on the label; tap to play |\n\nPlus stickers: illustrated stickers and washi tapes you stick straight on\nthe wall.\n\n## Reminders\nIn an hour, this evening, tomorrow morning, or any date and time. Repeat\ndaily, weekly or monthly. The reminder shows on the note, and the phone\nnudges you when it is time.\n\n## Start in seconds\n45 board templates you can edit: weekly planner, Kanban, exam countdown,\nmeal plan, chores, vision board, travel ideas, Tết wishes and more. 43 theme\npacks change the wall, paper, pins, handwriting and threads in one tap, and\nUndo puts it all back. Preview a theme on your own wall before you apply it.\n\n## Memory walls\nPick up to 20 photos, choose a layout (collage, rows, film strip, timeline)\nand a frame (Polaroid, film strip, torn paper and more). Every print can be\nmoved, turned, captioned and tied like any note. Shuffle the layout, make one\nphoto the hero.\n\n## Boards for every part of life\nMake as many boards as you like, each with its own wall. Switch with a tap,\nsee all of them at a glance, and drag a note onto a tab to move it.\n\n## Find anything\nType \"pho\" and find \"phở\". Search reaches every board and dims what does not\nmatch, so you still see where things are. Filter by kind, or switch to a grid\nor a list.\n\n## Make it yours\n31 wall surfaces (21 free) or your own photo as the wall. 16 handwriting\nfonts (11 free), every one with full Vietnamese. Pins, paper colours, paper\nstyles, stains and scuffs you can switch off. Draw straight on the wall\nbehind the notes with a marker.\n\n## Lights off\nAt night the wall, papers and photos dim to a warm, lamp-lit look. Follow\nthe system, or set a schedule.\n\n## Share and export\nExport a board as a clean picture or a PDF: just the wall, its notes and\nthreads. Choose the whole wall or what is in view, all notes or the selected\nones, and 2×, 3× or 4× resolution. Share a single note as an image.\n\n## Home-screen widget\nThe widget lists a board's pinned or newest notes, each with a dot of its\npaper colour; to-do lists show their progress. Tap a line to open that note,\nor + to start a new one. Or put a picture of the board there instead.\n\n## Safe and private\n- Everything lives on your phone. No account, no servers, no ads, no tracking.\n- Deleted notes wait in the Trash for 30 days.\n- A weekly backup is kept on the phone, and you can back up to a file any\n  time. See what a backup holds before you restore it.\n- Optional app lock with your fingerprint, face or screen lock.\n- Optional sync across your Android devices, through a hidden folder in your\n  own Google Drive. We never see it.",
+        "credits": "# Credits\n\n## Photos in the screenshots and clips\n\nThe photo prints and the memory wall in the sample data use openly licensed\nphotos (CC0 or public domain). No credit is legally required; listing them\nis good practice, for example on a \"Credits\" line in the footer.\n\n| In the app as | Photo | Licence | Source |\n|---|---|---|---|\n| Phở at home | \"Beef noodle soup (Phở bò) – Pho Hanoi Authentic\" by Andy Li | CC0 | https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_(Ph%E1%BB%9F_b%C3%B2)_-_Pho_Hanoi_Authentic_2024-12-01.jpg |\n| Hạ Long Bay | \"Ha Long Bay\" by Alisha Thomas | CC0 | https://wordpress.org/photos/photo/7362c35648/ |\n| Dawn kayak / Chèo kayak | \"20190926 Ha Long Bay-7\" by Balon Greyjoy | CC0 | https://commons.wikimedia.org/w/index.php?curid=124576992 |\n| Hà Giang | \"Rice terraces in Ha Giang, Vietnam – 2012 – 140\" by minhphuc_99kdd | Public domain | https://commons.wikimedia.org/wiki/File:Rice_terraces_in_Ha_Giang,_Vietnam_-_2012_-_140_(10057539993).jpg |\n| Sa Pa | \"Rice terraces in Sapa, Vietnam\" by Eerin25 | CC0 | https://commons.wikimedia.org/w/index.php?curid=163666982 |\n| Old Quarter / Phố cổ | \"Street scene while walking in Hanoi, Pho Hue, Pho Nguyen Cong Tru\" by Amenoc | CC0 | https://commons.wikimedia.org/w/index.php?curid=63786214 |\n| Hội An | \"LANTERNS OF HOI AN 02\" by Deba Prasad Roy | CC0 | https://commons.wikimedia.org/w/index.php?curid=160238111 |\n| Basket boats / Thuyền thúng | \"Palm tree and round boats in Hoi An, Vietnam\" by Reyes Martínez | CC0 | https://wordpress.org/photos/photo/21262aa545/ |\n| Huế | \"Free Meridian Gate image\" | CC0 | https://www.rawpixel.com/image/5924387/photo-image-public-domain-water-free |\n| Cà phê sữa đá | \"Vietnamese coffee condensed milk\" | CC0 | https://www.rawpixel.com/image/5974809/photo-image-public-domain-coffee-food |\n| Đà Nẵng | \"Phước Mỹ Beach, Danang, Vietnam\" by Mustang Joe | CC0 | https://commons.wikimedia.org/w/index.php?curid=157498858 |\n\nSuggested footer line: *Sample photos: Wikimedia Commons, WordPress Photo\nDirectory and rawpixel contributors (CC0 / public domain).*\n\n## Inside the app\n\n- **Fonts:** Pacifico, Patrick Hand, Itim, Dancing Script, Be Vietnam Pro,\n  Mali, Sriracha, Mynerve, Fuzzy Bubbles, Amatic SC, Charm, IBM Plex Mono,\n  Shantell Sans, Coiny, Lobster, Sedgwick Ave, Lora — all under the SIL Open\n  Font License (licence files in `/assets/fonts/` of the app repo).\n- **Stickers and washi tapes:** original artwork made for Sticky Wall\n  (provenance in `/docs/design/STICKY_VISUAL_ASSET_MANIFEST.json`).\n- **Wall textures:** bundled with the app (`/assets/images/`)."
+      },
+      "vi": {
+        "features": "## Ba điểm nổi bật\n1. **Bức tường như thật.** Gỗ bần, bảng phấn, gạch, vải lanh hoặc ảnh của\n   chính bạn. Chữ viết tay, đinh ghim, băng washi và dây len.\n2. **Đủ mọi loại ghi chú.** Văn bản, việc cần làm, liên kết, hình vẽ, ảnh in,\n   nhãn băng dính và ghi âm hình cuộn băng cassette.\n3. **Của riêng bạn.** Mọi thứ nằm trên điện thoại. Không tài khoản, không máy\n   chủ, không quảng cáo, không theo dõi.\n\n## Kéo thả như giấy thật\nKéo ghi chú tới bất cứ đâu. Xoay bằng góc thẻ hoặc bằng hai ngón tay. Chụm để\nphóng to thu nhỏ. Xếp vài tờ thành chồng, khóa một tờ tại chỗ, xếp gọn cả\nbức tường thành hàng chỉ với một chạm. Mọi thao tác đều Hoàn tác được.\n\n- Bức tường rộng hơn màn hình: kéo, phóng như bảng thật\n- Đường căn giúp thẻ thẳng hàng với thẻ bên cạnh\n- Xếp gọn, hoặc gom theo màu giấy\n- Hoàn tác di chuyển, xoay, đổi cỡ, xếp gọn (40 bước)\n\n## Nối ý tưởng bằng dây len\nKéo từ đinh ghim này sang đinh ghim kia là có sợi dây nối hai ghi chú. Viết\nchữ lên dây, thêm mũi tên cho \"việc này rồi tới việc kia\", chọn màu dây. Kế\nhoạch thành tấm bản đồ nhìn là hiểu.\n\n## Bảy loại ghi chú, một bức tường\n| Loại | Một dòng |\n|---|---|\n| Văn bản | Viết theo cách bạn nghĩ, có **đậm**, *nghiêng* và gạch đầu dòng |\n| Việc cần làm | Tích ngay trên tường; thẻ hiện đã xong bao nhiêu |\n| Liên kết | Một nhãn và một đường dẫn, mở bằng trình duyệt |\n| Vẽ tay | Vẽ trên giấy trơn, kẻ dòng, kẻ ô hoặc chấm bi |\n| Ảnh in | Ảnh của bạn ghim như ảnh in thật, có chú thích |\n| Nhãn | Một mẩu băng dính làm tiêu đề cột hay góc bảng |\n| Ghi âm | Cuộn băng cassette nhỏ, tên ghi trên nhãn; chạm để nghe |\n\nThêm sticker: sticker vẽ tay và băng washi dán thẳng lên tường.\n\n## Nhắc nhở một chạm\nMột tiếng nữa, tối nay, sáng mai, hoặc ngày giờ bất kỳ. Lặp lại hằng ngày,\nhằng tuần, hằng tháng. Lời nhắc hiện ngay trên ghi chú, và điện thoại báo\nkhi tới giờ.\n\n## Bắt đầu trong vài giây\n45 mẫu bảng sửa được: kế hoạch tuần, Kanban, đếm ngược ngày thi, thực đơn,\nviệc nhà, bảng ước mơ, ý tưởng du lịch, lời chúc Tết và nhiều nữa. 43 chủ đề\nđổi tường, giấy, ghim, nét chữ và dây trong một chạm, và Hoàn tác trả lại như\ncũ. Xem trước chủ đề ngay trên bức tường của bạn rồi mới áp dụng.\n\n## Tường kỷ niệm\nChọn tối đa 20 ảnh, chọn bố cục (cắt dán, xếp hàng, dải phim, dòng thời gian)\nvà khung (Polaroid, dải phim, giấy xé…). Mỗi tấm ảnh kéo, xoay, ghi chú\nthích và nối dây như mọi ghi chú. Xáo lại bố cục, chọn một ảnh làm ảnh chính.\n\n## Mỗi việc một bức tường\nNhà một tường, công việc một tường, chuyến đi một tường. Tạo bao nhiêu bảng\ncũng được, mỗi bảng một kiểu tường. Chuyển bằng một chạm, xem tất cả cùng\nlúc, kéo ghi chú lên thẻ bảng để chuyển sang bảng đó.\n\n## Tìm kiếm không dấu\nGõ \"pho\" ra \"phở\". Tìm trên mọi bảng, ghi chú không khớp chỉ mờ đi nên vẫn\nthấy nó nằm đâu. Lọc theo loại, hoặc xem dạng lưới hay danh sách.\n\n## Theo cách của bạn\n31 chất liệu tường (21 miễn phí) hoặc dùng ảnh của bạn làm tường. 16 phông\nchữ viết tay (11 miễn phí), phông nào cũng đủ dấu tiếng Việt. Ghim, màu\ngiấy, kiểu giấy, vết ố trên tường bật tắt được. Vẽ thẳng lên tường phía sau\nghi chú bằng bút dạ.\n\n## Tắt đèn, không phải nền xám\nBuổi tối, tường, giấy và ảnh dịu lại như dưới ánh đèn bàn ấm. Theo hệ thống\nhoặc hẹn giờ.\n\n## Chia sẻ và xuất bảng\nXuất bảng thành ảnh sạch hoặc PDF: chỉ có tường, ghi chú và dây. Chọn cả\ntường hay phần đang xem, mọi ghi chú hay những tờ đã chọn, độ phân giải 2×,\n3× hoặc 4×. Chia sẻ một ghi chú thành ảnh.\n\n## Widget màn hình chính\nWidget hiện các ghi chú đã ghim hoặc mới nhất của một bảng, mỗi dòng có chấm\nmàu theo giấy; danh sách việc hiện tiến độ. Chạm một dòng để mở ghi chú đó,\nchạm + để viết ghi chú mới. Hoặc đặt ảnh cả bảng lên màn hình chính.\n\n## An toàn và riêng tư\n- Mọi thứ nằm trên điện thoại. Không tài khoản, không máy chủ, không quảng\n  cáo, không theo dõi.\n- Ghi chú đã xóa nằm trong Thùng rác 30 ngày.\n- Tự sao lưu hằng tuần trên máy, và sao lưu ra tệp bất cứ lúc nào. Xem bản\n  sao lưu có gì trước khi khôi phục.\n- Khóa ứng dụng bằng vân tay, khuôn mặt hoặc khóa màn hình (tùy chọn).\n- Đồng bộ giữa các máy Android qua một thư mục ẩn trong chính Google Drive\n  của bạn (tùy chọn). Chúng tôi không bao giờ thấy được.",
+        "credits": "# Credits\n\n## Photos in the screenshots and clips\n\nThe photo prints and the memory wall in the sample data use openly licensed\nphotos (CC0 or public domain). No credit is legally required; listing them\nis good practice, for example on a \"Credits\" line in the footer.\n\n| In the app as | Photo | Licence | Source |\n|---|---|---|---|\n| Phở at home | \"Beef noodle soup (Phở bò) – Pho Hanoi Authentic\" by Andy Li | CC0 | https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_(Ph%E1%BB%9F_b%C3%B2)_-_Pho_Hanoi_Authentic_2024-12-01.jpg |\n| Hạ Long Bay | \"Ha Long Bay\" by Alisha Thomas | CC0 | https://wordpress.org/photos/photo/7362c35648/ |\n| Dawn kayak / Chèo kayak | \"20190926 Ha Long Bay-7\" by Balon Greyjoy | CC0 | https://commons.wikimedia.org/w/index.php?curid=124576992 |\n| Hà Giang | \"Rice terraces in Ha Giang, Vietnam – 2012 – 140\" by minhphuc_99kdd | Public domain | https://commons.wikimedia.org/wiki/File:Rice_terraces_in_Ha_Giang,_Vietnam_-_2012_-_140_(10057539993).jpg |\n| Sa Pa | \"Rice terraces in Sapa, Vietnam\" by Eerin25 | CC0 | https://commons.wikimedia.org/w/index.php?curid=163666982 |\n| Old Quarter / Phố cổ | \"Street scene while walking in Hanoi, Pho Hue, Pho Nguyen Cong Tru\" by Amenoc | CC0 | https://commons.wikimedia.org/w/index.php?curid=63786214 |\n| Hội An | \"LANTERNS OF HOI AN 02\" by Deba Prasad Roy | CC0 | https://commons.wikimedia.org/w/index.php?curid=160238111 |\n| Basket boats / Thuyền thúng | \"Palm tree and round boats in Hoi An, Vietnam\" by Reyes Martínez | CC0 | https://wordpress.org/photos/photo/21262aa545/ |\n| Huế | \"Free Meridian Gate image\" | CC0 | https://www.rawpixel.com/image/5924387/photo-image-public-domain-water-free |\n| Cà phê sữa đá | \"Vietnamese coffee condensed milk\" | CC0 | https://www.rawpixel.com/image/5974809/photo-image-public-domain-coffee-food |\n| Đà Nẵng | \"Phước Mỹ Beach, Danang, Vietnam\" by Mustang Joe | CC0 | https://commons.wikimedia.org/w/index.php?curid=157498858 |\n\nSuggested footer line: *Sample photos: Wikimedia Commons, WordPress Photo\nDirectory and rawpixel contributors (CC0 / public domain).*\n\n## Inside the app\n\n- **Fonts:** Pacifico, Patrick Hand, Itim, Dancing Script, Be Vietnam Pro,\n  Mali, Sriracha, Mynerve, Fuzzy Bubbles, Amatic SC, Charm, IBM Plex Mono,\n  Shantell Sans, Coiny, Lobster, Sedgwick Ave, Lora — all under the SIL Open\n  Font License (licence files in `/assets/fonts/` of the app repo).\n- **Stickers and washi tapes:** original artwork made for Sticky Wall\n  (provenance in `/docs/design/STICKY_VISUAL_ASSET_MANIFEST.json`).\n- **Wall textures:** bundled with the app (`/assets/images/`)."
+      }
+    },
+    "faq": {
+      "en": [
+        {
+          "question": "Is Sticky Wall free?",
+          "answer": "Yes. Every feature above the Pro section is free, with no ads. Pro is an\noptional one-time purchase."
+        },
+        {
+          "question": "Do I need an account?",
+          "answer": "No. Open the app and start writing."
+        },
+        {
+          "question": "Where are my notes stored?",
+          "answer": "On your phone, in the app's private storage. Sticky Wall has no servers."
+        },
+        {
+          "question": "Can I use it on more than one phone?",
+          "answer": "On Android, switch on *Sync across devices*: your boards are kept the same on\nevery Android device signed in to the same Google account, through a hidden\nfolder in your own Google Drive. You can also move everything with a backup\nfile."
+        },
+        {
+          "question": "What happens if I change phones?",
+          "answer": "Android's own backup carries your notes to the new phone. You can also make a\nbackup file in *Settings → Backup & restore* and load it on the new phone."
+        },
+        {
+          "question": "Does it work offline?",
+          "answer": "Yes. Everything works without a connection; sync catches up later."
+        },
+        {
+          "question": "Is it in Vietnamese?",
+          "answer": "Yes, fully: the app, the fonts (every one carries the full Vietnamese\nalphabet) and search, which finds \"Tưới\" when you type \"tuoi\"."
+        },
+        {
+          "question": "Is Pro a subscription?",
+          "answer": "No. You pay once and keep it. Restore it on a new phone with the same store\naccount."
+        },
+        {
+          "question": "How do I delete my data?",
+          "answer": "Delete notes and boards in the app, use *Settings → Delete all data*, or\nuninstall the app. If you used sync, delete the copy in Google Drive's\nsettings (*Manage apps → Sticky Wall → Delete hidden app data*)."
+        },
+        {
+          "question": "Is there an iPhone version?",
+          "answer": "An iPhone version is planned; it is not on the App Store."
+        }
+      ],
+      "vi": [
+        {
+          "question": "Sticky Wall có miễn phí không?",
+          "answer": "Có. Mọi tính năng ở trên phần Pro đều miễn phí, không quảng cáo. Pro là gói\nmua một lần, không bắt buộc."
+        },
+        {
+          "question": "Có cần tài khoản không?",
+          "answer": "Không. Mở ứng dụng là viết được ngay."
+        },
+        {
+          "question": "Ghi chú của tôi lưu ở đâu?",
+          "answer": "Trên điện thoại của bạn, trong bộ nhớ riêng của ứng dụng. Sticky Wall không\ncó máy chủ."
+        },
+        {
+          "question": "Dùng trên nhiều điện thoại được không?",
+          "answer": "Trên Android, bật *Đồng bộ giữa các thiết bị*: các bảng giống nhau trên mọi\nmáy Android đăng nhập cùng tài khoản Google, qua thư mục ẩn trong chính\nGoogle Drive của bạn. Bạn cũng có thể chuyển toàn bộ bằng tệp sao lưu."
+        },
+        {
+          "question": "Đổi điện thoại thì sao?",
+          "answer": "Sao lưu của Android tự mang ghi chú sang máy mới. Bạn cũng có thể tạo tệp\nsao lưu trong *Cài đặt → Sao lưu & khôi phục* rồi mở trên máy mới."
+        },
+        {
+          "question": "Không có mạng có dùng được không?",
+          "answer": "Được. Mọi thứ chạy không cần mạng; đồng bộ sẽ cập nhật sau."
+        },
+        {
+          "question": "Có tiếng Việt không?",
+          "answer": "Có, đầy đủ: giao diện, phông chữ (phông nào cũng đủ dấu) và tìm kiếm, gõ\n\"tuoi\" vẫn ra \"Tưới\"."
+        },
+        {
+          "question": "Pro có phải thuê bao không?",
+          "answer": "Không. Trả một lần là dùng mãi. Cài trên máy mới cùng tài khoản cửa hàng thì\nkhôi phục được Pro."
+        },
+        {
+          "question": "Xóa dữ liệu thế nào?",
+          "answer": "Xóa ghi chú, bảng ngay trong ứng dụng, dùng *Cài đặt → Xóa toàn bộ dữ liệu*,\nhoặc gỡ ứng dụng. Nếu đã bật đồng bộ, xóa bản trên Google Drive trong cài đặt\nDrive (*Quản lý ứng dụng → Sticky Wall → Xóa dữ liệu ứng dụng ẩn*)."
+        },
+        {
+          "question": "Có bản cho iPhone không?",
+          "answer": "Bản iPhone đang được lên kế hoạch, chưa có trên App Store."
+        }
+      ]
+    },
+    "pricing": {
+      "en": "Everything above works free. Pro is a one-time purchase, not a subscription,\nand adds:\n\n- Seasonal packs: Tết, Christmas, Mid-Autumn and Valentine's walls and\n  stickers\n- The whole sticker library: stamps, doodles and illustrated packs\n- Locked boards, opened with your fingerprint or screen lock\n- Mix any paper colour you like\n- 5 paper styles: lined, grid, dotted, index card, notebook page\n- 6 more paper colours, 10 more walls, 5 more fonts, 5 more pins\n- Pro theme packs, more photo frames, thread styles and marker colours\n\nTry Pro walls, fonts and pins on your own wall before you buy. Notes keep\ntheir Pro look even without Pro.",
+      "vi": "Mọi thứ ở trên đều miễn phí. Pro là gói mua một lần, không phải thuê bao,\nthêm:\n\n- Gói theo mùa: tường và sticker Tết, Giáng sinh, Trung thu, Valentine\n- Trọn bộ sticker: con dấu, hình vẽ tay và các gói minh họa\n- Bảng có khóa, mở bằng vân tay hoặc khóa màn hình\n- Tự pha màu giấy theo ý thích\n- 5 kiểu giấy: kẻ dòng, kẻ ô, chấm bi, thẻ ghi chú, trang vở\n- Thêm 6 màu giấy, 10 kiểu tường, 5 phông chữ, 5 kiểu ghim\n- Chủ đề Pro, thêm khung ảnh, kiểu dây và màu bút\n\nMặc thử tường, phông và ghim Pro ngay trên bức tường của bạn trước khi mua.\nGhi chú vẫn giữ giao diện Pro kể cả khi không còn Pro."
+    },
+    "legal": {
+      "en": {
+        "privacy": "# Privacy Policy\n\n**Sticky Wall** — last updated 6 November 2026\n\n<!-- Source of truth: /PRIVACY.md in the app repo. Keep the two in step. -->\n\nSticky Wall is a notes app that works entirely on your device. It has no\naccounts, no servers and no analytics. We do not collect, store or share any\npersonal data.\n\n### What the app stores, and where\n\nEverything you create — notes, checklists, drawings, boards, wall settings,\nreminders, the photos you pin and the voice notes you record — is saved in\nthe app's private storage on your device. Sticky Wall itself never sends it\nanywhere: it leaves the device only when you share it, or when the phone's\nown backup copies it (see below).\n\nOnce a week the app also writes a backup file of all of this into the same\nprivate storage (the newest four are kept), so you can roll back if\nsomething goes wrong. You can turn this off under *Customize → Backup*. These\nfiles stay on the device too, unless you share one.\n\nUninstalling the app deletes all of it from the phone. The app keeps no\ncopies anywhere else. The phone's own backup is a different matter: if\nAndroid backup is on, Android copies the notes, photos and recordings into\nyour Google account backup and carries them to a new phone; on an iPhone,\niCloud Backup does the same for app data. That is done by the phone's\nsystem under your account settings, not by us, and we cannot see it.\nLocked boards are included like any other board.\n\n### Permissions and features\n\n- **Notifications** — only to show the reminders you set on notes. Reminders\n  are scheduled on the device; nothing is sent to a server.\n- **Exact alarms** (Android 12+) — so a reminder fires at the minute you chose.\n  If you decline, reminders still work but may arrive a few minutes late.\n- **Microphone** — used only while you record a voice note, and asked for\n  the first time you press record. The recording is saved as a file in the\n  app's private storage and played back on the device; it is never uploaded,\n  transcribed or analysed. If you decline, everything else works as before.\n- **Photos** — when you pin a photo, the app uses the system photo picker. It\n  only receives the pictures you select and copies them into its own storage.\n  It does not scan or read your photo library.\n- **Saving to the gallery** — happens only when you tap *Save image*, and only\n  for that picture.\n- **Sharing** — *Share* hands the note or board image to the app you pick,\n  through the system share sheet. What that app does with it is covered by its\n  own privacy policy.\n- **Receiving shares** — other apps can send text, links or pictures to Sticky\n  Wall to make a note. That content is stored on the device like any other note.\n- **Links** — tapping a link in a note opens it in your browser. Sticky Wall\n  does not fetch or inspect the link itself.\n- **Home-screen widget** — shows a board's pinned or newest notes, or a\n  picture of your board, on the home screen. The data stays on the device.\n- **App lock** (off unless you switch it on) — asks for your phone's own\n  fingerprint, face, PIN, pattern or password through the system prompt.\n  Sticky Wall never sees or stores your fingerprint, face or code; it only\n  learns whether the phone unlocked. Private boards are opened the same way.\n  The app lock and private boards hide notes inside the app; they do not\n  encrypt them. Notes are kept in the app's private storage, which Android\n  keeps apart from other apps. While the lock is on or a private board is\n  open, the phone's recent-apps screen shows no notes.\n\n### Sticky Wall Pro\n\nPro is an optional one-time purchase made through Google Play (or the App\nStore). Payment is handled entirely by Google or Apple under their own privacy\npolicies; we receive no card details, name or email. The app only asks the\nstore whether Pro was bought on your account, and remembers the answer on the\ndevice.\n\n### Network\n\nThe app makes no network connections of its own. It touches the internet only\nwhen *you* open a link from a note, which your browser handles, and when the\nGoogle Play (or App Store) app on your phone is asked for the Pro price or\nwhether Pro was bought.\n\n### Optional sync across devices (Android)\n\nOff unless you switch it on in *Customize → Sync across devices*. When on,\nSticky Wall copies your boards, notes, threads, Trash, photos and voice\nrecordings to a hidden Sticky Wall folder (the \"app data\" folder) in **your\nown Google Drive**, and reads them back on your other Android devices signed\nin to the same Google account. It asks Google only for access to that one\nfolder; it cannot see your other Drive files. The data goes from your phone\nto your Google account and nowhere else: we run no server and cannot read\nit. It is stored by Google as ordinary Drive data, not end-to-end encrypted.\nLocked boards are left out unless you choose to include them. Turning sync\noff keeps everything on the phone; the copy in Drive stays until you delete\nit in Google Drive's settings (*Manage apps → Sticky Wall → Delete hidden\napp data*).\n\n### Children\n\nSticky Wall is a general-audience app and does not knowingly collect any\ninformation from anyone, children included.\n\n### Changes\n\nIf this policy changes, the new version will be published at the same address\nwith the date above updated.\n\n### Contact\n\nQuestions about this policy: open an issue at\n<https://github.com/Winka173/Sticky-Wall/issues>.",
+        "terms": "# Terms of Service\n\n**Sticky Wall** by Winka Studio — effective 8 November 2026\n\nThese terms cover your use of the Sticky Wall app on Android and iOS and of\nthis website. By installing or using the app you agree to them. If you do not\nagree, please do not use the app.\n\n## 1. The app\n\nSticky Wall is a notes app that keeps your boards, notes, photos and voice\nrecordings on your own device. There is no account to create and no Sticky\nWall server. The app is offered as it is, and features may change from one\nversion to the next.\n\n## 2. Your notes are yours\n\nEverything you write, draw, record or pin in Sticky Wall belongs to you. We\ndo not receive it, read it or claim any right to it. You are responsible for\nwhat you put in the app and for having the right to use any photo or\nrecording you add.\n\n## 3. Looking after your data\n\nYour notes live on your device, so their safety is in your hands:\n\n- Uninstalling the app or clearing its data deletes your notes from that\n  device.\n- The app can back up everything to a file, and it keeps an automatic weekly\n  backup on the device (on unless you switch it off). Keep a copy of your\n  backups somewhere safe; a backup that only lives on a lost phone is lost\n  with it.\n- Deleted notes wait in the Trash for 30 days, then are removed for good.\n\nWe cannot recover notes for you: we never had a copy.\n\n## 4. Sync across devices (optional, Android)\n\nIf you switch on *Sync across devices*, the app copies your data to a hidden\napp folder in your own Google Drive and reads it back on your other Android\ndevices signed in to the same Google account. That copy is stored by Google\nunder Google's own terms and privacy policy. A deletion made on one device\nalso syncs to the others, so sync is not a replacement for backups. You can\nswitch sync off at any time, and delete the copy in Google Drive's settings\n(*Manage apps → Sticky Wall → Delete hidden app data*).\n\n## 5. Sticky Wall Pro\n\nMost of Sticky Wall is free. **Sticky Wall Pro** is an optional, one-time\npurchase that adds extra papers, paper styles, walls, fonts, pins, stickers,\ntheme packs, photo frames, thread styles and locked boards. It is not a\nsubscription.\n\n- Pro is sold and paid for through Google Play or the App Store, under their\n  terms. We never see your card details.\n- Pro is tied to the store account that bought it. Reinstalling the app, or\n  installing it on another device with the same store account, restores Pro\n  through *Restore purchase*.\n- Refunds are handled by Google Play or Apple under their refund policies. If\n  a purchase is refunded or revoked, Pro is removed from the app.\n- Notes you made with Pro items keep their look if Pro ends, but choosing Pro\n  items again needs Pro.\n- The price is the one the store shows when you buy; it may differ between\n  countries and may change for future buyers.\n\n## 6. Locked boards and the app lock\n\nThe app lock and locked boards ask for your phone's own fingerprint, face or\nscreen lock. They hide notes inside the app; they do not encrypt them. Do not\nrely on them as the only protection for sensitive information.\n\n## 7. Fair use\n\nPlease do not copy, resell or redistribute the app or its artwork, reverse\nengineer it beyond what the law allows, or use it to break the law. The\nstickers, washi tapes, wall textures and other artwork in the app are for use\ninside the app; pictures you export from your own boards are yours to share.\n\n## 8. Third-party parts\n\nThe app uses open-source software and fonts under their own licences (for\nexample, the fonts are under the SIL Open Font License). Links you open from\na note take you to other websites that we do not control.\n\n## 9. No warranty\n\nWe work hard to keep Sticky Wall reliable, but the app is provided \"as is\",\nwithout warranties of any kind, to the extent the law allows. We do not\npromise it will be free of errors or that it will never lose data, which is\nwhy backups matter.\n\n## 10. Limitation of liability\n\nTo the extent the law allows, Winka Studio is not liable for indirect or\nconsequential loss, or for loss of data, arising from your use of the app.\nWhere liability cannot be excluded, it is limited to the amount you paid for\nSticky Wall Pro. Nothing in these terms limits rights you have as a consumer\nthat cannot be limited by contract.\n\n## 11. Changes to these terms\n\nIf these terms change, the new version is published on this page with a new\ndate. Continuing to use the app after a change means you accept the new\nterms.\n\n## 12. Ending\n\nYou can stop using Sticky Wall at any time by uninstalling it. We may stop\noffering the app or any feature in a future version.\n\n## 13. Law\n\nThese terms are governed by the laws of Vietnam, without affecting the\nmandatory consumer protections of the country where you live.\n\n## 14. Contact\n\nQuestions about these terms: **apps.winka.studio@gmail.com**"
+      },
+      "vi": {
+        "privacy": "# Chính sách quyền riêng tư\n\n**Sticky Wall** — cập nhật 06/11/2026\n\n<!-- Bản gốc: /PRIVACY.md trong repo ứng dụng. Sửa thì sửa cả hai. -->\n\nSticky Wall là ứng dụng ghi chú hoạt động hoàn toàn trên máy của bạn. Không có\ntài khoản, không có máy chủ, không có công cụ phân tích. Chúng tôi không thu\nthập, lưu trữ hay chia sẻ bất kỳ dữ liệu cá nhân nào.\n\n### Ứng dụng lưu gì, ở đâu\n\nMọi thứ bạn tạo — ghi chú, checklist, hình vẽ, tường, thiết lập tường, lời\nnhắc, ảnh bạn ghim và các bản ghi âm — được lưu trong bộ nhớ riêng của ứng\ndụng trên thiết bị. Bản thân Sticky Wall không gửi dữ liệu đi đâu cả: dữ liệu\nchỉ rời máy khi bạn chủ động chia sẻ, hoặc khi chức năng sao lưu của chính\nđiện thoại sao chép nó (xem bên dưới).\n\nMỗi tuần ứng dụng còn tự ghi một tệp sao lưu toàn bộ dữ liệu trên vào chính\nbộ nhớ riêng đó (giữ 4 bản mới nhất), để bạn có thể quay lại khi có sự cố.\nBạn có thể tắt việc này trong *Tùy chỉnh → Sao lưu*. Các tệp này cũng chỉ\nnằm trên máy, trừ khi bạn chia sẻ.\n\nGỡ ứng dụng sẽ xóa toàn bộ dữ liệu này khỏi máy. Ứng dụng không giữ bản sao\nở nơi khác. Sao lưu của chính điện thoại thì khác: nếu bật sao lưu Android,\nAndroid sẽ chép ghi chú, ảnh và bản ghi âm vào bản sao lưu trong tài khoản\nGoogle của bạn và chuyển sang máy mới; trên iPhone, Sao lưu iCloud cũng làm\nvậy với dữ liệu ứng dụng. Việc đó do hệ thống điện thoại thực hiện theo\nthiết lập tài khoản của bạn, không phải chúng tôi, và chúng tôi không xem\nđược. Bảng có khóa cũng được sao lưu như mọi bảng khác.\n\n### Quyền và tính năng\n\n- **Thông báo** — chỉ để hiện lời nhắc bạn đặt trên ghi chú. Lời nhắc được\n  hẹn ngay trên máy; không gửi gì lên máy chủ.\n- **Báo thức chính xác** (Android 12+) — để lời nhắc kêu đúng phút bạn chọn.\n  Nếu bạn từ chối, lời nhắc vẫn hoạt động nhưng có thể trễ vài phút.\n- **Micrô** — chỉ dùng trong lúc bạn ghi âm, và chỉ được hỏi lần đầu bạn\n  bấm ghi. Bản ghi được lưu thành tệp trong bộ nhớ riêng của ứng dụng và\n  phát lại ngay trên máy; không bao giờ được tải lên, chuyển thành chữ hay\n  phân tích. Nếu bạn từ chối, mọi tính năng khác vẫn dùng bình thường.\n- **Ảnh** — khi bạn ghim ảnh, ứng dụng dùng bộ chọn ảnh của hệ thống, chỉ\n  nhận đúng những ảnh bạn chọn và sao chép vào bộ nhớ riêng của nó. Ứng dụng\n  không quét hay đọc thư viện ảnh của bạn.\n- **Lưu vào thư viện** — chỉ xảy ra khi bạn bấm *Lưu ảnh*, và chỉ với ảnh đó.\n- **Chia sẻ** — *Chia sẻ* chuyển ảnh ghi chú hoặc ảnh tường sang ứng dụng bạn\n  chọn qua bảng chia sẻ của hệ thống. Ứng dụng đó làm gì với ảnh là theo\n  chính sách riêng của họ.\n- **Nhận chia sẻ** — ứng dụng khác có thể gửi chữ, liên kết hoặc ảnh sang\n  Sticky Wall để tạo ghi chú. Nội dung đó được lưu trên máy như mọi ghi chú.\n- **Liên kết** — chạm vào liên kết trong ghi chú sẽ mở bằng trình duyệt.\n  Sticky Wall không tự tải hay kiểm tra liên kết.\n- **Widget màn hình chính** — hiện các ghi chú đã ghim hoặc mới nhất của một\n  bảng, hoặc ảnh tường, trên màn hình chính. Dữ liệu vẫn nằm trên máy.\n- **Khóa ứng dụng** (chỉ bật khi bạn bật) — hỏi vân tay, khuôn mặt, mã PIN,\n  hình vẽ hoặc mật khẩu của chính điện thoại qua hộp thoại của hệ thống.\n  Sticky Wall không bao giờ thấy hay lưu vân tay, khuôn mặt hay mã của bạn;\n  ứng dụng chỉ biết điện thoại đã mở khóa hay chưa. Bảng riêng tư cũng được\n  mở theo cách này. Khóa ứng dụng và bảng riêng tư che ghi chú bên trong ứng\n  dụng; chúng không mã hóa ghi chú. Ghi chú nằm trong bộ nhớ riêng của ứng\n  dụng, được Android tách khỏi các ứng dụng khác. Khi bật khóa hoặc đang mở\n  bảng riêng tư, màn hình đa nhiệm của điện thoại không hiện ghi chú.\n\n### Sticky Wall Pro\n\nPro là gói mua một lần, không bắt buộc, thanh toán qua Google Play (hoặc App\nStore). Việc thanh toán do Google hoặc Apple xử lý theo chính sách riêng của\nhọ; chúng tôi không nhận thông tin thẻ, tên hay email. Ứng dụng chỉ hỏi cửa\nhàng xem tài khoản của bạn đã mua Pro chưa và ghi nhớ câu trả lời trên máy.\n\n### Mạng\n\nỨng dụng không tự tạo kết nối mạng nào. Nó chỉ chạm tới Internet khi *bạn*\nmở một liên kết từ ghi chú (do trình duyệt xử lý), và khi ứng dụng Google\nPlay (hoặc App Store) trên máy được hỏi giá Pro hoặc bạn đã mua Pro chưa.\n\n### Đồng bộ giữa các thiết bị (Android, tùy chọn)\n\nMặc định tắt, chỉ chạy khi bạn bật trong *Tùy chỉnh → Đồng bộ giữa các thiết\nbị*. Khi bật, Sticky Wall sao chép bảng, ghi chú, dây nối, Thùng rác, ảnh và\nghi âm vào một thư mục ẩn của Sticky Wall (thư mục \"dữ liệu ứng dụng\") trong\n**chính Google Drive của bạn**, rồi đọc lại trên các máy Android khác đăng\nnhập cùng tài khoản Google. Ứng dụng chỉ xin quyền với đúng thư mục đó, không\nthấy được các tệp Drive khác. Dữ liệu chỉ đi từ điện thoại tới tài khoản\nGoogle của bạn: chúng tôi không có máy chủ và không đọc được. Google lưu dữ\nliệu này như dữ liệu Drive thông thường, không mã hóa đầu-cuối. Bảng có khóa\nkhông được đồng bộ trừ khi bạn chọn. Tắt đồng bộ vẫn giữ mọi thứ trên máy;\nbản trong Drive còn đó cho tới khi bạn xóa trong cài đặt Google Drive (*Quản\nlý ứng dụng → Sticky Wall → Xóa dữ liệu ứng dụng ẩn*).\n\n### Trẻ em\n\nSticky Wall dành cho mọi đối tượng và không cố ý thu thập thông tin từ bất kỳ\nai, kể cả trẻ em.\n\n### Thay đổi\n\nNếu chính sách này thay đổi, bản mới sẽ được đăng tại cùng địa chỉ với ngày\ncập nhật ở đầu trang.\n\n### Liên hệ\n\nThắc mắc về chính sách này: mở issue tại\n<https://github.com/Winka173/Sticky-Wall/issues>.",
+        "terms": "# Điều khoản sử dụng\n\n**Sticky Wall** của Winka Studio — có hiệu lực từ 08/11/2026\n\nĐiều khoản này áp dụng khi bạn dùng ứng dụng Sticky Wall trên Android và iOS\nvà khi bạn dùng trang web này. Cài đặt hoặc sử dụng ứng dụng nghĩa là bạn\nđồng ý với các điều khoản dưới đây. Nếu không đồng ý, vui lòng không dùng\nứng dụng.\n\n## 1. Ứng dụng\n\nSticky Wall là ứng dụng ghi chú, lưu bảng, ghi chú, ảnh và bản ghi âm ngay\ntrên thiết bị của bạn. Không cần tạo tài khoản và không có máy chủ Sticky\nWall. Ứng dụng được cung cấp theo hiện trạng, và tính năng có thể thay đổi\ngiữa các phiên bản.\n\n## 2. Ghi chú là của bạn\n\nMọi thứ bạn viết, vẽ, ghi âm hay ghim trong Sticky Wall thuộc về bạn. Chúng\ntôi không nhận, không đọc và không giữ bất kỳ quyền nào với nội dung đó. Bạn\nchịu trách nhiệm về nội dung mình đưa vào ứng dụng và về quyền sử dụng ảnh,\nbản ghi âm mà bạn thêm vào.\n\n## 3. Giữ gìn dữ liệu\n\nGhi chú nằm trên thiết bị của bạn, nên việc giữ an toàn cho chúng nằm trong\ntay bạn:\n\n- Gỡ ứng dụng hoặc xóa dữ liệu ứng dụng sẽ xóa ghi chú khỏi thiết bị đó.\n- Ứng dụng có thể sao lưu toàn bộ ra một tệp, và tự sao lưu hằng tuần trên\n  máy (mặc định bật, có thể tắt). Hãy giữ một bản sao lưu ở nơi an toàn;\n  bản sao lưu chỉ nằm trên chiếc điện thoại bị mất thì cũng mất theo.\n- Ghi chú đã xóa nằm trong Thùng rác 30 ngày, sau đó bị xóa hẳn.\n\nChúng tôi không thể khôi phục ghi chú giúp bạn, vì chúng tôi chưa từng giữ\nbản nào.\n\n## 4. Đồng bộ giữa các thiết bị (tùy chọn, Android)\n\nNếu bạn bật *Đồng bộ giữa các thiết bị*, ứng dụng sao chép dữ liệu vào một\nthư mục ẩn của ứng dụng trong chính Google Drive của bạn, rồi đọc lại trên\ncác máy Android khác đăng nhập cùng tài khoản Google. Bản sao đó do Google\nlưu theo điều khoản và chính sách quyền riêng tư của Google. Xóa trên một\nmáy thì các máy khác cũng xóa theo, nên đồng bộ không thay cho sao lưu. Bạn\ncó thể tắt đồng bộ bất cứ lúc nào, và xóa bản trên Drive trong cài đặt\nGoogle Drive (*Quản lý ứng dụng → Sticky Wall → Xóa dữ liệu ứng dụng ẩn*).\n\n## 5. Sticky Wall Pro\n\nPhần lớn Sticky Wall là miễn phí. **Sticky Wall Pro** là gói mua một lần,\nkhông bắt buộc, thêm màu giấy, kiểu giấy, tường, phông chữ, ghim, sticker,\nchủ đề, khung ảnh, kiểu dây và bảng có khóa. Đây không phải thuê bao.\n\n- Pro được bán và thanh toán qua Google Play hoặc App Store, theo điều khoản\n  của họ. Chúng tôi không bao giờ thấy thông tin thẻ của bạn.\n- Pro gắn với tài khoản cửa hàng đã mua. Cài lại ứng dụng, hoặc cài trên máy\n  khác cùng tài khoản cửa hàng, thì dùng *Khôi phục giao dịch* để lấy lại Pro.\n- Việc hoàn tiền do Google Play hoặc Apple xử lý theo chính sách của họ. Nếu\n  giao dịch được hoàn tiền hoặc bị thu hồi, Pro sẽ bị gỡ khỏi ứng dụng.\n- Ghi chú đã làm bằng món Pro vẫn giữ nguyên giao diện khi không còn Pro,\n  nhưng muốn chọn lại món Pro thì cần Pro.\n- Giá là giá cửa hàng hiển thị lúc bạn mua; giá có thể khác giữa các quốc\n  gia và có thể thay đổi với người mua sau.\n\n## 6. Bảng có khóa và khóa ứng dụng\n\nKhóa ứng dụng và bảng có khóa dùng vân tay, khuôn mặt hoặc khóa màn hình của\nchính điện thoại. Chúng che ghi chú bên trong ứng dụng, không mã hóa ghi chú.\nĐừng coi đây là lớp bảo vệ duy nhất cho thông tin nhạy cảm.\n\n## 7. Sử dụng đúng mực\n\nVui lòng không sao chép, bán lại hay phát tán ứng dụng hoặc hình vẽ trong\nứng dụng, không dịch ngược quá mức pháp luật cho phép, và không dùng ứng dụng\nđể vi phạm pháp luật. Sticker, băng washi, chất liệu tường và hình vẽ khác\ntrong ứng dụng chỉ dùng bên trong ứng dụng; ảnh bạn xuất ra từ bảng của mình\nlà của bạn, cứ thoải mái chia sẻ.\n\n## 8. Thành phần của bên thứ ba\n\nỨng dụng dùng phần mềm mã nguồn mở và phông chữ theo giấy phép riêng của\nchúng (ví dụ các phông chữ theo SIL Open Font License). Liên kết bạn mở từ\nghi chú dẫn tới trang web khác mà chúng tôi không kiểm soát.\n\n## 9. Không bảo đảm\n\nChúng tôi cố gắng để Sticky Wall chạy ổn định, nhưng ứng dụng được cung cấp\n\"theo hiện trạng\", không kèm bảo đảm nào trong phạm vi pháp luật cho phép.\nChúng tôi không hứa ứng dụng không bao giờ có lỗi hay không bao giờ mất dữ\nliệu; vì vậy sao lưu rất quan trọng.\n\n## 10. Giới hạn trách nhiệm\n\nTrong phạm vi pháp luật cho phép, Winka Studio không chịu trách nhiệm cho tổn\nthất gián tiếp, tổn thất phát sinh hay mất dữ liệu do việc sử dụng ứng dụng.\nTrường hợp không thể loại trừ trách nhiệm, mức trách nhiệm giới hạn ở số tiền\nbạn đã trả cho Sticky Wall Pro. Không điều nào ở đây hạn chế các quyền của\nngười tiêu dùng mà hợp đồng không được phép hạn chế.\n\n## 11. Thay đổi điều khoản\n\nNếu điều khoản thay đổi, bản mới sẽ được đăng tại trang này kèm ngày mới.\nTiếp tục dùng ứng dụng sau thay đổi nghĩa là bạn chấp nhận điều khoản mới.\n\n## 12. Chấm dứt\n\nBạn có thể ngừng dùng Sticky Wall bất cứ lúc nào bằng cách gỡ ứng dụng.\nChúng tôi có thể ngừng cung cấp ứng dụng hoặc một tính năng trong phiên bản\nsau.\n\n## 13. Luật áp dụng\n\nĐiều khoản này chịu sự điều chỉnh của pháp luật Việt Nam, không ảnh hưởng tới\ncác quyền bảo vệ người tiêu dùng bắt buộc tại nơi bạn sinh sống.\n\n## 14. Liên hệ\n\nThắc mắc về điều khoản: **apps.winka.studio@gmail.com**"
+      }
+    }
+  },
+  "arcane-brigade": {
+    "facts": {
+      "Heroes": 36,
+      "Friends": 66,
+      "Weapons": 117,
+      "Relics": 204,
+      "Enemies": 51,
+      "Bosses": 10,
+      "Duets": 94
+    },
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit",
+    "assets": {
+      "01_Brand/app-icon-1024.png": "/products/arcane-brigade/kit/01_Brand/app-icon-1024.webp",
+      "01_Brand/app-icon-192.png": "/products/arcane-brigade/kit/01_Brand/app-icon-192.webp",
+      "01_Brand/app-icon-512.png": "/products/arcane-brigade/kit/01_Brand/app-icon-512.webp",
+      "01_Brand/feature-graphic-1024x500.png": "/products/arcane-brigade/kit/01_Brand/feature-graphic-1024x500.webp",
+      "01_Brand/logo.png": "/products/arcane-brigade/kit/01_Brand/logo.webp",
+      "icon": "/products/arcane-brigade/kit/01_Brand/app-icon-1024.webp",
+      "og-en": "/products/arcane-brigade/kit/01_Brand/feature-graphic-1024x500.webp",
+      "og-vi": "/products/arcane-brigade/kit/01_Brand/feature-graphic-1024x500.webp",
+      "07_Art/heroes/archive-curator.png": "/products/arcane-brigade/kit/07_Art/heroes/archive-curator.webp",
+      "07_Art/heroes/bell-diver.png": "/products/arcane-brigade/kit/07_Art/heroes/bell-diver.webp",
+      "07_Art/heroes/bonsai-clocksmith.png": "/products/arcane-brigade/kit/07_Art/heroes/bonsai-clocksmith.webp",
+      "07_Art/heroes/button-cavalier.png": "/products/arcane-brigade/kit/07_Art/heroes/button-cavalier.webp",
+      "07_Art/heroes/china-marionette.png": "/products/arcane-brigade/kit/07_Art/heroes/china-marionette.webp",
+      "07_Art/heroes/citrus-marshal.png": "/products/arcane-brigade/kit/07_Art/heroes/citrus-marshal.webp",
+      "07_Art/heroes/copper-cauldron.png": "/products/arcane-brigade/kit/07_Art/heroes/copper-cauldron.webp",
+      "07_Art/heroes/drowsy-seer.png": "/products/arcane-brigade/kit/07_Art/heroes/drowsy-seer.webp",
+      "07_Art/heroes/hourglass-stag.png": "/products/arcane-brigade/kit/07_Art/heroes/hourglass-stag.webp",
+      "07_Art/heroes/ivory-sovereign.png": "/products/arcane-brigade/kit/07_Art/heroes/ivory-sovereign.webp",
+      "07_Art/heroes/juggling-jester.png": "/products/arcane-brigade/kit/07_Art/heroes/juggling-jester.webp",
+      "07_Art/heroes/kite-admiral.png": "/products/arcane-brigade/kit/07_Art/heroes/kite-admiral.webp",
+      "07_Art/heroes/lady-loaded-dice.png": "/products/arcane-brigade/kit/07_Art/heroes/lady-loaded-dice.webp",
+      "07_Art/heroes/lantern-knight.png": "/products/arcane-brigade/kit/07_Art/heroes/lantern-knight.webp",
+      "07_Art/heroes/lantern-weaver.png": "/products/arcane-brigade/kit/07_Art/heroes/lantern-weaver.webp",
+      "07_Art/heroes/moon-prowler.png": "/products/arcane-brigade/kit/07_Art/heroes/moon-prowler.webp",
+      "07_Art/heroes/night-maw.png": "/products/arcane-brigade/kit/07_Art/heroes/night-maw.webp",
+      "07_Art/heroes/patchwork-host.png": "/products/arcane-brigade/kit/07_Art/heroes/patchwork-host.webp",
+      "07_Art/heroes/penny-broker.png": "/products/arcane-brigade/kit/07_Art/heroes/penny-broker.webp",
+      "07_Art/heroes/petal-citadel.png": "/products/arcane-brigade/kit/07_Art/heroes/petal-citadel.webp",
+      "07_Art/heroes/postmaster.png": "/products/arcane-brigade/kit/07_Art/heroes/postmaster.webp",
+      "07_Art/heroes/rain-archivist.png": "/products/arcane-brigade/kit/07_Art/heroes/rain-archivist.webp",
+      "07_Art/heroes/soap-skater.png": "/products/arcane-brigade/kit/07_Art/heroes/soap-skater.webp",
+      "07_Art/heroes/storm-fencer.png": "/products/arcane-brigade/kit/07_Art/heroes/storm-fencer.webp",
+      "07_Art/heroes/sundae-duchess.png": "/products/arcane-brigade/kit/07_Art/heroes/sundae-duchess.webp",
+      "07_Art/heroes/supper-mortar.png": "/products/arcane-brigade/kit/07_Art/heroes/supper-mortar.webp",
+      "07_Art/heroes/the-comet-courier.png": "/products/arcane-brigade/kit/07_Art/heroes/the-comet-courier.webp",
+      "07_Art/heroes/the-lone-jelly.png": "/products/arcane-brigade/kit/07_Art/heroes/the-lone-jelly.webp",
+      "07_Art/heroes/the-mirror-keeper.png": "/products/arcane-brigade/kit/07_Art/heroes/the-mirror-keeper.webp",
+      "07_Art/heroes/the-root-oracle.png": "/products/arcane-brigade/kit/07_Art/heroes/the-root-oracle.webp",
+      "07_Art/heroes/the-tide-singer.png": "/products/arcane-brigade/kit/07_Art/heroes/the-tide-singer.webp",
+      "07_Art/heroes/the-treasure-clerk.png": "/products/arcane-brigade/kit/07_Art/heroes/the-treasure-clerk.webp",
+      "07_Art/heroes/thorn-treasurer.png": "/products/arcane-brigade/kit/07_Art/heroes/thorn-treasurer.webp",
+      "07_Art/heroes/tin-virtuoso.png": "/products/arcane-brigade/kit/07_Art/heroes/tin-virtuoso.webp",
+      "07_Art/heroes/velvet-regent.png": "/products/arcane-brigade/kit/07_Art/heroes/velvet-regent.webp",
+      "07_Art/heroes/verdant-matron.png": "/products/arcane-brigade/kit/07_Art/heroes/verdant-matron.webp"
+    },
+    "clips": [
+      {
+        "id": "clip-01-buy-and-star-up",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-01-buy-and-star-up.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-01-buy-and-star-up-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-01-buy-and-star-up.mp4"
+      },
+      {
+        "id": "clip-02-fight-wave-14",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-02-fight-wave-14.mp4"
+      },
+      {
+        "id": "clip-03-fight-wave-18",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-03-fight-wave-18.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-03-fight-wave-18-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-03-fight-wave-18.mp4"
+      },
+      {
+        "id": "clip-04-boss-night-4",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-04-boss-night-4.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-04-boss-night-4-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-04-boss-night-4.mp4"
+      },
+      {
+        "id": "clip-05-boss-night-16",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-16.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-16-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-05-boss-night-16.mp4"
+      },
+      {
+        "id": "clip-place-archive-vault",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-archive-vault.mp4"
+      },
+      {
+        "id": "clip-place-glasshouse",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-glasshouse.mp4"
+      },
+      {
+        "id": "clip-place-lamp-hall",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-lamp-hall.mp4"
+      },
+      {
+        "id": "clip-place-post-office",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-post-office.mp4"
+      },
+      {
+        "id": "clip-place-theatre",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-theatre.mp4"
+      },
+      {
+        "id": "clip-place-waiting-room",
+        "src": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-waiting-room.mp4"
+      },
+      {
+        "id": "clip-01-buy-and-star-up",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-01-buy-and-star-up.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-01-buy-and-star-up-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-01-buy-and-star-up.mp4"
+      },
+      {
+        "id": "clip-02-fight-wave-14",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-02-fight-wave-14.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-02-fight-wave-14-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-02-fight-wave-14.mp4"
+      },
+      {
+        "id": "clip-03-fight-wave-18",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-03-fight-wave-18.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-03-fight-wave-18-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-03-fight-wave-18.mp4"
+      },
+      {
+        "id": "clip-04-boss-night-4",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-04-boss-night-4.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-04-boss-night-4-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-04-boss-night-4.mp4"
+      },
+      {
+        "id": "clip-05-boss-night-16",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-16.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-05-boss-night-16-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-05-boss-night-16.mp4"
+      },
+      {
+        "id": "clip-06-transformation",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-06-transformation.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-06-transformation-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-06-transformation.mp4"
+      },
+      {
+        "id": "clip-place-archive-vault",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-archive-vault.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-archive-vault-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-place-archive-vault.mp4"
+      },
+      {
+        "id": "clip-place-glasshouse",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-glasshouse.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-glasshouse-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-place-glasshouse.mp4"
+      },
+      {
+        "id": "clip-place-lamp-hall",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-lamp-hall.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-lamp-hall-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-place-lamp-hall.mp4"
+      },
+      {
+        "id": "clip-place-post-office",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-post-office.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-post-office-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-place-post-office.mp4"
+      },
+      {
+        "id": "clip-place-theatre",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-theatre.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-theatre-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-place-theatre.mp4"
+      },
+      {
+        "id": "clip-place-waiting-room",
+        "src": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-waiting-room.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/pc/clip-place-waiting-room-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\pc\\clip-place-waiting-room.mp4"
+      },
+      {
+        "id": "trailer-40s-muted-loop-720p",
+        "src": "/products/arcane-brigade/kit/03_Clips/trailer-40s-muted-loop-720p.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-muted-loop-720p-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-muted-loop-720p.mp4"
+      },
+      {
+        "id": "trailer-40s-web-720p",
+        "src": "/products/arcane-brigade/kit/03_Clips/trailer-40s-web-720p.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-web-720p-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s-web-720p.mp4"
+      },
+      {
+        "id": "trailer-40s",
+        "src": "/products/arcane-brigade/kit/03_Clips/trailer-40s.mp4",
+        "poster": "/products/arcane-brigade/kit/03_Clips/trailer-40s-poster.webp",
+        "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\trailer-40s.mp4"
+      }
+    ],
+    "pages": {
+      "en": {
+        "features": "### 1. You move. Your brigade fights.\nSteer one small hero through crowds of creatures. Your friends follow and fight on their own. Where you stand decides who gets hit.\n\n### 2. A shop between every night\nThe rug rolls out, the keeper pours tea and the stalls fill up. Walk up to a stall to see what a friend or relic does, then buy, refresh or move on.\n\n### 3. Merge friends into stars\nA second copy gives half a star. The third merges into the next star, with a little ceremony. Stars go past three for the brave.\n\n### 4. Bonds, duets and combos\nFriends who share a trait light up bonds at 2, 4 and 6. Field the right pair for one of 94 duets, or gather a named group for one of 23 combos: a joint move that grows with the group.\n\n### 5. 36 heroes, each with their own skill\nThe Lantern Knight lights a lamp from his friends' attacks. The Postmaster stamps addresses and delivers parcels. The Drowsy Seer leaves a dream of herself behind. Each skill can be aimed three ways, and every hero has a transformation.\n\n### 6. A boss every fourth night\nThe Coin Widow on night 4, the Chair Porter on night 8, the Door That Stayed Shut on night 12, the Marquee Maw on night 16 and the Last Customer at the dawn of night 20. Read the red warnings on the floor, then step out of the way.\n\n### 7. Six dream places\nThe Waiting Room, the Post Office, the Glasshouse, the Lamp Hall, the Forgotten Theatre and the Archive Vault. Each has its own living pieces and tricks. In the Waiting Room, a wall clock freezes every creature in the room when you reach it as it strikes.\n\n### 8. Strange visitors and secret rooms\nA visitor may knock with an offer. The ferry takes a friend home across the water. Every third night a secret door may open onto the Thirteenth-Hour Bank, the Impossible Tailor or a contraband train. Every deal costs something.\n\n### 9. The dream market\nSome nights a second market opens. Its wares are paid in Dreamsand, or in blood.\n\n### 10. The Waiting Room between runs\nSpend the Lamp Oil and Keepsakes you earned at the Lamp Tree. Read letters that arrive after milestones, fill the Museum, sign a Night Pact for a bigger reward, try the Daily Dream, and ring the Keeper's Bell.\n\n### 11. Records worth keeping\nEvery finished run keeps its brigade, its damage chart and a nickname. The Collection tracks every weapon, relic, friend, chain and boss you have found.\n\n### 12. Play your way\nFive difficulties, from Peaceful to The Last Night. English and Vietnamese. Comfort settings: reduced motion, flashes, shake and effects; a high-readability mode; a damage-number toggle; separate music, effects and voice volumes.\n\n### 13. Your save on every phone\nOptional cloud save in your own Google Drive: start a run on one phone and finish it on another. It is offline-first, needs no account to play and never overwrites a save without asking.\n(No picture needed; the settings screenshot shows the section on phones.)",
+        "press": "| | |\n|---|---|\n| Title | Arcane Brigade |\n| Developer and publisher | Winka Studio |\n| Genre | Auto-battler, roguelite, storybook |\n| Platforms | Android (closed testing), PC (planned), iOS (planned) |\n| Price | Free with one optional purchase (Deluxe) |\n| Ads | None |\n| Languages | English, Vietnamese |\n| Contact | apps.winka.studio@gmail.com |\n| Privacy | `05_Legal/privacy-policy.md` |\n| Terms | `05_Legal/terms-of-service.md` |",
+        "credits": "Game by Winka Studio.\n\nFonts: Noto, Be Vietnam Pro, Alegreya Sans, Caveat, Coiny, Fraunces, Lilita One, Young Serif (SIL Open Font License).\n\nSome sound effects use CC0 recordings by [Kenney](https://kenney.nl/)."
+      },
+      "vi": {
+        "features": "### 1. Bạn di chuyển. Đội của bạn chiến đấu.\nĐiều khiển một anh hùng nhỏ băng qua đám đông sinh vật. Đồng đội đi theo và tự chiến đấu. Bạn đứng ở đâu sẽ quyết định ai bị đánh.\n\n### 2. Một cửa tiệm sau mỗi đêm\nTấm thảm trải ra, chủ tiệm rót trà, các quầy đầy hàng. Bước tới quầy để xem bạn đồng hành hay di vật làm được gì, rồi mua, làm mới hoặc đi tiếp.\n\n### 3. Gộp bạn đồng hành thành sao\nBản thứ hai cho nửa sao. Bản thứ ba gộp lên sao kế tiếp, kèm một màn ăn mừng nhỏ. Người gan dạ có thể vượt quá ba sao.\n\n### 4. Liên kết, song tấu và combo\nNhững bạn chung đặc điểm thắp sáng liên kết ở mốc 2, 4 và 6. Đưa đúng cặp vào đội để có một trong 94 song tấu, hoặc gom đủ nhóm để có một trong 23 combo: chiêu chung càng mạnh khi nhóm càng đông.\n\n### 5. 36 anh hùng, mỗi người một kỹ năng\nHiệp Sĩ Đèn Lồng thắp đèn từ đòn đánh của bạn bè. Trưởng Bưu Cục đóng dấu địa chỉ rồi giao bưu kiện. Tiên Tri Ngái Ngủ để lại một giấc mơ của chính mình. Mỗi kỹ năng có ba cách dùng, và anh hùng nào cũng có một lần biến hình.\n\n### 6. Cứ bốn đêm một boss\nThe Coin Widow ở đêm 4, The Chair Porter ở đêm 8, The Door That Stayed Shut ở đêm 12, The Marquee Maw ở đêm 16 và The Last Customer ở bình minh đêm 20. Nhìn vạch cảnh báo đỏ trên sàn rồi tránh đi.\n\n### 7. Sáu nơi chốn trong giấc mơ\nPhòng chờ, Bưu điện, Nhà kính, Sảnh Đèn, Nhà hát bị lãng quên và Kho lưu trữ. Mỗi nơi có những thứ sống động và cơ chế riêng. Trong Phòng Chờ, nếu bạn chạm tới chiếc đồng hồ treo tường đúng lúc nó điểm giờ, mọi sinh vật trong phòng sẽ đứng im.\n\n### 8. Khách lạ và căn phòng bí mật\nMột vị khách có thể gõ cửa với lời đề nghị. Con đò chở một bạn đồng hành về nhà qua mặt nước. Cứ ba đêm, một cánh cửa bí mật có thể mở ra Ngân Hàng 13 Giờ, Người thợ may bất khả thi hay một chuyến tàu hàng lậu. Mọi giao kèo đều có cái giá của nó.\n\n### 9. Chợ trong mơ\nCó những đêm, khu chợ thứ hai mở cửa. Hàng ở đây trả bằng Cát Mơ, hoặc bằng máu.\n\n### 10. Phòng Chờ giữa các lượt chơi\nTiêu Dầu Đèn và Kỷ vật ở Cây Đèn. Đọc thư gửi đến sau mỗi cột mốc, lấp đầy Bảo tàng, ký Hiệp Ước Đêm để nhận thưởng lớn hơn, thử Giấc mơ hàng ngày và rung Chuông của Người Canh Giữ.\n\n### 11. Kỷ lục đáng giữ\nMỗi lượt chơi đã xong giữ lại đội hình, biểu đồ sát thương và một biệt danh. Bộ sưu tập ghi lại mọi vũ khí, di vật, bạn đồng hành, chuỗi và boss bạn đã gặp.\n\n### 12. Chơi theo cách của bạn\nNăm độ khó: Yên Bình, Lang Thang, Ác Mộng, Thao Thức, Đêm Cuối. Tiếng Anh và tiếng Việt. Tuỳ chọn dễ chịu: giảm chuyển động, chớp sáng, rung màn hình và hiệu ứng; chế độ dễ đọc; bật tắt số sát thương; chỉnh riêng âm lượng nhạc, hiệu ứng và giọng nói.\n\n### 13. Bản lưu trên mọi điện thoại\nLưu đám mây tuỳ chọn trong Google Drive của chính bạn: bắt đầu trên máy này, chơi tiếp trên máy khác. Chơi được không cần mạng, không cần tài khoản, và không bao giờ ghi đè bản lưu mà không hỏi.",
+        "press": "| | |\n|---|---|\n| Trò chơi | Arcane Brigade |\n| Studio | Winka Studio |\n| Thể loại | Auto-battler / roguelite / storybook |\n| Android | Thử nghiệm kín |\n| PC / iOS | Dự định phát hành |\n| Giá | Miễn phí; Deluxe tùy chọn, mua một lần |\n| Contact | apps.winka.studio@gmail.com |",
+        "credits": "Game by Winka Studio.\n\nFonts: Noto, Be Vietnam Pro, Alegreya Sans, Caveat, Coiny, Fraunces, Lilita One, Young Serif (SIL Open Font License).\n\nSome sound effects use CC0 recordings by [Kenney](https://kenney.nl/)."
+      }
+    },
+    "faq": {
+      "en": [
+        {
+          "question": "Is it really free?",
+          "answer": "Yes. The whole game, all heroes and all twenty nights, is free on phones. Deluxe adds Endless and the two hardest difficulties."
+        },
+        {
+          "question": "Are there ads?",
+          "answer": "No."
+        },
+        {
+          "question": "Is it pay-to-win?",
+          "answer": "No. Nothing that makes a run stronger is sold. Lamp Tree upgrades are earned by playing."
+        },
+        {
+          "question": "Do I need an account or internet?",
+          "answer": "No. The game plays offline. Cloud save is optional and uses your own Google Drive."
+        },
+        {
+          "question": "Which languages?",
+          "answer": "English and Vietnamese."
+        },
+        {
+          "question": "Can I continue on another phone?",
+          "answer": "Yes, with cloud save turned on in Settings. Deluxe follows your Google Play account."
+        },
+        {
+          "question": "How long is a run?",
+          "answer": "About half an hour for all twenty nights. You can leave at any shop and continue later."
+        },
+        {
+          "question": "What do I control?",
+          "answer": "Only where your hero walks. Attacks are automatic. On phones you steer with one thumb; on PC with the keyboard or a gamepad."
+        }
+      ],
+      "vi": [
+        {
+          "question": "Có thật sự miễn phí không?",
+          "answer": "Có. Toàn bộ trò chơi, mọi anh hùng và đủ hai mươi đêm đều miễn phí trên điện thoại. Deluxe thêm chế độ Vô tận và hai độ khó cao nhất."
+        },
+        {
+          "question": "Có quảng cáo không?",
+          "answer": "Không."
+        },
+        {
+          "question": "Có phải trả tiền để mạnh hơn không?",
+          "answer": "Không. Không bán thứ gì làm lượt chơi mạnh hơn. Nâng cấp ở Cây Đèn kiếm được bằng cách chơi."
+        },
+        {
+          "question": "Có cần tài khoản hay mạng không?",
+          "answer": "Không. Trò chơi chơi được khi không có mạng. Lưu đám mây là tuỳ chọn và dùng Google Drive của chính bạn."
+        },
+        {
+          "question": "Có những ngôn ngữ nào?",
+          "answer": "Tiếng Anh và tiếng Việt."
+        },
+        {
+          "question": "Chơi tiếp trên máy khác được không?",
+          "answer": "Được, khi bật lưu đám mây trong Cài đặt. Deluxe đi theo tài khoản Google Play."
+        },
+        {
+          "question": "Một lượt chơi dài bao lâu?",
+          "answer": "Khoảng nửa tiếng cho cả hai mươi đêm. Bạn có thể dừng ở bất kỳ cửa tiệm nào và chơi tiếp sau."
+        },
+        {
+          "question": "Tôi điều khiển gì?",
+          "answer": "Chỉ hướng đi của anh hùng; đòn đánh là tự động. Trên điện thoại dùng một ngón cái; trên PC dùng bàn phím hoặc tay cầm."
+        }
+      ]
+    },
+    "pricing": {
+      "en": "- **Free to play, the whole game.** All 36 heroes and all 20 nights.\n- **No ads.** None, on any platform.\n- **One optional purchase, Deluxe** (about US$4.99, the price set by the store): Endless mode and the two hardest difficulties, Sleepless and The Last Night. Act II will be included when it is released.\n- **Nothing that makes a run stronger is ever sold.** No gems, no loot boxes, no energy.",
+      "vi": "- **Miễn phí toàn bộ trò chơi:** cả 36 anh hùng và đủ 20 đêm.\n- **Không quảng cáo** trên mọi nền tảng.\n- **Một gói mua tuỳ chọn, Deluxe** (khoảng 4,99 USD, giá theo cửa hàng): chế độ Vô tận và hai độ khó cao nhất, Thao Thức và Đêm Cuối. Act II sẽ có sẵn trong Deluxe khi phát hành.\n- **Không bán bất cứ thứ gì làm lượt chơi mạnh hơn.** Không đá quý, không hộp ngẫu nhiên, không thể lực."
+    },
+    "legal": {
+      "en": {
+        "privacy": "# Arcane Brigade — Privacy Policy\n\n*Last updated: 7 November 2026*\n\nArcane Brigade is a game by Winka Studio. This policy explains what the game does with your information.\n\n## What the game collects\n\n**Nothing.** Arcane Brigade does not collect, store on any server, share or sell personal information. It has no accounts, no ads, no analytics and no crash reporting.\n\n- Your progress, settings and records are saved on your device. Uninstalling the game deletes them, unless you turned on sync (below).\n- The game does not ask for access to your contacts, photos, location, microphone or camera.\n\n## Optional cloud save (Google Drive)\n\nIf you tap **Connect Google** in Settings → Cloud save, the game stores a copy of your save (progress, the settings that suit any device, and the run you are playing) in the hidden app folder of **your own Google Drive**, so your other phones can read it. It is off until you connect.\n\n- The game asks Google only for access to its own app folder (`drive.appdata`). It cannot see or change any of your other Drive files.\n- The data goes only to your Google account. It never reaches Winka Studio or any other server.\n- Screen settings and purchases are not synced. Restore points stay on your device.\n- To delete the copy: Google Drive → Settings → Manage apps → Arcane Brigade → Delete hidden app data. To stop access: your Google Account → Security → Third-party connections.\n\n## Purchases\n\nThe phone version offers one optional purchase, **Deluxe**. It is handled entirely by Google Play (or the App Store on iPhone). The game never sees your payment details. The store tells the game only whether Deluxe has been bought, so it can unlock Deluxe and restore it on a new device. Google's privacy policy covers what Google Play itself collects: https://policies.google.com/privacy\n\n## Children\n\nThe game is not designed for children under 13 and does not knowingly collect information from anyone.\n\n## Changes\n\nIf this policy changes, the new version will be published at this address with a new date.\n\n## Contact\n\napps.winka.studio@gmail.com",
+        "terms": "# Arcane Brigade — Terms of Service\n\n*Last updated: 8 November 2026*\n\nThese terms cover your use of Arcane Brigade, a game by Winka Studio (\"we\"). By installing or playing the game you agree to them. If you do not agree, please do not use the game.\n\n## The game\n\n- We give you a personal, non-exclusive, non-transferable licence to install and play Arcane Brigade on devices you own or control, for your own non-commercial entertainment.\n- The game, its characters, art, music, sounds, text and code belong to Winka Studio or its licensors. Buying or downloading the game does not transfer any of these rights to you.\n- You may share screenshots and videos of your own play, including on streams and video sites, as long as you do not suggest that Winka Studio made or endorses them.\n\n## What you may not do\n\n- Copy, resell, rent or redistribute the game or any of its content.\n- Decompile, modify or reverse engineer the game, except where the law allows it.\n- Unlock paid content without paying, or use the game for anything unlawful.\n\n## Purchases\n\n- On phones the game is free to download. One optional purchase, **Deluxe**, unlocks Endless mode and the two hardest difficulties, and will include Act II when it is released. Nothing that makes a run stronger is ever sold, and there are no ads.\n- Purchases are made through Google Play or the App Store and are governed by their terms. Refunds are handled by the store under its own refund policy.\n- Deluxe is tied to your store account. It is restored when you reinstall the game or play on another device signed in to the same account. It is removed if the purchase is refunded or cancelled.\n\n## Your save and cloud save\n\n- Your progress is saved on your device. If you uninstall the game without cloud save turned on, your progress is lost.\n- Cloud save is optional. When you connect it, your save is stored in your own Google Drive under Google's terms. Our [Privacy Policy](privacy-policy.md) explains exactly what is stored and how to delete it.\n- We work hard to keep saves safe, but we cannot guarantee that a save will never be lost or damaged. Restore points on your device help you recover from mistakes.\n\n## Updates and availability\n\n- We may update the game to fix problems, balance it or add content. Some updates may be required to keep playing or to use cloud save.\n- We may change or stop offering parts of the game. If we ever stop offering Deluxe content that you bought, we will tell you in the game and on the store page.\n\n## No warranty\n\nThe game is provided \"as is\". To the extent the law allows, we make no promises that it will be free of errors or always available, and we are not responsible for indirect losses arising from its use. Nothing in these terms limits any rights you have under consumer law that cannot be waived.\n\n## Children\n\nThe game is not designed for children under 13.\n\n## Changes to these terms\n\nIf these terms change, the new version will be published at this address with a new date. Continuing to play after a change means you accept the new terms.\n\n## Contact\n\napps.winka.studio@gmail.com"
+      },
+      "vi": {
+        "privacy": "# Arcane Brigade — Chính sách quyền riêng tư\n\n*Cập nhật lần cuối: 7 tháng 11 năm 2026*\n\nArcane Brigade là trò chơi của Winka Studio. Chính sách này cho biết trò chơi làm gì với thông tin của bạn.\n\n## Trò chơi thu thập gì\n\n**Không gì cả.** Arcane Brigade không thu thập, không lưu lên máy chủ, không chia sẻ và không bán thông tin cá nhân. Trò chơi không có tài khoản, không quảng cáo, không phân tích hành vi và không gửi báo cáo lỗi.\n\n- Tiến độ, cài đặt và thành tích được lưu trên thiết bị của bạn. Gỡ trò chơi sẽ xoá chúng, trừ khi bạn bật đồng bộ (bên dưới).\n- Trò chơi không xin quyền truy cập danh bạ, ảnh, vị trí, micro hay camera.\n\n## Lưu đám mây (Google Drive, tuỳ chọn)\n\nNếu bạn chạm **Kết nối Google** trong Cài đặt → Lưu đám mây, trò chơi lưu một bản dữ liệu (tiến độ, các cài đặt dùng được trên mọi máy, và lượt đang chơi) vào thư mục ứng dụng ẩn trong **Google Drive của chính bạn**, để các điện thoại khác của bạn đọc được. Mặc định tính năng này tắt.\n\n- Trò chơi chỉ xin Google quyền truy cập thư mục ứng dụng của riêng nó (`drive.appdata`). Trò chơi không thấy và không sửa được bất kỳ tệp Drive nào khác của bạn.\n- Dữ liệu chỉ đi vào tài khoản Google của bạn, không bao giờ đến Winka Studio hay máy chủ nào khác.\n- Cài đặt màn hình và gói mua không được đồng bộ. Điểm khôi phục chỉ nằm trên máy của bạn.\n- Để xoá bản sao: Google Drive → Cài đặt → Quản lý ứng dụng → Arcane Brigade → Xoá dữ liệu ứng dụng ẩn. Để thu hồi quyền: Tài khoản Google → Bảo mật → Kết nối với bên thứ ba.\n\n## Mua hàng\n\nBản điện thoại có một gói mua tuỳ chọn duy nhất, **Deluxe**. Việc thanh toán do Google Play (hoặc App Store trên iPhone) xử lý hoàn toàn. Trò chơi không bao giờ thấy thông tin thanh toán của bạn. Cửa hàng chỉ báo cho trò chơi biết bạn đã mua Deluxe hay chưa, để mở Deluxe và khôi phục nó trên thiết bị mới. Những gì Google Play thu thập do chính sách của Google điều chỉnh: https://policies.google.com/privacy\n\n## Trẻ em\n\nTrò chơi không dành cho trẻ dưới 13 tuổi và không cố ý thu thập thông tin của bất kỳ ai.\n\n## Thay đổi\n\nNếu chính sách thay đổi, bản mới sẽ được đăng tại địa chỉ này kèm ngày cập nhật mới.\n\n## Liên hệ\n\napps.winka.studio@gmail.com",
+        "terms": "# Arcane Brigade — Điều khoản dịch vụ\n\n*Cập nhật lần cuối: 8 tháng 11 năm 2026*\n\nCác điều khoản này áp dụng khi bạn dùng Arcane Brigade, trò chơi của Winka Studio (\"chúng tôi\"). Khi cài đặt hoặc chơi, bạn đồng ý với các điều khoản này. Nếu không đồng ý, vui lòng không sử dụng trò chơi.\n\n## Trò chơi\n\n- Chúng tôi cấp cho bạn quyền cá nhân, không độc quyền, không chuyển nhượng để cài và chơi Arcane Brigade trên thiết bị của bạn, nhằm giải trí phi thương mại.\n- Trò chơi, nhân vật, hình vẽ, âm nhạc, âm thanh, chữ và mã nguồn thuộc về Winka Studio hoặc bên cấp phép. Việc mua hay tải trò chơi không chuyển các quyền này cho bạn.\n- Bạn được chia sẻ ảnh chụp và video khi bạn chơi, kể cả khi phát trực tiếp hay đăng lên trang video, miễn là không ngụ ý rằng Winka Studio làm ra hoặc bảo trợ nội dung đó.\n\n## Những điều không được làm\n\n- Sao chép, bán lại, cho thuê hay phân phối lại trò chơi hoặc nội dung của nó.\n- Dịch ngược, sửa đổi hay can thiệp mã của trò chơi, trừ khi pháp luật cho phép.\n- Mở khoá nội dung trả phí mà không trả tiền, hoặc dùng trò chơi vào việc trái pháp luật.\n\n## Mua hàng\n\n- Trên điện thoại, trò chơi tải miễn phí. Có một gói mua tuỳ chọn duy nhất, **Deluxe**, mở chế độ Endless và hai độ khó cao nhất, và sẽ gồm Act II khi phát hành. Không bán bất cứ thứ gì làm lượt chơi mạnh hơn, và không có quảng cáo.\n- Việc mua được thực hiện qua Google Play hoặc App Store và tuân theo điều khoản của họ. Hoàn tiền do cửa hàng xử lý theo chính sách hoàn tiền của cửa hàng.\n- Deluxe gắn với tài khoản cửa hàng của bạn. Deluxe được khôi phục khi bạn cài lại trò chơi hoặc chơi trên máy khác đăng nhập cùng tài khoản, và bị gỡ nếu giao dịch được hoàn tiền hoặc huỷ.\n\n## Bản lưu và lưu đám mây\n\n- Tiến độ được lưu trên thiết bị của bạn. Nếu gỡ trò chơi khi chưa bật lưu đám mây, tiến độ sẽ mất.\n- Lưu đám mây là tuỳ chọn. Khi bạn kết nối, bản lưu nằm trong Google Drive của chính bạn và tuân theo điều khoản của Google. [Chính sách quyền riêng tư](privacy-policy.md) nói rõ những gì được lưu và cách xoá.\n- Chúng tôi cố gắng giữ bản lưu an toàn nhưng không thể đảm bảo bản lưu không bao giờ mất hay hỏng. Các điểm khôi phục trên máy giúp bạn lấy lại khi có sự cố.\n\n## Cập nhật và cung cấp dịch vụ\n\n- Chúng tôi có thể cập nhật trò chơi để sửa lỗi, cân bằng hoặc thêm nội dung. Một số bản cập nhật có thể bắt buộc để tiếp tục chơi hoặc dùng lưu đám mây.\n- Chúng tôi có thể thay đổi hoặc ngừng cung cấp một phần trò chơi. Nếu ngừng cung cấp nội dung Deluxe bạn đã mua, chúng tôi sẽ thông báo trong trò chơi và trên trang cửa hàng.\n\n## Không bảo đảm\n\nTrò chơi được cung cấp \"nguyên trạng\". Trong phạm vi pháp luật cho phép, chúng tôi không hứa trò chơi không có lỗi hay luôn hoạt động, và không chịu trách nhiệm về thiệt hại gián tiếp phát sinh khi sử dụng. Các điều khoản này không hạn chế quyền của bạn theo luật bảo vệ người tiêu dùng mà không thể từ bỏ.\n\n## Trẻ em\n\nTrò chơi không dành cho trẻ dưới 13 tuổi.\n\n## Thay đổi điều khoản\n\nNếu điều khoản thay đổi, bản mới sẽ được đăng tại địa chỉ này kèm ngày cập nhật mới. Tiếp tục chơi sau khi có thay đổi nghĩa là bạn chấp nhận điều khoản mới.\n\n## Liên hệ\n\napps.winka.studio@gmail.com"
+      }
+    }
+  }
+}

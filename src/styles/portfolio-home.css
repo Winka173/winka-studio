@@ -1,0 +1,758 @@
+.atelier-hero {
+  position: relative;
+  min-height: 1100px;
+  padding-top: 28px;
+  overflow: hidden;
+  perspective: 1600px;
+}
+.atelier-overline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  font:
+    400 9px/1.7 GeistMono,
+    monospace;
+  color: var(--muted);
+  letter-spacing: 0.06em;
+}
+.atelier-overline > span:first-child {
+  font-size: 11px;
+  color: var(--ink);
+}
+.atelier-overline i {
+  font-style: normal;
+  margin-left: 6px;
+}
+.atelier-hero-type {
+  position: relative;
+  z-index: 3;
+  margin-top: 68px;
+}
+.atelier-small {
+  font-size: 12px;
+  color: var(--muted);
+  display: block;
+  margin-left: 8px;
+  margin-bottom: 24px;
+}
+.atelier-hero h1 {
+  font:
+    400 clamp(68px, 7.7vw, 118px)/0.99 Archivo,
+    sans-serif;
+  letter-spacing: -6px;
+  max-width: 1250px;
+}
+.atelier-hero h1 em {
+  display: block;
+  font-family: Newsreader, serif;
+  font-weight: 400;
+  letter-spacing: -5px;
+  color: #d7cfce;
+  padding-left: 13%;
+  margin-top: 4px;
+}
+.site--atelier[data-preference="light"] .atelier-hero h1 em {
+  color: #63545d;
+}
+.atelier-hero-note {
+  display: flex;
+  gap: 20px;
+  position: absolute;
+  right: 1%;
+  bottom: -84px;
+  max-width: 320px;
+  z-index: 4;
+}
+.atelier-hero-note svg {
+  color: var(--accent);
+  animation: folio-spin 20s linear infinite;
+}
+.atelier-hero-note p {
+  font-size: 11px;
+  line-height: 1.9;
+  color: var(--muted);
+}
+.hero-orbit {
+  position: relative;
+  width: 100%;
+  height: 590px;
+  margin-top: 8px;
+  perspective: 1800px;
+  transform: translateY(calc(var(--scene-y, 0px) * -0.5));
+}
+.orbit-capture {
+  display: block;
+  position: absolute;
+  box-shadow: 0 25px 100px #0007;
+  overflow: hidden;
+  transition:
+    transform 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+    filter 0.5s;
+  border: 1px solid #ffffff4a;
+  animation: orbit-float 9s ease-in-out infinite;
+}
+.orbit-capture > img {
+  width: 100%;
+  height: auto;
+}
+.orbit-capture:hover {
+  filter: brightness(1.08);
+}
+.orbit-desktop {
+  left: 13%;
+  top: 82px;
+  width: 54%;
+  max-width: 850px;
+  transform: rotateY(12deg) rotateX(9deg) rotateZ(-7deg)
+    translate(var(--pointer-x, 0px), var(--pointer-y, 0px));
+  border-radius: 9px;
+  z-index: 2;
+  background: #f4f1e8;
+  animation-delay: -2s;
+}
+.orbit-desktop:hover {
+  transform: rotateY(0) rotateX(0) rotateZ(-3deg) translateY(-12px);
+}
+.media-browser-bar {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  min-height: 27px;
+  background: #f1eee7;
+  color: #53574c;
+  padding: 0 12px;
+  font:
+    400 7px GeistMono,
+    monospace;
+}
+.media-browser-bar i {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #bbbdb0;
+}
+.media-browser-bar span {
+  margin: auto;
+}
+.orbit-mobile {
+  right: 19%;
+  top: 72px;
+  width: 13.5%;
+  max-width: 210px;
+  border: 5px solid #1c1920;
+  border-radius: 24px;
+  transform: rotateY(-14deg) rotateZ(10deg)
+    translate(
+      calc(var(--pointer-x, 0px) * -1.5),
+      calc(var(--pointer-y, 0px) * -1.5)
+    );
+  z-index: 4;
+  animation-delay: -5s;
+}
+.orbit-mobile:hover {
+  transform: rotateY(0) rotateZ(3deg) translateY(-14px);
+}
+.orbit-game {
+  right: 5%;
+  top: 340px;
+  width: 33%;
+  max-width: 470px;
+  transform: rotateY(-12deg) rotateZ(8deg);
+  z-index: 3;
+  border-radius: 8px;
+  animation-delay: -7s;
+}
+.orbit-game > span {
+  display: block;
+  font:
+    400 8px GeistMono,
+    monospace;
+  background: #251b23;
+  padding: 12px 16px;
+  color: #f9dcaf;
+  letter-spacing: 0.1em;
+}
+.orbit-game:hover {
+  transform: rotateY(0) rotateZ(1deg) translateY(-12px);
+}
+.orbit-coordinate {
+  position: absolute;
+  left: 4%;
+  top: 260px;
+  writing-mode: vertical-rl;
+  font:
+    400 8px GeistMono,
+    monospace;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+}
+@keyframes orbit-float {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -16px;
+  }
+}
+@keyframes folio-spin {
+  to {
+    rotate: 360deg;
+  }
+}
+.atelier-hero-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  position: relative;
+  z-index: 5;
+  padding-top: 14px;
+  padding-bottom: 32px;
+  font:
+    400 8px GeistMono,
+    monospace;
+  color: var(--muted);
+}
+.explore-disc {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  min-height: 50px;
+}
+.explore-disc > svg {
+  width: 46px;
+  height: 46px;
+  padding: 13px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  color: var(--ink);
+  transition: transform 0.4s;
+}
+.explore-disc:hover > svg {
+  transform: rotate(360deg);
+  background: var(--raised);
+}
+.atelier-cross {
+  font-size: 32px;
+  color: var(--ink);
+  animation: folio-spin 25s linear infinite;
+}
+.atelier-manifesto {
+  padding: 140px 0 160px;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 48px;
+}
+.atelier-manifesto > .folio-kicker {
+  padding-top: 12px;
+}
+.atelier-manifesto h2 {
+  font:
+    400 clamp(38px, 4.5vw, 68px)/1.15 Archivo,
+    sans-serif;
+  letter-spacing: -2.7px;
+}
+.atelier-manifesto h2 em {
+  display: block;
+  font-family: Newsreader, serif;
+  font-weight: 400;
+  opacity: 0.68;
+  margin-top: 24px;
+}
+.manifesto-foot {
+  grid-column: 2;
+  display: flex;
+  gap: 56px;
+  align-items: center;
+  margin-top: 20px;
+}
+.manifesto-foot p {
+  font-size: 12px;
+  line-height: 2;
+  color: var(--muted);
+  max-width: 480px;
+}
+.folio-orb {
+  width: 76px;
+  height: 76px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 30% 20%,
+    #f0d8d4,
+    #a19fb4 20%,
+    #408784 45%,
+    #534852 70%
+  );
+  box-shadow:
+    inset -10px -12px 18px #0006,
+    0 0 50px #b0b5bb20;
+  animation: orb-breathe 7s ease-in-out infinite;
+}
+@keyframes orb-breathe {
+  50% {
+    transform: rotate(-25deg) scale(0.92);
+  }
+}
+.atelier-index {
+  padding-top: 130px;
+  padding-bottom: 120px;
+}
+.folio-section-heading {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 48px;
+  margin-bottom: 56px;
+}
+.folio-section-heading > .folio-kicker {
+  padding-top: 14px;
+}
+.folio-section-heading h2 {
+  font:
+    400 68px/1.1 Newsreader,
+    serif;
+  letter-spacing: -2px;
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+  align-items: center;
+}
+.atelier-project-row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  min-height: 130px;
+  border-top: 1px solid var(--line);
+  padding: 25px 12px;
+  transition:
+    padding 0.5s,
+    color 0.4s;
+}
+.atelier-project-row:last-child {
+  border-bottom: 1px solid var(--line);
+}
+.project-row-number {
+  font:
+    10px GeistMono,
+    monospace;
+  color: var(--muted);
+  align-self: flex-start;
+  padding-top: 14px;
+  min-width: 45px;
+}
+.project-row-title {
+  font:
+    400 clamp(23px, 3.2vw, 44px)/1.2 Archivo,
+    sans-serif;
+  letter-spacing: -1.5px;
+  flex: 1;
+}
+.project-row-title > small {
+  display: block;
+  font:
+    11px/1.8 Manrope,
+    sans-serif;
+  color: var(--muted);
+  letter-spacing: 0;
+  margin-top: 12px;
+}
+.project-row-state {
+  font:
+    9px GeistMono,
+    monospace;
+  color: var(--muted);
+  margin-right: 30px;
+}
+.atelier-project-row > img {
+  position: absolute;
+  left: 45%;
+  width: 240px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 6px;
+  rotate: -8deg;
+  transform: translateY(20px) scale(0.8);
+  opacity: 0;
+  pointer-events: none;
+  box-shadow: 0 20px 60px #0007;
+  transition:
+    transform 0.5s,
+    opacity 0.3s;
+  z-index: 3;
+}
+.atelier-project-row:hover {
+  padding-left: 25px;
+  color: var(--accent);
+}
+.atelier-project-row:hover > img,
+.atelier-project-row:focus-visible > img {
+  opacity: 1;
+  transform: translateY(-15px) scale(1);
+}
+.atelier-project-row > svg {
+  transition: rotate 0.5s;
+}
+.atelier-project-row:hover > svg {
+  rotate: 45deg;
+}
+.handy-family-callout {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 40px;
+  padding-top: 70px;
+  align-items: center;
+}
+.handy-family-callout > span {
+  font:
+    10px GeistMono,
+    monospace;
+  color: var(--muted);
+}
+.handy-family-callout p {
+  font:
+    400 35px/1.2 Newsreader,
+    serif;
+  letter-spacing: -1px;
+}
+.handy-family-callout > a {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  font-size: 11px;
+  min-height: 48px;
+  justify-content: flex-end;
+}
+.atelier-closing {
+  padding: 40px 0 100px;
+  overflow: hidden;
+}
+.atelier-marquee {
+  display: flex;
+  width: max-content;
+  animation: atelier-marquee 36s linear infinite;
+  opacity: 0.6;
+}
+.atelier-marquee > span {
+  font:
+    400 clamp(80px, 12vw, 185px)/1.2 Archivo,
+    sans-serif;
+  letter-spacing: -9px;
+  white-space: nowrap;
+  padding-right: 30px;
+}
+.atelier-closing > .portfolio-wrap {
+  margin-top: 65px;
+  display: flex;
+  justify-content: space-between;
+  gap: 70px;
+  align-items: end;
+}
+.atelier-closing p {
+  font-size: 12px;
+  line-height: 2;
+  max-width: 260px;
+  color: var(--muted);
+}
+.atelier-closing a {
+  font:
+    400 65px/1 Newsreader,
+    serif;
+  display: flex;
+  align-items: center;
+  gap: 55px;
+  min-height: 80px;
+  letter-spacing: -2px;
+}
+.atelier-closing a svg {
+  transition: rotate 0.5s;
+}
+.atelier-closing a:hover svg {
+  rotate: 45deg;
+}
+@keyframes atelier-marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 1100px) {
+  .atelier-hero {
+    min-height: 1000px;
+  }
+  .atelier-hero h1 {
+    font-size: 84px;
+    letter-spacing: -4px;
+  }
+  .atelier-hero-note {
+    max-width: 270px;
+    bottom: -100px;
+  }
+  .hero-orbit {
+    height: 570px;
+  }
+  .orbit-desktop {
+    left: 8%;
+    width: 63%;
+    top: 100px;
+  }
+  .orbit-mobile {
+    right: 13%;
+    top: 120px;
+    width: 16%;
+  }
+  .orbit-game {
+    right: 4%;
+    top: 340px;
+    width: 36%;
+  }
+  .atelier-manifesto h2 {
+    font-size: 47px;
+  }
+  .folio-section-heading h2 {
+    font-size: 56px;
+  }
+}
+@media (max-width: 760px) {
+  .atelier-hero {
+    min-height: 930px;
+    padding-top: 22px;
+    perspective: 900px;
+  }
+  .atelier-overline {
+    font-size: 7px;
+    gap: 20px;
+  }
+  .atelier-overline > span:first-child {
+    font-size: 9px;
+  }
+  .atelier-overline > span:last-child {
+    max-width: 150px;
+    text-align: right;
+  }
+  .atelier-hero-type {
+    margin-top: 50px;
+  }
+  .atelier-small {
+    font-size: 9px;
+    margin-left: 0;
+    margin-bottom: 20px;
+  }
+  .atelier-hero h1 {
+    font-size: clamp(46px, 10.7vw, 73px);
+    line-height: 1.06;
+    letter-spacing: -2.8px;
+    max-width: 100%;
+  }
+  .atelier-hero h1 em {
+    letter-spacing: -2.1px;
+    padding-left: 0;
+    margin-top: 8px;
+  }
+  .atelier-hero-note {
+    position: relative;
+    right: auto;
+    bottom: auto;
+    max-width: 290px;
+    margin-top: 24px;
+    gap: 13px;
+  }
+  .atelier-hero-note p {
+    font-size: 10px;
+    line-height: 1.9;
+  }
+  .atelier-hero-note svg {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+  }
+  .hero-orbit {
+    height: 410px;
+    margin-top: 18px;
+  }
+  .orbit-desktop {
+    left: -9%;
+    width: 94%;
+    top: 52px;
+    transform: rotateY(8deg) rotateZ(-8deg);
+    border-radius: 5px;
+  }
+  .orbit-mobile {
+    right: 3%;
+    top: 27px;
+    width: 26%;
+    max-width: 145px;
+    border-width: 3px;
+    border-radius: 15px;
+    transform: rotateZ(9deg);
+  }
+  .orbit-game {
+    top: 250px;
+    right: 12%;
+    width: 56%;
+    transform: rotateZ(7deg);
+  }
+  .orbit-game > span {
+    font-size: 6px;
+    padding: 7px 9px;
+  }
+  .media-browser-bar {
+    min-height: 18px;
+    padding: 0 6px;
+    font-size: 5px;
+  }
+  .media-browser-bar i {
+    width: 3px;
+    height: 3px;
+  }
+  .orbit-coordinate {
+    font-size: 6px;
+    left: 3%;
+    top: 275px;
+  }
+  .atelier-hero-bottom {
+    padding-top: 0;
+    gap: 20px;
+    font-size: 6px;
+  }
+  .atelier-hero-bottom > span:nth-child(2) {
+    display: none;
+  }
+  .explore-disc {
+    font-size: 8px;
+    gap: 12px;
+  }
+  .atelier-cross {
+    font-size: 25px;
+  }
+  .atelier-manifesto {
+    padding-top: 75px;
+    padding-bottom: 80px;
+    display: block;
+  }
+  .atelier-manifesto > .folio-kicker {
+    padding: 0;
+    margin-bottom: 30px;
+  }
+  .atelier-manifesto h2 {
+    font-size: 35px;
+    line-height: 1.2;
+    letter-spacing: -1.4px;
+  }
+  .atelier-manifesto h2 em {
+    margin-top: 18px;
+  }
+  .manifesto-foot {
+    gap: 24px;
+    margin-top: 32px;
+  }
+  .manifesto-foot p {
+    font-size: 10px;
+  }
+  .folio-orb {
+    width: 50px;
+    height: 50px;
+  }
+  .atelier-index {
+    padding-top: 75px;
+    padding-bottom: 70px;
+  }
+  .folio-section-heading {
+    display: block;
+    margin-bottom: 32px;
+  }
+  .folio-section-heading > .folio-kicker {
+    padding: 0;
+    margin-bottom: 24px;
+  }
+  .folio-section-heading h2 {
+    font-size: 42px;
+    letter-spacing: -1.2px;
+  }
+  .folio-section-heading h2 svg {
+    width: 30px;
+    height: 30px;
+  }
+  .atelier-project-row {
+    gap: 12px;
+    min-height: 110px;
+    padding: 22px 0;
+  }
+  .project-row-number {
+    min-width: 23px;
+    font-size: 8px;
+    padding-top: 6px;
+  }
+  .project-row-title {
+    font-size: 23px;
+    letter-spacing: -0.8px;
+  }
+  .project-row-title > small {
+    font-size: 9px;
+    margin-top: 8px;
+  }
+  .project-row-state {
+    display: none;
+  }
+  .atelier-project-row > svg {
+    width: 23px;
+    height: 23px;
+  }
+  .atelier-project-row > img {
+    display: none;
+  }
+  .atelier-project-row:hover {
+    padding-left: 6px;
+  }
+  .handy-family-callout {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding-top: 40px;
+  }
+  .handy-family-callout p {
+    font-size: 30px;
+  }
+  .handy-family-callout > a {
+    justify-content: flex-start;
+    min-height: 44px;
+    font-size: 10px;
+  }
+  .atelier-closing {
+    padding-bottom: 65px;
+  }
+  .atelier-marquee > span {
+    font-size: 90px;
+    letter-spacing: -5px;
+  }
+  .atelier-closing > .portfolio-wrap {
+    margin-top: 40px;
+    display: block;
+  }
+  .atelier-closing p {
+    font-size: 10px;
+    max-width: 230px;
+  }
+  .atelier-closing a {
+    font-size: 48px;
+    letter-spacing: -1.5px;
+    justify-content: space-between;
+    margin-top: 32px;
+  }
+  .atelier-closing a svg {
+    width: 40px;
+    height: 40px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .orbit-capture {
+    translate: none !important;
+  }
+  .atelier-marquee {
+    animation: none;
+    transform: none;
+  }
+  .hero-orbit {
+    transform: none;
+  }
+}

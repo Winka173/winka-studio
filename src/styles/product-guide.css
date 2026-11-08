@@ -1,0 +1,190 @@
+.product-guide {
+  padding-top: 95px;
+  padding-bottom: 100px;
+  border-top: 1px solid var(--line);
+}
+.guide-intro {
+  display: grid;
+  grid-template-columns: 1fr 2.5fr;
+  gap: 70px;
+  align-items: start;
+}
+.guide-intro > .folio-kicker {
+  padding-top: 10px;
+}
+.guide-intro h2 {
+  font: 400 clamp(38px, 4vw, 58px)/1.08 var(--display);
+  letter-spacing: -1.8px;
+  max-width: 800px;
+}
+.guide-intro p {
+  font-size: 14px;
+  line-height: 1.95;
+  color: var(--muted);
+  max-width: 760px;
+  margin-top: 26px;
+}
+.guide-steps {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 45px;
+  padding: 0;
+  margin: 60px 0 0;
+  counter-reset: none;
+}
+.guide-steps > li {
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+.guide-steps > li > span {
+  font:
+    10px GeistMono,
+    monospace;
+  color: var(--muted);
+}
+.guide-steps h3 {
+  font: 500 24px/1.25 var(--display);
+  letter-spacing: -0.5px;
+  margin-top: 25px;
+}
+.guide-steps p {
+  font-size: 12px;
+  line-height: 1.95;
+  color: var(--muted);
+  margin-top: 18px;
+  max-width: 360px;
+}
+.guide-controls {
+  display: grid;
+  grid-template-columns: 1fr 2.5fr;
+  gap: 70px;
+  margin-top: 55px;
+  padding-top: 30px;
+  border-top: 1px solid var(--line);
+}
+.guide-controls dl {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px 35px;
+  margin: 0;
+}
+.guide-controls dl > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+}
+.guide-controls dt {
+  font-size: 11px;
+  line-height: 1.7;
+}
+.guide-controls dd {
+  margin: 0;
+  flex-shrink: 0;
+}
+.guide-controls kbd {
+  font:
+    10px/1.6 GeistMono,
+    monospace;
+  display: block;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--surface);
+  padding: 9px 12px;
+  white-space: nowrap;
+  color: var(--ink);
+}
+.guide-note {
+  font-size: 11px;
+  line-height: 1.9;
+  color: var(--muted);
+  max-width: 760px;
+  margin-top: 35px;
+  padding-left: 18px;
+  border-left: 2px solid var(--accent);
+}
+@media (max-width: 1000px) {
+  .guide-intro,
+  .guide-controls {
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+  }
+  .guide-steps {
+    gap: 25px;
+  }
+  .guide-controls dl {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+}
+@media (max-width: 760px) {
+  .product-guide {
+    padding-top: 60px;
+    padding-bottom: 65px;
+  }
+  .guide-intro {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .guide-intro > .folio-kicker {
+    padding-top: 0;
+    font-size: 8px;
+  }
+  .guide-intro h2 {
+    font-size: 38px;
+    letter-spacing: -1px;
+  }
+  .guide-intro p {
+    font-size: 12px;
+    margin-top: 23px;
+  }
+  .guide-steps {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    margin-top: 35px;
+  }
+  .guide-steps > li {
+    position: relative;
+    padding-top: 20px;
+    padding-left: 35px;
+  }
+  .guide-steps > li > span {
+    position: absolute;
+    left: 0;
+    top: 23px;
+    font-size: 8px;
+  }
+  .guide-steps h3 {
+    font-size: 24px;
+    letter-spacing: -0.4px;
+    margin-top: 0;
+  }
+  .guide-steps p {
+    font-size: 11px;
+    margin-top: 13px;
+    max-width: 100%;
+  }
+  .guide-controls {
+    grid-template-columns: 1fr;
+    gap: 22px;
+    margin-top: 38px;
+    padding-top: 25px;
+  }
+  .guide-controls dl {
+    gap: 20px;
+  }
+  .guide-controls dt {
+    font-size: 10px;
+  }
+  .guide-controls kbd {
+    font-size: 9px;
+    padding: 8px 10px;
+  }
+  .guide-note {
+    font-size: 10px;
+    max-width: 100%;
+    margin-top: 28px;
+    padding-left: 14px;
+  }
+}

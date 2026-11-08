@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "sticky-wall",
+    "file": "public\\products\\sticky-wall\\interface-film.mp4",
+    "kind": "actual Android screenrecord",
+    "device": "127.0.0.1:5556",
+    "dataReset": false
+  },
+  {
+    "slug": "handy-bookmark",
+    "file": "public/products/handy-bookmark/interface-film.mp4",
+    "kind": "source product UI frame sequence",
+    "source": "Projects/Handy-Suite/docs/product-review/evidence/after/bookmark/phone-file-film-000.png through 019.png",
+    "fps": 8,
+    "frames": 20,
+    "note": "Initial Android screenrecord had invalid timing and was excluded."
+  },
+  {
+    "slug": "aetherward",
+    "file": "public\\products\\aetherward\\gameplay-film.mp4",
+    "kind": "native Unity frames, actual running battle",
+    "fps": 24,
+    "frames": 192
+  },
+  {
+    "slug": "arcane-brigade",
+    "file": "public\\products\\arcane-brigade\\vfx-film.mp4",
+    "source": "OneDrive\\Documents\\Arcane-Brigade\\PreviewExports\\FxPreview\\comet-runner.mp4",
+    "kind": "original in-engine VFX preview, not a trailer"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "file": "/products/handy-bookmark/library.webp",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\desktop-1-home.png",
+    "width": 1800,
+    "height": 1125,
+    "bytes": 92860,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/handy-bookmark/phone.webp",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-1-home.png",
+    "width": 780,
+    "height": 1688,
+    "bytes": 37738,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/handy-bookmark/collection.webp",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-2-collection.png",
+    "width": 780,
+    "height": 1688,
+    "bytes": 23566,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/handy-bookmark/focus.webp",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-6-focus.png",
+    "width": 780,
+    "height": 1688,
+    "bytes": 22006,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/handy-bookmark/icon.webp",
+    "source": "Projects\\Handy-Suite\\apps\\handy_bookmark\\assets\\icon.png",
+    "width": 512,
+    "height": 512,
+    "bytes": 5886,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/sticky-wall/wall.webp",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\mode_wall.png",
+    "width": 924,
+    "height": 1800,
+    "bytes": 259954,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/sticky-wall/editor.webp",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\editor.png",
+    "width": 924,
+    "height": 1800,
+    "bytes": 113562,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/sticky-wall/night.webp",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\night.png",
+    "width": 924,
+    "height": 1800,
+    "bytes": 62830,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/sticky-wall/grid.webp",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\mode_grid.png",
+    "width": 924,
+    "height": 1800,
+    "bytes": 209494,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/sticky-wall/icon.webp",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\store\\icon_512.png",
+    "width": 512,
+    "height": 512,
+    "bytes": 12836,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/sticky-wall/cover.webp",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\store\\feature_graphic_1024x500.png",
+    "width": 1024,
+    "height": 500,
+    "bytes": 132644,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/asset-forge-studio/workspace.webp",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\workspace_production-export_v093.png",
+    "width": 1800,
+    "height": 1225,
+    "bytes": 105946,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/asset-forge-studio/create.webp",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\ui_refinement_create.png",
+    "width": 1600,
+    "height": 1389,
+    "bytes": 47988,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/arcane-brigade/combat.webp",
+    "source": "OneDrive\\Documents\\Arcane-Brigade\\PreviewExports\\LocalizationUIFix\\07-combat-vi.png",
+    "width": 960,
+    "height": 540,
+    "bytes": 156676,
+    "kind": "authentic screenshot or product icon"
+  },
+  {
+    "file": "/products/aetherward/concept.webp",
+    "source": "Projects\\Aetherward\\Docs\\Previews\\offline_composite_wave14.png",
+    "width": 1800,
+    "height": 1013,
+    "bytes": 185922,
+    "kind": "simulation composite"
+  },
+  {
+    "file": "/products/forgebound/forge.webp",
+    "source": "Projects\\Forgebound\\reports\\quality\\combat_20261023\\04_forge.png",
+    "width": 1800,
+    "height": 1013,
+    "bytes": 63376,
+    "kind": "authentic screenshot or product icon"
+  }
+]

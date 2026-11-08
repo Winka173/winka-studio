@@ -1,0 +1,761 @@
+﻿name,rarity,traits,description,art
+Teapot Pilgrim,Common,hearth / mask,"COMPANION / COMMON / 1 STAR
+TALENT
+Each DRINK purchased during this run adds 4% to this ally's weapon damage, up to +40%. Applies when the next battle is prepared; not a team-wide damage buff.
+
+SUPPORT WHILE OWNED
+Champion / Healing per second: +0.04
+Champion / Movement speed: -0.3%
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+Born above the station kitchens, they fed travellers through a winter with no departures. Every cup was counted; nobody knew whether they had eaten. They want a table where the last person serving is also given a seat.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: hearth, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/teapot-pilgrim.png
+Candle Snail,Uncommon,hearth / fruit,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Fruit Basket companions gain 8% attack speed per Applehead talent, up to 24%. Does not affect the hero. Stacks by talent bodies/memories, not star level.
+
+SUPPORT WHILE OWNED
+Champion / Armor: +0.025
+Champion / Movement speed: -0.5%
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+They carried their village's ember through a flood. Their shell holds the names of neighbours who took turns carrying them afterward. They seek dry ground for those neighbours, not another chance to endure everything alone.
+PERSONAL PASSIVE
+Every 4s, chill enemies within 2.5 units: 1.5s normally, 0.6s on bosses.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: hearth, fruit. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/candle-snail.png
+Mailbox Imp,Common,archive / gauntlet / ball,"COMPANION / COMMON / 1 STAR
+TALENT
+For 4 seconds after you take damage, the team attacks 10% faster.
+
+SUPPORT WHILE OWNED
+Run / Pickup radius: +0.08
+Run / Luck: -0.01
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A collector of letters with missing addresses, they once mistook silence for permission to read them. Delivering an apology unopened began their first honest route. They want a postal service that also lets a recipient refuse a letter.
+PERSONAL PASSIVE
+Every 4s in combat, gain 1 gold directly. This is not kill loot and does not count as collecting a coin.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: archive, gauntlet, ball. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/mailbox-imp.png
+Mushroom Librarian,Common,orchard / clover,"COMPANION / COMMON / 1 STAR
+TALENT
+Basic hits slow ordinary enemies for 0.4 seconds.
+
+SUPPORT WHILE OWNED
+Run / Luck: +0.025
+Companions / Attack speed: -0.5%
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+Their underground library grows books from witnessed events, keeping contradictory accounts on adjacent shelves. A borrower who never returned left a gap they refuse to fill with a convenient ending. They seek the borrower rather than a replacement story.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: orchard, clover. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/mushroom-librarian.png
+Hood Wisp,Common,frost / hare / root,"COMPANION / COMMON / 1 STAR
+TALENT
+Hero and all companions gain 5% movement speed per talent. Applies while owned, subject to final speed limits.
+
+SUPPORT WHILE OWNED
+Team / Critical chance: +1%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A guard bound to the promise that nobody would leave alone, they trapped solitary travellers. Someone returned voluntarily for them. The contract erased that night, but their body still moves to cover a companion's unguarded left side.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: frost, hare, root. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/hood-wisp.png
+Jelly Swordsman,Common,oddity / gauntlet / hide,"COMPANION / COMMON / 1 STAR
+TALENT
+Hero and all companions gain 5% weapon damage per talent. Applies while owned before later damage modifiers.
+
+SUPPORT WHILE OWNED
+Companions / Damage: +2.5%
+Companions / Movement speed: -0.5%
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A river-dweller taught fencing by a ferry captain, they were exiled for refusing a duel against a frightened passenger. They want to teach a form whose last lesson is lowering the sword. Their salute belongs to no recognised school.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: oddity, gauntlet, hide. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/jelly-swordsman.png
+Brass Acorn,Common,archive / regal / mask,"COMPANION / COMMON / 1 STAR
+TALENT
+After you take damage, heal 1 HP. Shared 1-second cooldown.
+
+SUPPORT WHILE OWNED
+Run / Score multiplier: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+An elected keeper of a root settlement, they inherited a crown meant to be buried when their term ended. The frozen season never let that day arrive. They seek a spring that will let somebody else lead.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: archive, regal, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/brass-acorn.png
+Bread Crab,Common,hearth / gauntlet,"COMPANION / COMMON / 1 STAR
+TALENT
+Each basic attack adds 1% attack speed to this ally, up to 20% this wave. A hit from every third basic attack can make a 0.8-radius blast at 15% weapon damage; 1s cooldown, no recursive blast.
+
+SUPPORT WHILE OWNED
+Team / Collision damage: +1
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+Their coastal family measures tides by rising dough. A storm took their street but left its breakfast bell. They carry the bell toward the coast, hoping a familiar sound will gather the scattered neighbours.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: hearth, gauntlet. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/bread-crab.png
+Kettle Bat,Common,hearth / hide / archer,"COMPANION / COMMON / 1 STAR
+TALENT
+Hero maximum HP +5 and armor +0.08 per talent. These are hero-only bonuses, not extra health for immortal companions.
+
+SUPPORT WHILE OWNED
+Team / Flat melee damage: +1
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+Raised beneath the market, they whistle to navigate steam vents. An answering voice once brought their family into danger. They learned that an answer is not necessarily an invitation, and now check every route before guiding anyone.
+PERSONAL PASSIVE
+Every 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: hearth, archer, hide. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/kettle-bat.png
+Bookmark Golem,Rare,archive / hat / rune,"COMPANION / RARE / 1 STAR
+TALENT
+Your basic attack prompts this ally to fire one bolt for 65% of its own weapon damage. 0.7s cooldown per responding ally. Secondary attacks cannot trigger another response.
+
+SUPPORT WHILE OWNED
+Team / Flat ranged damage: +1
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+They arose from a community's promise to keep a missing reader's place, then learned to read the unfinished book themselves. They seek that reader while building a life that does not end at the last reserved page.
+PERSONAL PASSIVE
+Own weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: archive, hat, rune. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/bookmark-golem.png
+Tin Tick,Common,clock / mask / rune,"COMPANION / COMMON / 1 STAR
+TALENT
+Hero maximum HP +4 per talent. Each 8 team kills gives this ally 1% attack speed, up to 15% this wave.
+
+SUPPORT WHILE OWNED
+Team / Attack range: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A timekeeper whose heart stayed punctual after the trains stopped, they falsified bells to give stranded children hope. Admitting the lie cost their post. They want to ring for an arrival they have actually witnessed.
+PERSONAL PASSIVE
+Every 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: clock, rune, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/tin-tick.png
+Spring Duck,Rare,clock / gear,"COMPANION / RARE / 1 STAR
+TALENT
+Clockwork Union companions gain 4% movement AND attack speed per talent. Combined with Bullhorn Warrior, this buff is capped at 25%.
+
+SUPPORT WHILE OWNED
+Champion / Dodge: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A wetland courier injured in the machinery district, they chose a spring prosthesis made by a friend. The spring helps their life continue; it did not create it. They want to return the friend's tools and report that the crossing worked.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: clock, gear. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/spring-duck.png
+Button Beetle,Common,clock / regal / root,"COMPANION / COMMON / 1 STAR
+TALENT
+This ally gains 10% attack speed per Iron Swordsman talent, including itself, up to 30%. Count includes absorbed talents; star levels do not multiply this count.
+
+SUPPORT WHILE OWNED
+Run / Income: +2
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+Their family mends coats left on station hooks. They recognise travellers by repairs nobody else notices. They kept one uncollected coat because its missing owner once covered a sleeping stranger with it.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: clock, root, regal. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/button-beetle.png
+Staple Mole,Common,clock / clover,"COMPANION / COMMON / 1 STAR
+TALENT
+Clear-wave income gains 4 gold per talent per active Lucky Leaves bond LEVEL. This uses the current bond level; repeated combat activations do not accumulate more income.
+
+SUPPORT WHILE OWNED
+Team / Bullet pierce: +1
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A tunneller who bound scattered maps into a public atlas. Officials sealed dangerous routes by sealing their residents inside, so they stole the atlas back. They mark blocked exits in ink readable from either side.
+PERSONAL PASSIVE
+Every 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: clock, clover. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/staple-mole.png
+Snow Spoon,Common,frost / hide,"COMPANION / COMMON / 1 STAR
+TALENT
+Each Wild Stitch or Springstep bond level grants this ally 10% weapon damage and 5% reach. Caps: +50% damage, +20% reach; final reach cap still applies.
+
+SUPPORT WHILE OWNED
+Team / Bullet split: +1
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A frost-country pilgrim carrying the last spoon from a communal pot. They rationed too strictly and remember the neighbour who went hungry. They seek seeds for cold soil rather than another rule for enduring hunger.
+PERSONAL PASSIVE
+Own weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: frost, hide. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/snow-spoon.png
+Ice Cream Owl,Uncommon,frost / hat / rune,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Runic School companions gain +2 projectile pierce and 30% wider projectile visuals, but their attack cooldown is 15% longer. This talent is a presence effect and does not stack with another copy.
+
+SUPPORT WHILE OWNED
+Team / Bullet bounce chance: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+An astronomer who tracked a star the realm's ceiling kept erasing. They left a student in charge and worry that leaving made them disloyal. They want to bring back a map drawn under a real sky.
+PERSONAL PASSIVE
+Every 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: frost, hat, rune. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/ice-cream-owl.png
+Fridge Wisp,Common,frost / shoe / gauntlet,"COMPANION / COMMON / 1 STAR
+TALENT
+Each injury recorded on the hero this wave gives Prizefighter companions 1% attack speed, up to 15%. Multiple copies do not multiply this speed bonus.
+
+SUPPORT WHILE OWNED
+Team / Bullet size: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A keeper of cold stores who sheltered passengers during a heat wave. One store stayed cold after its key vanished. They seek every missing key, including those opening doors they were ordered to leave alone.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: frost, gauntlet, shoe. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/fridge-wisp.png
+Pear Moth,Uncommon,orchard / morning / rune,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Hero projectile count gains 1 per talent per active Morning Bells bond LEVEL, capped at +3 total from this talent. Requires a projectile attack; final projectile limits still apply.
+
+SUPPORT WHILE OWNED
+Team / Bullet speed: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+Raised in an orchard lit by artificial suns, they followed moonlight through a broken roof. They return each season to describe the outside. Their family has begun cutting windows, and they want to see the first one open.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: orchard, morning, rune. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/pear-moth.png
+Citrus Toad,Uncommon,orchard / shoe,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Quicksole companions gain 10% movement and attack speed while at least one Monkey King talent is owned. Presence effect; extra copies do not multiply it.
+
+SUPPORT WHILE OWNED
+Team / Bullet travel distance: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A marsh runner carrying news nobody wanted to hear. Jokes gave listeners somewhere to put their anger. They travel with people who let them finish a sentence without requiring it to be funny.
+PERSONAL PASSIVE
+Every 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: orchard, shoe. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/citrus-toad.png
+Radish Jester,Common,orchard / mask,"COMPANION / COMMON / 1 STAR
+TALENT
+A basic hit schedules a poison strike after 1s for 25% of this ally's weapon damage. The target and source must still be alive. Poison cannot create another poison chain.
+
+SUPPORT WHILE OWNED
+Team / Knockback: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A performer who hid criticism inside jokes until the court learned to applaud without listening. They left mid-punchline. They want to speak one plain truth and be heard without laughter covering it.
+PERSONAL PASSIVE
+Own weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: orchard, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/radish-jester.png
+Seed Hedgehog,Common,orchard / fruit,"COMPANION / COMMON / 1 STAR
+TALENT
+Basic kills have a 30% chance to heal you 1 HP.
+
+SUPPORT WHILE OWNED
+Champion / Champion size: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+They preserve seeds from a garden erased from official maps. They will not replace a lost species with a prettier account of what grew there. They seek soil where the surviving seeds can belong without a ledger's permission.
+PERSONAL PASSIVE
+Every 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: orchard, fruit. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/seed-hedgehog.png
+Moon Jelly,Rare,astral / hare,"COMPANION / RARE / 1 STAR
+TALENT
+Hero armor -0.08 per talent. Every heart collected during the run gives this ally 2% reach, up to 20%, applied when the next battle is prepared.
+
+SUPPORT WHILE OWNED
+Companions / Companion size: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A tide-born resident who remembers the moon before the sea acquired a ceiling. Their migration follows a pull no map records. They want to discover whether the older sea survives and whether their young can reach it.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: astral, hare. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/moon-jelly.png
+Star Sock,Uncommon,astral / shoe,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Each chest opened during the run adds 2% attack speed to this ally, up to 20%, applied when the next battle is prepared.
+
+SUPPORT WHILE OWNED
+Run / Enemy count: +10%
+Run / Score multiplier: +10%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+Separated from a sibling at a crossing, they wear mismatched cloth recording the strangers who helped them continue. They seek their sibling without pretending every newer connection is temporary.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: astral, shoe. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/star-sock.png
+Comet Kite,Common,astral / archer,"COMPANION / COMMON / 1 STAR
+TALENT
+Each chest opened during the run adds 2% weapon damage to this ally, up to 30%, applied when the next battle is prepared.
+
+SUPPORT WHILE OWNED
+Run / Enemy health: +10%
+Run / Score multiplier: +10%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A sky fisher whose safety line was tied to the wrong shore. A keeper called the tightening tether protection. They carry their own spool now and search for the crew on the other side.
+PERSONAL PASSIVE
+Every 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: astral, archer. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/comet-kite.png
+Orbit Moth,Common,astral / regal / morning,"COMPANION / COMMON / 1 STAR
+TALENT
+Each Prince talent grants this ally 8% reach, up to 24%. Final melee/ranged reach caps still apply.
+
+SUPPORT WHILE OWNED
+Champion / Heart healing: +1
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A lamplighter who circled a homeward beacon until discovering its keeper turned it to prevent arrivals. They now guide by several independent lights. They want routes no single keeper can own.
+PERSONAL PASSIVE
+Every 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: astral, regal, morning. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/orbit-moth.png
+Dream Compass,Common,clock / archer / hare,"COMPANION / COMMON / 1 STAR
+TALENT
+Each paid shop refresh grants 2 gold per talent immediately, capped at 6 gold total per refresh. Each refresh during the run also adds 3% weapon damage to this ally, up to 30%, for the next prepared battle.
+
+SUPPORT WHILE OWNED
+Run / Chest quality: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A navigator transformed by crossing incompatible dreams. Their needle answers freely made commitments, not an owner's commands. They are learning to choose a destination after a lifetime of being asked only for directions.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: archive, hare, archer. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/dream-compass.png
+Shell Postman,Common,tidal / ball,"COMPANION / COMMON / 1 STAR
+TALENT
+This ally fires 2 extra projectiles, up to 10 total, and its weapon damage is multiplied by 0.65. Extra projectiles require a projectile weapon to fire normally.
+
+SUPPORT WHILE OWNED
+Run / Recruit discount: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A coastal courier carrying unsent replies as carefully as delivered letters. One envelope bears the protagonist's childhood handwriting; its reply was intercepted. They want the addressee to read it before being told what it means.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: tidal, ball. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/shell-postman.png
+Coral Teacup,Uncommon,tidal / gear,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+A critical basic hit has a 25% chance to grant 1 gold. All TV Head talents share a 0.8s cooldown; extra hits cannot bypass it.
+
+SUPPORT WHILE OWNED
+Run / Relic discount: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A reef resident whose ceramic-looking shell shelters a living reef. They broadcast weather to inland families. Their last warning brought an evacuation boat too late; they still check the harbour's arriving names.
+PERSONAL PASSIVE
+Every 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: tidal, gear. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/coral-teacup.png
+Bubble Koi,Common,tidal / morning / clover,"COMPANION / COMMON / 1 STAR
+TALENT
+Drop a 1-HP heart every 5 seconds in combat.
+
+SUPPORT WHILE OWNED
+Run / Shop rarity: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+They kept air pockets along a drowned road and rescued people who later forgot it existed. They collect those accounts to stop another town building over it. They want witnesses rather than a grateful statue.
+PERSONAL PASSIVE
+Own weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: tidal, clover, morning. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/bubble-koi.png
+Anchor Snail,Uncommon,tidal / resolve,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Each FOOD purchased adds +1 flat melee AND +1 flat ranged team damage per Roshi talent. Hero maximum HP loses 0.5 per food per talent, up to 20 HP lost. Applied in the next prepared battle.
+
+SUPPORT WHILE OWNED
+Champion / Health correction: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A dockworker who carried a vessel's anchor inland when its harbour disappeared. The chain proves the harbour existed. They seek the crew to ask whether it is time to put the weight down.
+PERSONAL PASSIVE
+Every 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: tidal, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/anchor-snail.png
+Sail Squid,Uncommon,tidal / resolve,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Each attack grants this ally 1% attack speed, up to 20% this wave.
+
+SUPPORT WHILE OWNED
+Team / Damage correction: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+An estuary pilot whose captain demanded guarantees no uncertain tide could give. They left that ship. They offer passage with risks spoken aloud and seek a crew willing to hear an honest forecast.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: tidal, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/sail-squid.png
+Sock Cyclops,Common,oddity / resolve,"COMPANION / COMMON / 1 STAR
+TALENT
+Each Carousel Pony grants this ally 30% damage and 5 contact damage, up to 3 ponies.
+
+SUPPORT WHILE OWNED
+Team / Speed correction: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A one-eyed watchkeeper dismissed for reporting footsteps behind the official patrol. Following them led to a missing resident. They want a watch that treats listening as part of seeing.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: hearth, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/sock-cyclops.png
+Dice Crab,Common,oddity / resolve,"COMPANION / COMMON / 1 STAR
+TALENT
+An ordinary incoming hit is reduced by 25% if at least 6s have passed since the last recorded hero injury. This protection does not stack from multiple copies; deliberate health costs are not reduced.
+
+SUPPORT WHILE OWNED
+Champion / Armor correction: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A gambling-hall accountant who found the house erasing winners from its records. They kept a crooked die as evidence rather than letting it decide every choice. They seek the families of the removed names.
+PERSONAL PASSIVE
+Every 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/dice-crab.png
+Mask Pepper,Common,oddity / resolve,"COMPANION / COMMON / 1 STAR
+TALENT
+Once per wave, a recorded hero injury permanently removes 2 maximum HP for that battle and then attempts a full heal. Royal health cannot be refilled; hero healing restrictions still apply. Shared across copies.
+
+SUPPORT WHILE OWNED
+Champion / Healing correction: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A theatre refugee whose mask preserved a role after the troupe disbanded. The role taught courage but sometimes speaks over their wishes. They are learning to remove it without apologising for the quieter voice beneath.
+PERSONAL PASSIVE
+Own weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/mask-pepper.png
+Crayon Gremlin,Common,oddity / resolve,"COMPANION / COMMON / 1 STAR
+TALENT
+ON RECRUIT / ALTAR CREATION: gain 6 eggs immediately once. Merely keeping this ally does not grant 6 eggs every wave.
+
+SUPPORT WHILE OWNED
+Team / Collision frequency: +2.5%
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A map maker who drew windows for a district with none. One drawing opened a real passage. They now check every imagined exit before sharing it, and want to draw somewhere from life rather than longing.
+PERSONAL PASSIVE
+Every 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: archive, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/crayon-gremlin.png
+Ribbon Spider,Common,oddity / resolve,"COMPANION / COMMON / 1 STAR
+TALENT
+ON RECRUIT / ALTAR CREATION: gain one seeded random run bonus: +6% team damage, +6% team movement speed, +0.06 Luck, or +0.12 hero armor. Once per acquisition.
+
+SUPPORT WHILE OWNED
+Team / Collision damage: +1
+Champion / Maximum health: -1
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A bridge weaver who tightened a safety web until nobody could move. They cut it and helped rebuild the road. Each new knot has a release reachable by the person it supports.
+PERSONAL PASSIVE
+Every 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/ribbon-spider.png
+Thimble Moth,Rare,archive / resolve,"COMPANION / RARE / 1 STAR
+TALENT
+A recorded hero injury grants 3 gold. Shared 2s cooldown; shares the rebate timer with TV Head. Multiple copies do not multiply the payout.
+
+SUPPORT WHILE OWNED
+Companions / Attack speed: +4%
+Companions / Damage: -3%
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+An apprentice surgeon whose tools also repaired coats. Their teacher called every error a moral failure. They seek colleagues who correct mistakes without demanding a confession of worthlessness.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: archive, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/thimble-moth.png
+Violet Remnant,Uncommon,oddity / resolve,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+This ally has +15% critical chance.
+
+SUPPORT WHILE OWNED
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A survivor carrying an afterimage of a district erased from the maps. They are more than evidence of a disaster. They seek other survivors to discover what each wants next.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/violet-remnant.png
+Velvet Enchantress,Uncommon,hearth / knight,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Basic hits gently pull ordinary enemies inward. Bosses cannot be pulled.
+
+SUPPORT WHILE OWNED
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A negotiator who soothed people until they forgot their objections, then testified against the court that hired them. They now ask again after the enchantment fades. They seek agreement that survives its disappearance.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: hearth, knight. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/velvet-enchantress.png
+Grand Sprout,Uncommon,clock / sprout,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+No basic attack. Deal 24 contact damage. Can carry nursery bonuses.
+
+SUPPORT WHILE OWNED
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+An elder from travelling gardens who shelters young plants without choosing where they must settle. They move their own roots when home becomes unsafe. They seek a garden with more than one open gate.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Recruitment exclusive: Jade Cabbage.
+Bonds: clock, sprout. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/grand-sprout.png
+Little Sprout,Uncommon,astral / sprout,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Nursery-exclusive. No basic attack; deal 12 contact damage. Two sprouts grow into a random two-star friend and a Grand Sprout. Each keeps an ingredient weapon, within the 15-body limit.
+
+SUPPORT WHILE OWNED
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A young garden-dweller travelling with their root household's consent. They are curious about rain and what they might become. Dream growth does not make their life an object for an owner's use.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Recruitment exclusive: Jade Cabbage.
+Bonds: astral, sprout. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/little-sprout.png
+Teacup Cricket,Uncommon,hearth / lantern-guild,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Every fifth basic attack may release one echo for 40% of this ally's weapon damage. Uses the ally's 0.7s response cooldown; no echo chain.
+
+SUPPORT WHILE OWNED
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A reed-settlement musician who played the waiting melody until someone taught them its missing final notes. They want to compose a song that lets the audience leave before it ends.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: hearth, lantern-guild. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/teacup-cricket.png
+Ribbon Otter,Uncommon,tidal / rain-script,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Collecting a heart attempts 1 extra HP of healing while at least one Ribbon Otter talent is owned. Extra healing does not stack by copies; hero healing restrictions apply.
+
+SUPPORT WHILE OWNED
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A river mender marking safe crossings with ribbons. A flood moved a marker; they returned to correct it rather than blame those who trusted it. They seek the source and a place to remember the missing by name.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: tidal, rain-script. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/ribbon-otter.png
+Spindle Wren,Uncommon,archive / paper-wings,"COMPANION / UNCOMMON / 1 STAR
+TALENT
+Lantern Guild companions gain 8% reach while at least one Spindle Wren talent is owned, subject to final range caps. Presence effect; extra copies do not multiply it.
+
+SUPPORT WHILE OWNED
+Tier 1/2/3 traits ×1/2/4; merging three units reduces support sources.
+
+
+LIFE IN THE WAITING REALM
+A guide carrying thread between settlements. They tied it to their wrist until every departure pulled them apart. They now teach travellers to hold and release their own ends, and seek a route that survives an honest goodbye.
+PERSONAL PASSIVE
+No additional periodic personal passive.
+
+Named talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.
+Bonds: archive, lantern-guild. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",07_Art/friends/spindle-wren.png
+Baker Mouse,Uncommon,hearth / sweet-tooth,A floury mouse baker who rolls everything flat.,07_Art/friends/baker-mouse.png
+Lens Owl,Rare,archive / rune,An owl scholar who focuses sunlight through a reading lens.,07_Art/friends/lens-owl.png
+Lamp Goat,Uncommon,clock / horn,"A goat whose horns hold lanterns, swinging a lantern glaive.",07_Art/friends/lamp-goat.png
+Top Beetle,Rare,clock / gear,A clockwork beetle who spins tops into the crowd.,07_Art/friends/top-beetle.png
+Shovel Penguin,Rare,frost / gauntlet,A penguin who heaves snow at anyone in the way.,07_Art/friends/shovel-penguin.png
+Boba Tadpole,Common,frost / sweet-tooth,"A tadpole in a milk-tea cup who sips, then spits pearls in swaying waves.",07_Art/friends/boba-tadpole.png
+Rain Heron,Rare,frost / rain-script,A heron who copies the rain into its notebook and takes any weapon offered.,07_Art/friends/rain-heron.png
+Watering Snail,Uncommon,orchard / sprout,"A slow snail who waters the garden, and the enemies in it.",07_Art/friends/watering-snail.png
+Yo-yo Squirrel,Rare,orchard / hare,A springy squirrel who never misses with a yo-yo.,07_Art/friends/yo-yo-squirrel.png
+Paper Plane Pigeon,Common,astral / paper-wings,A pigeon who folds the post into paper planes and lets them chase the trouble.,07_Art/friends/paper-plane-pigeon.png
+Raincoat Frog,Uncommon,tidal / rain-script,A frog in a yellow raincoat with a plunger for every puddle.,07_Art/friends/raincoat-frog.png
+Static Ferret,Common,clock / static-club,Its hits leave static that arcs once to the nearest other enemy (50%).,07_Art/friends/static-ferret.png
+Storm Kitten,Uncommon,astral / static-club,Every 6s a little storm cloud over an enemy drops a bolt of lightning.,07_Art/friends/storm-kitten.png
+Volt Eel,Rare,tidal / static-club,"Its hits arc on twice: to the nearest other enemy, then the next (50%, then 35%).",07_Art/friends/volt-eel.png
+Shanty Sea Lion,Common,tidal / sea-shanty,Every 3rd hit lands with a note that pushes the enemy back.,07_Art/friends/shanty-sea-lion.png
+Bottle Gull,Uncommon,hearth / sea-shanty,Recruiting it counts as buying a drink.,07_Art/friends/bottle-gull.png
+Pinned Beetle,Common,archive / exhibit-hall,Its hits pin the enemy in place for 0.3s (once every 2s per enemy).,07_Art/friends/pinned-beetle.png
+Fossil Armadillo,Uncommon,frost / exhibit-hall,Rolled up: an enemy that bumps into it is stunned for 0.3s (once every 2s per enemy).,07_Art/friends/fossil-armadillo.png
+Specimen Slime,Rare,clock / exhibit-hall,Defeating a recorded species splits off a little slime that fights beside it (at most 2 a fight).,07_Art/friends/specimen-slime.png
+Court Herald,Common,archive / hat,Fanfare: the first attack of every friend each wave fires one extra shot.,07_Art/friends/court-herald.png
+Stitched Pangolin,Uncommon,frost / hide,A pangolin of patched leather scales. Every 4s heals the hero; hero regeneration +0.3.,07_Art/friends/stitched-pangolin.png
+Saddle Moth,Rare,oddity / hide,A moth wearing a little leather saddle. Hero contact damage +3; +2% damage per friend.,07_Art/friends/saddle-moth.png

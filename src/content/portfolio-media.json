@@ -1,0 +1,1864 @@
+[
+  {
+    "slug": "handy-bookmark",
+    "id": "desktop-1-home",
+    "src": "/products/handy-bookmark/gallery/desktop-1-home.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "The desktop library",
+      "vi": "Thư viện trên màn hình lớn"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\desktop-1-home.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "desktop-13-reader",
+    "src": "/products/handy-bookmark/gallery/desktop-13-reader.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Article reader",
+      "vi": "Trình đọc bài viết"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\desktop-13-reader.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "desktop-8-settings",
+    "src": "/products/handy-bookmark/gallery/desktop-8-settings.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Library settings",
+      "vi": "Thiết lập thư viện"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\desktop-8-settings.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "phone-1-home",
+    "src": "/products/handy-bookmark/gallery/phone-1-home.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Your reading list",
+      "vi": "Danh sách đọc"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-1-home.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "phone-2-collection",
+    "src": "/products/handy-bookmark/gallery/phone-2-collection.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Inside a collection",
+      "vi": "Trong bộ sưu tập"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-2-collection.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "phone-3-cards",
+    "src": "/products/handy-bookmark/gallery/phone-3-cards.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Card view",
+      "vi": "Chế độ thẻ"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-3-cards.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "phone-4-detail",
+    "src": "/products/handy-bookmark/gallery/phone-4-detail.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "A saved link",
+      "vi": "Một link đã lưu"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-4-detail.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "phone-6-focus",
+    "src": "/products/handy-bookmark/gallery/phone-6-focus.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Focus mode",
+      "vi": "Chế độ tập trung"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-6-focus.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "phone-11-reader",
+    "src": "/products/handy-bookmark/gallery/phone-11-reader.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Read the article",
+      "vi": "Đọc bài viết"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-11-reader.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "phone-9-dark",
+    "src": "/products/handy-bookmark/gallery/phone-9-dark.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "After dark",
+      "vi": "Giao diện tối"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\phone-9-dark.png"
+  },
+  {
+    "slug": "handy-bookmark",
+    "id": "tablet-1-home",
+    "src": "/products/handy-bookmark/gallery/tablet-1-home.webp",
+    "device": "tablet",
+    "width": 1571,
+    "height": 1920,
+    "title": {
+      "en": "A little more room",
+      "vi": "Thêm không gian để đọc"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\bookmark\\tablet-1-home.png"
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-calendar",
+    "src": "/products/handy-boards/gallery/desktop-calendar.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1333,
+    "title": {
+      "en": "Desktop Calendar",
+      "vi": "desktop calendar"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\boards\\desktop-calendar.png"
+  },
+  {
+    "slug": "handy-boards",
+    "id": "desktop-categories",
+    "src": "/products/handy-boards/gallery/desktop-categories.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1333,
+    "title": {
+      "en": "Desktop Categories",
+      "vi": "desktop categories"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\boards\\desktop-categories.png"
+  },
+  {
+    "slug": "handy-boards",
+    "id": "phone-calendar",
+    "src": "/products/handy-boards/gallery/phone-calendar.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Calendar",
+      "vi": "phone calendar"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\boards\\phone-calendar.png"
+  },
+  {
+    "slug": "handy-boards",
+    "id": "phone-categories",
+    "src": "/products/handy-boards/gallery/phone-categories.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Categories",
+      "vi": "phone categories"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\boards\\phone-categories.png"
+  },
+  {
+    "slug": "handy-boards",
+    "id": "phone-insights",
+    "src": "/products/handy-boards/gallery/phone-insights.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Insights",
+      "vi": "phone insights"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\boards\\phone-insights.png"
+  },
+  {
+    "slug": "handy-boards",
+    "id": "phone-kanban",
+    "src": "/products/handy-boards/gallery/phone-kanban.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Kanban",
+      "vi": "phone kanban"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\boards\\phone-kanban.png"
+  },
+  {
+    "slug": "handy-card",
+    "id": "desktop-1-home-empty",
+    "src": "/products/handy-card/gallery/desktop-1-home-empty.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Home Empty",
+      "vi": "desktop 1 home empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\card\\desktop-1-home-empty.png"
+  },
+  {
+    "slug": "handy-card",
+    "id": "desktop-2-home",
+    "src": "/products/handy-card/gallery/desktop-2-home.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 2 Home",
+      "vi": "desktop 2 home"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\card\\desktop-2-home.png"
+  },
+  {
+    "slug": "handy-card",
+    "id": "phone-1-home-empty",
+    "src": "/products/handy-card/gallery/phone-1-home-empty.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone 1 Home Empty",
+      "vi": "phone 1 home empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\card\\phone-1-home-empty.png"
+  },
+  {
+    "slug": "handy-card",
+    "id": "phone-2-home",
+    "src": "/products/handy-card/gallery/phone-2-home.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone 2 Home",
+      "vi": "phone 2 home"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\card\\phone-2-home.png"
+  },
+  {
+    "slug": "handy-card",
+    "id": "phone-3-studio",
+    "src": "/products/handy-card/gallery/phone-3-studio.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone 3 Studio",
+      "vi": "phone 3 studio"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\card\\phone-3-studio.png"
+  },
+  {
+    "slug": "handy-card",
+    "id": "phone-3b-cv",
+    "src": "/products/handy-card/gallery/phone-3b-cv.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone 3B Cv",
+      "vi": "phone 3b cv"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\card\\phone-3b-cv.png"
+  },
+  {
+    "slug": "handy-dev",
+    "id": "desktop-1-empty",
+    "src": "/products/handy-dev/gallery/desktop-1-empty.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Empty",
+      "vi": "desktop 1 empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\dev\\desktop-1-empty.png"
+  },
+  {
+    "slug": "handy-dev",
+    "id": "desktop-10-cron",
+    "src": "/products/handy-dev/gallery/desktop-10-cron.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 10 Cron",
+      "vi": "desktop 10 cron"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\dev\\desktop-10-cron.png"
+  },
+  {
+    "slug": "handy-dev",
+    "id": "phone-1-empty",
+    "src": "/products/handy-dev/gallery/phone-1-empty.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Empty",
+      "vi": "phone 1 empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\dev\\phone-1-empty.png"
+  },
+  {
+    "slug": "handy-dev",
+    "id": "phone-10-cron",
+    "src": "/products/handy-dev/gallery/phone-10-cron.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 10 Cron",
+      "vi": "phone 10 cron"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\dev\\phone-10-cron.png"
+  },
+  {
+    "slug": "handy-dev",
+    "id": "phone-11-bases",
+    "src": "/products/handy-dev/gallery/phone-11-bases.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 11 Bases",
+      "vi": "phone 11 bases"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\dev\\phone-11-bases.png"
+  },
+  {
+    "slug": "handy-dev",
+    "id": "phone-12-url",
+    "src": "/products/handy-dev/gallery/phone-12-url.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Url",
+      "vi": "phone 12 url"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\dev\\phone-12-url.png"
+  },
+  {
+    "slug": "handy-docs",
+    "id": "desktop-1-desk",
+    "src": "/products/handy-docs/gallery/desktop-1-desk.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Desk",
+      "vi": "desktop 1 desk"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\docs\\desktop-1-desk.png"
+  },
+  {
+    "slug": "handy-docs",
+    "id": "desktop-14-read",
+    "src": "/products/handy-docs/gallery/desktop-14-read.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 14 Read",
+      "vi": "desktop 14 read"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\docs\\desktop-14-read.png"
+  },
+  {
+    "slug": "handy-docs",
+    "id": "phone-1-desk",
+    "src": "/products/handy-docs/gallery/phone-1-desk.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Desk",
+      "vi": "phone 1 desk"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\docs\\phone-1-desk.png"
+  },
+  {
+    "slug": "handy-docs",
+    "id": "phone-10-export",
+    "src": "/products/handy-docs/gallery/phone-10-export.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 10 Export",
+      "vi": "phone 10 export"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\docs\\phone-10-export.png"
+  },
+  {
+    "slug": "handy-docs",
+    "id": "phone-11-pdf-empty",
+    "src": "/products/handy-docs/gallery/phone-11-pdf-empty.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 11 Pdf Empty",
+      "vi": "phone 11 pdf empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\docs\\phone-11-pdf-empty.png"
+  },
+  {
+    "slug": "handy-docs",
+    "id": "phone-12-read",
+    "src": "/products/handy-docs/gallery/phone-12-read.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Read",
+      "vi": "phone 12 read"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\docs\\phone-12-read.png"
+  },
+  {
+    "slug": "handy-forms",
+    "id": "desktop-automations",
+    "src": "/products/handy-forms/gallery/desktop-automations.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1333,
+    "title": {
+      "en": "Desktop Automations",
+      "vi": "desktop automations"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\forms\\desktop-automations.png"
+  },
+  {
+    "slug": "handy-forms",
+    "id": "desktop-calendar",
+    "src": "/products/handy-forms/gallery/desktop-calendar.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1333,
+    "title": {
+      "en": "Desktop Calendar",
+      "vi": "desktop calendar"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\forms\\desktop-calendar.png"
+  },
+  {
+    "slug": "handy-forms",
+    "id": "phone-automations",
+    "src": "/products/handy-forms/gallery/phone-automations.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Automations",
+      "vi": "phone automations"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\forms\\phone-automations.png"
+  },
+  {
+    "slug": "handy-forms",
+    "id": "phone-calendar",
+    "src": "/products/handy-forms/gallery/phone-calendar.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Calendar",
+      "vi": "phone calendar"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\forms\\phone-calendar.png"
+  },
+  {
+    "slug": "handy-forms",
+    "id": "phone-cards",
+    "src": "/products/handy-forms/gallery/phone-cards.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Cards",
+      "vi": "phone cards"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\forms\\phone-cards.png"
+  },
+  {
+    "slug": "handy-forms",
+    "id": "phone-entry",
+    "src": "/products/handy-forms/gallery/phone-entry.webp",
+    "device": "mobile",
+    "width": 563,
+    "height": 1500,
+    "title": {
+      "en": "Phone Entry",
+      "vi": "phone entry"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\forms\\phone-entry.png"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-1-today",
+    "src": "/products/handy-habit/gallery/desktop-1-today.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Today",
+      "vi": "desktop 1 today"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\habit\\desktop-1-today.png"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-2-habits",
+    "src": "/products/handy-habit/gallery/desktop-2-habits.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 2 Habits",
+      "vi": "desktop 2 habits"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\habit\\desktop-2-habits.png"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "phone-1-today",
+    "src": "/products/handy-habit/gallery/phone-1-today.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Today",
+      "vi": "phone 1 today"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\habit\\phone-1-today.png"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "phone-10-runner",
+    "src": "/products/handy-habit/gallery/phone-10-runner.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 10 Runner",
+      "vi": "phone 10 runner"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\habit\\phone-10-runner.png"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "phone-11-runner-paused",
+    "src": "/products/handy-habit/gallery/phone-11-runner-paused.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 11 Runner Paused",
+      "vi": "phone 11 runner paused"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\habit\\phone-11-runner-paused.png"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "phone-12-settings",
+    "src": "/products/handy-habit/gallery/phone-12-settings.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Settings",
+      "vi": "phone 12 settings"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\habit\\phone-12-settings.png"
+  },
+  {
+    "slug": "handy-keep",
+    "id": "desktop-1-home",
+    "src": "/products/handy-keep/gallery/desktop-1-home.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Home",
+      "vi": "desktop 1 home"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\keep\\desktop-1-home.png"
+  },
+  {
+    "slug": "handy-keep",
+    "id": "desktop-11-editor",
+    "src": "/products/handy-keep/gallery/desktop-11-editor.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 11 Editor",
+      "vi": "desktop 11 editor"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\keep\\desktop-11-editor.png"
+  },
+  {
+    "slug": "handy-keep",
+    "id": "phone-1-home",
+    "src": "/products/handy-keep/gallery/phone-1-home.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Home",
+      "vi": "phone 1 home"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\keep\\phone-1-home.png"
+  },
+  {
+    "slug": "handy-keep",
+    "id": "phone-10-lend",
+    "src": "/products/handy-keep/gallery/phone-10-lend.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 10 Lend",
+      "vi": "phone 10 lend"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\keep\\phone-10-lend.png"
+  },
+  {
+    "slug": "handy-keep",
+    "id": "phone-12-menu",
+    "src": "/products/handy-keep/gallery/phone-12-menu.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Menu",
+      "vi": "phone 12 menu"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\keep\\phone-12-menu.png"
+  },
+  {
+    "slug": "handy-keep",
+    "id": "phone-13-lent",
+    "src": "/products/handy-keep/gallery/phone-13-lent.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 13 Lent",
+      "vi": "phone 13 lent"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\keep\\phone-13-lent.png"
+  },
+  {
+    "slug": "handy-media",
+    "id": "desktop-1-studio",
+    "src": "/products/handy-media/gallery/desktop-1-studio.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Studio",
+      "vi": "desktop 1 studio"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\media\\desktop-1-studio.png"
+  },
+  {
+    "slug": "handy-media",
+    "id": "desktop-11-settings",
+    "src": "/products/handy-media/gallery/desktop-11-settings.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 11 Settings",
+      "vi": "desktop 11 settings"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\media\\desktop-11-settings.png"
+  },
+  {
+    "slug": "handy-media",
+    "id": "phone-1-studio",
+    "src": "/products/handy-media/gallery/phone-1-studio.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Studio",
+      "vi": "phone 1 studio"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\media\\phone-1-studio.png"
+  },
+  {
+    "slug": "handy-media",
+    "id": "phone-12-studio-dark",
+    "src": "/products/handy-media/gallery/phone-12-studio-dark.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Studio Dark",
+      "vi": "phone 12 studio dark"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\media\\phone-12-studio-dark.png"
+  },
+  {
+    "slug": "handy-media",
+    "id": "phone-13-export-with-gif",
+    "src": "/products/handy-media/gallery/phone-13-export-with-gif.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 13 Export With Gif",
+      "vi": "phone 13 export with gif"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\media\\phone-13-export-with-gif.png"
+  },
+  {
+    "slug": "handy-media",
+    "id": "phone-14-gif-sheet",
+    "src": "/products/handy-media/gallery/phone-14-gif-sheet.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 14 Gif Sheet",
+      "vi": "phone 14 gif sheet"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\media\\phone-14-gif-sheet.png"
+  },
+  {
+    "slug": "handy-recall",
+    "id": "desktop-1-today",
+    "src": "/products/handy-recall/gallery/desktop-1-today.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Today",
+      "vi": "desktop 1 today"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\recall\\desktop-1-today.png"
+  },
+  {
+    "slug": "handy-recall",
+    "id": "desktop-19-anki-preview",
+    "src": "/products/handy-recall/gallery/desktop-19-anki-preview.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 19 Anki Preview",
+      "vi": "desktop 19 anki preview"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\recall\\desktop-19-anki-preview.png"
+  },
+  {
+    "slug": "handy-recall",
+    "id": "phone-1-today",
+    "src": "/products/handy-recall/gallery/phone-1-today.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Today",
+      "vi": "phone 1 today"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\recall\\phone-1-today.png"
+  },
+  {
+    "slug": "handy-recall",
+    "id": "phone-10-dark",
+    "src": "/products/handy-recall/gallery/phone-10-dark.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 10 Dark",
+      "vi": "phone 10 dark"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\recall\\phone-10-dark.png"
+  },
+  {
+    "slug": "handy-recall",
+    "id": "phone-11-empty",
+    "src": "/products/handy-recall/gallery/phone-11-empty.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 11 Empty",
+      "vi": "phone 11 empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\recall\\phone-11-empty.png"
+  },
+  {
+    "slug": "handy-recall",
+    "id": "phone-12-cloze",
+    "src": "/products/handy-recall/gallery/phone-12-cloze.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Cloze",
+      "vi": "phone 12 cloze"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\recall\\phone-12-cloze.png"
+  },
+  {
+    "slug": "handy-spend",
+    "id": "desktop-1-today",
+    "src": "/products/handy-spend/gallery/desktop-1-today.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Today",
+      "vi": "desktop 1 today"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\spend\\desktop-1-today.png"
+  },
+  {
+    "slug": "handy-spend",
+    "id": "desktop-2-ledger",
+    "src": "/products/handy-spend/gallery/desktop-2-ledger.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 2 Ledger",
+      "vi": "desktop 2 ledger"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\spend\\desktop-2-ledger.png"
+  },
+  {
+    "slug": "handy-spend",
+    "id": "phone-1-today",
+    "src": "/products/handy-spend/gallery/phone-1-today.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Today",
+      "vi": "phone 1 today"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\spend\\phone-1-today.png"
+  },
+  {
+    "slug": "handy-spend",
+    "id": "phone-10-settings",
+    "src": "/products/handy-spend/gallery/phone-10-settings.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 10 Settings",
+      "vi": "phone 10 settings"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\spend\\phone-10-settings.png"
+  },
+  {
+    "slug": "handy-spend",
+    "id": "phone-11-first-run",
+    "src": "/products/handy-spend/gallery/phone-11-first-run.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 11 First Run",
+      "vi": "phone 11 first run"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\spend\\phone-11-first-run.png"
+  },
+  {
+    "slug": "handy-spend",
+    "id": "phone-12-short",
+    "src": "/products/handy-spend/gallery/phone-12-short.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Short",
+      "vi": "phone 12 short"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\spend\\phone-12-short.png"
+  },
+  {
+    "slug": "handy-tools",
+    "id": "desktop-1-empty",
+    "src": "/products/handy-tools/gallery/desktop-1-empty.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 1 Empty",
+      "vi": "desktop 1 empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\tools\\desktop-1-empty.png"
+  },
+  {
+    "slug": "handy-tools",
+    "id": "desktop-10-salary",
+    "src": "/products/handy-tools/gallery/desktop-10-salary.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1200,
+    "title": {
+      "en": "Desktop 10 Salary",
+      "vi": "desktop 10 salary"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\tools\\desktop-10-salary.png"
+  },
+  {
+    "slug": "handy-tools",
+    "id": "phone-1-empty",
+    "src": "/products/handy-tools/gallery/phone-1-empty.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 1 Empty",
+      "vi": "phone 1 empty"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\tools\\phone-1-empty.png"
+  },
+  {
+    "slug": "handy-tools",
+    "id": "phone-10-salary",
+    "src": "/products/handy-tools/gallery/phone-10-salary.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 10 Salary",
+      "vi": "phone 10 salary"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\tools\\phone-10-salary.png"
+  },
+  {
+    "slug": "handy-tools",
+    "id": "phone-11-words",
+    "src": "/products/handy-tools/gallery/phone-11-words.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 11 Words",
+      "vi": "phone 11 words"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\tools\\phone-11-words.png"
+  },
+  {
+    "slug": "handy-tools",
+    "id": "phone-12-lunar",
+    "src": "/products/handy-tools/gallery/phone-12-lunar.webp",
+    "device": "mobile",
+    "width": 780,
+    "height": 1688,
+    "title": {
+      "en": "Phone 12 Lunar",
+      "vi": "phone 12 lunar"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\tools\\phone-12-lunar.png"
+  },
+  {
+    "slug": "handy-trip",
+    "id": "desktop-bookings",
+    "src": "/products/handy-trip/gallery/desktop-bookings.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1333,
+    "title": {
+      "en": "Desktop Bookings",
+      "vi": "desktop bookings"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\trip\\desktop-bookings.png"
+  },
+  {
+    "slug": "handy-trip",
+    "id": "desktop-exif",
+    "src": "/products/handy-trip/gallery/desktop-exif.webp",
+    "device": "desktop",
+    "width": 1920,
+    "height": 1333,
+    "title": {
+      "en": "Desktop Exif",
+      "vi": "desktop exif"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\trip\\desktop-exif.png"
+  },
+  {
+    "slug": "handy-trip",
+    "id": "phone-bookings",
+    "src": "/products/handy-trip/gallery/phone-bookings.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone Bookings",
+      "vi": "phone bookings"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\trip\\phone-bookings.png"
+  },
+  {
+    "slug": "handy-trip",
+    "id": "phone-exif",
+    "src": "/products/handy-trip/gallery/phone-exif.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone Exif",
+      "vi": "phone exif"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\trip\\phone-exif.png"
+  },
+  {
+    "slug": "handy-trip",
+    "id": "phone-expenses",
+    "src": "/products/handy-trip/gallery/phone-expenses.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone Expenses",
+      "vi": "phone expenses"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\trip\\phone-expenses.png"
+  },
+  {
+    "slug": "handy-trip",
+    "id": "phone-explore",
+    "src": "/products/handy-trip/gallery/phone-explore.webp",
+    "device": "mobile",
+    "width": 585,
+    "height": 1266,
+    "title": {
+      "en": "Phone Explore",
+      "vi": "phone explore"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\docs\\product-review\\evidence\\after\\trip\\phone-explore.png"
+  },
+  {
+    "slug": "handy-widget",
+    "id": "widget-native-theme",
+    "src": "/products/handy-widget/gallery/widget-native-theme.webp",
+    "device": "mobile",
+    "width": 934,
+    "height": 1920,
+    "title": {
+      "en": "Inside a theme",
+      "vi": "Trong một bộ giao diện"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\review-shots\\widget\\widget-native-theme.png"
+  },
+  {
+    "slug": "handy-widget",
+    "id": "widget-web-offline-editor",
+    "src": "/products/handy-widget/gallery/widget-web-offline-editor.webp",
+    "device": "desktop",
+    "width": 1280,
+    "height": 1000,
+    "title": {
+      "en": "Widget editor",
+      "vi": "Trình chỉnh sửa widget"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\review-shots\\widget\\widget-web-offline-editor.png"
+  },
+  {
+    "slug": "handy-widget",
+    "id": "widget-web-offline-typography",
+    "src": "/products/handy-widget/gallery/widget-web-offline-typography.webp",
+    "device": "desktop",
+    "width": 1280,
+    "height": 1000,
+    "title": {
+      "en": "Typography controls",
+      "vi": "Thiết lập kiểu chữ"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Handy-Suite\\review-shots\\widget\\widget-web-offline-typography.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "mode_wall",
+    "src": "/products/sticky-wall/gallery/mode_wall.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "The wall",
+      "vi": "Bức tường ghi chú"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\mode_wall.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "editor",
+    "src": "/products/sticky-wall/gallery/editor.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "Note editor",
+      "vi": "Soạn ghi chú"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\editor.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "drawing",
+    "src": "/products/sticky-wall/gallery/drawing.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "Drawing canvas",
+      "vi": "Bảng vẽ"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\drawing.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "mode_grid",
+    "src": "/products/sticky-wall/gallery/mode_grid.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "Grid view",
+      "vi": "Chế độ lưới"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\mode_grid.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "mode_list",
+    "src": "/products/sticky-wall/gallery/mode_list.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "List view",
+      "vi": "Chế độ danh sách"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\mode_list.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "night",
+    "src": "/products/sticky-wall/gallery/night.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "Night board",
+      "vi": "Bảng ghi chú ban đêm"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\night.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "photo_editor",
+    "src": "/products/sticky-wall/gallery/photo_editor.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "Photo editor",
+      "vi": "Chỉnh sửa ảnh"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\photo_editor.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "export",
+    "src": "/products/sticky-wall/gallery/export.webp",
+    "device": "mobile",
+    "width": 985,
+    "height": 1920,
+    "title": {
+      "en": "Export a memory",
+      "vi": "Xuất bảng kỷ niệm"
+    },
+    "kind": "screenshot",
+    "source": "OneDrive\\Documents\\Sticky-Wall\\screenshots\\export.png"
+  },
+  {
+    "slug": "sticky-wall",
+    "id": "landscape-wall",
+    "src": "/products/sticky-wall/gallery/landscape-wall.webp",
+    "device": "tablet",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Landscape Android wall",
+      "vi": "Bảng Android ngang"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\sticky-wall\\android-launch.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "workspace_production-export_v093",
+    "src": "/products/asset-forge-studio/gallery/workspace_production-export_v093.webp",
+    "device": "desktop",
+    "width": 1801,
+    "height": 1226,
+    "title": {
+      "en": "Production workbench",
+      "vi": "Bàn làm việc Production"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\workspace_production-export_v093.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "workspace_library-export_v093",
+    "src": "/products/asset-forge-studio/gallery/workspace_library-export_v093.webp",
+    "device": "desktop",
+    "width": 1801,
+    "height": 1226,
+    "title": {
+      "en": "Asset library",
+      "vi": "Thư viện tài sản"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\workspace_library-export_v093.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "ui_refinement_create",
+    "src": "/products/asset-forge-studio/gallery/ui_refinement_create.webp",
+    "device": "desktop",
+    "width": 1600,
+    "height": 1389,
+    "title": {
+      "en": "Create workspace",
+      "vi": "Không gian tạo tài sản"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\ui_refinement_create.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "ui_refinement_library",
+    "src": "/products/asset-forge-studio/gallery/ui_refinement_library.webp",
+    "device": "desktop",
+    "width": 1600,
+    "height": 1050,
+    "title": {
+      "en": "Library workspace",
+      "vi": "Không gian thư viện"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\ui_refinement_library.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "tower-front",
+    "src": "/products/asset-forge-studio/gallery/tower-front.webp",
+    "device": "desktop",
+    "width": 1425,
+    "height": 1515,
+    "title": {
+      "en": "Inspect the front",
+      "vi": "Kiểm tra mặt trước"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\tower_views_v092\\tower-front.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "tower-side",
+    "src": "/products/asset-forge-studio/gallery/tower-side.webp",
+    "device": "desktop",
+    "width": 1425,
+    "height": 1515,
+    "title": {
+      "en": "Inspect the side",
+      "vi": "Kiểm tra mặt bên"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\tower_views_v092\\tower-side.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "tower-back",
+    "src": "/products/asset-forge-studio/gallery/tower-back.webp",
+    "device": "desktop",
+    "width": 1425,
+    "height": 1515,
+    "title": {
+      "en": "Inspect the back",
+      "vi": "Kiểm tra mặt sau"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\tower_views_v092\\tower-back.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "studio_mobile",
+    "src": "/products/asset-forge-studio/gallery/studio_mobile.webp",
+    "device": "mobile",
+    "width": 317,
+    "height": 1920,
+    "title": {
+      "en": "Responsive web workspace",
+      "vi": "Workspace web trên màn hình nhỏ"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\studio_mobile.png"
+  },
+  {
+    "slug": "asset-forge-studio",
+    "id": "castle_full_native_v0917",
+    "src": "/products/asset-forge-studio/gallery/castle_full_native_v0917.webp",
+    "device": "desktop",
+    "width": 1441,
+    "height": 981,
+    "title": {
+      "en": "Native model inspection",
+      "vi": "Kiểm tra model trong ứng dụng"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\Asset-Forge-Studio\\docs\\evidence\\castle_full_native_v0917.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Combat-07",
+    "src": "/products/arcane-brigade/gallery/Combat-07.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "The brigade in combat",
+      "vi": "Tổ đội chiến đấu"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Combat-07.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Combat-17",
+    "src": "/products/arcane-brigade/gallery/Combat-17.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Through the halls",
+      "vi": "Qua các đấu trường"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Combat-17.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Boss-20",
+    "src": "/products/arcane-brigade/gallery/Boss-20.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Boss encounter",
+      "vi": "Đối đầu boss"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Boss-20.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Boss-10",
+    "src": "/products/arcane-brigade/gallery/Boss-10.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Another encounter",
+      "vi": "Một trận đấu khác"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Boss-10.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Shop-kind-eyes",
+    "src": "/products/arcane-brigade/gallery/Shop-kind-eyes.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Between battles",
+      "vi": "Giữa các trận đấu"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Shop-kind-eyes.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Shop-gentle-handoff",
+    "src": "/products/arcane-brigade/gallery/Shop-gentle-handoff.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "The next choice",
+      "vi": "Lựa chọn tiếp theo"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Shop-gentle-handoff.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Combat-01",
+    "src": "/products/arcane-brigade/gallery/Combat-01.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Enter the arena",
+      "vi": "Bước vào đấu trường"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Combat-01.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Combat-12",
+    "src": "/products/arcane-brigade/gallery/Combat-12.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Another formation",
+      "vi": "Một đội hình khác"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Combat-12.png"
+  },
+  {
+    "slug": "arcane-brigade",
+    "id": "Boss-15",
+    "src": "/products/arcane-brigade/gallery/Boss-15.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Meet the next boss",
+      "vi": "Gặp boss tiếp theo"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\arcane-brigade\\Boss-15.png"
+  },
+  {
+    "slug": "aetherward",
+    "id": "preparation",
+    "src": "/products/aetherward/gallery/preparation.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Choose the formation",
+      "vi": "Sắp xếp đội hình"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\aetherward\\preparation.png"
+  },
+  {
+    "slug": "aetherward",
+    "id": "battle",
+    "src": "/products/aetherward/gallery/battle.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Guard the crystal",
+      "vi": "Bảo vệ pha lê"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\aetherward\\battle.png"
+  },
+  {
+    "slug": "aetherward",
+    "id": "battle-late",
+    "src": "/products/aetherward/gallery/battle-late.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Elemental combat",
+      "vi": "Chiến đấu nguyên tố"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\aetherward\\battle-late.png"
+  },
+  {
+    "slug": "forgebound",
+    "id": "01_title",
+    "src": "/products/forgebound/gallery/01_title.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "At the forge",
+      "vi": "Tại lò rèn"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\forgebound\\01_title.png"
+  },
+  {
+    "slug": "forgebound",
+    "id": "02_forgemaster_select",
+    "src": "/products/forgebound/gallery/02_forgemaster_select.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Choose a forgemaster",
+      "vi": "Chọn thợ rèn"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\forgebound\\02_forgemaster_select.png"
+  },
+  {
+    "slug": "forgebound",
+    "id": "03_map",
+    "src": "/products/forgebound/gallery/03_map.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Plan the journey",
+      "vi": "Lên đường"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\forgebound\\03_map.png"
+  },
+  {
+    "slug": "forgebound",
+    "id": "04_forge",
+    "src": "/products/forgebound/gallery/04_forge.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "The Forge Board",
+      "vi": "Bảng rèn vũ khí"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\forgebound\\04_forge.png"
+  },
+  {
+    "slug": "forgebound",
+    "id": "06_battle_mid",
+    "src": "/products/forgebound/gallery/06_battle_mid.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Put the build to work",
+      "vi": "Đưa vũ khí vào trận"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\forgebound\\06_battle_mid.png"
+  },
+  {
+    "slug": "forgebound",
+    "id": "08_workshop",
+    "src": "/products/forgebound/gallery/08_workshop.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Back in the workshop",
+      "vi": "Trở về xưởng"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\forgebound\\08_workshop.png"
+  },
+  {
+    "slug": "runavelle",
+    "id": "day",
+    "src": "/products/runavelle/gallery/day.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "A kingdom by day",
+      "vi": "Vương quốc ban ngày"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\runavelle\\day.png"
+  },
+  {
+    "slug": "runavelle",
+    "id": "day_close",
+    "src": "/products/runavelle/gallery/day_close.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Closer to the kingdom",
+      "vi": "Ghé gần vương quốc"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\runavelle\\day_close.png"
+  },
+  {
+    "slug": "runavelle",
+    "id": "day_hud",
+    "src": "/products/runavelle/gallery/day_hud.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Daytime gameplay",
+      "vi": "Gameplay ban ngày"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\runavelle\\day_hud.png"
+  },
+  {
+    "slug": "runavelle",
+    "id": "night",
+    "src": "/products/runavelle/gallery/night.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Hold through the night",
+      "vi": "Giữ vững qua đêm"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\runavelle\\night.png"
+  },
+  {
+    "slug": "runavelle",
+    "id": "night_hud",
+    "src": "/products/runavelle/gallery/night_hud.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Nighttime gameplay",
+      "vi": "Gameplay ban đêm"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\runavelle\\night_hud.png"
+  },
+  {
+    "slug": "autonomous-creative-studio",
+    "id": "runtime-0",
+    "src": "/products/autonomous-creative-studio/gallery/runtime-0.webp",
+    "device": "desktop",
+    "width": 1600,
+    "height": 1000,
+    "title": {
+      "en": "Creative workspace",
+      "vi": "Không gian sáng tạo"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\autonomous-creative-studio\\runtime-0.png"
+  },
+  {
+    "slug": "autonomous-creative-studio",
+    "id": "runtime-1",
+    "src": "/products/autonomous-creative-studio/gallery/runtime-1.webp",
+    "device": "desktop",
+    "width": 1600,
+    "height": 1000,
+    "title": {
+      "en": "Create a project",
+      "vi": "Tạo dự án"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\autonomous-creative-studio\\runtime-1.png"
+  },
+  {
+    "slug": "autonomous-creative-studio",
+    "id": "runtime-2",
+    "src": "/products/autonomous-creative-studio/gallery/runtime-2.webp",
+    "device": "desktop",
+    "width": 1600,
+    "height": 1000,
+    "title": {
+      "en": "Model workspace",
+      "vi": "Không gian model"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\product-captures\\autonomous-creative-studio\\runtime-2.png"
+  },
+  {
+    "slug": "machine-brigade",
+    "id": "android-gles",
+    "src": "/products/machine-brigade/gallery/android-gles.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Deployment screen",
+      "vi": "Màn hình triển khai"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\rework\\machine-brigade\\android-gles.png"
+  },
+  {
+    "slug": "machine-brigade",
+    "id": "android-deploy",
+    "src": "/products/machine-brigade/gallery/android-deploy.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Deploy into battle",
+      "vi": "Triển khai vào trận"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\rework\\machine-brigade\\android-deploy.png"
+  },
+  {
+    "slug": "machine-brigade",
+    "id": "android-battle",
+    "src": "/products/machine-brigade/gallery/android-battle.webp",
+    "device": "gameplay",
+    "width": 1920,
+    "height": 1080,
+    "title": {
+      "en": "Android gameplay",
+      "vi": "Gameplay Android"
+    },
+    "kind": "screenshot",
+    "source": "Projects\\winka-studio\\.review\\rework\\machine-brigade\\android-battle.png"
+  }
+]

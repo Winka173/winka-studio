@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-08",
+  "routes": 39,
+  "cases": 156,
+  "errors": [],
+  "axeViolations": [],
+  "flows": [
+    "Real screenshot gallery: platform filters, expanded views, modal, arrow keys, Escape and native focus restoration",
+    "Forge source view switching; Arcane combat/shop switch; keyboard-operable real day/night screenshot comparison",
+    "Four projects in native document flow, anchor navigation, wheel movement, client navigation and localized path preservation",
+    "Mobile menu, Escape dismissal, product catalogue search and reset",
+    "Original WebGL compiles and draws; global pause freezes canvas and CSS, then resumes",
+    "WebGL context loss leaves CSS artwork fallback and readable content",
+    "Actual native-frame gameplay decodes and plays; global pause stops video time",
+    "Reduced-motion renders a still shader including after resize and does not download/autoplay videos",
+    "Direct static 404"
+  ],
+  "kitChecks": [
+    "All twelve supplied legal documents preserve every rendered word in order; no generic draft replaces them.",
+    "Progressive gallery reaches every supplied screen; English screenshots and Pro badges remain correct, including full-size viewing.",
+    "Required authors and Creative Commons licenses are present and reachable from the gallery and footer.",
+    "Localized Bookmark UI render, native Sticky recording and Arcane trailer decode, play muted and honor their pause controls.",
+    "The full trailer waits for explicit play; audio is never autoplayed."
+  ],
+  "legalDocuments": [
+    "/en/apps/handy-bookmark/privacy/",
+    "/en/apps/handy-bookmark/terms/",
+    "/vi/apps/handy-bookmark/privacy/",
+    "/vi/apps/handy-bookmark/terms/",
+    "/en/apps/sticky-wall/privacy/",
+    "/en/apps/sticky-wall/terms/",
+    "/vi/apps/sticky-wall/privacy/",
+    "/vi/apps/sticky-wall/terms/",
+    "/en/games/arcane-brigade/privacy/",
+    "/en/games/arcane-brigade/terms/",
+    "/vi/games/arcane-brigade/privacy/",
+    "/vi/games/arcane-brigade/terms/"
+  ],
+  "finalTargeted": {
+    "cases": 24,
+    "errors": [],
+    "axeViolations": []
+  },
+  "activeScreenshots": 689,
+  "newKitScreenshots": 585,
+  "importedKitFilms": 49,
+  "verifiedSupportEmail": "apps.winka.studio@gmail.com"
+}

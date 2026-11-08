@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-08",
+  "implementation": "Native project scroll, hero light ribbons and source-grounded product guides",
+  "routes": 31,
+  "routeViewportCases": 124,
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "errors": [],
+  "axeViolations": [],
+  "images": 133,
+  "productsWithGalleries": 22,
+  "films": [
+    {
+      "slug": "sticky-wall",
+      "decoded": true,
+      "duration": "00:00:07.30"
+    },
+    {
+      "slug": "handy-bookmark",
+      "decoded": true,
+      "duration": "00:00:02.50"
+    },
+    {
+      "slug": "aetherward",
+      "decoded": true,
+      "duration": "00:00:08.00"
+    },
+    {
+      "slug": "arcane-brigade",
+      "decoded": true,
+      "duration": "00:00:06.00"
+    }
+  ],
+  "flows": [
+    "Real screenshot gallery: platform filters, expanded views, modal, arrow keys, Escape and native focus restoration",
+    "Forge source view switching; Arcane combat/shop switch; keyboard-operable real day/night screenshot comparison",
+    "Four projects in native document flow, anchor navigation, wheel movement, client navigation and localized path preservation",
+    "Mobile menu, Escape dismissal, product catalogue search and reset",
+    "Original WebGL compiles and draws; global pause freezes canvas and CSS, then resumes",
+    "WebGL context loss leaves CSS artwork fallback and readable content",
+    "Actual native-frame gameplay decodes and plays; global pause stops video time",
+    "Reduced-motion renders a still shader including after resize and does not download/autoplay videos",
+    "Direct static 404"
+  ],
+  "productGuides": 22,
+  "sourceReferencesResolved": 58
+}

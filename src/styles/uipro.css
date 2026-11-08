@@ -1,0 +1,444 @@
+.site--uipro {
+  --scheme: dark;
+  --bg: #151719;
+  --surface: #202326;
+  --raised: #292d30;
+  --ink: #f4f2ec;
+  --muted: #aab0b3;
+  --line: #3d4245;
+  --accent: #f1eee5;
+  --on-accent: #151719;
+  --display: Archivo, sans-serif;
+  color-scheme: dark;
+}
+.site--uipro[data-preference="light"] {
+  --scheme: light;
+  --bg: #f2f1ec;
+  --surface: #e5e5df;
+  --raised: #fff;
+  --ink: #191d21;
+  --muted: #5b6368;
+  --line: #c9ccc7;
+  --accent: #272d30;
+  --on-accent: #fff;
+}
+.site--uipro .wordmark-studio {
+  display: inline;
+  margin-left: 5px;
+  font-size: 24px;
+  letter-spacing: -1px;
+  font-weight: 500;
+}
+.site--uipro .brand-mark {
+  display: none;
+}
+.site--uipro .button {
+  background: var(--ink);
+  color: var(--bg);
+  border-radius: 0;
+}
+.site--uipro .header-cta {
+  border-radius: 0;
+}
+.site--uipro .icon-button {
+  border-radius: 0;
+}
+.cinema-hero {
+  padding-top: 40px;
+  padding-bottom: 110px;
+}
+.cinema-topline {
+  display: flex;
+  justify-content: space-between;
+  color: var(--muted);
+  font-size: 11px;
+}
+.cinema-hero h1 {
+  font:
+    500 clamp(72px, 10vw, 148px)/0.96 Archivo,
+    sans-serif;
+  letter-spacing: -8px;
+  margin-top: 60px;
+}
+.cinema-hero h1 > span {
+  color: var(--muted);
+}
+.cinema-hero-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 64px;
+  margin: 40px 0 56px;
+}
+.cinema-hero-bottom p {
+  font-size: 15px;
+  line-height: 1.8;
+  max-width: 420px;
+  color: var(--muted);
+}
+.cinema-hero-bottom .button {
+  margin-left: auto;
+}
+.cinema-scroll {
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--muted);
+}
+.cinema-filmstrip {
+  display: grid;
+  grid-template-columns: 1.62fr 1fr;
+  gap: 24px;
+}
+.cinema-filmstrip > a {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  background: #24282b;
+}
+.cinema-filmstrip img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.45s;
+}
+.cinema-filmstrip > a:hover img {
+  transform: scale(1.025);
+}
+.filmstrip-main {
+  aspect-ratio: 1.78;
+}
+.filmstrip-side {
+  aspect-ratio: 1.1;
+}
+.cinema-filmstrip > a > div {
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  background: #121718f2;
+  color: #f4f2ec;
+  padding: 16px 20px;
+}
+.cinema-work {
+  padding-bottom: 100px;
+}
+.cinema-section-title {
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  padding-bottom: 32px;
+  border-bottom: 1px solid var(--line);
+}
+.cinema-section-title > span {
+  font-size: 12px;
+  color: var(--muted);
+  min-width: 50px;
+}
+.cinema-section-title h2 {
+  font:
+    500 34px/1.1 Archivo,
+    sans-serif;
+  letter-spacing: -1px;
+}
+.cinema-work-row {
+  display: grid;
+  grid-template-columns: 50px 1fr 300px 40px;
+  gap: 64px;
+  align-items: center;
+  padding: 32px 0;
+  border-bottom: 1px solid var(--line);
+  transition: padding 0.25s;
+}
+.cinema-work-row:hover {
+  padding-inline: 12px;
+}
+.cinema-row-number {
+  font-size: 12px;
+  color: var(--muted);
+}
+.cinema-row-copy > span:first-child {
+  font-size: 11px;
+  color: var(--muted);
+}
+.cinema-row-copy h3 {
+  font:
+    500 34px/1.08 Archivo,
+    sans-serif;
+  letter-spacing: -1.5px;
+  margin: 14px 0 20px;
+}
+.cinema-row-preview {
+  aspect-ratio: 1.6;
+  overflow: hidden;
+}
+.cinema-row-preview img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+.cinema-work-row:hover img {
+  transform: scale(1.03);
+}
+.cinema-row-0 img {
+  object-fit: contain;
+  background: #d9e6db;
+  padding: 14px;
+}
+.cinema-games {
+  background: var(--surface);
+  padding: 100px 0;
+}
+.cinema-games-copy {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 28px 64px;
+  justify-content: space-between;
+}
+.cinema-games h2 {
+  font:
+    500 70px/0.98 Archivo,
+    sans-serif;
+  letter-spacing: -3.5px;
+  max-width: 600px;
+}
+.cinema-games-copy p {
+  font-size: 14px;
+  line-height: 1.8;
+  max-width: 320px;
+  color: var(--muted);
+}
+.cinema-game-grid {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 32px;
+  margin-top: 56px;
+}
+.cinema-game-grid > a img {
+  width: 100%;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+.cinema-game-grid > a > span {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  padding-top: 20px;
+}
+.game-name-poster {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 28px 32px;
+  background: var(--bg);
+}
+.game-name-poster > span {
+  font-size: 11px;
+  color: var(--muted);
+  padding-bottom: 24px;
+}
+.game-name-poster > a {
+  font:
+    500 27px/1.2 Archivo,
+    sans-serif;
+  letter-spacing: -1px;
+  min-height: 54px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--line);
+}
+.game-name-poster > a:hover {
+  color: var(--muted);
+}
+.cinema-close {
+  padding: 110px 0;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 24px;
+}
+.cinema-close > span {
+  grid-column: 1/-1;
+  font-size: 12px;
+  color: var(--muted);
+}
+.cinema-close h2 {
+  font:
+    500 80px/1 Archivo,
+    sans-serif;
+  letter-spacing: -4px;
+}
+.cinema-close .arrow-link {
+  align-self: end;
+}
+.cinema-hero h1 {
+  animation: hero-arrive 0.8s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.cinema-filmstrip {
+  animation: hero-arrive 0.8s 0.1s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+@media (max-width: 1100px) {
+  .cinema-hero h1 {
+    letter-spacing: -5px;
+  }
+  .cinema-work-row {
+    grid-template-columns: 30px 1fr 230px 30px;
+    gap: 28px;
+  }
+  .cinema-row-copy h3 {
+    font-size: 28px;
+  }
+  .cinema-section-title {
+    gap: 28px;
+  }
+  .cinema-games h2 {
+    font-size: 54px;
+    max-width: 440px;
+  }
+  .cinema-scroll {
+    display: none;
+  }
+  .cinema-close h2 {
+    font-size: 64px;
+  }
+  .cinema-game-grid {
+    gap: 24px;
+  }
+  .game-name-poster {
+    padding: 24px;
+  }
+  .game-name-poster > a {
+    font-size: 23px;
+  }
+}
+@media (max-width: 760px) {
+  .cinema-hero {
+    padding-top: 28px;
+    padding-bottom: 64px;
+  }
+  .cinema-topline {
+    font-size: 10px;
+  }
+  .cinema-topline > span:last-child {
+    display: none;
+  }
+  .cinema-hero h1 {
+    font-size: clamp(43px, 10.7vw, 76px);
+    letter-spacing: -2.7px;
+    margin-top: 40px;
+    line-height: 1.05;
+  }
+  .cinema-hero-bottom {
+    flex-wrap: wrap;
+    gap: 24px;
+    margin: 28px 0 36px;
+  }
+  .cinema-hero-bottom p {
+    font-size: 14px;
+    max-width: 100%;
+  }
+  .cinema-hero-bottom .button {
+    margin-left: 0;
+    width: 100%;
+  }
+  .cinema-filmstrip {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .filmstrip-side {
+    display: none !important;
+  }
+  .cinema-filmstrip > a > div {
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
+    padding: 10px 12px;
+    font-size: 12px;
+  }
+  .cinema-section-title {
+    gap: 20px;
+    padding-bottom: 24px;
+  }
+  .cinema-section-title h2 {
+    font-size: 26px;
+  }
+  .cinema-section-title > span {
+    font-size: 10px;
+    min-width: 32px;
+  }
+  .cinema-work-row {
+    grid-template-columns: 32px 1fr 24px;
+    gap: 20px;
+    padding: 26px 0;
+  }
+  .cinema-row-copy h3 {
+    font-size: 25px;
+    margin: 10px 0 14px;
+  }
+  .cinema-row-preview {
+    grid-column: 2;
+    grid-row: 2;
+    width: 100%;
+    max-height: 170px;
+  }
+  .cinema-row-arrow {
+    grid-column: 3;
+    grid-row: 1;
+    width: 24px;
+  }
+  .cinema-row-number {
+    align-self: start;
+    padding-top: 4px;
+  }
+  .cinema-row-copy > span:first-child {
+    font-size: 10px;
+  }
+  .cinema-work {
+    padding-bottom: 64px;
+  }
+  .cinema-games {
+    padding: 64px 0;
+  }
+  .cinema-games h2 {
+    font-size: 48px;
+    letter-spacing: -2px;
+    max-width: 100%;
+  }
+  .cinema-games-copy {
+    gap: 24px;
+  }
+  .cinema-games-copy p {
+    max-width: 100%;
+    font-size: 14px;
+  }
+  .cinema-game-grid {
+    grid-template-columns: 1fr;
+    margin-top: 32px;
+    gap: 32px;
+  }
+  .game-name-poster {
+    padding: 24px;
+    gap: 12px;
+  }
+  .game-name-poster > a {
+    font-size: 25px;
+  }
+  .cinema-close {
+    padding: 64px 0;
+    grid-template-columns: 1fr;
+  }
+  .cinema-close h2 {
+    font-size: 52px;
+    letter-spacing: -2px;
+  }
+  .cinema-close .arrow-link {
+    justify-self: start;
+  }
+}

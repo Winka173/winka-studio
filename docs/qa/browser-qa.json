@@ -1,0 +1,277 @@
+{
+  "pages": [
+    {
+      "url": "/review/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/review/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/review/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/addy/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/addy/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/addy/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/uipro/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/uipro/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/uipro/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/gstack/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/gstack/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/directions/gstack/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/addy/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/addy/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/addy/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/uipro/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/uipro/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/uipro/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/gstack/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/gstack/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/directions/gstack/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/apps/handy-bookmark/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/apps/handy-bookmark/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/apps/handy-bookmark/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/apps/sticky-wall/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/apps/sticky-wall/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/apps/sticky-wall/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/apps/sticky-wall/privacy/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/apps/sticky-wall/privacy/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/vi/apps/sticky-wall/privacy/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/apps/",
+      "width": 360,
+      "scroll": 360,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/apps/",
+      "width": 768,
+      "scroll": 768,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    },
+    {
+      "url": "/en/apps/",
+      "width": 1440,
+      "scroll": 1440,
+      "broken": [],
+      "headings": 1,
+      "externalRequests": []
+    }
+  ],
+  "checks": [
+    "Search, clear, family and completion filters, no-results state",
+    "Theme toggle and persistence; language switch preserves product path",
+    "Mobile navigation open/close; source-specific FAQ disclosure",
+    "Keyboard skip link; reduced-motion disables authored hero animation",
+    "Custom directly served 404"
+  ],
+  "errors": [],
+  "violations": []
+}

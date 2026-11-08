@@ -1,0 +1,114 @@
+[
+  {
+    "file": "/products/aetherward/runtime-battle.webp",
+    "capturedFrom": ".review\\product-captures\\aetherward\\battle.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/forgebound/runtime-title.webp",
+    "capturedFrom": ".review\\product-captures\\forgebound\\01_title.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/forgebound/runtime-forge.webp",
+    "capturedFrom": ".review\\product-captures\\forgebound\\04_forge.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/forgebound/runtime-combat.webp",
+    "capturedFrom": ".review\\product-captures\\forgebound\\06_battle_mid.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/runavelle/runtime-day.webp",
+    "capturedFrom": ".review\\product-captures\\runavelle\\day.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/runavelle/runtime-night.webp",
+    "capturedFrom": ".review\\product-captures\\runavelle\\night.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/arcane-brigade/runtime-combat.webp",
+    "capturedFrom": ".review\\product-captures\\arcane-brigade\\Combat-07.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/arcane-brigade/runtime-boss.webp",
+    "capturedFrom": ".review\\product-captures\\arcane-brigade\\Boss-20.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/arcane-brigade/runtime-shop.webp",
+    "capturedFrom": ".review\\product-captures\\arcane-brigade\\Shop-kind-eyes.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/sticky-wall/runtime-wall.webp",
+    "capturedFrom": ".review\\product-captures\\sticky-wall\\android-launch.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/handy-bookmark/runtime-onboarding.webp",
+    "capturedFrom": ".review\\product-captures\\handy-bookmark\\android-launch.png",
+    "width": 1920,
+    "height": 1080,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/autonomous-creative-studio/runtime-home.webp",
+    "capturedFrom": ".review\\product-captures\\autonomous-creative-studio\\runtime-0.png",
+    "width": 1600,
+    "height": 1000,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/autonomous-creative-studio/runtime-create.webp",
+    "capturedFrom": ".review\\product-captures\\autonomous-creative-studio\\runtime-1.png",
+    "width": 1600,
+    "height": 1000,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  },
+  {
+    "file": "/products/asset-forge-studio/runtime-home.webp",
+    "capturedFrom": ".review\\product-captures\\asset-forge-studio\\runtime-0.png",
+    "width": 1600,
+    "height": 1000,
+    "kind": "actual runtime screenshot",
+    "capturedOn": "2026-11-08"
+  }
+]

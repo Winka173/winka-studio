@@ -1,0 +1,6 @@
+[
+  {"check":"button-styles","target":"(the page)","reason":"The cyan statement is an intentional inverse palette surface. Its closing primary action is the same Action component with foreground/background roles exchanged so that the control remains visible; shape, typography and interaction stay consistent."},
+  {"check":"motion-layer","target":"html[data-motion]","reason":"The original unchanged motion.css is imported by Next and is present in the generated hashed CSS. The native detector looks for a literal motion.css stylesheet URL; native .btn hover/press rules and the original motion.js are active."},
+  {"check":"container-edges","target":"div.site.site--taste","reason":"This is the React theme wrapper for four user-requested review directions. It contains the semantic header, main and footer with a shared measured wrap, and has no visual box or off-grid content of its own. It replaces the standalone starter body shell without changing content edges."},
+  {"check":"hero-lines","target":"section.hero h1","reason":"The actual final headline Apps. Games. By Winka. fits two desktop lines; its Vietnamese translation was inspected at phone width. The skill explicitly permits waiving its synthetic 45-character stress headline when fixed final copy fits; the dealt Funnel pairing is retained."}
+]

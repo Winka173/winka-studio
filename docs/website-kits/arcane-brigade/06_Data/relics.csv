@@ -1,0 +1,1542 @@
+﻿name,description,art
+Key Oil,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Damage: +12%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/key-oil.png
+Clock Spring,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Attack speed: +12%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/clock-spring.png
+Honey Pot,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Maximum health: +15
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/honey-pot.png
+Felt Boots,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Movement speed: +22%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/felt-boots.png
+Coin Compass,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Pickup radius: +1.6
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/coin-compass.png
+Wandering Map,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Patrol radius: +1
+Run / Pickup radius: +0.8
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/wandering-map.png
+Guardian Canopy,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Run / Companion bullet interception: +1
+Companions / Attack speed: +15%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/guardian-canopy.png
+Warm Tea,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Healing per second: +0.8
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/warm-tea.png
+Oracle Lens,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Critical chance: +20%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/oracle-lens.png
+Twin Seal,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Team / Projectile count: +1
+Team / Attack speed: -10%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/twin-seal.png
+Piggy Mail,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Interest cap: +4
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/piggy-mail.png
+Pillow Mail,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Armor: +0.15
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/pillow-mail.png
+Royal Key,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Damage: +36%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/royal-key.png
+Brigade Banner,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Companions / Damage: +32%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/brigade-banner.png
+Marching Bell,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Companions / Attack speed: +30%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/marching-bell.png
+Coupon Book,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Gold shop discount: +8%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/coupon-book.png
+Long Atlas,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Run / Patrol radius: +2
+Team / Attack range: +32%
+Team / Movement speed: -4%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/long-atlas.png
+Starlight Quilt,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Maximum health: +50
+
+SPECIAL EFFECT
+Once per wave, a blow that would defeat the hero leaves 1 HP and 1.5s of safety instead.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/starlight-quilt.png
+Echo Postage,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Team / Projectile count: +2
+Team / Attack speed: -30%
+
+SPECIAL EFFECT
+A friend's basic attack that defeats an enemy echoes onward: the nearest enemy takes half that weapon's damage (0.2s cooldown).
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/echo-postage.png
+Tarnished Crown,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Damage: +60%
+
+SPECIAL EFFECT
+Every 8th hit of the hero is a royal blow: triple damage.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/tarnished-crown.png
+Fortune Sand,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Luck: +0.3
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/fortune-sand.png
+Treasure Whisper,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Run / Treasure detection: +1
+Run / Luck: +0.25
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/treasure-whisper.png
+Coin Salve,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+TRIGGER: CoinCollected / 100% chance / 0.2s cooldown. Heal hero 0.5 per stack; radius 0.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/coin-salve.png
+Chest Thunder,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+TRIGGER: ChestOpened / 100% chance / 1s cooldown. Damage pulse 14 per stack; radius 3.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/chest-thunder.png
+Altar Ember,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Damage: +50%
+Team / Movement speed: -4%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/altar-ember.png
+Harvest Receipt,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Pickup radius: -0.15
+
+WEAPON SYNERGY
+Requires a bell signature weapon within 6 units. Collecting a coin advances its bell beat, up to 2 steps; shared 0.35s cooldown.
+
+Owned effective copies: 1. Stack limit: 2. Values apply before combat limits.",07_Art/relics/harvest-receipt.png
+Reflective Ink,"CURIO / UNCOMMON / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+WEAPON SYNERGY
+Stamp hits add 2 marks instead of 1, but mark lifetime is 65% of normal. Stamp exposure and marked-target synergies remain active.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/reflective-ink.png
+Carbon Ribbon,"CURIO / RARE / UNIQUE
+
+WHILE OWNED / per copy
+Team / Critical chance: -4%
+
+WEAPON SYNERGY
+A stamp burst attracts coins within 2.5 units of its target. Bell pulses expose surviving targets for 1.5s. Presence effect; requires matching stamp/bell attacks.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/carbon-ribbon.png
+Office Lens,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Companions / Critical chance: +24%
+Companions / Attack speed: -5%
+
+WEAPON SYNERGY
+Critical hits on an exposed enemy gain a separate damage multiplier: 1.25 + min(0.25,0.05 times stacks). Requires exposure and a critical hit.
+
+Owned effective copies: 1. Stack limit: 5. Values apply before combat limits.",07_Art/relics/office-lens.png
+Tea Coaster,"CURIO / UNCOMMON / UNIQUE
+
+WHILE OWNED / per copy
+Team / Movement speed: -2%
+
+WEAPON SYNERGY
+Tea projectile trails have 40% more radius but deal 20% less trail damage. Presence effect; extra copies do not multiply trail size again.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/tea-coaster.png
+Scratch Record,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Attack speed: -4%
+
+WEAPON SYNERGY
+Music-box hits add a delayed echo after 0.3s, damage min(70%,35% times stacks). Bell pulses also add up to 50% extra damage against marked survivors.
+
+Owned effective copies: 1. Stack limit: 2. Values apply before combat limits.",07_Art/relics/scratch-record.png
+Treasure Ribbon,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Damage: -3%
+
+WEAPON SYNERGY
+Opening a chest heals 3 HP per stack and empowers bow-motion hits for 4s: up to +45% damage, +15% per stack.
+
+Owned effective copies: 1. Stack limit: 3. Values apply before combat limits.",07_Art/relics/treasure-ribbon.png
+Patch Spring,"CURIO / UNCOMMON / UNIQUE
+
+WHILE OWNED / per copy
+Companions / Attack speed: -6%
+
+WEAPON SYNERGY
+Every 3s, automatically add one charge to each charging arena toy. Normal warning and cooldown rules still apply. Presence effect; extra copies do not speed it up.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/patch-spring.png
+Thermal Ink,"CURIO / UNCOMMON / UNIQUE
+
+WHILE OWNED / per copy
+Team / Critical chance: -3%
+
+WEAPON SYNERGY
+A hot trail touching a marked enemy adds a 40%-trail-damage strike, with a 0.9s cooldown per target.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/thermal-ink.png
+Repair Coupon,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Pickup radius: -0.1
+
+WEAPON SYNERGY
+An arena-toy credited kill heals 1 HP per stack, shared 0.6s cooldown. Ordinary basic kills do not activate this effect.
+
+Owned effective copies: 1. Stack limit: 3. Values apply before combat limits.",07_Art/relics/repair-coupon.png
+Contract · Touch damage,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Collision damage: +12
+Champion / Maximum health: -5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-touch-damage.png
+Contract · Melee damage,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Flat melee damage: +7
+Champion / Maximum health: -6
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-melee-damage.png
+Contract · Ranged damage,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Flat ranged damage: +7
+Champion / Maximum health: -6
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-ranged-damage.png
+Contract · Attack range,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Attack range: +30%
+Champion / Maximum health: -5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-attack-range.png
+Contract · Dodge,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Dodge: +24%
+Champion / Maximum health: -6
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-dodge.png
+Contract · Gold per wave,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Income: +5
+Champion / Maximum health: -5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-gold-per-wave.png
+Contract · Pierce,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Bullet pierce: +2
+Champion / Maximum health: -8
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-pierce.png
+Contract · Split shots,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Bullet split: +2
+Champion / Maximum health: -8
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-split-shots.png
+Contract · Bounce chance,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Bullet bounce chance: +65%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-bounce-chance.png
+Contract · Shot size,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Bullet size: +80%
+Champion / Maximum health: -2
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-shot-size.png
+Contract · Shot speed,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Bullet speed: +50%
+Team / Bullet travel distance: +50%
+Team / Attack range: +20%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-shot-speed.png
+Contract · Shot range,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Bullet travel distance: +60%
+Team / Attack range: +14%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-shot-range.png
+Contract · Knockback,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Knockback: +50%
+Team / Collision damage: +6
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-knockback.png
+Contract · Hero size,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Champion size: +12%
+Champion / Maximum health: +15
+Champion / Collision damage: +4
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-hero-size.png
+Contract · Friend size,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Companions / Companion size: +12%
+Companions / Damage: +25%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-friend-size.png
+Contract · Enemy count,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Enemy count: +10%
+Run / Income: +6
+Champion / Maximum health: -5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-enemy-count.png
+Contract · Enemy HP,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Enemy health: +10%
+Run / Income: +6
+Champion / Maximum health: -6
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-enemy-hp.png
+Contract · Enemy speed,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Enemy speed: +10%
+Run / Income: +6
+Champion / Maximum health: -5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-enemy-speed.png
+Contract · Heart healing,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Heart healing: +8
+Champion / Maximum health: -2
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-heart-healing.png
+Contract · Chest gold,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Chest quality: +60%
+Run / Treasure detection: +0.5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-chest-gold.png
+Contract · Friend discount,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Recruit discount: +16%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-friend-discount.png
+Contract · Relic discount,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Relic discount: +13%
+Champion / Maximum health: -5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-relic-discount.png
+Contract · Rarer offers,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Shop rarity: +32%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-rarer-offers.png
+Contract · Final max HP,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Health correction: +20%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-final-max-hp.png
+Contract · Final damage,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Damage correction: +14%
+Champion / Maximum health: -5
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-final-damage.png
+Contract · Final move speed,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Speed correction: +35%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-final-move-speed.png
+Contract · Final armor,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Armor correction: +40%
+Champion / Armor: +0.07
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-final-armor.png
+Contract · Final healing,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Healing correction: +60%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-final-healing.png
+Contract · Touch hit rate,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Collision frequency: +60%
+Team / Collision damage: +4
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/contract-touch-hit-rate.png
+Long Pocket,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Chest opening radius: +80%
+Run / Treasure detection: +0.6
+Run / Pickup radius: +0.6
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/long-pocket.png
+Velvet First Aid,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Treasure detection: +0.8
+Champion / Movement speed: -2%
+
+TRIGGER: ChestOpened / 100% chance / 2s cooldown. Heal hero 4 per stack; radius 1.8.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/velvet-first-aid.png
+Brass Avalanche,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Team / Knockback: +25%
+Champion / Movement speed: -2%
+
+TRIGGER: EnemyKilled / 100% chance / 2s cooldown. Damage pulse 3 per stack; radius 1.8.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/brass-avalanche.png
+Crimson Seal,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+Champion / Damage: +50%
+Team / Collision damage: +16
+
+SPECIAL EFFECT
+A collision stamps a crimson seal; 1s later it bursts for triple the collision damage around the enemy.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/crimson-seal.png
+Crimson Spring,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+Team / Attack speed: +25%
+Team / Attack range: +25%
+
+SPECIAL EFFECT
+Every 4s each friend's next attack springs twice.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/crimson-spring.png
+Marrow Tea,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Maximum health: +12
+Champion / Healing per second: +0.3
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/marrow-tea.png
+Porcelain Splint,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Armor: +0.2
+Team / Movement speed: -6%
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/porcelain-splint.png
+Escape Thimble,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Dodge: +12%
+Team / Movement speed: +12%
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/escape-thimble.png
+Quicksole,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Movement speed: +18%
+Champion / Maximum health: +20
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/quicksole.png
+Pulse Bell,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Health correction: +20%
+Champion / Healing per second: +1
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/pulse-bell.png
+Mercy Spindle,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Healing per second: +2.2
+Run / Income: -2
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/mercy-spindle.png
+Iron Apron,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Armor: +0.55
+Team / Movement speed: -8%
+
+SPECIAL EFFECT
+Enemies that strike the hero up close are shoved back 1.5 units (once per second).
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/iron-apron.png
+Mending Moth,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Healing per second: +2.5
+Champion / Armor: +0.12
+
+SPECIAL EFFECT
+After 3s without being hit, the hero's healing per second is tripled.
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/mending-moth.png
+Lantern Stitch,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Attack range: +30%
+Team / Attack speed: -4%
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/lantern-stitch.png
+Rain Receipt,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Healing per second: +1.8
+Run / Income: -2
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/rain-receipt.png
+Clockseed Brooch,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Collision damage: +10
+Team / Movement speed: -3%
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/clockseed-brooch.png
+Porcelain Promise,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Heart healing: +5
+Champion / Maximum health: +25
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/porcelain-promise.png
+Orchard Fizz,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Maximum health: +18
+Run / Income: -2
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/orchard-fizz.png
+Grave Chime,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Collision damage: +18
+Champion / Movement speed: -4%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/grave-chime.png
+Breath Jar,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Damage: +16%
+Team / Attack speed: -4%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/breath-jar.png
+Coral Broth,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Healing per second: +1
+Champion / Maximum health: -6
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/coral-broth.png
+Fang Pin,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Knockback: +100%
+Champion / Attack speed: +20%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/fang-pin.png
+Ricochet Seltzer,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Flat ranged damage: +4
+Team / Bullet bounce chance: +20%
+Team / Damage: -5%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/ricochet-seltzer.png
+Noon Spark,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Flat melee damage: +3
+Team / Critical chance: +8%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/noon-spark.png
+Quiet Hour,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Armor: +0.12
+Run / Treasure detection: +0.15
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/quiet-hour.png
+Bent Tape,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Attack speed: +14%
+
+SPECIAL EFFECT
+Next wave: +10% enemy count per purchased copy. Its listed permanent modifiers remain separate.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/bent-tape.png
+Meadow Tonic,"DRINK / COMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Dodge: +10%
+Run / Luck: +0.08
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/meadow-tonic.png
+Kindling Gloves,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Healing per second: -0.4
+
+SPECIAL EFFECT
+Each coin pickup has a 15% chance to heal 2 HP per active stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/kindling-gloves.png
+Interest Tin,"FOOD / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Run / Pickup radius: +0.6
+
+SPECIAL EFFECT
+At each wave start, multiply saved gold by 1.2 per stack, compounded. Separate from normal clear-wave interest.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/interest-tin.png
+Storm Dryer,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Damage: +18%
+Team / Knockback: +20%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/storm-dryer.png
+Retort Cup,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Armor: +0.25
+Run / Luck: -0.08
+
+SPECIAL EFFECT
+When hit, 30% chance to fire 8 radial shots for 12 damage per stack each. Shots move at 5 units/s and last 2s.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/retort-cup.png
+Shattered Pager,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Income: +7
+Champion / Bullet split: +1
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/shattered-pager.png
+Watchful Tea,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Healing per second: +1.6
+
+SPECIAL EFFECT
+Next wave: hero armor -0.8 per purchased copy. Listed recovery modifiers remain separate.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/watchful-tea.png
+Sunfire Flask,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Attack range: +40%
+Champion / Projectile count: +1
+Champion / Attack speed: -35%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/sunfire-flask.png
+Gilt Orbit,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Flat ranged damage: +5
+
+SPECIAL EFFECT
+Next wave: Treasure Detection +1 per purchased copy.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/gilt-orbit.png
+Ember Espresso,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Attack speed: +30%
+Champion / Collision damage: -1
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/ember-espresso.png
+Prism Record,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Attack range: -10%
+
+SPECIAL EFFECT
+A personal basic shot can strike one random enemy for max(2,2 times hero flat ranged bonus) damage per stack. Shared 0.15s cooldown; no recursive response.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/prism-record.png
+Citrus Storm,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Flat ranged damage: +6
+Run / Enemy count: +2%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/citrus-storm.png
+Moon Milk,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Heart healing: +8
+Champion / Healing per second: +0.5
+Champion / Movement speed: -5%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/moon-milk.png
+Pocket Sun,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Champion size: -10%
+Run / Luck: +0.45
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/pocket-sun.png
+Ink Feather,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Refreshes cost 2 less gold per active stack; minimum 1 gold.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/ink-feather.png
+Mulberry Riot,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Run / Income: +10
+Run / Treasure detection: +0.6
+Champion / Armor: -0.15
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/mulberry-riot.png
+Dream Blindfold,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Luck: +0.1
+Run / Treasure detection: +0.25
+
+SPECIAL EFFECT
+Opening a chest strikes 1-3 different enemies for max(8,100 times Treasure Detection) damage per stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/dream-blindfold.png
+Sleepy Mist,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Damage: +25%
+Team / Movement speed: -25%
+Run / Enemy speed: -15%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/sleepy-mist.png
+Clear Sip,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Collision damage: -1
+
+SPECIAL EFFECT
+ON EACH DRINK PURCHASE: permanently gain +4 maximum HP per active stack for this run. A drink carrying this effect counts itself when purchased.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/clear-sip.png
+Odd Elixir,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+ON EACH DRINK PURCHASE: permanently gain +6% team attack speed per active stack for this run. Drink shop weight also increases 5% per stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/odd-elixir.png
+Daylight Bonnet,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Maximum health: +24
+
+SPECIAL EFFECT
+When hit, 5% chance to attract all pickups currently on the floor.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/daylight-bonnet.png
+Needle Target,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Team / Bullet pierce: +1
+Team / Critical chance: +20%
+Team / Flat melee damage: -2
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/needle-target.png
+Many Door Key,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Treasure detection: +0.25
+Team / Damage: -5%
+
+SPECIAL EFFECT
+Opening a chest permanently adds +0.06 Luck per active stack for this run.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/many-door-key.png
+Courage Juice,"DRINK / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Movement speed: +20%
+Team / Flat melee damage: +5
+Champion / Maximum health: -10
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/courage-juice.png
+Crooked Eight,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+Run / Luck: +0.5
+Team / Bullet bounce chance: +25%
+Team / Damage: -4%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/crooked-eight.png
+Torn Almanac,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Team / Damage: -5%
+
+SPECIAL EFFECT
+At each wave start, gain a seeded random 25-75 gold per active stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/torn-almanac.png
+Hoarders Locket,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Team damage bonus +1% per 5 gold held, per stack. Changes as collected combat gold grows your wallet.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/hoarders-locket.png
+Split Kernel,"FOOD / RARE / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Healing per second: +3
+
+SPECIAL EFFECT
+At each battle start, current hero HP is reduced to at most 50% maximum HP; it does not reduce maximum HP.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/split-kernel.png
+Wild Pigment,"DRINK / RARE / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Movement speed: +15%
+Team / Flat melee damage: +9
+Team / Flat ranged damage: -3
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/wild-pigment.png
+Stillwater Urn,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Movement speed: -5%
+
+SPECIAL EFFECT
+Standing still heals 3 HP/s per active stack, subject to hero healing restrictions.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/stillwater-urn.png
+Panic Bell,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Each coin pickup strikes one enemy for max(4,50 times Luck) damage per active stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/panic-bell.png
+Oily Lozenge,"FOOD / RARE / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Maximum health: +20
+
+SPECIAL EFFECT
+ON PURCHASE: other unsold gold-shop relics cost 30% less for the current shop. Also adds 30% discount to newly generated prices that shop, subject to the total discount cap.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/oily-lozenge.png
+Lodestone Label,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Team / Flat ranged damage: +8
+Run / Pickup radius: +0.9
+
+SPECIAL EFFECT
+Companion leash and outer patrol radius are multiplied by 0.65. Presence effect; extra stacks do not tighten it again.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/lodestone-label.png
+Hungry Ledger,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+At every wave start, permanently gain +4 flat melee damage, +4 flat ranged damage and +10% team damage per stack for this run.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/hungry-ledger.png
+Stone Crust,"FOOD / RARE / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Attack speed: -10%
+
+SPECIAL EFFECT
+Hero contact damage gains 50% of the positive hero flat melee bonus, per stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/stone-crust.png
+Bitter Honey,"DRINK / RARE / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Healing per second: +2
+Run / Treasure detection: +0.6
+Run / Enemy speed: +10%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/bitter-honey.png
+Burden Collar,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Collision damage: +20
+Team / Movement speed: -20%
+
+SPECIAL EFFECT
+Hero armor gains the absolute value of negative hero movement-speed bonus, per stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/burden-collar.png
+Hush Earmuffs,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Dodge: +10%
+Champion / Critical chance: +10%
+
+SPECIAL EFFECT
+On a successful dodge, 30% chance to heal 10 HP per active stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/hush-earmuffs.png
+Profit Slide,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Run / Income: -10
+
+SPECIAL EFFECT
+Wave income gains 1 per full +4% positive hero damage bonus, per stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/profit-slide.png
+Angry Reliquary,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Disable passive regeneration and ordinary heart healing. Opening a chest attempts to heal 30 HP per stack. Other explicit healing effects still follow their own rules.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/angry-reliquary.png
+Petal Tonic,"DRINK / RARE / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Maximum health: +55
+Champion / Healing per second: -1.2
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/petal-tonic.png
+Sorrow Lantern,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Dodge: -5%
+
+SPECIAL EFFECT
+Every 3s, all eligible enemies take damage equal to 20% of hero maximum HP per stack.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/sorrow-lantern.png
+Mute Clock,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+Team / Attack speed: +30%
+Team / Movement speed: +25%
+
+SPECIAL EFFECT
+During combat, take 1 injected damage per stack each second. Armor and other injected-damage rules still apply; this differs from hunger's direct HP cost.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/mute-clock.png
+Urchin Ball,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Armor: +0.6
+Champion / Movement speed: +10%
+
+SPECIAL EFFECT
+Hero basic attacks stop. Contact damage gains 10 times positive armor per stack. Independent triggered attacks may still fire.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/urchin-ball.png
+Sour Mandarin,"FOOD / RARE / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+NEXT WAVE ONLY: companions stop their basic attacks and hero attack cooldown is divided by 6, subject to the attack loop's cap. Every 10 team kills attempts to heal 3 HP.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/sour-mandarin.png
+Wakeful Cordial,"DRINK / RARE / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Collision damage: +35
+Champion / Knockback: +30%
+Champion / Critical chance: -10%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/wakeful-cordial.png
+Glass Lotus,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Start each wave with +3 pierce and +30% crit per stack. The temporary bonus ends on the first recorded hero hit.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/glass-lotus.png
+Nest Dumpling,"FOOD / RARE / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Armor: -0.2
+
+SPECIAL EFFECT
+ON PURCHASE: receive 3 dreamsand immediately once per acquisition.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/nest-dumpling.png
+Victor Draught,"DRINK / RARE / STACKABLE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Critical chance: +30%
+Team / Bullet pierce: +1
+Team / Damage: -5%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/victor-draught.png
+Wish Wick,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Maximum health: -12
+Run / Income: -5
+
+SPECIAL EFFECT
+ON PURCHASE: try to recruit up to 2 ordinary companions from your hero's pool. Gifts use the 3-companion regular purchase quota. At most 1 new species per wave; from wave 10 both shops share one new species every 2 waves. Checks unlock wave and unique weapon; no body cap. Solo heroes receive no bodies.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/wish-wick.png
+Shield Blower,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Team / Collision damage: +25
+Run / Companion bullet interception: +1
+
+SPECIAL EFFECT
+A hostile shot a companion intercepts is blown back as a friendly shot with double damage.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/shield-blower.png
+Liar Mask,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Team / Damage: +100%
+
+SPECIAL EFFECT
+Each recorded hero hit removes 5% team damage per stack, including a saved run penalty. Its positive listed modifiers are separate.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/liar-mask.png
+Orbit Pastry,"FOOD / MYTHIC / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Champion size: +25%
+Champion / Bullet size: +75%
+Champion / Bullet speed: -40%
+Champion / Damage: +70%
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/orbit-pastry.png
+Oath Parcel,"FOOD / MYTHIC / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+ON PURCHASE: record current modifier bonuses as floors; future bonuses cannot fall below those recorded floors. Does not remove every direct combat restriction or HP cost.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/oath-parcel.png
+Fortune Pear,"FOOD / MYTHIC / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Run / Luck: +0.16
+Run / Income: -15
+
+SPECIAL EFFECT
+Maximum HP gains 100 times positive Luck per stack, before HP correction and limits.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/fortune-pear.png
+Emerald Invoice,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Run / Relic discount: +25%
+Team / Damage: -20%
+
+SPECIAL EFFECT
+Every relic you own settles part of the invoice: the damage penalty shrinks by 2% each, to nothing at 10 relics.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/emerald-invoice.png
+Battering Helm,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Champion / Collision damage: +70
+Champion / Collision frequency: +70%
+Team / Flat ranged damage: -6
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/battering-helm.png
+Gamble Sandwich,"FOOD / MYTHIC / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Armor: -0.2
+
+SPECIAL EFFECT
+Every 3s make two independent rolls: 50% to heal 20 HP per stack; 50% to take 8 injected damage per stack. Both or neither can occur.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/gamble-sandwich.png
+Feast Bucket,"FOOD / MYTHIC / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Maximum health: +40
+Champion / Healing per second: +1
+Champion / Champion size: +10%
+Champion / Dodge: -30%
+
+SPECIAL EFFECT
+ON EACH FOOD PURCHASE: permanently gain +10 max HP, +0.5 HP/s and +5% hero size per active stack for this run.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/feast-bucket.png
+Wander Letter,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Team / Critical chance: +40%
+Champion / Armor: -0.7
+
+SPECIAL EFFECT
+Companion outer patrol radius becomes half the arena's diagonal. Does not add extra companion bodies.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/wander-letter.png
+Venom Pass,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Hero basic hits poison the target for 4s. Each 1s tick deals max(1,base wave income plus income bonus) damage. Refreshes duration, not an unbounded stack of poisons.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/venom-pass.png
+Truce Bottle,"DRINK / MYTHIC / UNIQUE
+ON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Team / Damage: +20%
+Team / Critical chance: +15%
+Team / Attack range: +20%
+Champion / Armor: +0.2
+Champion / Movement speed: -30%
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/truce-bottle.png
+Thorn Perfume,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Run / Enemy speed: +30%
+
+SPECIAL EFFECT
+Each recorded hero hit randomly adds one run bonus per stack: +4 max HP, +0.08 HP/s, +0.015 armor, +2% team damage, +0.02 Luck or +1% crit.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/thorn-perfume.png
+Last Hope Motor,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+During each battle, +16 flat attack damage per stack until you move for the first time. Stopping later does not restore this bonus.
+
+Owned effective copies: 1. Stack limit: 8. Values apply before combat limits.",07_Art/relics/last-hope-motor.png
+Anchor Tack,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Companions stop moving; their range and projectile lifetime double and pierce increases by 3. Final compile range/cooldown limits still apply where enforced.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/anchor-tack.png
+Void Doubloon,"CURIO / MYTHIC / STACKABLE
+
+WHILE OWNED / per copy
+Team / Damage: -20%
+
+SPECIAL EFFECT
+Every 3s, all eligible enemies lose damage equal to 15% of their CURRENT HP per stack. Not an instant execution.
+
+Owned effective copies: 1. Stack limit: 3. Values apply before combat limits.",07_Art/relics/void-doubloon.png
+Sixfold Root,"FOOD / MYTHIC / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+ON FIRST PURCHASE: remember 6 random weapon IDs. Replace ordinary team basic attacks with six phantom weapons fired from the hero. Each uses compiled weapon stats and its own cooldown, minimum 0.2s.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/sixfold-root.png
+Tally Chalk,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every 25 enemies defeated this wave: the team deals +1% damage (max +8%).
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/tally-chalk.png
+Coin Sash,"CURIO / COMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+While the hero runs, pickup reach +0.5.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/coin-sash.png
+Fish Cracker,"FOOD / COMMON / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+Champion / Critical chance: +32%
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/fish-cracker.png
+Postage Stamp,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Marked enemies (stamped, pinned, exposed or anchored) take +10% damage.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/postage-stamp.png
+Frost Salt,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Freezes last 0.3s longer.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/frost-salt.png
+Refund Slip,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Once per shop, the last relic you bought can be returned at the refund counter for the full price paid.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/refund-slip.png
+Whetstone Wafer,"FOOD / UNCOMMON / STACKABLE
+ON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Melee hits cleave one more enemy beside the target for 40% of the hit.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/whetstone-wafer.png
+Late Fee,"CURIO / UNCOMMON / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Burning, poison and deferred damage hit 25% harder.
+
+Owned effective copies: 1. Values apply before combat limits.",07_Art/relics/late-fee.png
+Haggler's Abacus,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Each refresh in this shop takes 1 gold off every gold offer (at most 30% off).
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/haggler-s-abacus.png
+Slipstream Scarf,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Friends gain +1% attack speed for every 5% movement speed bonus of the hero (max +15%).
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/slipstream-scarf.png
+Brain Freeze,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+A critical hit on a frozen enemy breaks off 3 ice shards (30% of the hit each).
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/brain-freeze.png
+Wind Chime,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every 10 critical hits of the team ring the chime: the next 3 shots of every friend pierce one more enemy.
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/wind-chime.png
+Specimen Pin,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every enemy species defeated in this run gives +1% critical chance (max +20%).
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/specimen-pin.png
+Star Polish,"CURIO / RARE / STACKABLE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Three-star friends with shooting weapons fire one more projectile.
+
+Owned effective copies: 1. Stack limit: 4. Values apply before combat limits.",07_Art/relics/star-polish.png
+Kite Tail Ribbon,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Critical shots of ranged friends bounce on to one more enemy.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/kite-tail-ribbon.png
+Melting Sundae,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+When the hero is hit, enemies within 2 units freeze for 0.5s (4s cooldown).
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/melting-sundae.png
+Cuckoo Pendulum,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every 12s the cuckoo calls: the next attack of every friend is a critical hit.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/cuckoo-pendulum.png
+Diving Bell Lantern,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Marked enemies (stamped, pinned, exposed or anchored) take +15% damage.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/diving-bell-lantern.png
+Twin Ticket,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+A merge into a three-star friend brings a free one-star copy of it.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/twin-ticket.png
+Treasure Mimic,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+The first chest opened each wave wakes up and bites the nearest enemy every 0.5s for 10s.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/treasure-mimic.png
+Duelist's Ribbon,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every 4th hit of each melee friend strikes twice.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/duelist-s-ribbon.png
+Frost Ledger,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every frozen enemy defeated this wave gives the team +2% damage for the wave (max +20%).
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/frost-ledger.png
+Undertow Anchor,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every 8s an undertow from the front line pushes the 5 enemies nearest the hero back 2 units and soaks them.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/undertow-anchor.png
+Funhouse Mirror,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Every 10s one friend's weapon is warped for 3s: double size and damage, half the speed.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/funhouse-mirror.png
+Splice Kit,"CURIO / MYTHIC / UNIQUE
+
+WHILE OWNED / per copy
+No direct stat modifier; effects are described below.
+
+SPECIAL EFFECT
+Once per wave, three different one-star friends are spliced into one random two-star friend.
+
+Owned effective copies: 1. Stack limit: 1. Values apply before combat limits.",07_Art/relics/splice-kit.png
+Lone Lantern,"Hero damage +45%, 8% less for each friend in the fight.",07_Art/relics/lone-lantern.png
+Lone Spotlight,Hero attack speed +7% for each friend fewer than 6 beside you.,07_Art/relics/lone-spotlight.png
+Single Ticket,With 2 friends or fewer: one more shot that pierces one more.,07_Art/relics/single-ticket.png
+Night Alone,"Alone: the gauge fills 30% faster, transformations last 3s longer.",07_Art/relics/night-alone.png
+Self-Portrait,"Hero damage +25%, max HP +60.",07_Art/relics/self-portrait.png
+Last Light,Once a wave under 30% health: +60% damage and attack speed for 6s.,07_Art/relics/last-light.png
+Iron Resolve,"Hero armor +0.25 and speed +15%, less for each friend.",07_Art/relics/iron-resolve.png
+Specimen Jar,"Team damage +8%, crit +5%.",07_Art/relics/specimen-jar.png
+Field Notes,"Hero damage +20%, luck +0.1.",07_Art/relics/field-notes.png
+Trophy Shelf,"Team damage +15%, wave income +4.",07_Art/relics/trophy-shelf.png
+Slow Sand,"Enemies 5% slower, attack range +10%.",07_Art/relics/slow-sand.png
+Pocket Hourglass,Hero damage +25%.,07_Art/relics/pocket-hourglass.png
+Stopped Watch,"Team damage +15%, enemies 8% slower.",07_Art/relics/stopped-watch.png
+Grafting Twine,"Friends' damage +10%, max HP +10.",07_Art/relics/grafting-twine.png
+Seed Catalogue,"Friends' attack speed +10%, friends cost 10% less.",07_Art/relics/seed-catalogue.png
+Gardener's Shears,"Friends' damage +20%, attack speed +8%.",07_Art/relics/gardener-s-shears.png
+Ice Cube Tray,"Team damage +6%, max HP +15.",07_Art/relics/ice-cube-tray.png
+Frost Doily,"Attack speed +10%, enemies 5% slower.",07_Art/relics/frost-doily.png
+Snow Globe,"Team damage +15%, enemies 8% slower.",07_Art/relics/snow-globe.png
+Rubber Stamp,"Hero damage +10%, crit +6%.",07_Art/relics/rubber-stamp.png
+Address Book,"Shots pierce 1 more, ranged damage +3.",07_Art/relics/address-book.png
+Wax Seal Set,"Team damage +15%, crit +8%.",07_Art/relics/wax-seal-set.png

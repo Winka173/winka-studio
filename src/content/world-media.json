@@ -1,0 +1,79 @@
+[
+  {
+    "file": "/products/sticky-wall/cork.webp",
+    "source": "OneDrive/Documents/Sticky-Wall/assets/images/wall_cork.jpg",
+    "width": 1024,
+    "height": 1024,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/sticky-wall/wood.webp",
+    "source": "OneDrive/Documents/Sticky-Wall/assets/images/wall_wood.jpg",
+    "width": 1024,
+    "height": 1024,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/sticky-wall/guitar.webp",
+    "source": "OneDrive/Documents/Sticky-Wall/assets/stickers/art_acoustic_guitar.webp",
+    "width": 197,
+    "height": 256,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/sticky-wall/leaf.webp",
+    "source": "OneDrive/Documents/Sticky-Wall/assets/stickers/art_autumn_maple_leaf.webp",
+    "width": 258,
+    "height": 256,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/sticky-wall/bear.webp",
+    "source": "OneDrive/Documents/Sticky-Wall/assets/stickers/art_bear_cub.webp",
+    "width": 221,
+    "height": 256,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/arcane-brigade/cover.webp",
+    "source": "OneDrive/Documents/Arcane-Brigade/Assets/ArcaneBrigade/Art/Store/FeatureGraphic.png",
+    "width": 1024,
+    "height": 500,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/arcane-brigade/icon.webp",
+    "source": "OneDrive/Documents/Arcane-Brigade/Assets/ArcaneBrigade/Art/Store/AppIcon.png",
+    "width": 1024,
+    "height": 1024,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/arcane-brigade/stage.webp",
+    "source": "OneDrive/Documents/Arcane-Brigade/Assets/ArcaneBrigade/Art/Nightmare/NightmareGrandStage_v1.png",
+    "width": 1256,
+    "height": 1256,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/asset-forge-studio/tower-front.webp",
+    "source": "Projects/Asset-Forge-Studio/docs/evidence/tower_views_v092/tower-front.png",
+    "width": 1425,
+    "height": 1515,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/asset-forge-studio/tower-side.webp",
+    "source": "Projects/Asset-Forge-Studio/docs/evidence/tower_views_v092/tower-side.png",
+    "width": 1425,
+    "height": 1515,
+    "kind": "authentic source artwork / texture / render"
+  },
+  {
+    "file": "/products/asset-forge-studio/tower-back.webp",
+    "source": "Projects/Asset-Forge-Studio/docs/evidence/tower_views_v092/tower-back.png",
+    "width": 1425,
+    "height": 1515,
+    "kind": "authentic source artwork / texture / render"
+  }
+]

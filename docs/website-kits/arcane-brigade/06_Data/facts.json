@@ -1,0 +1,2255 @@
+{
+    "Heroes": 36,
+    "Friends": 66,
+    "Relics": 204,
+    "Weapons": 117,
+    "Enemies": 51,
+    "Bosses": 10,
+    "Duets": 94,
+    "HeroList": [
+        {
+            "Id": "LanternKnight",
+            "Name": "Lantern Knight",
+            "Description": "A keyblade-bearing pioneer. Travel to charge a lantern pulse; build a bustling brigade.",
+            "Skill": "THE GUIDING LAMP",
+            "SkillResource": "Company light",
+            "SkillDescription": "Nearby friends' basic attacks kindle the lamp (one spark per 0.25s). At 8 sparks, up to four friends join a finite-budget lantern advance under its light. Stay within 4 units to gather sparks. Alone, your own attacks light it. Approach: a focused line, a wide fan, or a protective circle that also snuffs one hostile shot.",
+            "Approaches": [
+                "Advance",
+                "Fan out",
+                "Hold ground"
+            ]
+        },
+        {
+            "Id": "Postmaster",
+            "Name": "Postmaster",
+            "Description": "A wandering parcel launcher. Collected gold charges automatic express volleys.",
+            "Skill": "SIGNED DELIVERY",
+            "SkillResource": "Addresses",
+            "SkillDescription": "Basic hits stamp up to three different enemies for 6s. Every third personal attack delivers parcels to the stamped addresses; homing parcels share 90% weapon damage. Choose express parcels, fragile ember packages, or a linking relay. Without a stamp, the next target receives the delivery.",
+            "Approaches": [
+                "Express",
+                "Fragile",
+                "Relay"
+            ]
+        },
+        {
+            "Id": "DrowsySeer",
+            "Name": "Drowsy Seer",
+            "Description": "A sleepy tuning-bell oracle. Stand still to chill nearby threats and erase a few hostile bullets.",
+            "Skill": "THE DREAM THAT WAITS",
+            "SkillResource": "Drowsiness",
+            "SkillDescription": "Attacking and walking fill 4 dream sparks. When they are full, pause for half a second (or keep going for 3s) and a dream of you stays behind, waiting where you were; it attacks from there for 4s while you move on. Rest healing remains. Choose a focused dream, a spreading dream, or a chilling dream. One dream at a time; no extra body in the roster.",
+            "Approaches": [
+                "Lucid",
+                "Wandering",
+                "Winter"
+            ]
+        },
+        {
+            "Id": "RootOracle",
+            "Name": "The Root Oracle",
+            "Description": "Stationary in combat. Whole-arena pickup and a slowing ward. Walks in shops.",
+            "Skill": "THE LIVING GARDEN",
+            "SkillResource": "Root cycle",
+            "SkillDescription": "Rooted in battle, with three planted roots around you. Every 3s an occupied root attacks or shelters you. Roots can catch a hostile shot in Shelter, rake a line in Thorns, or trade some attack power for recovery in Harvest. You still walk normally in shops.",
+            "Approaches": [
+                "Shelter",
+                "Thorns",
+                "Harvest"
+            ]
+        },
+        {
+            "Id": "LoneJelly",
+            "Name": "The Lone Jelly",
+            "Description": "Travels without roster companions; absorbs purchased companions' traits. Strong attacks and natural recovery support relic-focused builds.",
+            "Skill": "THE MEMORY BODY",
+            "SkillResource": "Organ rhythm",
+            "SkillDescription": "Equipped memories become three rotating organs. Every third attack expresses the next organ: a bite, a frost gland, or a stitched limb based on the memory's traits. Select memories in the shop; all previously absorbed passive traits remain. With no memory, the mouth supplies a short bite.",
+            "Approaches": [
+                "Bite",
+                "Glands",
+                "Threadwork"
+            ]
+        },
+        {
+            "Id": "GlassDice",
+            "Name": "Lady Loaded Dice",
+            "Description": "Collect 6 gold to burst nearby enemies. High luck and critical chance; low health.",
+            "Skill": "THE LOADED HAND",
+            "SkillResource": "Collected gold",
+            "SkillDescription": "Collect 6 gold to play the visible next die face, with a once every 4s. Faces cast darts, a cross, frost, a coin, healing, or a jackpot. The next face follows a visible six-face sequence. In shops, pay 6 gold to reroll the starting face once per wave. Approach changes the geometry of damage faces.",
+            "Approaches": [
+                "Straight bet",
+                "Split bet",
+                "Around the table"
+            ]
+        },
+        {
+            "Id": "TideSinger",
+            "Name": "The Tide Singer",
+            "Description": "Collect 8 gold to heal 3 health and push nearby enemies back.",
+            "Skill": "THE THREE-INGREDIENT TIDE",
+            "SkillResource": "Ingredients",
+            "SkillDescription": "Every 3 coin pickups mix a tide, at most once per 4s. Every two drinks bought add an extra note, up to three. Choose an aimed current, a restorative shore, or a breaking wave. The restorative shore heals 3 HP; ordinary enemies may be pushed, bosses stay anchored.",
+            "Approaches": [
+                "Current",
+                "Shore",
+                "Breaker"
+            ]
+        },
+        {
+            "Id": "CometRunner",
+            "Name": "The Comet Courier",
+            "Description": "Travel 10 units to release a slowing pulse. Moving charges it; shops do not.",
+            "Skill": "THE COMET'S WAKE",
+            "SkillResource": "Distance",
+            "SkillDescription": "Travel 10 world units to ignite the last three points of your route as a delayed wake. Your path determines its shape. Choose a narrow trail, parallel crescents, or a closed loop. Damage is shared across the whole wake; shops and pauses cannot charge it.",
+            "Approaches": [
+                "Trail",
+                "Twin tails",
+                "Closed orbit"
+            ]
+        },
+        {
+            "Id": "MirrorKeeper",
+            "Name": "The Mirror Keeper",
+            "Description": "Stand still for 2 seconds to reflect up to 3 nearby bullets. Moving resets charge.",
+            "Skill": "THE BORROWED VOLLEY",
+            "SkillResource": "Stored reflections",
+            "SkillDescription": "Nothing is taken, only borrowed: the mirror catches a hostile shot that comes within 1 unit of you (2 units after you stand still for half a second), one every 2s, up to three. Your next basic attack returns them, or they return after 2s. Each returned shot carries 60% W. Choose an aimed fan, reverse trajectories, or a ring.",
+            "Approaches": [
+                "Aimed glass",
+                "Return to sender",
+                "Prism ring"
+            ]
+        },
+        {
+            "Id": "TreasureAcorn",
+            "Name": "The Treasure Clerk",
+            "Description": "Every 10 collected gold grants 1 extra gold and a small healing pulse.",
+            "Skill": "THE BOUNTY LEDGER",
+            "SkillResource": "Bounty stamps",
+            "SkillDescription": "A visible bounty marks one enemy. Basic hits put stamps on it; three stamps settle the claim even against a boss. A kill also settles it. Claims pay 1 gold (maximum 8 per wave) and send a bounded archive strike. Choose the closest threat, a ranged threat, or the richest-health target.",
+            "Approaches": [
+                "Local accounts",
+                "Collectors",
+                "Large accounts"
+            ]
+        },
+        {
+            "Id": "VerdantMatron",
+            "Name": "Verdant Matron",
+            "Description": "Nursery shops sell Little Sprouts. Buying a Sprout adds 1 projectile (max 6) and costs 2 maximum HP. Two Sprouts grow into a random evolved friend plus a Grand Sprout.",
+            "Skill": "THE NURSERY PLAN",
+            "SkillResource": "Nursery bloom",
+            "SkillDescription": "Choose how your nursery grows. Two Sprouts still inherit ingredient weapons and also create Grand Sprout; the random evolved friend's pool now favors the selected role. Every 6s, a nursery bloom (radius 1.6) from a sprout shelters, strikes, or nourishes the brigade. No new friend species or permanent extra bodies are created.",
+            "Approaches": [
+                "Guard nursery",
+                "Striker nursery",
+                "Guide nursery"
+            ]
+        },
+        {
+            "Id": "CopperCauldron",
+            "Name": "Copper Cauldron",
+            "Description": "Start with +8 contact damage. Each Morning Bells activation gives +0.15 armor. Taking damage adds 0.15 regeneration for this run. Enemies move 10% faster.",
+            "Skill": "PRESSURE COOKER",
+            "SkillResource": "Steam",
+            "SkillDescription": "Nearby enemies build steam; taking an ordinary hit adds two steam. At 6 steam, vent a directional jet. Lid catches a nearby bullet, Boil makes a wide cone, and Whistle draws a long steam line. Hunger and other health costs do not fuel the kettle.",
+            "Approaches": [
+                "Lid",
+                "Boil",
+                "Whistle"
+            ]
+        },
+        {
+            "Id": "ChinaMarionette",
+            "Name": "China Marionette",
+            "Description": "Healing is 2.5 times as effective, but armor starts 0.25 lower. Each Wild Stitch activation adds 0.4 regeneration. Taking damage adds 1 contact damage.",
+            "Skill": "THE REPAIRED DOLL",
+            "SkillResource": "Porcelain shards",
+            "SkillDescription": "Every crack becomes a piece: each ordinary injury, and every 6 HP actually recovered, grows a porcelain shard (up to three). An attack spends one shard on a delayed counterpiece. Choose a needle, a broken mirror, or a sheltering stitch. Sheltering stitches heal 1 HP but cannot grow another shard from their own healing.",
+            "Approaches": [
+                "Needlework",
+                "Broken mirror",
+                "Sheltering stitch"
+            ]
+        },
+        {
+            "Id": "SoapSkater",
+            "Name": "Soap Skater",
+            "Description": "Ordinary attacks deal 35% less damage. Push ordinary enemies harder, within the push cap. Each Clockwork Union activation adds 4 wave income. Treasure +20%.",
+            "Skill": "BUBBLE CALLIGRAPHY",
+            "SkillResource": "Turns",
+            "SkillDescription": "Changing travel direction by at least 55 degrees while moving leaves a bubble, at most once per 1.2s. Bubbles pop after a short warning, slowing or gently pushing ordinary enemies. Three recent turns form a larger pattern. Choose a ribbon, a fountain, or a round bubble.",
+            "Approaches": [
+                "Ribbon",
+                "Fountain",
+                "Bubble"
+            ]
+        },
+        {
+            "Id": "VelvetRegent",
+            "Name": "Velvet Regent",
+            "Description": "You do not attack. Your personal damage, attack speed, critical chance and projectile bonuses also help allies. Shops may sell evolved companions. More enemies appear.",
+            "Skill": "THE THREE COMMANDS",
+            "SkillResource": "Orders",
+            "SkillDescription": "You never attack yourself. Six allied basic attacks prepare a command, at most once per 4s. Spear selects the closest enemy, Volley favors ranged enemies, and Court favors the toughest enemy. Up to three friends perform their own weapon-shaped responses, sharing one budget. Your choice also changes friend target priorities.",
+            "Approaches": [
+                "Spear",
+                "Volley",
+                "Court"
+            ]
+        },
+        {
+            "Id": "ButtonCavalier",
+            "Name": "Button Cavalier",
+            "Description": "Start with 35% dodge and 35% less HP. Dodge cap: 75%. Dodges add treasure detection for this run. Toy Knights deal 30% more damage.",
+            "Skill": "THE COURTEOUS RIPOSTE",
+            "SkillResource": "Poise",
+            "SkillDescription": "Answer every discourtesy with a bow: a near miss gives 1 poise, a dodge 2, and an ordinary blow that lands on you 1. Each bullet can grant poise once; near misses have a 0.8s shared cooldown. At 3 poise, your next attack makes a precise riposte. Choose a thrust, a sweeping guard, or a crossed salute.",
+            "Approaches": [
+                "Thrust",
+                "Guard sweep",
+                "Salute"
+            ]
+        },
+        {
+            "Id": "NightMaw",
+            "Name": "Night Maw",
+            "Description": "Lose 1 HP each second in battle. Each enemy defeated heals 1 HP. Regeneration and hearts do not heal. Every fourth wave raises everyone's movement speed.",
+            "Skill": "THE HUNGRY MOUTH",
+            "SkillResource": "Meals",
+            "SkillDescription": "Kills feed the mouth. Three meals prepare a bite against nearby enemies, with a once every 2.5s. Choose a focused bite, a sweeping jaw, or a rear maw. Hunger and kill healing remain; bosses cannot be swallowed or instantly executed.",
+            "Approaches": [
+                "Bite",
+                "Wide jaw",
+                "Second mouth"
+            ]
+        },
+        {
+            "Id": "ThornTreasurer",
+            "Name": "Thorn Treasurer",
+            "Description": "Dream shops follow the shared 3-4-wave schedule. At wave start, maximum HP follows saved gold (20–400). Buying a spiked relic recruits a Bristle Ball. Team damage -20%.",
+            "Skill": "THE COLLATERAL CROWN",
+            "SkillResource": "Collateral thorns",
+            "SkillDescription": "Saved gold gives up to four collateral thorns at wave start (one per 30 gold). Each ordinary injury spends one thorn to answer with a directed thorn pattern; no gold is secretly spent. Basic attacks regrow one thorn every four attacks, and a full crown spends one by itself on an enemy that comes within 2.5 units. Choose lances, a crown, or a crossed receipt. Your gold-based HP and dream-shop rule remain.",
+            "Approaches": [
+                "Lances",
+                "Crown",
+                "Crossed receipt"
+            ]
+        },
+        {
+            "Id": "CitrusMarshal",
+            "Name": "Citrus Marshal",
+            "Description": "You do not attack. Move 20% faster and gain 50% HP. Allies stay close; contact damage scales with your movement speed. Team attack speed -25%.",
+            "Skill": "THE CITRUS CONVOY",
+            "SkillResource": "Convoy distance",
+            "SkillDescription": "You fight alongside the moving convoy you lead. Friends follow alternating lanes behind your heading, with their existing speed limits. Travel 8 units to peel a short path of contact bursts. Choose a narrow escort, a wide procession, or a close circle. Static-follower relics and pony mounts keep their own rules.",
+            "Approaches": [
+                "Escort",
+                "Procession",
+                "Close circle"
+            ]
+        },
+        {
+            "Id": "IvorySovereign",
+            "Name": "Ivory Sovereign",
+            "Description": "Start each wave with 18 royal health. Each injury consumes exactly 1 royal health and releases a short retaliation. Ordinary healing cannot refill it. Velvet Court allies gain a projectile.",
+            "Skill": "THE LAST DECREE",
+            "SkillResource": "Royal seals",
+            "SkillDescription": "Your 18 royal HP and one-HP injuries remain. Every injury writes a decree toward a threat; every third personal basic attack writes another. Decrees take the shape of a verdict line, a court seal, or a crossed sentence. Retaliation is delayed and has a 1s shared cooldown; health costs do not write decrees.",
+            "Approaches": [
+                "Verdict",
+                "Court seal",
+                "Sentence"
+            ]
+        },
+        {
+            "Id": "PetalCitadel",
+            "Name": "Petal Citadel",
+            "Description": "Start each wave with a balanced blessing: +2 flat melee and ranged damage, +10 HP, +5% speed and +0.15 armor.",
+            "Skill": "THE FOUR-PETAL CITADEL",
+            "SkillResource": "Petal growth",
+            "SkillDescription": "Different owned relics nourish four petals: attack, guard, healing, and projectile. Duplicate copies do not add petal levels. Every fourth attack blooms the garden. Its geometry and recovery depend on which petals have grown; a complete garden opens an extra outer bloom. Choose a directed bloom, a thorn lattice, or shelter petals.",
+            "Approaches": [
+                "Bloom",
+                "Thorn lattice",
+                "Shelter"
+            ]
+        },
+        {
+            "Id": "PatchworkHost",
+            "Name": "Patchwork Host",
+            "Description": "All ordinary companion themes may appear. Enemy health +12% and count +6% through wave 8, rising to +35% / +20% at wave 20. Rerolls cost 1 less gold.",
+            "Skill": "THE FEATURED FRIEND",
+            "SkillResource": "Spotlight",
+            "SkillDescription": "Choose one permanent friend as the featured performer in the shop. Four of its basic attacks or contact hits let you perform a weapon-shaped imitation, at most once per 3s. Supportive friends add a small healing encore. Choose an exact act, a duet, or a wide stage. A missing lead is replaced automatically; no friend is consumed.",
+            "Approaches": [
+                "Featured act",
+                "Duet",
+                "Wide stage"
+            ]
+        },
+        {
+            "Id": "ArchiveCurator",
+            "Name": "Archive Curator",
+            "Description": "Shops offer memory companions. Buying one absorbs its support trait instead of adding a body; your last two memories fight beside you as paper exhibits. Each memory makes enemies 2% tougher (max 12%). Your positive personal modifiers are 25% stronger.",
+            "Skill": "THE FORBIDDEN INDEX",
+            "SkillResource": "Recorded specimens",
+            "SkillDescription": "Basic hits record up to three enemy species and their attack styles. Every 6s, replay their shapes against the dream: charging lines, ranged volleys, or close strikes. Choose to update the newest page, preserve your first specimens, or favor new species. Absorbed friend passives remain a separate collection.",
+            "Approaches": [
+                "Current edition",
+                "Preserve",
+                "New specimens"
+            ]
+        },
+        {
+            "Id": "PennyBroker",
+            "Name": "Penny Broker",
+            "Description": "Relics cost 20% less. Rerolls cost 2 more gold. Each paid refresh adds 1 income and 1% luck for this run.",
+            "Skill": "THE FORWARD ORDER",
+            "SkillResource": "Reserved delivery",
+            "SkillDescription": "In a shop, invest 8 + wave gold (maximum 40) to reserve a named relic for the next shop at a quoted price. Choose curio, drink, or food. One order per wave; the delivery remains through rerolls until bought, then clears. If it becomes ineligible, the investment is returned. Every 10 collected gold signs a small receipt strike in battle.",
+            "Approaches": [
+                "Curios",
+                "Drinks",
+                "Food"
+            ]
+        },
+        {
+            "Id": "StormFencer",
+            "Name": "Storm Fencer",
+            "Description": "You do not attack normally. Your contact damage is doubled. Dodging triggers a short forward lightning barrage. Start with +20% dodge.",
+            "Skill": "THE THUNDER SHEATH",
+            "SkillResource": "Static",
+            "SkillDescription": "Danger nearby slowly charges the sheath; near misses add one static and dodges add two. At 3 static, automatically draw a telegraphed lightning strike, at most once per 3s. Choose a piercing draw, a split barrage, or a cross. No basic attack is required to charge; bosses are never stunned by the draw.",
+            "Approaches": [
+                "Quickdraw",
+                "Forked lightning",
+                "Crosscut"
+            ]
+        },
+        {
+            "Id": "TinVirtuoso",
+            "Name": "Tin Virtuoso",
+            "Description": "Your shots cannot split. Allies fire only in response to your critical attacks, with their own weapon damage and a short cooldown. Start with +10% critical chance and 2 projectiles.",
+            "Skill": "THE BRIGADE SCORE",
+            "SkillResource": "Beats",
+            "SkillDescription": "Your basic attacks conduct the score; critical attacks count twice. Friends use their equipped weapons normally; a completed phrase also guarantees a response instead of relying on another random roll. Solo needs 2 beats and one performer; Duet needs 4 and two; Tutti needs 6 and up to four. All responses share one damage budget.",
+            "Approaches": [
+                "Solo",
+                "Duet",
+                "Tutti"
+            ]
+        },
+        {
+            "Id": "MoonProwler",
+            "Name": "Moon Prowler",
+            "Description": "Move 20% faster. Every 3 seconds spent moving in combat grants 2 gold. Each ally reduces wave income by 1.",
+            "Skill": "THE SHADOW THAT FOLLOWS",
+            "SkillResource": "Shadow steps",
+            "SkillDescription": "Travel 5 units and your shadow slips behind the nearest enemy. Your next basic attack sends it out of that enemy's far side for a delayed 80% W cut; strike from truly behind the enemy (against its facing) and the basic itself also gains +45%. Flank kills pay 1 gold, maximum 6 per wave. Choose a straight rear cut, a side crescent, or a crossing shadow. Your movement income remains.",
+            "Approaches": [
+                "Rear cut",
+                "Side crescent",
+                "Crossing shadow"
+            ]
+        },
+        {
+            "Id": "SupperMortar",
+            "Name": "Supper Mortar",
+            "Description": "Fire up to two delayed mortar shells. Shells cannot pierce. Start with +0.4 armor and +15% movement speed. Enemies move 20% faster.",
+            "Skill": "SUPPER IS SERVED",
+            "SkillResource": "Recipe",
+            "SkillDescription": "Your basic attack is served as two quick courses that land where the diner is heading, each carrying 85% of the attack (110% for the narrow Pepper lines). Dumplings burst, Pepper lays an ember line, and Sorbet chills an area. Bought food widens the bursts up to a small cap. Courses cannot pierce; each burst shares its budget across at most three targets.",
+            "Approaches": [
+                "Dumplings",
+                "Pepper",
+                "Sorbet"
+            ]
+        },
+        {
+            "Id": "LanternWeaver",
+            "Name": "Lantern Weaver",
+            "Description": "Every fourth attack stitches three nearby enemies with a delayed lantern thread. The thread shares one damage budget.",
+            "Skill": "THE LIVING NETWORK",
+            "SkillResource": "Knots",
+            "SkillDescription": "Basic hits pin up to three living targets. Every fourth attack closes the network, sharing damage over its links. Choose a closed triangle, a stitch toward your position, or a broad seam. Knots last 6s and broken targets are removed; no infinite linked-hit chain.",
+            "Approaches": [
+                "Closed weave",
+                "Pull stitch",
+                "Broad seam"
+            ]
+        },
+        {
+            "Id": "HourglassStag",
+            "Name": "Hourglass Stag",
+            "Description": "Every 6 seconds, briefly slow nearby ordinary enemies and release an expanding clock ring. Bosses keep moving.",
+            "Skill": "THE TIME DEBT",
+            "SkillResource": "Stored damage",
+            "SkillDescription": "Every blow is a loan: 35% of a personal basic that does not finish its target is deferred, up to three times your weapon damage. The debt is collected from that same enemy after 4s, 2.5s, or 5s depending on your approach, with interest: 320%, 260% or 320% of the bank. Choose a focused payment, early settlement, or frost instalments. Bosses keep moving; debt cannot recursively bank itself.",
+            "Approaches": [
+                "Full payment",
+                "Early settlement",
+                "Winter instalments"
+            ]
+        },
+        {
+            "Id": "RainArchivist",
+            "Name": "Rain Archivist",
+            "Description": "Each opened chest heals 4 HP and records a raindrop. Every third record releases a fan of frost shots.",
+            "Skill": "THE WEATHER BOOK",
+            "SkillResource": "Written pages",
+            "SkillDescription": "Write pages by opening chests, recovering HP, dodging, or making three personal attacks. Three pages release a frost rain; healing and chest pages alter its recovery and spread. Its own recovery cannot write another page. Choose rain, storm, or mist. Chest healing remains; the book works before the first chest too.",
+            "Approaches": [
+                "Rain",
+                "Storm",
+                "Mist"
+            ]
+        },
+        {
+            "Id": "KiteAdmiral",
+            "Name": "Kite Admiral",
+            "Description": "A mouse admiral whose kites fly over the brigade's archers.",
+            "Skill": "THE PAPER FLEET",
+            "SkillResource": "Long shots",
+            "SkillDescription": "Your own hits beyond 4 units fill the gauge fastest. Full, four kites fly over your nearest ranged friends and split their shots.",
+            "Approaches": [
+                "Tight formation",
+                "Wide formation",
+                "Long voyage"
+            ]
+        },
+        {
+            "Id": "SundaeDuchess",
+            "Name": "Sundae Duchess",
+            "Description": "A porcelain duchess crowned in ice cream; what she freezes pays.",
+            "Skill": "THE MELTING SUNDAE",
+            "SkillResource": "Melt",
+            "SkillDescription": "The sundae melts into the gauge over time; blows you take and frozen enemies felled melt it faster. Full, giant scoops fall and freeze.",
+            "Approaches": [
+                "Single scoop",
+                "Banana split",
+                "Slow melt"
+            ]
+        },
+        {
+            "Id": "BonsaiClocksmith",
+            "Name": "Bonsai Clocksmith",
+            "Description": "A tortoise clocksmith whose bonsai garden keeps time.",
+            "Skill": "THE CLOCKWORK GARDEN",
+            "SkillResource": "Ticks",
+            "SkillDescription": "Your hits, kills and time wind the clock. Full, a clockwork bonsai is planted ahead and its hand sweeps once round.",
+            "Approaches": [
+                "Pruned hand",
+                "Wide canopy",
+                "Evergreen"
+            ]
+        },
+        {
+            "Id": "JugglingJester",
+            "Name": "Juggling Jester",
+            "Description": "A felt jester who keeps five balls in the air.",
+            "Skill": "THE FIVE-BALL ACT",
+            "SkillResource": "Applause",
+            "SkillDescription": "Friends' crits and your hits toss balls into the air. Full, five balls slam down and every throw tosses two pins.",
+            "Approaches": [
+                "Solo act",
+                "Full troupe",
+                "Encore"
+            ]
+        },
+        {
+            "Id": "BellDiver",
+            "Name": "Bell Diver",
+            "Description": "A frog diver who probes the deep and rides a brass bell.",
+            "Skill": "THE DEPTH GAUGE",
+            "SkillResource": "Fathoms",
+            "SkillDescription": "Time near enemies and your hits sink the gauge; probed enemies count more. Full, you ride a brass diving bell.",
+            "Approaches": [
+                "Deep strike",
+                "Wide sonar",
+                "Long dive"
+            ]
+        }
+    ],
+    "FriendList": [
+        {
+            "Id": "TeapotPilgrim",
+            "Name": "Teapot Pilgrim",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach DRINK purchased during this run adds 4% to this ally's weapon damage, up to +40%. Applies when the next battle is prepared; not a team-wide damage buff.\r\n\nSUPPORT WHILE OWNED\nChampion / Healing per second: +0.04\nChampion / Movement speed: -0.3%\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nBorn above the station kitchens, they fed travellers through a winter with no departures. Every cup was counted; nobody knew whether they had eaten. They want a table where the last person serving is also given a seat.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: hearth, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "hearth",
+                "mask"
+            ]
+        },
+        {
+            "Id": "CandleSnail",
+            "Name": "Candle Snail",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nFruit Basket companions gain 8% attack speed per Applehead talent, up to 24%. Does not affect the hero. Stacks by talent bodies/memories, not star level.\r\n\nSUPPORT WHILE OWNED\nChampion / Armor: +0.025\nChampion / Movement speed: -0.5%\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nThey carried their village's ember through a flood. Their shell holds the names of neighbours who took turns carrying them afterward. They seek dry ground for those neighbours, not another chance to endure everything alone.\r\nPERSONAL PASSIVE\nEvery 4s, chill enemies within 2.5 units: 1.5s normally, 0.6s on bosses.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: hearth, fruit. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "hearth",
+                "fruit"
+            ]
+        },
+        {
+            "Id": "MailboxImp",
+            "Name": "Mailbox Imp",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nFor 4 seconds after you take damage, the team attacks 10% faster.\r\n\nSUPPORT WHILE OWNED\nRun / Pickup radius: +0.08\nRun / Luck: -0.01\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA collector of letters with missing addresses, they once mistook silence for permission to read them. Delivering an apology unopened began their first honest route. They want a postal service that also lets a recipient refuse a letter.\r\nPERSONAL PASSIVE\nEvery 4s in combat, gain 1 gold directly. This is not kill loot and does not count as collecting a coin.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: archive, gauntlet, ball. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "archive",
+                "gauntlet",
+                "ball"
+            ]
+        },
+        {
+            "Id": "MushroomLibrarian",
+            "Name": "Mushroom Librarian",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nBasic hits slow ordinary enemies for 0.4 seconds.\r\n\nSUPPORT WHILE OWNED\nRun / Luck: +0.025\nCompanions / Attack speed: -0.5%\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nTheir underground library grows books from witnessed events, keeping contradictory accounts on adjacent shelves. A borrower who never returned left a gap they refuse to fill with a convenient ending. They seek the borrower rather than a replacement story.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: orchard, clover. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "orchard",
+                "clover"
+            ]
+        },
+        {
+            "Id": "HoodWisp",
+            "Name": "Hood Wisp",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nHero and all companions gain 5% movement speed per talent. Applies while owned, subject to final speed limits.\r\n\nSUPPORT WHILE OWNED\nTeam / Critical chance: +1%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA guard bound to the promise that nobody would leave alone, they trapped solitary travellers. Someone returned voluntarily for them. The contract erased that night, but their body still moves to cover a companion's unguarded left side.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: frost, hare, root. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "frost",
+                "hare",
+                "root"
+            ]
+        },
+        {
+            "Id": "JellySwordsman",
+            "Name": "Jelly Swordsman",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nHero and all companions gain 5% weapon damage per talent. Applies while owned before later damage modifiers.\r\n\nSUPPORT WHILE OWNED\nCompanions / Damage: +2.5%\nCompanions / Movement speed: -0.5%\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA river-dweller taught fencing by a ferry captain, they were exiled for refusing a duel against a frightened passenger. They want to teach a form whose last lesson is lowering the sword. Their salute belongs to no recognised school.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: oddity, gauntlet, hide. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "oddity",
+                "gauntlet",
+                "hide"
+            ]
+        },
+        {
+            "Id": "BrassAcorn",
+            "Name": "Brass Acorn",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nAfter you take damage, heal 1 HP. Shared 1-second cooldown.\r\n\nSUPPORT WHILE OWNED\nRun / Score multiplier: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nAn elected keeper of a root settlement, they inherited a crown meant to be buried when their term ended. The frozen season never let that day arrive. They seek a spring that will let somebody else lead.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: archive, regal, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "archive",
+                "regal",
+                "mask"
+            ]
+        },
+        {
+            "Id": "BreadCrab",
+            "Name": "Bread Crab",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach basic attack adds 1% attack speed to this ally, up to 20% this wave. A hit from every third basic attack can make a 0.8-radius blast at 15% weapon damage; 1s cooldown, no recursive blast.\r\n\nSUPPORT WHILE OWNED\nTeam / Collision damage: +1\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nTheir coastal family measures tides by rising dough. A storm took their street but left its breakfast bell. They carry the bell toward the coast, hoping a familiar sound will gather the scattered neighbours.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: hearth, gauntlet. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "hearth",
+                "gauntlet"
+            ]
+        },
+        {
+            "Id": "KettleBat",
+            "Name": "Kettle Bat",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nHero maximum HP +5 and armor +0.08 per talent. These are hero-only bonuses, not extra health for immortal companions.\r\n\nSUPPORT WHILE OWNED\nTeam / Flat melee damage: +1\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nRaised beneath the market, they whistle to navigate steam vents. An answering voice once brought their family into danger. They learned that an answer is not necessarily an invitation, and now check every route before guiding anyone.\r\nPERSONAL PASSIVE\nEvery 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: hearth, archer, hide. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "hearth",
+                "hide",
+                "archer"
+            ]
+        },
+        {
+            "Id": "BookmarkGolem",
+            "Name": "Bookmark Golem",
+            "Description": "COMPANION / RARE / 1 STAR\r\nTALENT\nYour basic attack prompts this ally to fire one bolt for 65% of its own weapon damage. 0.7s cooldown per responding ally. Secondary attacks cannot trigger another response.\r\n\nSUPPORT WHILE OWNED\nTeam / Flat ranged damage: +1\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nThey arose from a community's promise to keep a missing reader's place, then learned to read the unfinished book themselves. They seek that reader while building a life that does not end at the last reserved page.\r\nPERSONAL PASSIVE\nOwn weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: archive, hat, rune. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Rare",
+            "Tags": [
+                "archive",
+                "hat",
+                "rune"
+            ]
+        },
+        {
+            "Id": "TinTick",
+            "Name": "Tin Tick",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nHero maximum HP +4 per talent. Each 8 team kills gives this ally 1% attack speed, up to 15% this wave.\r\n\nSUPPORT WHILE OWNED\nTeam / Attack range: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA timekeeper whose heart stayed punctual after the trains stopped, they falsified bells to give stranded children hope. Admitting the lie cost their post. They want to ring for an arrival they have actually witnessed.\r\nPERSONAL PASSIVE\nEvery 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: clock, rune, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "clock",
+                "mask",
+                "rune"
+            ]
+        },
+        {
+            "Id": "SpringDuck",
+            "Name": "Spring Duck",
+            "Description": "COMPANION / RARE / 1 STAR\r\nTALENT\nClockwork Union companions gain 4% movement AND attack speed per talent. Combined with Bullhorn Warrior, this buff is capped at 25%.\r\n\nSUPPORT WHILE OWNED\nChampion / Dodge: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA wetland courier injured in the machinery district, they chose a spring prosthesis made by a friend. The spring helps their life continue; it did not create it. They want to return the friend's tools and report that the crossing worked.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: clock, gear. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Rare",
+            "Tags": [
+                "clock",
+                "gear"
+            ]
+        },
+        {
+            "Id": "ButtonBeetle",
+            "Name": "Button Beetle",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nThis ally gains 10% attack speed per Iron Swordsman talent, including itself, up to 30%. Count includes absorbed talents; star levels do not multiply this count.\r\n\nSUPPORT WHILE OWNED\nRun / Income: +2\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nTheir family mends coats left on station hooks. They recognise travellers by repairs nobody else notices. They kept one uncollected coat because its missing owner once covered a sleeping stranger with it.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: clock, root, regal. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "clock",
+                "regal",
+                "root"
+            ]
+        },
+        {
+            "Id": "StapleMole",
+            "Name": "Staple Mole",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nClear-wave income gains 4 gold per talent per active Lucky Leaves bond LEVEL. This uses the current bond level; repeated combat activations do not accumulate more income.\r\n\nSUPPORT WHILE OWNED\nTeam / Bullet pierce: +1\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA tunneller who bound scattered maps into a public atlas. Officials sealed dangerous routes by sealing their residents inside, so they stole the atlas back. They mark blocked exits in ink readable from either side.\r\nPERSONAL PASSIVE\nEvery 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: clock, clover. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "clock",
+                "clover"
+            ]
+        },
+        {
+            "Id": "SnowSpoon",
+            "Name": "Snow Spoon",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach Wild Stitch or Springstep bond level grants this ally 10% weapon damage and 5% reach. Caps: +50% damage, +20% reach; final reach cap still applies.\r\n\nSUPPORT WHILE OWNED\nTeam / Bullet split: +1\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA frost-country pilgrim carrying the last spoon from a communal pot. They rationed too strictly and remember the neighbour who went hungry. They seek seeds for cold soil rather than another rule for enduring hunger.\r\nPERSONAL PASSIVE\nOwn weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: frost, hide. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "frost",
+                "hide"
+            ]
+        },
+        {
+            "Id": "IceCreamOwl",
+            "Name": "Ice Cream Owl",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nRunic School companions gain +2 projectile pierce and 30% wider projectile visuals, but their attack cooldown is 15% longer. This talent is a presence effect and does not stack with another copy.\r\n\nSUPPORT WHILE OWNED\nTeam / Bullet bounce chance: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nAn astronomer who tracked a star the realm's ceiling kept erasing. They left a student in charge and worry that leaving made them disloyal. They want to bring back a map drawn under a real sky.\r\nPERSONAL PASSIVE\nEvery 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: frost, hat, rune. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "frost",
+                "hat",
+                "rune"
+            ]
+        },
+        {
+            "Id": "FridgeWisp",
+            "Name": "Fridge Wisp",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach injury recorded on the hero this wave gives Prizefighter companions 1% attack speed, up to 15%. Multiple copies do not multiply this speed bonus.\r\n\nSUPPORT WHILE OWNED\nTeam / Bullet size: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA keeper of cold stores who sheltered passengers during a heat wave. One store stayed cold after its key vanished. They seek every missing key, including those opening doors they were ordered to leave alone.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: frost, gauntlet, shoe. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "frost",
+                "shoe",
+                "gauntlet"
+            ]
+        },
+        {
+            "Id": "PearMoth",
+            "Name": "Pear Moth",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nHero projectile count gains 1 per talent per active Morning Bells bond LEVEL, capped at +3 total from this talent. Requires a projectile attack; final projectile limits still apply.\r\n\nSUPPORT WHILE OWNED\nTeam / Bullet speed: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nRaised in an orchard lit by artificial suns, they followed moonlight through a broken roof. They return each season to describe the outside. Their family has begun cutting windows, and they want to see the first one open.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: orchard, morning, rune. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "orchard",
+                "morning",
+                "rune"
+            ]
+        },
+        {
+            "Id": "CitrusToad",
+            "Name": "Citrus Toad",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nQuicksole companions gain 10% movement and attack speed while at least one Monkey King talent is owned. Presence effect; extra copies do not multiply it.\r\n\nSUPPORT WHILE OWNED\nTeam / Bullet travel distance: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA marsh runner carrying news nobody wanted to hear. Jokes gave listeners somewhere to put their anger. They travel with people who let them finish a sentence without requiring it to be funny.\r\nPERSONAL PASSIVE\nEvery 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: orchard, shoe. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "orchard",
+                "shoe"
+            ]
+        },
+        {
+            "Id": "RadishJester",
+            "Name": "Radish Jester",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nA basic hit schedules a poison strike after 1s for 25% of this ally's weapon damage. The target and source must still be alive. Poison cannot create another poison chain.\r\n\nSUPPORT WHILE OWNED\nTeam / Knockback: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA performer who hid criticism inside jokes until the court learned to applaud without listening. They left mid-punchline. They want to speak one plain truth and be heard without laughter covering it.\r\nPERSONAL PASSIVE\nOwn weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: orchard, mask. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "orchard",
+                "mask"
+            ]
+        },
+        {
+            "Id": "SeedHedgehog",
+            "Name": "Seed Hedgehog",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nBasic kills have a 30% chance to heal you 1 HP.\r\n\nSUPPORT WHILE OWNED\nChampion / Champion size: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nThey preserve seeds from a garden erased from official maps. They will not replace a lost species with a prettier account of what grew there. They seek soil where the surviving seeds can belong without a ledger's permission.\r\nPERSONAL PASSIVE\nEvery 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: orchard, fruit. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "orchard",
+                "fruit"
+            ]
+        },
+        {
+            "Id": "MoonJelly",
+            "Name": "Moon Jelly",
+            "Description": "COMPANION / RARE / 1 STAR\r\nTALENT\nHero armor -0.08 per talent. Every heart collected during the run gives this ally 2% reach, up to 20%, applied when the next battle is prepared.\r\n\nSUPPORT WHILE OWNED\nCompanions / Companion size: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA tide-born resident who remembers the moon before the sea acquired a ceiling. Their migration follows a pull no map records. They want to discover whether the older sea survives and whether their young can reach it.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: astral, hare. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Rare",
+            "Tags": [
+                "astral",
+                "hare"
+            ]
+        },
+        {
+            "Id": "StarSock",
+            "Name": "Star Sock",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nEach chest opened during the run adds 2% attack speed to this ally, up to 20%, applied when the next battle is prepared.\r\n\nSUPPORT WHILE OWNED\nRun / Enemy count: +10%\nRun / Score multiplier: +10%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nSeparated from a sibling at a crossing, they wear mismatched cloth recording the strangers who helped them continue. They seek their sibling without pretending every newer connection is temporary.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: astral, shoe. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "astral",
+                "shoe"
+            ]
+        },
+        {
+            "Id": "CometKite",
+            "Name": "Comet Kite",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach chest opened during the run adds 2% weapon damage to this ally, up to 30%, applied when the next battle is prepared.\r\n\nSUPPORT WHILE OWNED\nRun / Enemy health: +10%\nRun / Score multiplier: +10%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA sky fisher whose safety line was tied to the wrong shore. A keeper called the tightening tether protection. They carry their own spool now and search for the crew on the other side.\r\nPERSONAL PASSIVE\nEvery 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: astral, archer. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "astral",
+                "archer"
+            ]
+        },
+        {
+            "Id": "OrbitMoth",
+            "Name": "Orbit Moth",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach Prince talent grants this ally 8% reach, up to 24%. Final melee/ranged reach caps still apply.\r\n\nSUPPORT WHILE OWNED\nChampion / Heart healing: +1\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA lamplighter who circled a homeward beacon until discovering its keeper turned it to prevent arrivals. They now guide by several independent lights. They want routes no single keeper can own.\r\nPERSONAL PASSIVE\nEvery 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: astral, regal, morning. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "astral",
+                "regal",
+                "morning"
+            ]
+        },
+        {
+            "Id": "DreamCompass",
+            "Name": "Dream Compass",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach paid shop refresh grants 2 gold per talent immediately, capped at 6 gold total per refresh. Each refresh during the run also adds 3% weapon damage to this ally, up to 30%, for the next prepared battle.\r\n\nSUPPORT WHILE OWNED\nRun / Chest quality: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA navigator transformed by crossing incompatible dreams. Their needle answers freely made commitments, not an owner's commands. They are learning to choose a destination after a lifetime of being asked only for directions.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: archive, hare, archer. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "clock",
+                "archer",
+                "hare"
+            ]
+        },
+        {
+            "Id": "ShellPostman",
+            "Name": "Shell Postman",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nThis ally fires 2 extra projectiles, up to 10 total, and its weapon damage is multiplied by 0.65. Extra projectiles require a projectile weapon to fire normally.\r\n\nSUPPORT WHILE OWNED\nRun / Recruit discount: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA coastal courier carrying unsent replies as carefully as delivered letters. One envelope bears the protagonist's childhood handwriting; its reply was intercepted. They want the addressee to read it before being told what it means.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: tidal, ball. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "tidal",
+                "ball"
+            ]
+        },
+        {
+            "Id": "CoralTeacup",
+            "Name": "Coral Teacup",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nA critical basic hit has a 25% chance to grant 1 gold. All TV Head talents share a 0.8s cooldown; extra hits cannot bypass it.\r\n\nSUPPORT WHILE OWNED\nRun / Relic discount: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA reef resident whose ceramic-looking shell shelters a living reef. They broadcast weather to inland families. Their last warning brought an evacuation boat too late; they still check the harbour's arriving names.\r\nPERSONAL PASSIVE\nEvery 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: tidal, gear. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "tidal",
+                "gear"
+            ]
+        },
+        {
+            "Id": "BubbleKoi",
+            "Name": "Bubble Koi",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nDrop a 1-HP heart every 5 seconds in combat.\r\n\nSUPPORT WHILE OWNED\nRun / Shop rarity: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nThey kept air pockets along a drowned road and rescued people who later forgot it existed. They collect those accounts to stop another town building over it. They want witnesses rather than a grateful statue.\r\nPERSONAL PASSIVE\nOwn weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: tidal, clover, morning. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "tidal",
+                "morning",
+                "clover"
+            ]
+        },
+        {
+            "Id": "AnchorSnail",
+            "Name": "Anchor Snail",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nEach FOOD purchased adds +1 flat melee AND +1 flat ranged team damage per Roshi talent. Hero maximum HP loses 0.5 per food per talent, up to 20 HP lost. Applied in the next prepared battle.\r\n\nSUPPORT WHILE OWNED\nChampion / Health correction: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA dockworker who carried a vessel's anchor inland when its harbour disappeared. The chain proves the harbour existed. They seek the crew to ask whether it is time to put the weight down.\r\nPERSONAL PASSIVE\nEvery 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: tidal, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "tidal",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "SailSquid",
+            "Name": "Sail Squid",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nEach attack grants this ally 1% attack speed, up to 20% this wave.\r\n\nSUPPORT WHILE OWNED\nTeam / Damage correction: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nAn estuary pilot whose captain demanded guarantees no uncertain tide could give. They left that ship. They offer passage with risks spoken aloud and seek a crew willing to hear an honest forecast.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: tidal, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "tidal",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "SockCyclops",
+            "Name": "Sock Cyclops",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nEach Carousel Pony grants this ally 30% damage and 5 contact damage, up to 3 ponies.\r\n\nSUPPORT WHILE OWNED\nTeam / Speed correction: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA one-eyed watchkeeper dismissed for reporting footsteps behind the official patrol. Following them led to a missing resident. They want a watch that treats listening as part of seeing.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: hearth, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "oddity",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "DiceCrab",
+            "Name": "Dice Crab",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nAn ordinary incoming hit is reduced by 25% if at least 6s have passed since the last recorded hero injury. This protection does not stack from multiple copies; deliberate health costs are not reduced.\r\n\nSUPPORT WHILE OWNED\nChampion / Armor correction: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA gambling-hall accountant who found the house erasing winners from its records. They kept a crooked die as evidence rather than letting it decide every choice. They seek the families of the removed names.\r\nPERSONAL PASSIVE\nEvery 4s in combat, gain 0 gold directly. This is not kill loot and does not count as collecting a coin.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "oddity",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "MaskPepper",
+            "Name": "Mask Pepper",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nOnce per wave, a recorded hero injury permanently removes 2 maximum HP for that battle and then attempts a full heal. Royal health cannot be refilled; hero healing restrictions still apply. Shared across copies.\r\n\nSUPPORT WHILE OWNED\nChampion / Healing correction: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA theatre refugee whose mask preserved a role after the troupe disbanded. The role taught courage but sometimes speaks over their wishes. They are learning to remove it without apologising for the quieter voice beneath.\r\nPERSONAL PASSIVE\nOwn weapon damage gains 0.5% per companion body in the roster, before later balance modifiers.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "oddity",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "CrayonGremlin",
+            "Name": "Crayon Gremlin",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nON RECRUIT / ALTAR CREATION: gain 6 eggs immediately once. Merely keeping this ally does not grant 6 eggs every wave.\r\n\nSUPPORT WHILE OWNED\nTeam / Collision frequency: +2.5%\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA map maker who drew windows for a district with none. One drawing opened a real passage. They now check every imagined exit before sharing it, and want to draw somewhere from life rather than longing.\r\nPERSONAL PASSIVE\nEvery 4s, chill enemies within 2.313 units: 1.5s normally, 0.6s on bosses.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: archive, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "oddity",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "RibbonSpider",
+            "Name": "Ribbon Spider",
+            "Description": "COMPANION / COMMON / 1 STAR\r\nTALENT\nON RECRUIT / ALTAR CREATION: gain one seeded random run bonus: +6% team damage, +6% team movement speed, +0.06 Luck, or +0.12 hero armor. Once per acquisition.\r\n\nSUPPORT WHILE OWNED\nTeam / Collision damage: +1\nChampion / Maximum health: -1\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA bridge weaver who tightened a safety web until nobody could move. They cut it and helped rebuild the road. Each new knot has a release reachable by the person it supports.\r\nPERSONAL PASSIVE\nEvery 4s in combat, attempt to heal the hero for 1.5 HP before healing modifiers. Healing restrictions apply.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Common",
+            "Tags": [
+                "oddity",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "ThimbleMoth",
+            "Name": "Thimble Moth",
+            "Description": "COMPANION / RARE / 1 STAR\r\nTALENT\nA recorded hero injury grants 3 gold. Shared 2s cooldown; shares the rebate timer with TV Head. Multiple copies do not multiply the payout.\r\n\nSUPPORT WHILE OWNED\nCompanions / Attack speed: +4%\nCompanions / Damage: -3%\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nAn apprentice surgeon whose tools also repaired coats. Their teacher called every error a moral failure. They seek colleagues who correct mistakes without demanding a confession of worthlessness.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: archive, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Rare",
+            "Tags": [
+                "archive",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "VioletRemnant",
+            "Name": "Violet Remnant",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nThis ally has +15% critical chance.\r\n\nSUPPORT WHILE OWNED\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA survivor carrying an afterimage of a district erased from the maps. They are more than evidence of a disaster. They seek other survivors to discover what each wants next.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: oddity, resolve. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "oddity",
+                "resolve"
+            ]
+        },
+        {
+            "Id": "VelvetEnchantress",
+            "Name": "Velvet Enchantress",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nBasic hits gently pull ordinary enemies inward. Bosses cannot be pulled.\r\n\nSUPPORT WHILE OWNED\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA negotiator who soothed people until they forgot their objections, then testified against the court that hired them. They now ask again after the enchantment fades. They seek agreement that survives its disappearance.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: hearth, knight. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "hearth",
+                "knight"
+            ]
+        },
+        {
+            "Id": "GrandSprout",
+            "Name": "Grand Sprout",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nNo basic attack. Deal 24 contact damage. Can carry nursery bonuses.\r\n\nSUPPORT WHILE OWNED\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nAn elder from travelling gardens who shelters young plants without choosing where they must settle. They move their own roots when home becomes unsafe. They seek a garden with more than one open gate.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nRecruitment exclusive: Jade Cabbage.\r\nBonds: clock, sprout. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "clock",
+                "sprout"
+            ]
+        },
+        {
+            "Id": "LittleSprout",
+            "Name": "Little Sprout",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nNursery-exclusive. No basic attack; deal 12 contact damage. Two sprouts grow into a random two-star friend and a Grand Sprout. Each keeps an ingredient weapon, within the 15-body limit.\r\n\nSUPPORT WHILE OWNED\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA young garden-dweller travelling with their root household's consent. They are curious about rain and what they might become. Dream growth does not make their life an object for an owner's use.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nRecruitment exclusive: Jade Cabbage.\r\nBonds: astral, sprout. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "astral",
+                "sprout"
+            ]
+        },
+        {
+            "Id": "TeacupCricket",
+            "Name": "Teacup Cricket",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nEvery fifth basic attack may release one echo for 40% of this ally's weapon damage. Uses the ally's 0.7s response cooldown; no echo chain.\r\n\nSUPPORT WHILE OWNED\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA reed-settlement musician who played the waiting melody until someone taught them its missing final notes. They want to compose a song that lets the audience leave before it ends.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: hearth, lantern-guild. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "hearth",
+                "lantern-guild"
+            ]
+        },
+        {
+            "Id": "RibbonOtter",
+            "Name": "Ribbon Otter",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nCollecting a heart attempts 1 extra HP of healing while at least one Ribbon Otter talent is owned. Extra healing does not stack by copies; hero healing restrictions apply.\r\n\nSUPPORT WHILE OWNED\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA river mender marking safe crossings with ribbons. A flood moved a marker; they returned to correct it rather than blame those who trusted it. They seek the source and a place to remember the missing by name.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: tidal, rain-script. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "tidal",
+                "rain-script"
+            ]
+        },
+        {
+            "Id": "SpindleWren",
+            "Name": "Spindle Wren",
+            "Description": "COMPANION / UNCOMMON / 1 STAR\r\nTALENT\nLantern Guild companions gain 8% reach while at least one Spindle Wren talent is owned, subject to final range caps. Presence effect; extra copies do not multiply it.\r\n\nSUPPORT WHILE OWNED\nTier 1/2/3 traits ×1/2/4; merging three units reduces support sources.\n\r\n\nLIFE IN THE WAITING REALM\nA guide carrying thread between settlements. They tied it to their wrist until every departure pulled them apart. They now teach travellers to hold and release their own ends, and seek a route that survives an honest goodbye.\r\nPERSONAL PASSIVE\nNo additional periodic personal passive.\r\n\nNamed talents count bodies and absorbed memories; their stated percentages are not multiplied by star level unless explicitly stated. Listed support modifiers scale separately at 1/2/4.\r\nBonds: archive, lantern-guild. Immortal. Weapon rolls on recruitment; two equal-species/equal-star bodies merge unless the talent forbids it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "archive",
+                "paper-wings"
+            ]
+        },
+        {
+            "Id": "BakerMouse",
+            "Name": "Baker Mouse",
+            "Description": "A floury mouse baker who rolls everything flat.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "hearth",
+                "sweet-tooth"
+            ]
+        },
+        {
+            "Id": "LensOwl",
+            "Name": "Lens Owl",
+            "Description": "An owl scholar who focuses sunlight through a reading lens.",
+            "Rarity": "Rare",
+            "Tags": [
+                "archive",
+                "rune"
+            ]
+        },
+        {
+            "Id": "LampGoat",
+            "Name": "Lamp Goat",
+            "Description": "A goat whose horns hold lanterns, swinging a lantern glaive.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "clock",
+                "horn"
+            ]
+        },
+        {
+            "Id": "TopBeetle",
+            "Name": "Top Beetle",
+            "Description": "A clockwork beetle who spins tops into the crowd.",
+            "Rarity": "Rare",
+            "Tags": [
+                "clock",
+                "gear"
+            ]
+        },
+        {
+            "Id": "ShovelPenguin",
+            "Name": "Shovel Penguin",
+            "Description": "A penguin who heaves snow at anyone in the way.",
+            "Rarity": "Rare",
+            "Tags": [
+                "frost",
+                "gauntlet"
+            ]
+        },
+        {
+            "Id": "BobaTadpole",
+            "Name": "Boba Tadpole",
+            "Description": "A tadpole in a milk-tea cup who sips, then spits pearls in swaying waves.",
+            "Rarity": "Common",
+            "Tags": [
+                "frost",
+                "sweet-tooth"
+            ]
+        },
+        {
+            "Id": "RainHeron",
+            "Name": "Rain Heron",
+            "Description": "A heron who copies the rain into its notebook and takes any weapon offered.",
+            "Rarity": "Rare",
+            "Tags": [
+                "frost",
+                "rain-script"
+            ]
+        },
+        {
+            "Id": "WateringSnail",
+            "Name": "Watering Snail",
+            "Description": "A slow snail who waters the garden, and the enemies in it.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "orchard",
+                "sprout"
+            ]
+        },
+        {
+            "Id": "YoyoSquirrel",
+            "Name": "Yo-yo Squirrel",
+            "Description": "A springy squirrel who never misses with a yo-yo.",
+            "Rarity": "Rare",
+            "Tags": [
+                "orchard",
+                "hare"
+            ]
+        },
+        {
+            "Id": "PaperPlanePigeon",
+            "Name": "Paper Plane Pigeon",
+            "Description": "A pigeon who folds the post into paper planes and lets them chase the trouble.",
+            "Rarity": "Common",
+            "Tags": [
+                "astral",
+                "paper-wings"
+            ]
+        },
+        {
+            "Id": "RaincoatFrog",
+            "Name": "Raincoat Frog",
+            "Description": "A frog in a yellow raincoat with a plunger for every puddle.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "tidal",
+                "rain-script"
+            ]
+        },
+        {
+            "Id": "StaticFerret",
+            "Name": "Static Ferret",
+            "Description": "Its hits leave static that arcs once to the nearest other enemy (50%).",
+            "Rarity": "Common",
+            "Tags": [
+                "clock",
+                "static-club"
+            ]
+        },
+        {
+            "Id": "StormKitten",
+            "Name": "Storm Kitten",
+            "Description": "Every 6s a little storm cloud over an enemy drops a bolt of lightning.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "astral",
+                "static-club"
+            ]
+        },
+        {
+            "Id": "VoltEel",
+            "Name": "Volt Eel",
+            "Description": "Its hits arc on twice: to the nearest other enemy, then the next (50%, then 35%).",
+            "Rarity": "Rare",
+            "Tags": [
+                "tidal",
+                "static-club"
+            ]
+        },
+        {
+            "Id": "ShantySeaLion",
+            "Name": "Shanty Sea Lion",
+            "Description": "Every 3rd hit lands with a note that pushes the enemy back.",
+            "Rarity": "Common",
+            "Tags": [
+                "tidal",
+                "sea-shanty"
+            ]
+        },
+        {
+            "Id": "BottleGull",
+            "Name": "Bottle Gull",
+            "Description": "Recruiting it counts as buying a drink.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "hearth",
+                "sea-shanty"
+            ]
+        },
+        {
+            "Id": "PinnedBeetle",
+            "Name": "Pinned Beetle",
+            "Description": "Its hits pin the enemy in place for 0.3s (once every 2s per enemy).",
+            "Rarity": "Common",
+            "Tags": [
+                "archive",
+                "exhibit-hall"
+            ]
+        },
+        {
+            "Id": "FossilArmadillo",
+            "Name": "Fossil Armadillo",
+            "Description": "Rolled up: an enemy that bumps into it is stunned for 0.3s (once every 2s per enemy).",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "frost",
+                "exhibit-hall"
+            ]
+        },
+        {
+            "Id": "SpecimenSlime",
+            "Name": "Specimen Slime",
+            "Description": "Defeating a recorded species splits off a little slime that fights beside it (at most 2 a fight).",
+            "Rarity": "Rare",
+            "Tags": [
+                "clock",
+                "exhibit-hall"
+            ]
+        },
+        {
+            "Id": "CourtHerald",
+            "Name": "Court Herald",
+            "Description": "Fanfare: the first attack of every friend each wave fires one extra shot.",
+            "Rarity": "Common",
+            "Tags": [
+                "archive",
+                "hat"
+            ]
+        },
+        {
+            "Id": "StitchedPangolin",
+            "Name": "Stitched Pangolin",
+            "Description": "A pangolin of patched leather scales. Every 4s heals the hero; hero regeneration +0.3.",
+            "Rarity": "Uncommon",
+            "Tags": [
+                "frost",
+                "hide"
+            ]
+        },
+        {
+            "Id": "SaddleMoth",
+            "Name": "Saddle Moth",
+            "Description": "A moth wearing a little leather saddle. Hero contact damage +3; +2% damage per friend.",
+            "Rarity": "Rare",
+            "Tags": [
+                "oddity",
+                "hide"
+            ]
+        }
+    ],
+    "BossList": [
+        {
+            "Id": "UndeliveredKing",
+            "Name": "Undelivered King",
+            "Description": "Royal Stampede. Dead Letter Cross. Break organs to weaken attacks."
+        },
+        {
+            "Id": "ScarletIndex",
+            "Name": "Scarlet Index",
+            "Description": "Quill Guillotine. Spilled Archive. Break organs to weaken attacks."
+        },
+        {
+            "Id": "SleepCollector",
+            "Name": "Sleep Collector",
+            "Description": "Pillow Drop. Nightmare Hop. Break organs to weaken attacks."
+        },
+        {
+            "Id": "WaxAdmiral",
+            "Name": "Wax Admiral",
+            "Description": "Anchor Rake. Melting Broadside. Break organs to weaken attacks."
+        },
+        {
+            "Id": "LastLantern",
+            "Name": "Last Lantern",
+            "Description": "Shutter Cage. Fuel Rain. Break organs to weaken attacks."
+        },
+        {
+            "Id": "MarqueeMaw",
+            "Name": "The Marquee Maw",
+            "Description": "Curtain Call. Stage Dive. Break organs to weaken attacks."
+        },
+        {
+            "Id": "UmbraCradle",
+            "Name": "Mother Umbra",
+            "Description": "Cradle Crash. Shadow Lullaby. Break organs to weaken attacks."
+        },
+        {
+            "Id": "CoinWidow",
+            "Name": "The Coin Widow",
+            "Description": "Vault Scissor. Bank Run. Break organs to weaken attacks."
+        },
+        {
+            "Id": "ChoirEngine",
+            "Name": "The Howling Organ",
+            "Description": "Bass Procession. Falling Requiem. Break organs to weaken attacks."
+        },
+        {
+            "Id": "SuitcaseLeviathan",
+            "Name": "Suitcase Leviathan",
+            "Description": "Lost Luggage Drop. Leviathan Landing. Break organs to weaken attacks."
+        }
+    ],
+    "RelicList": [
+        {
+            "Id": "key-oil",
+            "Name": "Key Oil",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Damage: +12%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "clock-spring",
+            "Name": "Clock Spring",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Attack speed: +12%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "honey-pot",
+            "Name": "Honey Pot",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Maximum health: +15\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "felt-boots",
+            "Name": "Felt Boots",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Movement speed: +22%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "coin-compass",
+            "Name": "Coin Compass",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Pickup radius: +1.6\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "wandering-map",
+            "Name": "Wandering Map",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Patrol radius: +1\nRun / Pickup radius: +0.8\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "guardian-canopy",
+            "Name": "Guardian Canopy",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nRun / Companion bullet interception: +1\nCompanions / Attack speed: +15%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "warm-tea",
+            "Name": "Warm Tea",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Healing per second: +0.8\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "oracle-lens",
+            "Name": "Oracle Lens",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Critical chance: +20%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "twin-seal",
+            "Name": "Twin Seal",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Projectile count: +1\nTeam / Attack speed: -10%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "piggy-mail",
+            "Name": "Piggy Mail",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Interest cap: +4\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "pillow-mail",
+            "Name": "Pillow Mail",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Armor: +0.15\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "royal-key",
+            "Name": "Royal Key",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Damage: +36%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "brigade-banner",
+            "Name": "Brigade Banner",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nCompanions / Damage: +32%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "marching-bell",
+            "Name": "Marching Bell",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nCompanions / Attack speed: +30%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "coupon-book",
+            "Name": "Coupon Book",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Gold shop discount: +8%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "long-atlas",
+            "Name": "Long Atlas",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nRun / Patrol radius: +2\nTeam / Attack range: +32%\nTeam / Movement speed: -4%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "starlight-quilt",
+            "Name": "Starlight Quilt",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Maximum health: +50\n\nSPECIAL EFFECT\nOnce per wave, a blow that would defeat the hero leaves 1 HP and 1.5s of safety instead.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "echo-postage",
+            "Name": "Echo Postage",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Projectile count: +2\nTeam / Attack speed: -30%\n\nSPECIAL EFFECT\nA friend's basic attack that defeats an enemy echoes onward: the nearest enemy takes half that weapon's damage (0.2s cooldown).\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "tarnished-crown",
+            "Name": "Tarnished Crown",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Damage: +60%\n\nSPECIAL EFFECT\nEvery 8th hit of the hero is a royal blow: triple damage.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "fortune-egg",
+            "Name": "Fortune Sand",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Luck: +0.3\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "treasure-whisper",
+            "Name": "Treasure Whisper",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nRun / Treasure detection: +1\nRun / Luck: +0.25\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "coin-salve",
+            "Name": "Coin Salve",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nTRIGGER: CoinCollected / 100% chance / 0.2s cooldown. Heal hero 0.5 per stack; radius 0.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "chest-thunder",
+            "Name": "Chest Thunder",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nTRIGGER: ChestOpened / 100% chance / 1s cooldown. Damage pulse 14 per stack; radius 3.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "altar-ember",
+            "Name": "Altar Ember",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Damage: +50%\nTeam / Movement speed: -4%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "harvest-receipt",
+            "Name": "Harvest Receipt",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Pickup radius: -0.15\n\nWEAPON SYNERGY\nRequires a bell signature weapon within 6 units. Collecting a coin advances its bell beat, up to 2 steps; shared 0.35s cooldown.\n\nOwned effective copies: 1. Stack limit: 2. Values apply before combat limits."
+        },
+        {
+            "Id": "reflective-ink",
+            "Name": "Reflective Ink",
+            "Description": "CURIO / UNCOMMON / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nWEAPON SYNERGY\nStamp hits add 2 marks instead of 1, but mark lifetime is 65% of normal. Stamp exposure and marked-target synergies remain active.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "carbon-ribbon",
+            "Name": "Carbon Ribbon",
+            "Description": "CURIO / RARE / UNIQUE\n\nWHILE OWNED / per copy\nTeam / Critical chance: -4%\n\nWEAPON SYNERGY\nA stamp burst attracts coins within 2.5 units of its target. Bell pulses expose surviving targets for 1.5s. Presence effect; requires matching stamp/bell attacks.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "office-lens",
+            "Name": "Office Lens",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nCompanions / Critical chance: +24%\nCompanions / Attack speed: -5%\n\nWEAPON SYNERGY\nCritical hits on an exposed enemy gain a separate damage multiplier: 1.25 + min(0.25,0.05 times stacks). Requires exposure and a critical hit.\n\nOwned effective copies: 1. Stack limit: 5. Values apply before combat limits."
+        },
+        {
+            "Id": "tea-coaster",
+            "Name": "Tea Coaster",
+            "Description": "CURIO / UNCOMMON / UNIQUE\n\nWHILE OWNED / per copy\nTeam / Movement speed: -2%\n\nWEAPON SYNERGY\nTea projectile trails have 40% more radius but deal 20% less trail damage. Presence effect; extra copies do not multiply trail size again.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "scratch-record",
+            "Name": "Scratch Record",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Attack speed: -4%\n\nWEAPON SYNERGY\nMusic-box hits add a delayed echo after 0.3s, damage min(70%,35% times stacks). Bell pulses also add up to 50% extra damage against marked survivors.\n\nOwned effective copies: 1. Stack limit: 2. Values apply before combat limits."
+        },
+        {
+            "Id": "treasure-ribbon",
+            "Name": "Treasure Ribbon",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Damage: -3%\n\nWEAPON SYNERGY\nOpening a chest heals 3 HP per stack and empowers bow-motion hits for 4s: up to +45% damage, +15% per stack.\n\nOwned effective copies: 1. Stack limit: 3. Values apply before combat limits."
+        },
+        {
+            "Id": "patch-spring",
+            "Name": "Patch Spring",
+            "Description": "CURIO / UNCOMMON / UNIQUE\n\nWHILE OWNED / per copy\nCompanions / Attack speed: -6%\n\nWEAPON SYNERGY\nEvery 3s, automatically add one charge to each charging arena toy. Normal warning and cooldown rules still apply. Presence effect; extra copies do not speed it up.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "thermal-ink",
+            "Name": "Thermal Ink",
+            "Description": "CURIO / UNCOMMON / UNIQUE\n\nWHILE OWNED / per copy\nTeam / Critical chance: -3%\n\nWEAPON SYNERGY\nA hot trail touching a marked enemy adds a 40%-trail-damage strike, with a 0.9s cooldown per target.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "repair-coupon",
+            "Name": "Repair Coupon",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Pickup radius: -0.1\n\nWEAPON SYNERGY\nAn arena-toy credited kill heals 1 HP per stack, shared 0.6s cooldown. Ordinary basic kills do not activate this effect.\n\nOwned effective copies: 1. Stack limit: 3. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-collisiondamage",
+            "Name": "Contract · Touch damage",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Collision damage: +12\nChampion / Maximum health: -5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-meleedamage",
+            "Name": "Contract · Melee damage",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Flat melee damage: +7\nChampion / Maximum health: -6\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-rangeddamage",
+            "Name": "Contract · Ranged damage",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Flat ranged damage: +7\nChampion / Maximum health: -6\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-attackrange",
+            "Name": "Contract · Attack range",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Attack range: +30%\nChampion / Maximum health: -5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-dodge",
+            "Name": "Contract · Dodge",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Dodge: +24%\nChampion / Maximum health: -6\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-income",
+            "Name": "Contract · Gold per wave",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Income: +5\nChampion / Maximum health: -5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-bulletpierce",
+            "Name": "Contract · Pierce",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Bullet pierce: +2\nChampion / Maximum health: -8\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-bulletsplit",
+            "Name": "Contract · Split shots",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Bullet split: +2\nChampion / Maximum health: -8\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-bulletbounce",
+            "Name": "Contract · Bounce chance",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Bullet bounce chance: +65%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-bulletsize",
+            "Name": "Contract · Shot size",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Bullet size: +80%\nChampion / Maximum health: -2\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-bulletspeed",
+            "Name": "Contract · Shot speed",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Bullet speed: +50%\nTeam / Bullet travel distance: +50%\nTeam / Attack range: +20%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-bulletdistance",
+            "Name": "Contract · Shot range",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Bullet travel distance: +60%\nTeam / Attack range: +14%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-knockback",
+            "Name": "Contract · Knockback",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Knockback: +50%\nTeam / Collision damage: +6\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-bodysize",
+            "Name": "Contract · Hero size",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Champion size: +12%\nChampion / Maximum health: +15\nChampion / Collision damage: +4\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-companionsize",
+            "Name": "Contract · Friend size",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nCompanions / Companion size: +12%\nCompanions / Damage: +25%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-enemycount",
+            "Name": "Contract · Enemy count",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Enemy count: +10%\nRun / Income: +6\nChampion / Maximum health: -5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-enemyhealth",
+            "Name": "Contract · Enemy HP",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Enemy health: +10%\nRun / Income: +6\nChampion / Maximum health: -6\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-enemyspeed",
+            "Name": "Contract · Enemy speed",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Enemy speed: +10%\nRun / Income: +6\nChampion / Maximum health: -5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-hearthealing",
+            "Name": "Contract · Heart healing",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Heart healing: +8\nChampion / Maximum health: -2\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-chestquality",
+            "Name": "Contract · Chest gold",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Chest quality: +60%\nRun / Treasure detection: +0.5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-recruitdiscount",
+            "Name": "Contract · Friend discount",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Recruit discount: +16%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-relicdiscount",
+            "Name": "Contract · Relic discount",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Relic discount: +13%\nChampion / Maximum health: -5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-shoprarity",
+            "Name": "Contract · Rarer offers",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Shop rarity: +32%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-healthcorrection",
+            "Name": "Contract · Final max HP",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Health correction: +20%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-damagecorrection",
+            "Name": "Contract · Final damage",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Damage correction: +14%\nChampion / Maximum health: -5\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-speedcorrection",
+            "Name": "Contract · Final move speed",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Speed correction: +35%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-armorcorrection",
+            "Name": "Contract · Final armor",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Armor correction: +40%\nChampion / Armor: +0.07\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-healcorrection",
+            "Name": "Contract · Final healing",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Healing correction: +60%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "k10-collisionfrequency",
+            "Name": "Contract · Touch hit rate",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Collision frequency: +60%\nTeam / Collision damage: +4\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "long-pocket",
+            "Name": "Long Pocket",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Chest opening radius: +80%\nRun / Treasure detection: +0.6\nRun / Pickup radius: +0.6\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "velvet-first-aid",
+            "Name": "Velvet First Aid",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Treasure detection: +0.8\nChampion / Movement speed: -2%\n\nTRIGGER: ChestOpened / 100% chance / 2s cooldown. Heal hero 4 per stack; radius 1.8.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "brass-avalanche",
+            "Name": "Brass Avalanche",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Knockback: +25%\nChampion / Movement speed: -2%\n\nTRIGGER: EnemyKilled / 100% chance / 2s cooldown. Damage pulse 3 per stack; radius 1.8.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CrimsonSeal",
+            "Name": "Crimson Seal",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nChampion / Damage: +50%\nTeam / Collision damage: +16\n\nSPECIAL EFFECT\nA collision stamps a crimson seal; 1s later it bursts for triple the collision damage around the enemy.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CrimsonSpring",
+            "Name": "Crimson Spring",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nTeam / Attack speed: +25%\nTeam / Attack range: +25%\n\nSPECIAL EFFECT\nEvery 4s each friend's next attack springs twice.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense0",
+            "Name": "Marrow Tea",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Maximum health: +12\nChampion / Healing per second: +0.3\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense1",
+            "Name": "Porcelain Splint",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Armor: +0.2\nTeam / Movement speed: -6%\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense2",
+            "Name": "Escape Thimble",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Dodge: +12%\nTeam / Movement speed: +12%\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense3",
+            "Name": "Quicksole",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Movement speed: +18%\nChampion / Maximum health: +20\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense4",
+            "Name": "Pulse Bell",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Health correction: +20%\nChampion / Healing per second: +1\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense5",
+            "Name": "Mercy Spindle",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Healing per second: +2.2\nRun / Income: -2\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense6",
+            "Name": "Iron Apron",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Armor: +0.55\nTeam / Movement speed: -8%\n\nSPECIAL EFFECT\nEnemies that strike the hero up close are shoved back 1.5 units (once per second).\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "K26Defense7",
+            "Name": "Mending Moth",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Healing per second: +2.5\nChampion / Armor: +0.12\n\nSPECIAL EFFECT\nAfter 3s without being hit, the hero's healing per second is tripled.\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "OctoberRelic0",
+            "Name": "Lantern Stitch",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Attack range: +30%\nTeam / Attack speed: -4%\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "OctoberRelic1",
+            "Name": "Rain Receipt",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Healing per second: +1.8\nRun / Income: -2\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "OctoberRelic2",
+            "Name": "Clockseed Brooch",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Collision damage: +10\nTeam / Movement speed: -3%\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "OctoberRelic3",
+            "Name": "Porcelain Promise",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Heart healing: +5\nChampion / Maximum health: +25\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioOrchardFizz",
+            "Name": "Orchard Fizz",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Maximum health: +18\nRun / Income: -2\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioGraveChime",
+            "Name": "Grave Chime",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Collision damage: +18\nChampion / Movement speed: -4%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioBreathJar",
+            "Name": "Breath Jar",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Damage: +16%\nTeam / Attack speed: -4%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioCoralBroth",
+            "Name": "Coral Broth",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Healing per second: +1\nChampion / Maximum health: -6\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioFangPin",
+            "Name": "Fang Pin",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Knockback: +100%\nChampion / Attack speed: +20%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioRicochetSeltzer",
+            "Name": "Ricochet Seltzer",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Flat ranged damage: +4\nTeam / Bullet bounce chance: +20%\nTeam / Damage: -5%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioNoonSpark",
+            "Name": "Noon Spark",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Flat melee damage: +3\nTeam / Critical chance: +8%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioQuietHour",
+            "Name": "Quiet Hour",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Armor: +0.12\nRun / Treasure detection: +0.15\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioBentTape",
+            "Name": "Bent Tape",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Attack speed: +14%\n\nSPECIAL EFFECT\nNext wave: +10% enemy count per purchased copy. Its listed permanent modifiers remain separate.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioMeadowTonic",
+            "Name": "Meadow Tonic",
+            "Description": "DRINK / COMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Dodge: +10%\nRun / Luck: +0.08\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioKindlingGloves",
+            "Name": "Kindling Gloves",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Healing per second: -0.4\n\nSPECIAL EFFECT\nEach coin pickup has a 15% chance to heal 2 HP per active stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioInterestTin",
+            "Name": "Interest Tin",
+            "Description": "FOOD / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nRun / Pickup radius: +0.6\n\nSPECIAL EFFECT\nAt each wave start, multiply saved gold by 1.2 per stack, compounded. Separate from normal clear-wave interest.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioStormDryer",
+            "Name": "Storm Dryer",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Damage: +18%\nTeam / Knockback: +20%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioRetortCup",
+            "Name": "Retort Cup",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Armor: +0.25\nRun / Luck: -0.08\n\nSPECIAL EFFECT\nWhen hit, 30% chance to fire 8 radial shots for 12 damage per stack each. Shots move at 5 units/s and last 2s.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioShatteredPager",
+            "Name": "Shattered Pager",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Income: +7\nChampion / Bullet split: +1\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioWatchfulTea",
+            "Name": "Watchful Tea",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Healing per second: +1.6\n\nSPECIAL EFFECT\nNext wave: hero armor -0.8 per purchased copy. Listed recovery modifiers remain separate.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioSunfireFlask",
+            "Name": "Sunfire Flask",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Attack range: +40%\nChampion / Projectile count: +1\nChampion / Attack speed: -35%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioGiltOrbit",
+            "Name": "Gilt Orbit",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Flat ranged damage: +5\n\nSPECIAL EFFECT\nNext wave: Treasure Detection +1 per purchased copy.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioEmberEspresso",
+            "Name": "Ember Espresso",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Attack speed: +30%\nChampion / Collision damage: -1\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioPrismRecord",
+            "Name": "Prism Record",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Attack range: -10%\n\nSPECIAL EFFECT\nA personal basic shot can strike one random enemy for max(2,2 times hero flat ranged bonus) damage per stack. Shared 0.15s cooldown; no recursive response.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioCitrusStorm",
+            "Name": "Citrus Storm",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Flat ranged damage: +6\nRun / Enemy count: +2%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioMoonMilk",
+            "Name": "Moon Milk",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Heart healing: +8\nChampion / Healing per second: +0.5\nChampion / Movement speed: -5%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioPocketSun",
+            "Name": "Pocket Sun",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Champion size: -10%\nRun / Luck: +0.45\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioInkFeather",
+            "Name": "Ink Feather",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nRefreshes cost 2 less gold per active stack; minimum 1 gold.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioMulberryRiot",
+            "Name": "Mulberry Riot",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nRun / Income: +10\nRun / Treasure detection: +0.6\nChampion / Armor: -0.15\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioDreamBlindfold",
+            "Name": "Dream Blindfold",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Luck: +0.1\nRun / Treasure detection: +0.25\n\nSPECIAL EFFECT\nOpening a chest strikes 1-3 different enemies for max(8,100 times Treasure Detection) damage per stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioSleepyMist",
+            "Name": "Sleepy Mist",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Damage: +25%\nTeam / Movement speed: -25%\nRun / Enemy speed: -15%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioClearSip",
+            "Name": "Clear Sip",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Collision damage: -1\n\nSPECIAL EFFECT\nON EACH DRINK PURCHASE: permanently gain +4 maximum HP per active stack for this run. A drink carrying this effect counts itself when purchased.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioOddElixir",
+            "Name": "Odd Elixir",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nON EACH DRINK PURCHASE: permanently gain +6% team attack speed per active stack for this run. Drink shop weight also increases 5% per stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioDaylightBonnet",
+            "Name": "Daylight Bonnet",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Maximum health: +24\n\nSPECIAL EFFECT\nWhen hit, 5% chance to attract all pickups currently on the floor.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioNeedleTarget",
+            "Name": "Needle Target",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Bullet pierce: +1\nTeam / Critical chance: +20%\nTeam / Flat melee damage: -2\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioManyDoorKey",
+            "Name": "Many Door Key",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Treasure detection: +0.25\nTeam / Damage: -5%\n\nSPECIAL EFFECT\nOpening a chest permanently adds +0.06 Luck per active stack for this run.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioCourageJuice",
+            "Name": "Courage Juice",
+            "Description": "DRINK / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Movement speed: +20%\nTeam / Flat melee damage: +5\nChampion / Maximum health: -10\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioCrookedEight",
+            "Name": "Crooked Eight",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nRun / Luck: +0.5\nTeam / Bullet bounce chance: +25%\nTeam / Damage: -4%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioTornAlmanac",
+            "Name": "Torn Almanac",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Damage: -5%\n\nSPECIAL EFFECT\nAt each wave start, gain a seeded random 25-75 gold per active stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioHoardersLocket",
+            "Name": "Hoarders Locket",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nTeam damage bonus +1% per 5 gold held, per stack. Changes as collected combat gold grows your wallet.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioSplitKernel",
+            "Name": "Split Kernel",
+            "Description": "FOOD / RARE / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Healing per second: +3\n\nSPECIAL EFFECT\nAt each battle start, current hero HP is reduced to at most 50% maximum HP; it does not reduce maximum HP.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioWildPigment",
+            "Name": "Wild Pigment",
+            "Description": "DRINK / RARE / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Movement speed: +15%\nTeam / Flat melee damage: +9\nTeam / Flat ranged damage: -3\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioStillwaterUrn",
+            "Name": "Stillwater Urn",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Movement speed: -5%\n\nSPECIAL EFFECT\nStanding still heals 3 HP/s per active stack, subject to hero healing restrictions.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioPanicBell",
+            "Name": "Panic Bell",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEach coin pickup strikes one enemy for max(4,50 times Luck) damage per active stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioOilyLozenge",
+            "Name": "Oily Lozenge",
+            "Description": "FOOD / RARE / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Maximum health: +20\n\nSPECIAL EFFECT\nON PURCHASE: other unsold gold-shop relics cost 30% less for the current shop. Also adds 30% discount to newly generated prices that shop, subject to the total discount cap.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioLodestoneLabel",
+            "Name": "Lodestone Label",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Flat ranged damage: +8\nRun / Pickup radius: +0.9\n\nSPECIAL EFFECT\nCompanion leash and outer patrol radius are multiplied by 0.65. Presence effect; extra stacks do not tighten it again.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioHungryLedger",
+            "Name": "Hungry Ledger",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nAt every wave start, permanently gain +4 flat melee damage, +4 flat ranged damage and +10% team damage per stack for this run.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioStoneCrust",
+            "Name": "Stone Crust",
+            "Description": "FOOD / RARE / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Attack speed: -10%\n\nSPECIAL EFFECT\nHero contact damage gains 50% of the positive hero flat melee bonus, per stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioBitterHoney",
+            "Name": "Bitter Honey",
+            "Description": "DRINK / RARE / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Healing per second: +2\nRun / Treasure detection: +0.6\nRun / Enemy speed: +10%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioBurdenCollar",
+            "Name": "Burden Collar",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Collision damage: +20\nTeam / Movement speed: -20%\n\nSPECIAL EFFECT\nHero armor gains the absolute value of negative hero movement-speed bonus, per stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioHushEarmuffs",
+            "Name": "Hush Earmuffs",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Dodge: +10%\nChampion / Critical chance: +10%\n\nSPECIAL EFFECT\nOn a successful dodge, 30% chance to heal 10 HP per active stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioProfitSlide",
+            "Name": "Profit Slide",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nRun / Income: -10\n\nSPECIAL EFFECT\nWave income gains 1 per full +4% positive hero damage bonus, per stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioAngryReliquary",
+            "Name": "Angry Reliquary",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nDisable passive regeneration and ordinary heart healing. Opening a chest attempts to heal 30 HP per stack. Other explicit healing effects still follow their own rules.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioPetalTonic",
+            "Name": "Petal Tonic",
+            "Description": "DRINK / RARE / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Maximum health: +55\nChampion / Healing per second: -1.2\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioSorrowLantern",
+            "Name": "Sorrow Lantern",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Dodge: -5%\n\nSPECIAL EFFECT\nEvery 3s, all eligible enemies take damage equal to 20% of hero maximum HP per stack.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioMuteClock",
+            "Name": "Mute Clock",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nTeam / Attack speed: +30%\nTeam / Movement speed: +25%\n\nSPECIAL EFFECT\nDuring combat, take 1 injected damage per stack each second. Armor and other injected-damage rules still apply; this differs from hunger's direct HP cost.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioUrchinBall",
+            "Name": "Urchin Ball",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Armor: +0.6\nChampion / Movement speed: +10%\n\nSPECIAL EFFECT\nHero basic attacks stop. Contact damage gains 10 times positive armor per stack. Independent triggered attacks may still fire.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioSourMandarin",
+            "Name": "Sour Mandarin",
+            "Description": "FOOD / RARE / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nNEXT WAVE ONLY: companions stop their basic attacks and hero attack cooldown is divided by 6, subject to the attack loop's cap. Every 10 team kills attempts to heal 3 HP.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioWakefulCordial",
+            "Name": "Wakeful Cordial",
+            "Description": "DRINK / RARE / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Collision damage: +35\nChampion / Knockback: +30%\nChampion / Critical chance: -10%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioGlassLotus",
+            "Name": "Glass Lotus",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nStart each wave with +3 pierce and +30% crit per stack. The temporary bonus ends on the first recorded hero hit.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioNestDumpling",
+            "Name": "Nest Dumpling",
+            "Description": "FOOD / RARE / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Armor: -0.2\n\nSPECIAL EFFECT\nON PURCHASE: receive 3 dreamsand immediately once per acquisition.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioVictorDraught",
+            "Name": "Victor Draught",
+            "Description": "DRINK / RARE / STACKABLE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Critical chance: +30%\nTeam / Bullet pierce: +1\nTeam / Damage: -5%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioWishWick",
+            "Name": "Wish Wick",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Maximum health: -12\nRun / Income: -5\n\nSPECIAL EFFECT\nON PURCHASE: try to recruit up to 2 ordinary companions from your hero's pool. Gifts use the 3-companion regular purchase quota. At most 1 new species per wave; from wave 10 both shops share one new species every 2 waves. Checks unlock wave and unique weapon; no body cap. Solo heroes receive no bodies.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioShieldBlower",
+            "Name": "Shield Blower",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Collision damage: +25\nRun / Companion bullet interception: +1\n\nSPECIAL EFFECT\nA hostile shot a companion intercepts is blown back as a friendly shot with double damage.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioLiarMask",
+            "Name": "Liar Mask",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Damage: +100%\n\nSPECIAL EFFECT\nEach recorded hero hit removes 5% team damage per stack, including a saved run penalty. Its positive listed modifiers are separate.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioOrbitPastry",
+            "Name": "Orbit Pastry",
+            "Description": "FOOD / MYTHIC / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Champion size: +25%\nChampion / Bullet size: +75%\nChampion / Bullet speed: -40%\nChampion / Damage: +70%\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioOathParcel",
+            "Name": "Oath Parcel",
+            "Description": "FOOD / MYTHIC / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nON PURCHASE: record current modifier bonuses as floors; future bonuses cannot fall below those recorded floors. Does not remove every direct combat restriction or HP cost.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioFortunePear",
+            "Name": "Fortune Pear",
+            "Description": "FOOD / MYTHIC / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nRun / Luck: +0.16\nRun / Income: -15\n\nSPECIAL EFFECT\nMaximum HP gains 100 times positive Luck per stack, before HP correction and limits.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioEmeraldInvoice",
+            "Name": "Emerald Invoice",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nRun / Relic discount: +25%\nTeam / Damage: -20%\n\nSPECIAL EFFECT\nEvery relic you own settles part of the invoice: the damage penalty shrinks by 2% each, to nothing at 10 relics.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioBatteringHelm",
+            "Name": "Battering Helm",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nChampion / Collision damage: +70\nChampion / Collision frequency: +70%\nTeam / Flat ranged damage: -6\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioGambleSandwich",
+            "Name": "Gamble Sandwich",
+            "Description": "FOOD / MYTHIC / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Armor: -0.2\n\nSPECIAL EFFECT\nEvery 3s make two independent rolls: 50% to heal 20 HP per stack; 50% to take 8 injected damage per stack. Both or neither can occur.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioFeastBucket",
+            "Name": "Feast Bucket",
+            "Description": "FOOD / MYTHIC / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Maximum health: +40\nChampion / Healing per second: +1\nChampion / Champion size: +10%\nChampion / Dodge: -30%\n\nSPECIAL EFFECT\nON EACH FOOD PURCHASE: permanently gain +10 max HP, +0.5 HP/s and +5% hero size per active stack for this run.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioWanderLetter",
+            "Name": "Wander Letter",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Critical chance: +40%\nChampion / Armor: -0.7\n\nSPECIAL EFFECT\nCompanion outer patrol radius becomes half the arena's diagonal. Does not add extra companion bodies.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioVenomPass",
+            "Name": "Venom Pass",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nHero basic hits poison the target for 4s. Each 1s tick deals max(1,base wave income plus income bonus) damage. Refreshes duration, not an unbounded stack of poisons.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioTruceBottle",
+            "Name": "Truce Bottle",
+            "Description": "DRINK / MYTHIC / UNIQUE\nON PURCHASE: counts as 1 drink for drink-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nTeam / Damage: +20%\nTeam / Critical chance: +15%\nTeam / Attack range: +20%\nChampion / Armor: +0.2\nChampion / Movement speed: -30%\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioThornPerfume",
+            "Name": "Thorn Perfume",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nRun / Enemy speed: +30%\n\nSPECIAL EFFECT\nEach recorded hero hit randomly adds one run bonus per stack: +4 max HP, +0.08 HP/s, +0.015 armor, +2% team damage, +0.02 Luck or +1% crit.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioLastHopeMotor",
+            "Name": "Last Hope Motor",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nDuring each battle, +16 flat attack damage per stack until you move for the first time. Stopping later does not restore this bonus.\n\nOwned effective copies: 1. Stack limit: 8. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioAnchorTack",
+            "Name": "Anchor Tack",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nCompanions stop moving; their range and projectile lifetime double and pierce increases by 3. Final compile range/cooldown limits still apply where enforced.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioVoidDoubloon",
+            "Name": "Void Doubloon",
+            "Description": "CURIO / MYTHIC / STACKABLE\n\nWHILE OWNED / per copy\nTeam / Damage: -20%\n\nSPECIAL EFFECT\nEvery 3s, all eligible enemies lose damage equal to 15% of their CURRENT HP per stack. Not an instant execution.\n\nOwned effective copies: 1. Stack limit: 3. Values apply before combat limits."
+        },
+        {
+            "Id": "CurioSixfoldRoot",
+            "Name": "Sixfold Root",
+            "Description": "FOOD / MYTHIC / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nON FIRST PURCHASE: remember 6 random weapon IDs. Replace ordinary team basic attacks with six phantom weapons fired from the hero. Each uses compiled weapon stats and its own cooldown, minimum 0.2s.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "TallyChalk",
+            "Name": "Tally Chalk",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery 25 enemies defeated this wave: the team deals +1% damage (max +8%).\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CoinSash",
+            "Name": "Coin Sash",
+            "Description": "CURIO / COMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nWhile the hero runs, pickup reach +0.5.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "FishCracker",
+            "Name": "Fish Cracker",
+            "Description": "FOOD / COMMON / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nChampion / Critical chance: +32%\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "PostageStamp",
+            "Name": "Postage Stamp",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nMarked enemies (stamped, pinned, exposed or anchored) take +10% damage.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "FrostSalt",
+            "Name": "Frost Salt",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nFreezes last 0.3s longer.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "RefundSlip",
+            "Name": "Refund Slip",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nOnce per shop, the last relic you bought can be returned at the refund counter for the full price paid.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "WhetstoneWafer",
+            "Name": "Whetstone Wafer",
+            "Description": "FOOD / UNCOMMON / STACKABLE\nON PURCHASE: counts as 1 food for food-reactive heroes, companions and relics. No separate use action; the item stays owned.\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nMelee hits cleave one more enemy beside the target for 40% of the hit.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "LateFee",
+            "Name": "Late Fee",
+            "Description": "CURIO / UNCOMMON / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nBurning, poison and deferred damage hit 25% harder.\n\nOwned effective copies: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "HagglersAbacus",
+            "Name": "Haggler's Abacus",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEach refresh in this shop takes 1 gold off every gold offer (at most 30% off).\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "SlipstreamScarf",
+            "Name": "Slipstream Scarf",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nFriends gain +1% attack speed for every 5% movement speed bonus of the hero (max +15%).\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "BrainFreeze",
+            "Name": "Brain Freeze",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nA critical hit on a frozen enemy breaks off 3 ice shards (30% of the hit each).\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "WindChime",
+            "Name": "Wind Chime",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery 10 critical hits of the team ring the chime: the next 3 shots of every friend pierce one more enemy.\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "SpecimenPin",
+            "Name": "Specimen Pin",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery enemy species defeated in this run gives +1% critical chance (max +20%).\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "StarPolish",
+            "Name": "Star Polish",
+            "Description": "CURIO / RARE / STACKABLE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nThree-star friends with shooting weapons fire one more projectile.\n\nOwned effective copies: 1. Stack limit: 4. Values apply before combat limits."
+        },
+        {
+            "Id": "KiteTailRibbon",
+            "Name": "Kite Tail Ribbon",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nCritical shots of ranged friends bounce on to one more enemy.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "MeltingSundae",
+            "Name": "Melting Sundae",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nWhen the hero is hit, enemies within 2 units freeze for 0.5s (4s cooldown).\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "CuckooPendulum",
+            "Name": "Cuckoo Pendulum",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery 12s the cuckoo calls: the next attack of every friend is a critical hit.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "DivingBellLantern",
+            "Name": "Diving Bell Lantern",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nMarked enemies (stamped, pinned, exposed or anchored) take +15% damage.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "TwinTicket",
+            "Name": "Twin Ticket",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nA merge into a three-star friend brings a free one-star copy of it.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "TreasureMimic",
+            "Name": "Treasure Mimic",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nThe first chest opened each wave wakes up and bites the nearest enemy every 0.5s for 10s.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "DuelistsRibbon",
+            "Name": "Duelist's Ribbon",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery 4th hit of each melee friend strikes twice.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "FrostLedger",
+            "Name": "Frost Ledger",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery frozen enemy defeated this wave gives the team +2% damage for the wave (max +20%).\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "UndertowAnchor",
+            "Name": "Undertow Anchor",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery 8s an undertow from the front line pushes the 5 enemies nearest the hero back 2 units and soaks them.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "FunhouseMirror",
+            "Name": "Funhouse Mirror",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nEvery 10s one friend's weapon is warped for 3s: double size and damage, half the speed.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "SpliceKit",
+            "Name": "Splice Kit",
+            "Description": "CURIO / MYTHIC / UNIQUE\n\nWHILE OWNED / per copy\nNo direct stat modifier; effects are described below.\n\nSPECIAL EFFECT\nOnce per wave, three different one-star friends are spliced into one random two-star friend.\n\nOwned effective copies: 1. Stack limit: 1. Values apply before combat limits."
+        },
+        {
+            "Id": "LoneLantern",
+            "Name": "Lone Lantern",
+            "Description": "Hero damage +45%, 8% less for each friend in the fight."
+        },
+        {
+            "Id": "EmptyChairs",
+            "Name": "Lone Spotlight",
+            "Description": "Hero attack speed +7% for each friend fewer than 6 beside you."
+        },
+        {
+            "Id": "SingleTicket",
+            "Name": "Single Ticket",
+            "Description": "With 2 friends or fewer: one more shot that pierces one more."
+        },
+        {
+            "Id": "NightAlone",
+            "Name": "Night Alone",
+            "Description": "Alone: the gauge fills 30% faster, transformations last 3s longer."
+        },
+        {
+            "Id": "SelfPortrait",
+            "Name": "Self-Portrait",
+            "Description": "Hero damage +25%, max HP +60."
+        },
+        {
+            "Id": "LastLight",
+            "Name": "Last Light",
+            "Description": "Once a wave under 30% health: +60% damage and attack speed for 6s."
+        },
+        {
+            "Id": "IronResolve",
+            "Name": "Iron Resolve",
+            "Description": "Hero armor +0.25 and speed +15%, less for each friend."
+        },
+        {
+            "Id": "SpecimenJar",
+            "Name": "Specimen Jar",
+            "Description": "Team damage +8%, crit +5%."
+        },
+        {
+            "Id": "FieldNotes",
+            "Name": "Field Notes",
+            "Description": "Hero damage +20%, luck +0.1."
+        },
+        {
+            "Id": "TrophyShelf",
+            "Name": "Trophy Shelf",
+            "Description": "Team damage +15%, wave income +4."
+        },
+        {
+            "Id": "SlowSand",
+            "Name": "Slow Sand",
+            "Description": "Enemies 5% slower, attack range +10%."
+        },
+        {
+            "Id": "PocketHourglass",
+            "Name": "Pocket Hourglass",
+            "Description": "Hero damage +25%."
+        },
+        {
+            "Id": "StoppedWatch",
+            "Name": "Stopped Watch",
+            "Description": "Team damage +15%, enemies 8% slower."
+        },
+        {
+            "Id": "GraftingTwine",
+            "Name": "Grafting Twine",
+            "Description": "Friends' damage +10%, max HP +10."
+        },
+        {
+            "Id": "SeedCatalogue",
+            "Name": "Seed Catalogue",
+            "Description": "Friends' attack speed +10%, friends cost 10% less."
+        },
+        {
+            "Id": "GardenShears",
+            "Name": "Gardener's Shears",
+            "Description": "Friends' damage +20%, attack speed +8%."
+        },
+        {
+            "Id": "IceCubeTray",
+            "Name": "Ice Cube Tray",
+            "Description": "Team damage +6%, max HP +15."
+        },
+        {
+            "Id": "FrostDoily",
+            "Name": "Frost Doily",
+            "Description": "Attack speed +10%, enemies 5% slower."
+        },
+        {
+            "Id": "SnowGlobe",
+            "Name": "Snow Globe",
+            "Description": "Team damage +15%, enemies 8% slower."
+        },
+        {
+            "Id": "RubberStamp",
+            "Name": "Rubber Stamp",
+            "Description": "Hero damage +10%, crit +6%."
+        },
+        {
+            "Id": "AddressBook",
+            "Name": "Address Book",
+            "Description": "Shots pierce 1 more, ranged damage +3."
+        },
+        {
+            "Id": "WaxSealSet",
+            "Name": "Wax Seal Set",
+            "Description": "Team damage +15%, crit +8%."
+        }
+    ],
+    "CompanionSkills": [
+        "PillowOracle",
+        "ReelOwl",
+        "ClockworkPiper",
+        "CoilKettle",
+        "IronLocomotive",
+        "PaperInventor",
+        "ReturnCaptain",
+        "MirrorNewt",
+        "TeaDragon",
+        "LighthouseWhale",
+        "JackInTheBox",
+        "KiteDragon",
+        "SundaeGolem",
+        "LostCarousel",
+        "EndlessIndex",
+        "FirstSeed",
+        "EclipseEgg",
+        "StaticFerret",
+        "StormKitten",
+        "VoltEel",
+        "ShantySeaLion",
+        "PinnedBeetle",
+        "FossilArmadillo",
+        "CourtHerald"
+    ]
+}

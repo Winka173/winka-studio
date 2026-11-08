@@ -1,0 +1,192 @@
+﻿{
+  "summary": {
+    "blocks": 0,
+    "ask": 16,
+    "waived": 0,
+    "polish": 2,
+    "render": "skipped: not requested"
+  },
+  "files": 3,
+  "findings": [
+    {
+      "rule": "gray-on-color",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 497,
+      "evidence": "a dark surface (lightness 24%) on .product-asset-forge-studio .product-card-art sets no text colour",
+      "fix": "swap the text to the paper colour in the same rule",
+      "source": "static"
+    },
+    {
+      "rule": "hover-tells",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 454,
+      "evidence": "an image transforms on hover (.product-card:hover .product-card-art > img)",
+      "fix": "imagery sits still; give the container the feedback",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 286,
+      "evidence": "padding: 0 18px on .header-cta is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 417,
+      "evidence": "gap: 7px on .status is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 481,
+      "evidence": "margin-top: 22px on .product-card-title is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 532,
+      "evidence": "padding: 8px 10px on .media-type-label is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 562,
+      "evidence": "margin-top: 18px on .footer-top p is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 572,
+      "evidence": "gap: 6px on .footer-links > div is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 616,
+      "evidence": "padding: 10px 12px 10px 16px on .review-dock is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 625,
+      "evidence": "gap: 10px on .review-dock > a is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 634,
+      "evidence": "padding: 0 14px on .review-dock > a:last-child is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 732,
+      "evidence": "gap: 9px on .wordmark is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 746,
+      "evidence": "margin-bottom: 30px on .section-heading is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 752,
+      "evidence": "margin-top: 14px on .section-heading h2 is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 777,
+      "evidence": "gap: 90px on .footer-links is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "off-scale-spacing",
+      "tier": "ask",
+      "grade": "ask",
+      "file": "src\\app\\globals.css",
+      "line": 792,
+      "evidence": "padding: 8px 10px on .review-dock is off the 4px scale",
+      "fix": "a step of the 4px spacing scale",
+      "source": "static"
+    },
+    {
+      "rule": "balanced-display-head",
+      "tier": "polish",
+      "grade": "polish",
+      "file": "src\\styles\\gstack.css",
+      "line": 58,
+      "evidence": "no text-wrap: balance on any display head (13 head rules, the first .play-hero h1)",
+      "fix": "text-wrap: balance on the h1 and h2 level heads",
+      "source": "static"
+    },
+    {
+      "rule": "hairline-under-shadow",
+      "tier": "polish",
+      "grade": "polish",
+      "file": "src\\app\\globals.css",
+      "line": 320,
+      "evidence": "a hairline border under a wide soft shadow on .mobile-nav",
+      "fix": "the shadow or the border, not both",
+      "source": "static"
+    }
+  ]
+}

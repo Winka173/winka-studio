@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "routeViewportCases": 124,
+  "routes": 31,
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "errors": [],
+  "axeViolations": [],
+  "flows": [
+    "Search, clear, family and completion filters, no-results state",
+    "Theme toggle and persistence; language switch preserves product path",
+    "Mobile navigation open/close; source-specific FAQ disclosure",
+    "Keyboard skip link; reduced-motion disables authored hero animation",
+    "Product interactions: Bookmark mouse and arrow-key tabs, Sticky rearrangement, Forge view and inspection frame, Arcane scene switch",
+    "Normal motion is active; global pause freezes authored CSS animations and resumes",
+    "Client navigation reinitializes scene observers; product chapter remains visible after entering from home",
+    "Custom directly served 404"
+  ],
+  "followupArcaneViewportCases": 8,
+  "localResourceReferences": 9936
+}

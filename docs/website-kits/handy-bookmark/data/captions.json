@@ -1,0 +1,2432 @@
+{
+ "screenshots/dark/desktop-dark-en-01-home.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-en-02-home-item-open.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Desktop: the library with an item open beside the list",
+  "alt_en": "Desktop: the library with an item open beside the list",
+  "alt_vi": "Máy tính: thư viện với một mục mở ngay bên cạnh danh sách",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-en-03-collection-cards.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "A collection (Recipes) as picture cards",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-en-03-collection.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "A collection (Recipes) as rows",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-en-05-item-detail.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "An item: picture, Open original, Read, tags and a private note",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-en-22-reader.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "The reader with an offline copy",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-en-30-settings.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Settings",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-vi-01-home.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-vi-02-home-item-open.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Máy tính: thư viện với một mục mở ngay bên cạnh danh sách",
+  "alt_en": "Desktop: the library with an item open beside the list",
+  "alt_vi": "Máy tính: thư viện với một mục mở ngay bên cạnh danh sách",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-vi-03-collection-cards.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-vi-03-collection.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-vi-05-item-detail.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-vi-22-reader.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Trình đọc với bản offline",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/dark/desktop-dark-vi-30-settings.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "dark",
+  "alt": "Cài đặt",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-01-home-scrolled.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_en": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_vi": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-01-home.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-03-collection-cards.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "A collection (Recipes) as picture cards",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-03-collection.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "A collection (Recipes) as rows",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-05-item-detail.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "An item: picture, Open original, Read, tags and a private note",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-06-library-smart-and-saved.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Library, Advanced: a smart collection and saved searches",
+  "alt_en": "Library, Advanced: a smart collection and saved searches",
+  "alt_vi": "Thư viện, Nâng cao: bộ sưu tập thông minh và tìm kiếm đã lưu",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-en-06-library.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "The Library page: every place, the collections tree and tags",
+  "alt_en": "The Library page: every place, the collections tree and tags",
+  "alt_vi": "Trang Thư viện: mọi chỗ, cây bộ sưu tập và thẻ",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-09-new-collection-template.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "A new collection started from the Watch later template",
+  "alt_en": "A new collection started from the Watch later template",
+  "alt_vi": "Bộ sưu tập mới tạo từ mẫu Xem sau",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-09-new-collection.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "A new collection: ready starts, an icon and a colour",
+  "alt_en": "A new collection: ready starts, an icon and a colour",
+  "alt_vi": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-14-save-sheet-paste.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Pasting a link to save",
+  "alt_en": "Pasting a link to save",
+  "alt_vi": "Dán một link để lưu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-14-save-sheet.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "The + sheet: save a picture, several links, or learn to save from other apps",
+  "alt_en": "The + sheet: save a picture, several links, or learn to save from other apps",
+  "alt_vi": "Khung +: lưu ảnh, nhiều link, hoặc xem cách lưu từ app khác",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-17-picture-full.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "The photo, full screen",
+  "alt_en": "The photo, full screen",
+  "alt_vi": "Ảnh xem toàn màn hình",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-17-picture.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "A saved photo with its details",
+  "alt_en": "A saved photo with its details",
+  "alt_vi": "Một ảnh đã lưu cùng thông tin",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-18-search-results.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_en": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_vi": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-18-search-start.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Search before typing: numbers, tags and recent saves",
+  "alt_en": "Search before typing: numbers, tags and recent saves",
+  "alt_vi": "Màn tìm trước khi gõ: con số, thẻ và mục mới lưu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-20-focus.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Focus: one unopened save at a time, swipe right when done",
+  "alt_en": "Focus: one unopened save at a time, swipe right when done",
+  "alt_vi": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-21-focus-skins.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Focus card styles",
+  "alt_en": "Focus card styles",
+  "alt_vi": "Các kiểu thẻ Tập trung",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-en-22-reader.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "The reader with an offline copy",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-23-reader-highlights-list.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "All highlights of an article, with a note",
+  "alt_en": "All highlights of an article, with a note",
+  "alt_vi": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-en-23-reader-highlights.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Highlights in three colours in the reader",
+  "alt_en": "Highlights in three colours in the reader",
+  "alt_vi": "Đánh dấu ba màu trong trình đọc",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-en-27-trash.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Recently deleted: restore within 30 days",
+  "alt_en": "Recently deleted: restore within 30 days",
+  "alt_vi": "Đã xoá gần đây: khôi phục trong 30 ngày",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-30-settings-1.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Settings: privacy, app lock, back up and restore",
+  "alt_en": "Settings: privacy, app lock, back up and restore",
+  "alt_vi": "Cài đặt: riêng tư, khoá app, sao lưu và khôi phục",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-30-settings-2.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Settings: automatic backups, import and export, Recently deleted",
+  "alt_en": "Settings: automatic backups, import and export, Recently deleted",
+  "alt_vi": "Cài đặt: tự sao lưu, nhập và xuất, Đã xoá gần đây",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-30-settings-3.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Settings: help and about",
+  "alt_en": "Settings: help and about",
+  "alt_vi": "Cài đặt: trợ giúp và giới thiệu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-30-settings.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Settings",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-en-40-pro.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Handy Bookmark Pro",
+  "alt_en": "Handy Bookmark Pro",
+  "alt_vi": "Handy Bookmark Pro",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-vi-01-home-scrolled.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "alt_en": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_vi": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-01-home.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-03-collection-cards.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-03-collection.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-05-item-detail.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-06-library-smart-and-saved.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Thư viện, Nâng cao: bộ sưu tập thông minh và tìm kiếm đã lưu",
+  "alt_en": "Library, Advanced: a smart collection and saved searches",
+  "alt_vi": "Thư viện, Nâng cao: bộ sưu tập thông minh và tìm kiếm đã lưu",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-vi-06-library.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Trang Thư viện: mọi chỗ, cây bộ sưu tập và thẻ",
+  "alt_en": "The Library page: every place, the collections tree and tags",
+  "alt_vi": "Trang Thư viện: mọi chỗ, cây bộ sưu tập và thẻ",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-09-new-collection-template.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Bộ sưu tập mới tạo từ mẫu Xem sau",
+  "alt_en": "A new collection started from the Watch later template",
+  "alt_vi": "Bộ sưu tập mới tạo từ mẫu Xem sau",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-09-new-collection.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "alt_en": "A new collection: ready starts, an icon and a colour",
+  "alt_vi": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-14-save-sheet-paste.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Dán một link để lưu",
+  "alt_en": "Pasting a link to save",
+  "alt_vi": "Dán một link để lưu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-14-save-sheet.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Khung +: lưu ảnh, nhiều link, hoặc xem cách lưu từ app khác",
+  "alt_en": "The + sheet: save a picture, several links, or learn to save from other apps",
+  "alt_vi": "Khung +: lưu ảnh, nhiều link, hoặc xem cách lưu từ app khác",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-17-picture-full.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Ảnh xem toàn màn hình",
+  "alt_en": "The photo, full screen",
+  "alt_vi": "Ảnh xem toàn màn hình",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-17-picture.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Một ảnh đã lưu cùng thông tin",
+  "alt_en": "A saved photo with its details",
+  "alt_vi": "Một ảnh đã lưu cùng thông tin",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-18-search-results.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "alt_en": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_vi": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-18-search-start.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Màn tìm trước khi gõ: con số, thẻ và mục mới lưu",
+  "alt_en": "Search before typing: numbers, tags and recent saves",
+  "alt_vi": "Màn tìm trước khi gõ: con số, thẻ và mục mới lưu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-20-focus.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "alt_en": "Focus: one unopened save at a time, swipe right when done",
+  "alt_vi": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-21-focus-skins.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Các kiểu thẻ Tập trung",
+  "alt_en": "Focus card styles",
+  "alt_vi": "Các kiểu thẻ Tập trung",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-vi-22-reader.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Trình đọc với bản offline",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-23-reader-highlights-list.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "alt_en": "All highlights of an article, with a note",
+  "alt_vi": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-vi-23-reader-highlights.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Đánh dấu ba màu trong trình đọc",
+  "alt_en": "Highlights in three colours in the reader",
+  "alt_vi": "Đánh dấu ba màu trong trình đọc",
+  "pro": true
+ },
+ "screenshots/dark/mobile-dark-vi-27-trash.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Đã xoá gần đây: khôi phục trong 30 ngày",
+  "alt_en": "Recently deleted: restore within 30 days",
+  "alt_vi": "Đã xoá gần đây: khôi phục trong 30 ngày",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-30-settings-1.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Cài đặt: riêng tư, khoá app, sao lưu và khôi phục",
+  "alt_en": "Settings: privacy, app lock, back up and restore",
+  "alt_vi": "Cài đặt: riêng tư, khoá app, sao lưu và khôi phục",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-30-settings-2.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Cài đặt: tự sao lưu, nhập và xuất, Đã xoá gần đây",
+  "alt_en": "Settings: automatic backups, import and export, Recently deleted",
+  "alt_vi": "Cài đặt: tự sao lưu, nhập và xuất, Đã xoá gần đây",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-30-settings-3.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Cài đặt: trợ giúp và giới thiệu",
+  "alt_en": "Settings: help and about",
+  "alt_vi": "Cài đặt: trợ giúp và giới thiệu",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-30-settings.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Cài đặt",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/dark/mobile-dark-vi-40-pro.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "dark",
+  "alt": "Handy Bookmark Pro",
+  "alt_en": "Handy Bookmark Pro",
+  "alt_vi": "Handy Bookmark Pro",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-en-01-home.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-02-home-item-open.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Desktop: the library with an item open beside the list",
+  "alt_en": "Desktop: the library with an item open beside the list",
+  "alt_vi": "Máy tính: thư viện với một mục mở ngay bên cạnh danh sách",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-03-collection-cards.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "A collection (Recipes) as picture cards",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-03-collection.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "A collection (Recipes) as rows",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-04-collection-trips.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Trips, with Da Nang kept inside it",
+  "alt_en": "Trips, with Da Nang kept inside it",
+  "alt_vi": "Du lịch, với bộ Đà Nẵng nằm bên trong",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-05-item-detail.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "An item: picture, Open original, Read, tags and a private note",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-07-smart-collection.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "A smart collection, Videos to watch, filling itself from rules",
+  "alt_en": "A smart collection, Videos to watch, filling itself from rules",
+  "alt_vi": "Bộ sưu tập thông minh Video chưa xem tự gom theo quy tắc",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-en-09-new-collection.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "A new collection: ready starts, an icon and a colour",
+  "alt_en": "A new collection: ready starts, an icon and a colour",
+  "alt_vi": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-12-select-move.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Three items selected, ready to move, archive or delete together",
+  "alt_en": "Three items selected, ready to move, archive or delete together",
+  "alt_vi": "Chọn ba mục để chuyển, lưu trữ hoặc xoá cùng lúc",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-18-search-results.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_en": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_vi": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-20-focus.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Focus: one unopened save at a time, swipe right when done",
+  "alt_en": "Focus: one unopened save at a time, swipe right when done",
+  "alt_vi": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-22-reader.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "The reader with an offline copy",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-23-reader-highlights-list.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "All highlights of an article, with a note",
+  "alt_en": "All highlights of an article, with a note",
+  "alt_vi": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-en-23-reader-highlights.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Highlights in three colours in the reader",
+  "alt_en": "Highlights in three colours in the reader",
+  "alt_vi": "Đánh dấu ba màu trong trình đọc",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-en-29-broken-links.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Links that stopped working: gone, moved, could not tell",
+  "alt_en": "Links that stopped working: gone, moved, could not tell",
+  "alt_vi": "Link không còn mở được: đã mất, đã chuyển, chưa rõ",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-30-settings.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Settings",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-36-empty.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "A new, empty library",
+  "alt_en": "A new, empty library",
+  "alt_vi": "Thư viện mới, chưa có gì",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-44-export-studio.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Design an export: PDF or web page",
+  "alt_en": "Design an export: PDF or web page",
+  "alt_vi": "Thiết kế bản xuất: PDF hoặc trang web",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-en-50-welcome-1.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Welcome: \"Saved it. Then forgot it.\"",
+  "alt_en": "Welcome: \"Saved it. Then forgot it.\"",
+  "alt_vi": "Màn chào: \"Lưu rồi. Rồi quên mất.\"",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-50-welcome-2.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Welcome: \"One place for all of it.\"",
+  "alt_en": "Welcome: \"One place for all of it.\"",
+  "alt_vi": "Màn chào: \"Một chỗ cho tất cả.\"",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-50-welcome-3-practice.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Welcome: practise saving a video",
+  "alt_en": "Welcome: practise saving a video",
+  "alt_vi": "Màn chào: tập lưu một video",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-50-welcome-4-share.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Practice: tap Share",
+  "alt_en": "Practice: tap Share",
+  "alt_vi": "Tập: bấm Chia sẻ",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-50-welcome-5-apps.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Practice: find Handy Bookmark among the apps",
+  "alt_en": "Practice: find Handy Bookmark among the apps",
+  "alt_vi": "Tập: tìm Handy Bookmark trong hàng app",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-50-welcome-6-pick.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Practice: tap a collection",
+  "alt_en": "Practice: tap a collection",
+  "alt_vi": "Tập: chạm một bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-50-welcome-7-saved.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Practice: saved",
+  "alt_en": "Practice: saved",
+  "alt_vi": "Tập: đã lưu",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-en-50-welcome-8-find.png": {
+  "lang": "en",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Welcome: \"Find it in a moment.\"",
+  "alt_en": "Welcome: \"Find it in a moment.\"",
+  "alt_vi": "Màn chào: \"Tìm lại trong tích tắc.\"",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-01-home.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-02-home-item-open.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Máy tính: thư viện với một mục mở ngay bên cạnh danh sách",
+  "alt_en": "Desktop: the library with an item open beside the list",
+  "alt_vi": "Máy tính: thư viện với một mục mở ngay bên cạnh danh sách",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-03-collection-cards.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-03-collection.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-04-collection-trips.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Du lịch, với bộ Đà Nẵng nằm bên trong",
+  "alt_en": "Trips, with Da Nang kept inside it",
+  "alt_vi": "Du lịch, với bộ Đà Nẵng nằm bên trong",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-05-item-detail.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-07-smart-collection.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Bộ sưu tập thông minh Video chưa xem tự gom theo quy tắc",
+  "alt_en": "A smart collection, Videos to watch, filling itself from rules",
+  "alt_vi": "Bộ sưu tập thông minh Video chưa xem tự gom theo quy tắc",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-vi-09-new-collection.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "alt_en": "A new collection: ready starts, an icon and a colour",
+  "alt_vi": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-12-select-move.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Chọn ba mục để chuyển, lưu trữ hoặc xoá cùng lúc",
+  "alt_en": "Three items selected, ready to move, archive or delete together",
+  "alt_vi": "Chọn ba mục để chuyển, lưu trữ hoặc xoá cùng lúc",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-18-search-results.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "alt_en": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_vi": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-20-focus.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "alt_en": "Focus: one unopened save at a time, swipe right when done",
+  "alt_vi": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-22-reader.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Trình đọc với bản offline",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-23-reader-highlights-list.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "alt_en": "All highlights of an article, with a note",
+  "alt_vi": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-vi-23-reader-highlights.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Đánh dấu ba màu trong trình đọc",
+  "alt_en": "Highlights in three colours in the reader",
+  "alt_vi": "Đánh dấu ba màu trong trình đọc",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-vi-29-broken-links.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Link không còn mở được: đã mất, đã chuyển, chưa rõ",
+  "alt_en": "Links that stopped working: gone, moved, could not tell",
+  "alt_vi": "Link không còn mở được: đã mất, đã chuyển, chưa rõ",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-30-settings.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Cài đặt",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-36-empty.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Thư viện mới, chưa có gì",
+  "alt_en": "A new, empty library",
+  "alt_vi": "Thư viện mới, chưa có gì",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-44-export-studio.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Thiết kế bản xuất: PDF hoặc trang web",
+  "alt_en": "Design an export: PDF or web page",
+  "alt_vi": "Thiết kế bản xuất: PDF hoặc trang web",
+  "pro": true
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-1.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Màn chào: \"Lưu rồi. Rồi quên mất.\"",
+  "alt_en": "Welcome: \"Saved it. Then forgot it.\"",
+  "alt_vi": "Màn chào: \"Lưu rồi. Rồi quên mất.\"",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-2.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Màn chào: \"Một chỗ cho tất cả.\"",
+  "alt_en": "Welcome: \"One place for all of it.\"",
+  "alt_vi": "Màn chào: \"Một chỗ cho tất cả.\"",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-3-practice.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Màn chào: tập lưu một video",
+  "alt_en": "Welcome: practise saving a video",
+  "alt_vi": "Màn chào: tập lưu một video",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-4-share.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Tập: bấm Chia sẻ",
+  "alt_en": "Practice: tap Share",
+  "alt_vi": "Tập: bấm Chia sẻ",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-5-apps.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Tập: tìm Handy Bookmark trong hàng app",
+  "alt_en": "Practice: find Handy Bookmark among the apps",
+  "alt_vi": "Tập: tìm Handy Bookmark trong hàng app",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-6-pick.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Tập: chạm một bộ sưu tập",
+  "alt_en": "Practice: tap a collection",
+  "alt_vi": "Tập: chạm một bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-7-saved.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Tập: đã lưu",
+  "alt_en": "Practice: saved",
+  "alt_vi": "Tập: đã lưu",
+  "pro": false
+ },
+ "screenshots/desktop/desktop-vi-50-welcome-8-find.png": {
+  "lang": "vi",
+  "form": "desktop",
+  "theme": "light",
+  "alt": "Màn chào: \"Tìm lại trong tích tắc.\"",
+  "alt_en": "Welcome: \"Find it in a moment.\"",
+  "alt_vi": "Màn chào: \"Tìm lại trong tích tắc.\"",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-01-home-scrolled.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_en": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_vi": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-01-home.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-03-collection-cards.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A collection (Recipes) as picture cards",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-03-collection.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A collection (Recipes) as rows",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-04-collection-trips.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Trips, with Da Nang kept inside it",
+  "alt_en": "Trips, with Da Nang kept inside it",
+  "alt_vi": "Du lịch, với bộ Đà Nẵng nằm bên trong",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-05-item-detail.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "An item: picture, Open original, Read, tags and a private note",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-06-library-smart-and-saved.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Library, Advanced: a smart collection and saved searches",
+  "alt_en": "Library, Advanced: a smart collection and saved searches",
+  "alt_vi": "Thư viện, Nâng cao: bộ sưu tập thông minh và tìm kiếm đã lưu",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-06-library.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "The Library page: every place, the collections tree and tags",
+  "alt_en": "The Library page: every place, the collections tree and tags",
+  "alt_vi": "Trang Thư viện: mọi chỗ, cây bộ sưu tập và thẻ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-07-smart-collection.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A smart collection, Videos to watch, filling itself from rules",
+  "alt_en": "A smart collection, Videos to watch, filling itself from rules",
+  "alt_vi": "Bộ sưu tập thông minh Video chưa xem tự gom theo quy tắc",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-08-everything.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Everything you saved, as cards",
+  "alt_en": "Everything you saved, as cards",
+  "alt_vi": "Mọi thứ đã lưu, dạng thẻ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-09-new-collection-template.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A new collection started from the Watch later template",
+  "alt_en": "A new collection started from the Watch later template",
+  "alt_vi": "Bộ sưu tập mới tạo từ mẫu Xem sau",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-09-new-collection.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A new collection: ready starts, an icon and a colour",
+  "alt_en": "A new collection: ready starts, an icon and a colour",
+  "alt_vi": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-10-cover-chooser.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Choosing a collection cover from its own pictures",
+  "alt_en": "Choosing a collection cover from its own pictures",
+  "alt_vi": "Chọn ảnh bìa cho bộ sưu tập từ chính ảnh trong bộ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-11-filters.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Filters: when saved, from which site, what kind, which tag",
+  "alt_en": "Filters: when saved, from which site, what kind, which tag",
+  "alt_vi": "Bộ lọc: lưu khi nào, từ trang nào, loại gì, thẻ nào",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-12-select-move.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Three items selected, ready to move, archive or delete together",
+  "alt_en": "Three items selected, ready to move, archive or delete together",
+  "alt_vi": "Chọn ba mục để chuyển, lưu trữ hoặc xoá cùng lúc",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-13-share-sheet-saved.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "One tap later: saved in Recipes",
+  "alt_en": "One tap later: saved in Recipes",
+  "alt_vi": "Một chạm sau: đã lưu vào Công thức nấu ăn",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-13-share-sheet.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Shared from a video app: the sheet with the picture and title, and your collections",
+  "alt_en": "Shared from a video app: the sheet with the picture and title, and your collections",
+  "alt_vi": "Chia sẻ từ app video: khung lưu có hình, tiêu đề và các bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-14-save-sheet-paste.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Pasting a link to save",
+  "alt_en": "Pasting a link to save",
+  "alt_vi": "Dán một link để lưu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-14-save-sheet.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "The + sheet: save a picture, several links, or learn to save from other apps",
+  "alt_en": "The + sheet: save a picture, several links, or learn to save from other apps",
+  "alt_vi": "Khung +: lưu ảnh, nhiều link, hoặc xem cách lưu từ app khác",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-15-quick-saved.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Saved from the paste field, with Undo",
+  "alt_en": "Saved from the paste field, with Undo",
+  "alt_vi": "Lưu từ ô dán link, có Hoàn tác",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-16-share-how-to.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "How to save from any app, step by step",
+  "alt_en": "How to save from any app, step by step",
+  "alt_vi": "Cách lưu từ mọi app, từng bước",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-17-picture-full.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "The photo, full screen",
+  "alt_en": "The photo, full screen",
+  "alt_vi": "Ảnh xem toàn màn hình",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-17-picture.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A saved photo with its details",
+  "alt_en": "A saved photo with its details",
+  "alt_vi": "Một ảnh đã lưu cùng thông tin",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-18-search-results.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_en": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_vi": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-18-search-start.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Search before typing: numbers, tags and recent saves",
+  "alt_en": "Search before typing: numbers, tags and recent saves",
+  "alt_vi": "Màn tìm trước khi gõ: con số, thẻ và mục mới lưu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-19-deep-search.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Deep search found the words inside an offline article",
+  "alt_en": "Deep search found the words inside an offline article",
+  "alt_vi": "Tìm sâu thấy chữ nằm trong bài đọc offline",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-20-focus.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Focus: one unopened save at a time, swipe right when done",
+  "alt_en": "Focus: one unopened save at a time, swipe right when done",
+  "alt_vi": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-21-focus-skins.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Focus card styles",
+  "alt_en": "Focus card styles",
+  "alt_vi": "Các kiểu thẻ Tập trung",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-22-reader-night-tone.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "The reader in its night tone",
+  "alt_en": "The reader in its night tone",
+  "alt_vi": "Trình đọc ở tông đêm",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-22-reader.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "The reader with an offline copy",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-23-reader-highlights-list.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "All highlights of an article, with a note",
+  "alt_en": "All highlights of an article, with a note",
+  "alt_vi": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-23-reader-highlights.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Highlights in three colours in the reader",
+  "alt_en": "Highlights in three colours in the reader",
+  "alt_vi": "Đánh dấu ba màu trong trình đọc",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-24-reader-find.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Find in the text",
+  "alt_en": "Find in the text",
+  "alt_vi": "Tìm trong bài",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-26-weekly-nudge.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Settings: the weekly nudge on, Sunday at 19:00",
+  "alt_en": "Settings: the weekly nudge on, Sunday at 19:00",
+  "alt_vi": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-27-trash.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Recently deleted: restore within 30 days",
+  "alt_en": "Recently deleted: restore within 30 days",
+  "alt_vi": "Đã xoá gần đây: khôi phục trong 30 ngày",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-28-duplicates.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Duplicates found and ready to merge",
+  "alt_en": "Duplicates found and ready to merge",
+  "alt_vi": "Mục trùng đã tìm thấy, sẵn sàng gộp",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-29-broken-links.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Links that stopped working: gone, moved, could not tell",
+  "alt_en": "Links that stopped working: gone, moved, could not tell",
+  "alt_vi": "Link không còn mở được: đã mất, đã chuyển, chưa rõ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-30-settings-1.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Settings: privacy, app lock, back up and restore",
+  "alt_en": "Settings: privacy, app lock, back up and restore",
+  "alt_vi": "Cài đặt: riêng tư, khoá app, sao lưu và khôi phục",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-30-settings-2.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Settings: automatic backups, import and export, Recently deleted",
+  "alt_en": "Settings: automatic backups, import and export, Recently deleted",
+  "alt_vi": "Cài đặt: tự sao lưu, nhập và xuất, Đã xoá gần đây",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-30-settings-3.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Settings: help and about",
+  "alt_en": "Settings: help and about",
+  "alt_vi": "Cài đặt: trợ giúp và giới thiệu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-30-settings.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Settings",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-31-backup-and-data-more.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Import and export, continued",
+  "alt_en": "Import and export, continued",
+  "alt_vi": "Nhập và xuất (tiếp)",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-31-backup-and-data.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Import and export: Pocket, Raindrop, browsers, files",
+  "alt_en": "Import and export: Pocket, Raindrop, browsers, files",
+  "alt_vi": "Nhập và xuất: Pocket, Raindrop, trình duyệt, tệp",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-32-library-tools-storage.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Storage: what takes space",
+  "alt_en": "Storage: what takes space",
+  "alt_vi": "Dung lượng: cái gì chiếm chỗ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-32-library-tools.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Library tools: how links open, page details, tidy up",
+  "alt_en": "Library tools: how links open, page details, tidy up",
+  "alt_vi": "Công cụ thư viện: cách mở link, đọc thông tin trang, dọn dẹp",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-33-pocket-import.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Bringing in links from a Pocket export, previewed first",
+  "alt_en": "Bringing in links from a Pocket export, previewed first",
+  "alt_vi": "Nhập link từ tệp Pocket, xem trước rồi mới thêm",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-34-share-collection-menu.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A collection menu",
+  "alt_en": "A collection menu",
+  "alt_vi": "Menu của bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-34-share-collection.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Share a collection as a page",
+  "alt_en": "Share a collection as a page",
+  "alt_vi": "Chia sẻ bộ sưu tập thành một trang",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-35-how-to.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "How to use: topics",
+  "alt_en": "How to use: topics",
+  "alt_vi": "Cách dùng: các chủ đề",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-36-empty.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "A new, empty library",
+  "alt_en": "A new, empty library",
+  "alt_vi": "Thư viện mới, chưa có gì",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-40-pro.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Handy Bookmark Pro",
+  "alt_en": "Handy Bookmark Pro",
+  "alt_vi": "Handy Bookmark Pro",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-41-themes-ink-paper.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Preview of the Ink & Paper theme",
+  "alt_en": "Preview of the Ink & Paper theme",
+  "alt_vi": "Xem trước giao diện Mực & Giấy",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-41-themes-midnight-gallery.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Preview of the Midnight Gallery theme",
+  "alt_en": "Preview of the Midnight Gallery theme",
+  "alt_vi": "Xem trước giao diện Phòng tranh đêm",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-41-themes.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Pro themes, tried on your own library",
+  "alt_en": "Pro themes, tried on your own library",
+  "alt_vi": "Giao diện Pro, thử trên chính thư viện của bạn",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-0.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Magazine",
+  "alt_en": "Layout: Magazine",
+  "alt_vi": "Kiểu bày: Tạp chí",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-1.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Masonry",
+  "alt_en": "Layout: Masonry",
+  "alt_vi": "Kiểu bày: Xếp gạch",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-2.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Film strip",
+  "alt_en": "Layout: Film strip",
+  "alt_vi": "Kiểu bày: Cuộn phim",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-3.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Scrapbook",
+  "alt_en": "Layout: Scrapbook",
+  "alt_vi": "Kiểu bày: Sổ dán",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-4.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Lookbook",
+  "alt_en": "Layout: Lookbook",
+  "alt_vi": "Kiểu bày: Lookbook",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-5.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Research board",
+  "alt_en": "Layout: Research board",
+  "alt_vi": "Kiểu bày: Bảng nghiên cứu",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-6.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Timeline journal",
+  "alt_en": "Layout: Timeline journal",
+  "alt_vi": "Kiểu bày: Nhật ký thời gian",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-7.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Layout: Moodboard",
+  "alt_en": "Layout: Moodboard",
+  "alt_vi": "Kiểu bày: Bảng cảm hứng",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-42-layouts-picker.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Collection layouts",
+  "alt_en": "Collection layouts",
+  "alt_vi": "Kiểu bày bộ sưu tập",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-43-auto-organize.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Auto organize: rules by source",
+  "alt_en": "Auto organize: rules by source",
+  "alt_vi": "Tự sắp xếp: quy tắc theo nguồn",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-44-export-studio.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Design an export: PDF or web page",
+  "alt_en": "Design an export: PDF or web page",
+  "alt_vi": "Thiết kế bản xuất: PDF hoặc trang web",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-en-50-welcome-1.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Welcome: \"Saved it. Then forgot it.\"",
+  "alt_en": "Welcome: \"Saved it. Then forgot it.\"",
+  "alt_vi": "Màn chào: \"Lưu rồi. Rồi quên mất.\"",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-50-welcome-2.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Welcome: \"One place for all of it.\"",
+  "alt_en": "Welcome: \"One place for all of it.\"",
+  "alt_vi": "Màn chào: \"Một chỗ cho tất cả.\"",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-50-welcome-3-practice.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Welcome: practise saving a video",
+  "alt_en": "Welcome: practise saving a video",
+  "alt_vi": "Màn chào: tập lưu một video",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-50-welcome-4-share.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Practice: tap Share",
+  "alt_en": "Practice: tap Share",
+  "alt_vi": "Tập: bấm Chia sẻ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-50-welcome-5-apps.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Practice: find Handy Bookmark among the apps",
+  "alt_en": "Practice: find Handy Bookmark among the apps",
+  "alt_vi": "Tập: tìm Handy Bookmark trong hàng app",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-50-welcome-6-pick.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Practice: tap a collection",
+  "alt_en": "Practice: tap a collection",
+  "alt_vi": "Tập: chạm một bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-50-welcome-7-saved.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Practice: saved",
+  "alt_en": "Practice: saved",
+  "alt_vi": "Tập: đã lưu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-en-50-welcome-8-find.png": {
+  "lang": "en",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Welcome: \"Find it in a moment.\"",
+  "alt_en": "Welcome: \"Find it in a moment.\"",
+  "alt_vi": "Màn chào: \"Tìm lại trong tích tắc.\"",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-01-home-scrolled.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "alt_en": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_vi": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-01-home.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-03-collection-cards.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "alt_en": "A collection (Recipes) as picture cards",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng thẻ ảnh",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-03-collection.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "alt_en": "A collection (Recipes) as rows",
+  "alt_vi": "Một bộ sưu tập (Công thức nấu ăn) dạng dòng",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-04-collection-trips.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Du lịch, với bộ Đà Nẵng nằm bên trong",
+  "alt_en": "Trips, with Da Nang kept inside it",
+  "alt_vi": "Du lịch, với bộ Đà Nẵng nằm bên trong",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-05-item-detail.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "alt_en": "An item: picture, Open original, Read, tags and a private note",
+  "alt_vi": "Một mục: hình, Mở bản gốc, Đọc, thẻ và ghi chú riêng",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-06-library-smart-and-saved.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Thư viện, Nâng cao: bộ sưu tập thông minh và tìm kiếm đã lưu",
+  "alt_en": "Library, Advanced: a smart collection and saved searches",
+  "alt_vi": "Thư viện, Nâng cao: bộ sưu tập thông minh và tìm kiếm đã lưu",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-06-library.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Trang Thư viện: mọi chỗ, cây bộ sưu tập và thẻ",
+  "alt_en": "The Library page: every place, the collections tree and tags",
+  "alt_vi": "Trang Thư viện: mọi chỗ, cây bộ sưu tập và thẻ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-07-smart-collection.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Bộ sưu tập thông minh Video chưa xem tự gom theo quy tắc",
+  "alt_en": "A smart collection, Videos to watch, filling itself from rules",
+  "alt_vi": "Bộ sưu tập thông minh Video chưa xem tự gom theo quy tắc",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-08-everything.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Mọi thứ đã lưu, dạng thẻ",
+  "alt_en": "Everything you saved, as cards",
+  "alt_vi": "Mọi thứ đã lưu, dạng thẻ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-09-new-collection-template.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Bộ sưu tập mới tạo từ mẫu Xem sau",
+  "alt_en": "A new collection started from the Watch later template",
+  "alt_vi": "Bộ sưu tập mới tạo từ mẫu Xem sau",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-09-new-collection.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "alt_en": "A new collection: ready starts, an icon and a colour",
+  "alt_vi": "Bộ sưu tập mới: mẫu có sẵn, biểu tượng và màu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-10-cover-chooser.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Chọn ảnh bìa cho bộ sưu tập từ chính ảnh trong bộ",
+  "alt_en": "Choosing a collection cover from its own pictures",
+  "alt_vi": "Chọn ảnh bìa cho bộ sưu tập từ chính ảnh trong bộ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-11-filters.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Bộ lọc: lưu khi nào, từ trang nào, loại gì, thẻ nào",
+  "alt_en": "Filters: when saved, from which site, what kind, which tag",
+  "alt_vi": "Bộ lọc: lưu khi nào, từ trang nào, loại gì, thẻ nào",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-12-select-move.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Chọn ba mục để chuyển, lưu trữ hoặc xoá cùng lúc",
+  "alt_en": "Three items selected, ready to move, archive or delete together",
+  "alt_vi": "Chọn ba mục để chuyển, lưu trữ hoặc xoá cùng lúc",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-13-share-sheet-saved.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Một chạm sau: đã lưu vào Công thức nấu ăn",
+  "alt_en": "One tap later: saved in Recipes",
+  "alt_vi": "Một chạm sau: đã lưu vào Công thức nấu ăn",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-13-share-sheet.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Chia sẻ từ app video: khung lưu có hình, tiêu đề và các bộ sưu tập",
+  "alt_en": "Shared from a video app: the sheet with the picture and title, and your collections",
+  "alt_vi": "Chia sẻ từ app video: khung lưu có hình, tiêu đề và các bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-14-save-sheet-paste.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Dán một link để lưu",
+  "alt_en": "Pasting a link to save",
+  "alt_vi": "Dán một link để lưu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-14-save-sheet.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Khung +: lưu ảnh, nhiều link, hoặc xem cách lưu từ app khác",
+  "alt_en": "The + sheet: save a picture, several links, or learn to save from other apps",
+  "alt_vi": "Khung +: lưu ảnh, nhiều link, hoặc xem cách lưu từ app khác",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-15-quick-saved.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Lưu từ ô dán link, có Hoàn tác",
+  "alt_en": "Saved from the paste field, with Undo",
+  "alt_vi": "Lưu từ ô dán link, có Hoàn tác",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-16-share-how-to.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Cách lưu từ mọi app, từng bước",
+  "alt_en": "How to save from any app, step by step",
+  "alt_vi": "Cách lưu từ mọi app, từng bước",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-17-picture-full.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Ảnh xem toàn màn hình",
+  "alt_en": "The photo, full screen",
+  "alt_vi": "Ảnh xem toàn màn hình",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-17-picture.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Một ảnh đã lưu cùng thông tin",
+  "alt_en": "A saved photo with its details",
+  "alt_vi": "Một ảnh đã lưu cùng thông tin",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-18-search-results.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "alt_en": "Searching \"da nang\" without accents finds the Đà Nẵng items",
+  "alt_vi": "Gõ \"da nang\" không dấu vẫn ra các mục Đà Nẵng",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-18-search-start.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Màn tìm trước khi gõ: con số, thẻ và mục mới lưu",
+  "alt_en": "Search before typing: numbers, tags and recent saves",
+  "alt_vi": "Màn tìm trước khi gõ: con số, thẻ và mục mới lưu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-19-deep-search.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tìm sâu thấy chữ nằm trong bài đọc offline",
+  "alt_en": "Deep search found the words inside an offline article",
+  "alt_vi": "Tìm sâu thấy chữ nằm trong bài đọc offline",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-20-focus.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "alt_en": "Focus: one unopened save at a time, swipe right when done",
+  "alt_vi": "Tập trung: từng mục chưa mở, vuốt phải khi xong",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-21-focus-skins.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Các kiểu thẻ Tập trung",
+  "alt_en": "Focus card styles",
+  "alt_vi": "Các kiểu thẻ Tập trung",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-22-reader-night-tone.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Trình đọc ở tông đêm",
+  "alt_en": "The reader in its night tone",
+  "alt_vi": "Trình đọc ở tông đêm",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-22-reader.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Trình đọc với bản offline",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-23-reader-highlights-list.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "alt_en": "All highlights of an article, with a note",
+  "alt_vi": "Mọi đoạn đánh dấu của bài, kèm ghi chú",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-23-reader-highlights.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Đánh dấu ba màu trong trình đọc",
+  "alt_en": "Highlights in three colours in the reader",
+  "alt_vi": "Đánh dấu ba màu trong trình đọc",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-24-reader-find.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tìm trong bài",
+  "alt_en": "Find in the text",
+  "alt_vi": "Tìm trong bài",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-26-weekly-nudge.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00",
+  "alt_en": "Settings: the weekly nudge on, Sunday at 19:00",
+  "alt_vi": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-27-trash.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Đã xoá gần đây: khôi phục trong 30 ngày",
+  "alt_en": "Recently deleted: restore within 30 days",
+  "alt_vi": "Đã xoá gần đây: khôi phục trong 30 ngày",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-28-duplicates.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Mục trùng đã tìm thấy, sẵn sàng gộp",
+  "alt_en": "Duplicates found and ready to merge",
+  "alt_vi": "Mục trùng đã tìm thấy, sẵn sàng gộp",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-29-broken-links.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Link không còn mở được: đã mất, đã chuyển, chưa rõ",
+  "alt_en": "Links that stopped working: gone, moved, could not tell",
+  "alt_vi": "Link không còn mở được: đã mất, đã chuyển, chưa rõ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-30-settings-1.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Cài đặt: riêng tư, khoá app, sao lưu và khôi phục",
+  "alt_en": "Settings: privacy, app lock, back up and restore",
+  "alt_vi": "Cài đặt: riêng tư, khoá app, sao lưu và khôi phục",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-30-settings-2.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Cài đặt: tự sao lưu, nhập và xuất, Đã xoá gần đây",
+  "alt_en": "Settings: automatic backups, import and export, Recently deleted",
+  "alt_vi": "Cài đặt: tự sao lưu, nhập và xuất, Đã xoá gần đây",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-30-settings-3.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Cài đặt: trợ giúp và giới thiệu",
+  "alt_en": "Settings: help and about",
+  "alt_vi": "Cài đặt: trợ giúp và giới thiệu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-30-settings.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Cài đặt",
+  "alt_en": "Settings",
+  "alt_vi": "Cài đặt",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-31-backup-and-data-more.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Nhập và xuất (tiếp)",
+  "alt_en": "Import and export, continued",
+  "alt_vi": "Nhập và xuất (tiếp)",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-31-backup-and-data.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Nhập và xuất: Pocket, Raindrop, trình duyệt, tệp",
+  "alt_en": "Import and export: Pocket, Raindrop, browsers, files",
+  "alt_vi": "Nhập và xuất: Pocket, Raindrop, trình duyệt, tệp",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-32-library-tools-storage.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Dung lượng: cái gì chiếm chỗ",
+  "alt_en": "Storage: what takes space",
+  "alt_vi": "Dung lượng: cái gì chiếm chỗ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-32-library-tools.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Công cụ thư viện: cách mở link, đọc thông tin trang, dọn dẹp",
+  "alt_en": "Library tools: how links open, page details, tidy up",
+  "alt_vi": "Công cụ thư viện: cách mở link, đọc thông tin trang, dọn dẹp",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-33-pocket-import.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Nhập link từ tệp Pocket, xem trước rồi mới thêm",
+  "alt_en": "Bringing in links from a Pocket export, previewed first",
+  "alt_vi": "Nhập link từ tệp Pocket, xem trước rồi mới thêm",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-34-share-collection-menu.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Menu của bộ sưu tập",
+  "alt_en": "A collection menu",
+  "alt_vi": "Menu của bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-34-share-collection.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Chia sẻ bộ sưu tập thành một trang",
+  "alt_en": "Share a collection as a page",
+  "alt_vi": "Chia sẻ bộ sưu tập thành một trang",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-35-how-to.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Cách dùng: các chủ đề",
+  "alt_en": "How to use: topics",
+  "alt_vi": "Cách dùng: các chủ đề",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-36-empty.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Thư viện mới, chưa có gì",
+  "alt_en": "A new, empty library",
+  "alt_vi": "Thư viện mới, chưa có gì",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-40-pro.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Handy Bookmark Pro",
+  "alt_en": "Handy Bookmark Pro",
+  "alt_vi": "Handy Bookmark Pro",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-41-themes-ink-paper.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Xem trước giao diện Mực & Giấy",
+  "alt_en": "Preview of the Ink & Paper theme",
+  "alt_vi": "Xem trước giao diện Mực & Giấy",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-41-themes-midnight-gallery.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Xem trước giao diện Phòng tranh đêm",
+  "alt_en": "Preview of the Midnight Gallery theme",
+  "alt_vi": "Xem trước giao diện Phòng tranh đêm",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-41-themes.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Giao diện Pro, thử trên chính thư viện của bạn",
+  "alt_en": "Pro themes, tried on your own library",
+  "alt_vi": "Giao diện Pro, thử trên chính thư viện của bạn",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-0.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Tạp chí",
+  "alt_en": "Layout: Magazine",
+  "alt_vi": "Kiểu bày: Tạp chí",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-1.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Xếp gạch",
+  "alt_en": "Layout: Masonry",
+  "alt_vi": "Kiểu bày: Xếp gạch",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-2.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Cuộn phim",
+  "alt_en": "Layout: Film strip",
+  "alt_vi": "Kiểu bày: Cuộn phim",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-3.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Sổ dán",
+  "alt_en": "Layout: Scrapbook",
+  "alt_vi": "Kiểu bày: Sổ dán",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-4.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Lookbook",
+  "alt_en": "Layout: Lookbook",
+  "alt_vi": "Kiểu bày: Lookbook",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-5.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Bảng nghiên cứu",
+  "alt_en": "Layout: Research board",
+  "alt_vi": "Kiểu bày: Bảng nghiên cứu",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-6.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Nhật ký thời gian",
+  "alt_en": "Layout: Timeline journal",
+  "alt_vi": "Kiểu bày: Nhật ký thời gian",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-7.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày: Bảng cảm hứng",
+  "alt_en": "Layout: Moodboard",
+  "alt_vi": "Kiểu bày: Bảng cảm hứng",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-42-layouts-picker.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Kiểu bày bộ sưu tập",
+  "alt_en": "Collection layouts",
+  "alt_vi": "Kiểu bày bộ sưu tập",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-43-auto-organize.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tự sắp xếp: quy tắc theo nguồn",
+  "alt_en": "Auto organize: rules by source",
+  "alt_vi": "Tự sắp xếp: quy tắc theo nguồn",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-44-export-studio.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Thiết kế bản xuất: PDF hoặc trang web",
+  "alt_en": "Design an export: PDF or web page",
+  "alt_vi": "Thiết kế bản xuất: PDF hoặc trang web",
+  "pro": true
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-1.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Màn chào: \"Lưu rồi. Rồi quên mất.\"",
+  "alt_en": "Welcome: \"Saved it. Then forgot it.\"",
+  "alt_vi": "Màn chào: \"Lưu rồi. Rồi quên mất.\"",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-2.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Màn chào: \"Một chỗ cho tất cả.\"",
+  "alt_en": "Welcome: \"One place for all of it.\"",
+  "alt_vi": "Màn chào: \"Một chỗ cho tất cả.\"",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-3-practice.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Màn chào: tập lưu một video",
+  "alt_en": "Welcome: practise saving a video",
+  "alt_vi": "Màn chào: tập lưu một video",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-4-share.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tập: bấm Chia sẻ",
+  "alt_en": "Practice: tap Share",
+  "alt_vi": "Tập: bấm Chia sẻ",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-5-apps.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tập: tìm Handy Bookmark trong hàng app",
+  "alt_en": "Practice: find Handy Bookmark among the apps",
+  "alt_vi": "Tập: tìm Handy Bookmark trong hàng app",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-6-pick.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tập: chạm một bộ sưu tập",
+  "alt_en": "Practice: tap a collection",
+  "alt_vi": "Tập: chạm một bộ sưu tập",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-7-saved.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Tập: đã lưu",
+  "alt_en": "Practice: saved",
+  "alt_vi": "Tập: đã lưu",
+  "pro": false
+ },
+ "screenshots/mobile/mobile-vi-50-welcome-8-find.png": {
+  "lang": "vi",
+  "form": "mobile",
+  "theme": "light",
+  "alt": "Màn chào: \"Tìm lại trong tích tắc.\"",
+  "alt_en": "Welcome: \"Find it in a moment.\"",
+  "alt_vi": "Màn chào: \"Tìm lại trong tích tắc.\"",
+  "pro": false
+ },
+ "screenshots/tablet/tablet-en-01-home-scrolled.png": {
+  "lang": "en",
+  "form": "tablet",
+  "theme": "light",
+  "alt": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_en": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_vi": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "pro": false
+ },
+ "screenshots/tablet/tablet-en-01-home.png": {
+  "lang": "en",
+  "form": "tablet",
+  "theme": "light",
+  "alt": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/tablet/tablet-en-22-reader.png": {
+  "lang": "en",
+  "form": "tablet",
+  "theme": "light",
+  "alt": "The reader with an offline copy",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ },
+ "screenshots/tablet/tablet-vi-01-home-scrolled.png": {
+  "lang": "vi",
+  "form": "tablet",
+  "theme": "light",
+  "alt": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "alt_en": "Home, scrolled: recently saved items with their pictures and a one-tap folder button",
+  "alt_vi": "Trang chủ khi cuộn: mục vừa lưu kèm hình và nút xếp một chạm",
+  "pro": false
+ },
+ "screenshots/tablet/tablet-vi-01-home.png": {
+  "lang": "vi",
+  "form": "tablet",
+  "theme": "light",
+  "alt": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "alt_en": "Home: new saves waiting in Not sorted, a Focus card and collections with picture covers",
+  "alt_vi": "Trang chủ: mục mới chờ ở Chưa xếp, thẻ Tập trung và các bộ sưu tập có ảnh bìa",
+  "pro": false
+ },
+ "screenshots/tablet/tablet-vi-22-reader.png": {
+  "lang": "vi",
+  "form": "tablet",
+  "theme": "light",
+  "alt": "Trình đọc với bản offline",
+  "alt_en": "The reader with an offline copy",
+  "alt_vi": "Trình đọc với bản offline",
+  "pro": false
+ }
+}

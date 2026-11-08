@@ -1,0 +1,11 @@
+# Third-party notices
+
+- The owner website kits add Geist, Pacifico, Patrick Hand and Be Vietnam Pro font files and OFL notices under `public/fonts/website-kits/`. React Markdown and remark-gfm use their upstream MIT licenses.
+- Photos embedded in Bookmark's new UI captures require attribution. All 14 author/source/license entries from the supplied kit appear at each language's `/apps/handy-bookmark/credits/`, with CC BY/CC BY-SA/CC0 links and a resized/WebP notice. Sticky Wall's CC0/public-domain photo and font credits appear at `/apps/sticky-wall/credits/`. Global footer and gallery links expose both lists.
+- New kit screenshot/movie sources are recorded in `src/content/kit-media.json`, `kit-films.json` and `docs/website-kits/import-manifest.json`; original textual evidence is preserved in `docs/website-kits/`. Original Arcane character art, logo and game footage remain attributed to Winka Studio and its supplied notices.
+
+- Next.js, React, Tailwind CSS and Lucide are used under their respective package licenses; see installed package metadata/lockfile.
+- Manrope, Newsreader, Bricolage Grotesque, Funnel Display, Funnel Sans, Archivo, Mali, Sriracha, Fraunces, Alegreya Sans and Geist Mono font files are self-hosted. SIL Open Font License text is included in `public/fonts/`. Google Fonts upstream source: https://github.com/google/fonts.
+- `public/taste/moments/` and `public/taste/motion/` are unchanged selected MIT-licensed files from Leonxlnx/taste-skill, installed for this task. The native moment/motion scripts run only in the Taste direction; microinteraction CSS is shared. The upstream MIT license is included in `public/taste/LICENSE`. The preview is not represented as endorsed by its author.
+- Product imagery is copied from the owner's named local repositories; `src/content/media-manifest.json`, `world-media.json` and `live-media.json` record provenance. Source filenames such as `ui_refinement_create.png` are evidence, not a claim of a public release.
+- The current portfolio galleries and films have additional attribution in `src/content/portfolio-media.json` and `portfolio-films.json`. Application screens can contain clearly identified demonstration content. The liquid-light shader and website motion composition are authored for this site; no external shader, stock gameplay or copied studio visuals are used.

@@ -477,7 +477,7 @@ html {
     max-width: 100%;
   }
   .project-case-copy > p:not(.case-standfirst) {
-    font-size: 11px;
+    font-size: 16px;
     max-width: 100%;
     margin-top: 18px;
   }

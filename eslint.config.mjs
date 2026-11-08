@@ -10,6 +10,7 @@ export default defineConfig([
     ".review/**",
     ".taste-skill/**",
     "public/taste/**",
+    "tools/media-kit/**", // Remotion templates: built inside OpenMontage, not this site
   ]),
   {
     rules: { "@next/next/no-img-element": "off" },

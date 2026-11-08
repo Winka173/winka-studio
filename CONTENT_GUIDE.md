@@ -1,5 +1,7 @@
 # Content guide
 
+To make a product's pictures, trailer and gameplay videos, update its Google Play graphics and bring it into this site, follow `docs/MEDIA_PRODUCTION_GUIDE.md` (tools in `tools/media-kit/`).
+
 For Handy Bookmark, Sticky Wall and Arcane Brigade, the owner-supplied website kits are now the primary editorial source. Read `docs/WEBSITE_KIT_INTEGRATION.md`; their copy, complete supplied legal text, localized media and FAQs live in `website-kits.json`, `kit-media.json` and `kit-films.json`. Run `scripts/import-website-kits.py` only when deliberately refreshing from the local kit directories. Keep raw legal wording unchanged and preserve required photo credits. Other products continue to follow the registry/guide process below.
 
 1. Open `src/content/products.ts`. Each entry has EN/VI copy, a source note, family, completion, public status, platforms, media and verified store links.

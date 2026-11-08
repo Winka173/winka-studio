@@ -551,7 +551,7 @@
   margin-top: 12px;
 }
 .forge-inspection-chapter > div:first-child > p {
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.9;
   color: var(--muted);
   margin-top: 28px;
@@ -1213,7 +1213,7 @@
     margin-top: 24px;
   }
   .forge-inspection-chapter > div:first-child > p {
-    font-size: 11px;
+    font-size: 16px;
     margin-top: 24px;
   }
   .forge-inspection-chapter .forge-turntable {

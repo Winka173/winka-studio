@@ -217,7 +217,7 @@ html {
   max-width: 350px;
 }
 .project-case-copy > p:not(.case-standfirst) {
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.9;
   max-width: 350px;
   margin-top: 22px;
@@ -358,7 +358,7 @@ html {
     gap: 5%;
   }
   .project-case-copy > p:not(.case-standfirst) {
-    font-size: 11px;
+    font-size: 16px;
   }
   .project-case-copy > .case-standfirst {
     font-size: 23px;

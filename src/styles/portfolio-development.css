@@ -42,7 +42,7 @@
   margin-top: 35px;
 }
 .development-name > div > p {
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.9;
   max-width: 580px;
   color: var(--muted);
@@ -377,7 +377,7 @@
     margin-top: 28px;
   }
   .development-name > div > p {
-    font-size: 11px;
+    font-size: 16px;
     max-width: 100%;
   }
   .development-name .product-actions {

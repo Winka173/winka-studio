@@ -681,7 +681,7 @@
 }
 .kit-section-heading p,
 .kit-pricing > div > p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.9;
   color: var(--muted);
   max-width: 650px;
@@ -819,7 +819,7 @@
 }
 .kit-faq-list .kit-markdown {
   padding-top: 12px;
-  font-size: 14px;
+  font-size: 16px;
   color: var(--muted);
 }
 .kit-resources {
@@ -885,7 +885,7 @@
   margin-inline: auto;
 }
 .kit-markdown {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.95;
   overflow-wrap: anywhere;
 }
@@ -1222,7 +1222,7 @@
     margin-top: 30px;
   }
   .arcane-kit-intro .arcane-cinema-title p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.9;
   }
   .arcane-kit-intro .arcane-cinema-title .folio-text-link {
@@ -1252,7 +1252,7 @@
     margin-top: 25px;
   }
   .arcane-kit-friends > p {
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 25px;
   }
   .arcane-hero-procession {
@@ -1279,7 +1279,7 @@
     font-size: 9px;
   }
   .arcane-boss-chapter p {
-    font-size: 14px;
+    font-size: 16px;
   }
   .arcane-dream-places {
     padding-block: 55px;
@@ -1301,7 +1301,7 @@
     font-size: 36px;
   }
   .arcane-hub-story p {
-    font-size: 14px;
+    font-size: 16px;
   }
   .arcane-full-trailer {
     padding-block: 45px 55px;
@@ -1320,7 +1320,7 @@
   }
   .kit-section-heading p,
   .kit-pricing > div > p {
-    font-size: 14px;
+    font-size: 16px;
   }
   .kit-film-shelf {
     padding-block: 55px;
@@ -1353,7 +1353,7 @@
     padding-block: 55px;
   }
   .kit-pricing .kit-markdown {
-    font-size: 13px;
+    font-size: 16px;
   }
   .markdown-table table {
     font-size: 12px;
@@ -1367,7 +1367,7 @@
     gap: 18px;
   }
   .kit-faq-list .kit-markdown {
-    font-size: 13px;
+    font-size: 16px;
   }
   .kit-capture-note {
     grid-column: auto;
@@ -1394,7 +1394,7 @@
     font-size: 12px;
   }
   .kit-markdown {
-    font-size: 14px;
+    font-size: 16px;
   }
   .kit-markdown h2 {
     font-size: 29px;

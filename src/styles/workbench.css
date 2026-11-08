@@ -374,7 +374,7 @@
 }
 .case-reasoning dd {
   margin: 0;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.65;
 }
 .project-case-copy .case-standfirst {
@@ -1758,7 +1758,7 @@
     letter-spacing: -0.06em;
   }
   .workbench-heading > p {
-    font-size: 15px;
+    font-size: 16px;
   }
   .workbench-heading .folio-kicker {
     font-size: 10px;
@@ -1849,7 +1849,7 @@
     gap: 23px;
   }
   .case-reasoning dd {
-    font-size: 15px;
+    font-size: 16px;
   }
   .case-reasoning > div {
     padding-block: 12px;

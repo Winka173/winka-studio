@@ -1,5 +1,13 @@
 # Verification — Winka Workbench, 8 November 2026
 
+## Latest: gstack design review
+
+The exported site was reviewed across all 310 directory routes at 320/375/768/1440px (1,240 layouts), with visual inspection of 16 representative pages. Three confirmed issue groups were fixed: undersized primary prose, shared touch targets (including a clipped product-header menu at 320px), and overly wide document text. One Sticky Wall hero-composition suggestion remains deferred. See [the review record](docs/qa/gstack-design-review-2026-11-08.md) for exact check timing, evidence and limitations.
+
+Final production build and validation pass. Fifty-six targeted responsive assertions pass; the final complete route sweep reports no JavaScript errors, horizontal overflow, clipped header controls or broken local links. Website-kit QA confirms all twelve supplied legal documents still preserve every rendered word in order. Screenshots and detailed results live in the local gstack design-audit directory referenced by the review record.
+
+## Previous Workbench implementation verification
+
 All twelve authorized portfolio-review improvements are implemented and verified against the final static export. Full evidence remains locally in `.review/workbench-qa/`, `.review/portfolio-qa/` and `.review/website-kit-qa/`; compact results are recorded in `docs/qa/workbench-summary.json`.
 
 | Check | Final observed result |

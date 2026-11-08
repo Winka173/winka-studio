@@ -33,7 +33,7 @@ scenes = [
     ('Handy Bookmark', '01 / SAVE A LITTLE CURIOSITY', clip('handy-bookmark', 'file-vi'), '#ddd9c6', True),
     ('Sticky Wall', '02 / PIN A LITTLE EVERYDAY LIFE', clip('sticky-wall', 'tick_and_thread'), '#b68b60', True),
     ('Asset Forge Studio', '03 / GIVE AN IDEA ANOTHER DIMENSION', PUBLIC / 'products/asset-forge-studio/workspace.webp', '#172a29', False),
-    ('Arcane Brigade', '04 / LEAD THE BRIGADE THROUGH THE NIGHT', clip('arcane-brigade', 'clip-03-fight-wave-18', 'pc'), '#2b1725', True),
+    ('Arcane Brigade', '04 / LEAD THE BRIGADE THROUGH THE NIGHT', clip('arcane-brigade', 'clip-02-fight-wave-14', 'pc'), '#2b1725', True),
 ]
 for i, (title, subtitle, source, color, is_video) in enumerate(scenes):
     # Contain the entire source frame, with readable title plates outside the UI.

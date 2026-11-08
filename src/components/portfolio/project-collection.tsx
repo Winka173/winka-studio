@@ -137,7 +137,7 @@ export function ProjectCollection({ locale }: { locale: Locale }) {
                       <ProductFilm
                         {...kitClip(
                           "arcane-brigade",
-                          "clip-03-fight-wave-18",
+                          "clip-02-fight-wave-14",
                           "pc",
                         )}
                         poster={image}

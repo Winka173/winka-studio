@@ -881,7 +881,7 @@
   text-underline-offset: 5px;
 }
 .kit-document > .kit-markdown {
-  max-width: 950px;
+  max-width: 72ch;
   margin-inline: auto;
 }
 .kit-markdown {

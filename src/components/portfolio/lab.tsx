@@ -57,8 +57,8 @@ export function LabPage({ locale }: { locale: Locale }) {
           <h2>Handy Suite</h2>
           <p>
             {vi
-              ? "Handy Bookmark đã hoàn thiện. Mười ba ứng dụng còn lại đang phát triển: mỗi công cụ giải quyết một phần nhỏ của ngày thường."
-              : "Handy Bookmark is complete. Thirteen other apps are in development, each for a small part of everyday life."}
+              ? "Handy Bookmark đã hoàn thiện. Handy Boards đang phát triển, dành cho công việc và kế hoạch hằng ngày."
+              : "Handy Bookmark is complete. Handy Boards is in development for everyday tasks and planning."}
           </p>
           <Link
             className="folio-text-link"

@@ -1,5 +1,11 @@
 # Verification — Winka Workbench, 8 November 2026
 
+## Current public catalog — 9 November 2026
+
+The owner now limits public apps to Bookmark, Sticky Wall and Boards while keeping all five games visible. Every product lists App Store, Google Play and Microsoft Store as Coming soon; games also list Steam. Store controls have no placeholder URLs. The former Arcane "Now on" claim has been replaced with Coming soon. Original product source/media remain intact.
+
+The publication contract and commands are recorded in [PUBLIC_CATALOG.md](docs/PUBLIC_CATALOG.md). `validate:public` checks product visibility and lookup boundaries; `qa:public` checks all exported HTML for hidden links/routes plus 120 EN/VI responsive cases, exact store labels/disabled state, catalog membership, hidden-product 404 behavior, axe and runtime/resource errors. Detailed evidence is saved locally in `.review/public-products-qa/`. Earlier audit matrices below describe their recorded catalog scope.
+
 ## Latest: gstack design review
 
 The exported site was reviewed across all 310 directory routes at 320/375/768/1440px (1,240 layouts), with visual inspection of 16 representative pages. All four issue groups are fixed: undersized primary prose, shared touch targets (including a clipped product-header menu at 320px), overly wide document text, and product imagery below the first desktop screen on Sticky Wall. See [the review record](docs/qa/gstack-design-review-2026-11-08.md) for exact check timing, evidence and limitations.

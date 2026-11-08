@@ -39,7 +39,6 @@ const paths: string[][] = [
   ["legal"],
   ["contact"],
   ["lab"],
-  ...directions.map((d) => ["directions", d.id]),
   ...products
     .filter((p) => p.status !== "hidden")
     .flatMap((p) => {

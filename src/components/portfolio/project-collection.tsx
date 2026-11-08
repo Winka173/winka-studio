@@ -6,6 +6,7 @@ import { bookmarkScreen, stickyScreen, kitClip } from "@/content/website-kits";
 import { mediaImage } from "@/content/portfolio-media";
 import { ViewTransition } from "react";
 import { caseStudies } from "@/content/case-studies";
+import { getProduct } from "@/content/products";
 
 const projects = [
   {
@@ -37,17 +38,17 @@ const projects = [
     },
   },
   {
-    slug: "asset-forge-studio",
-    name: "Asset Forge Studio",
+    slug: "handy-boards",
+    name: "Handy Boards",
     kind: "apps",
-    category: "LOCAL AI / 3D WORKBENCH",
-    image: "/products/asset-forge-studio/workspace.webp",
+    category: "TASKS / KANBAN / PLANNING",
+    image: getProduct("handy-boards")!.image!,
     detail: null,
-    en: "From a reference to another dimension.",
-    vi: "Từ tham chiếu đến một hình hài.",
+    en: "Make room for the next task.",
+    vi: "Dành chỗ cho việc tiếp theo.",
     description: {
-      en: "Bring a prompt or image into a project, follow generation in Production, inspect asset versions, and export checked model files using your configured local tools.",
-      vi: "Đưa prompt hoặc ảnh vào dự án, theo dõi tạo model trong Production, kiểm tra các phiên bản và xuất tài sản bằng bộ công cụ cục bộ đã cấu hình.",
+      en: "Organize tasks by category, move work across Kanban columns and plan what comes next.",
+      vi: "Sắp xếp công việc theo danh mục, chuyển việc qua các cột Kanban và lên kế hoạch cho bước tiếp theo.",
     },
   },
   {
@@ -120,7 +121,9 @@ export function ProjectCollection({ locale }: { locale: Locale }) {
                   0{i + 1} / {p.category}
                 </span>
                 <span className="project-case-status">
-                  {vi ? "ĐÃ HOÀN THIỆN" : "COMPLETED"}
+                  {getProduct(p.slug)?.completion === "complete"
+                    ? vi ? "ĐÃ HOÀN THIỆN" : "COMPLETED"
+                    : vi ? "ĐANG PHÁT TRIỂN" : "IN DEVELOPMENT"}
                 </span>
               </div>
               <div className="project-case-layout portfolio-wrap">

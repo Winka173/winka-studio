@@ -37,7 +37,7 @@ export function Catalog({
     ["handy", "Handy Suite"],
     ["sticky", "Sticky Wall"],
     ["creative", vi ? "Công cụ sáng tạo" : "Creative tools"],
-  ];
+  ].filter(([family]) => family === "all" || products.some((product) => product.family === family));
   return (
     <>
       <div className="catalog-controls">

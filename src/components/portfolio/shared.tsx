@@ -7,6 +7,7 @@ import { LandingNav, ProductOutro } from "../worlds/common";
 import { LiquidBackdrop } from "./liquid-backdrop";
 import { ViewTransition } from "react";
 import { ImagePreview } from "./image-preview";
+import { ProductStores } from "../product-stores";
 
 export function PortfolioProduct({
   product,
@@ -66,6 +67,7 @@ export function ProductAction({
               ? "Đang phát triển · Chưa công bố ngày phát hành"
               : "In development · No release date announced"}
       </span>
+      <ProductStores product={product} locale={locale} />
     </div>
   );
 }

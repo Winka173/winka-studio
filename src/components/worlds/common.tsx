@@ -10,6 +10,7 @@ import type { Product } from "@/content/products";
 import { productPath } from "@/content/products";
 import type { Locale } from "@/content/studio";
 import { legalTitles, type LegalKind } from "@/content/legal";
+import { ProductStores } from "../product-stores";
 
 export function LandingNav({
   product: p,
@@ -112,6 +113,7 @@ export function ProductOutro({
           <h2>
             {vi ? "Giữ kết nối với sản phẩm." : "Keep the product close."}
           </h2>
+          <ProductStores product={p} locale={locale} />
           <Link className="world-button" href={`/${locale}/support/${p.slug}/`}>
             {vi ? "Hướng dẫn & hỗ trợ" : "Guidance & support"}
             <ArrowUpRight size={18} />

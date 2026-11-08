@@ -2,6 +2,20 @@ import type { Locale } from "./studio";
 
 /** Observable product decisions; no invented research, outcome metrics or release claims. */
 export const caseStudies: Record<string, Record<Locale, string>[]> = {
+  "handy-boards": [
+    {
+      vi: "Công việc cần được nhóm lại để biết điều gì nên làm tiếp theo.",
+      en: "Tasks need grouping to make the next step clear.",
+    },
+    {
+      vi: "Dùng danh mục, cột Kanban và kế hoạch để sắp xếp công việc.",
+      en: "Use categories, Kanban columns and plans to organize the work.",
+    },
+    {
+      vi: "Giao diện từ build đang phát triển; chưa mở tải công khai.",
+      en: "Screens from the current development build; public download is coming soon.",
+    },
+  ],
   "handy-bookmark": [
     {
       vi: "Link nằm rải rác trong nhiều app; lưu xong rất dễ quên.",

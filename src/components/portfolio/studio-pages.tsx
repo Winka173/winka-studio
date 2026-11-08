@@ -3,7 +3,7 @@ import { ArrowUpRight, Asterisk, Mail } from "lucide-react";
 import type { Locale } from "@/content/studio";
 import { studio } from "@/content/studio";
 import { bookmarkScreen, stickyScreen } from "@/content/website-kits";
-import { StudioReel } from "./studio-reel";
+import { getProduct } from "@/content/products";
 
 export function WorkbenchStudio({ locale }: { locale: Locale }) {
   const vi = locale === "vi";
@@ -22,8 +22,8 @@ export function WorkbenchStudio({ locale }: { locale: Locale }) {
         ? "Cho nó một ngôn ngữ riêng."
         : "Give it a language of its own.",
       body: vi
-        ? "Thư viện ấm, giấy có góc xoay, xưởng có lưới 3D, giấc mơ có đèn lồng. Hình ảnh và chuyển động đi theo cách dùng, không dùng một bộ áo cho mọi thứ."
-        : "A warm library, paper at an angle, a 3D workbench, a dream lit by lanterns. The look and movement follow the use, giving each product its own character.",
+        ? "Thư viện ấm, giấy có góc xoay, bảng kế hoạch, giấc mơ có đèn lồng. Hình ảnh và chuyển động đi theo cách dùng, không dùng một bộ áo cho mọi thứ."
+        : "A warm library, paper at an angle, a planning board, a dream lit by lanterns. The look and movement follow the use, giving each product its own character.",
       image: stickyScreen("02_wall_memory_trip", locale, "desktop"),
       product: "STICKY WALL",
       href: `/${locale}/apps/sticky-wall/`,
@@ -33,9 +33,9 @@ export function WorkbenchStudio({ locale }: { locale: Locale }) {
       body: vi
         ? "Ảnh và video trên portfolio đến từ giao diện hoặc build của chính dự án. Sản phẩm đã hoàn thiện và dự án còn đang phát triển được ghi riêng; trạng thái phát hành được nói rõ ở từng trang."
         : "Portfolio images and films come from each project’s own interface or build. Completed work and developing projects are separated, with release status stated on each page.",
-      image: "/products/asset-forge-studio/workspace.webp",
-      product: "ASSET FORGE STUDIO",
-      href: `/${locale}/apps/asset-forge-studio/`,
+      image: getProduct("handy-boards")!.image!,
+      product: "HANDY BOARDS",
+      href: `/${locale}/apps/handy-boards/`,
     },
   ];
   return (
@@ -51,7 +51,6 @@ export function WorkbenchStudio({ locale }: { locale: Locale }) {
             ? "Winka tạo ứng dụng cho những việc thường ngày và game cho những lúc muốn bước sang một thế giới khác. Đây là nơi giữ những sản phẩm đã thành hình, cùng những điều còn đang thử."
             : "Winka makes apps for everyday things and games for stepping into another world. This is a place for the work that has taken shape and the ideas still being tried."}
         </p>
-        <StudioReel locale={locale} />
       </header>
       <div className="studio-process">
         {steps.map((step, i) => (

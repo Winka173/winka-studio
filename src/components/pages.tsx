@@ -58,8 +58,8 @@ export function CatalogPage({
         <p>
           {kind === "app"
             ? vi
-              ? "Từ thư viện link đến xưởng 3D. Khám phá ứng dụng đã hoàn thiện và những ý tưởng đang phát triển."
-              : "From a library of links to a 3D workbench. Explore completed apps and ideas still in development."
+              ? "Lưu link, ghim ghi chú và sắp xếp kế hoạch. Khám phá Handy Bookmark, Sticky Wall và Handy Boards."
+              : "Save links, pin notes and organize plans. Explore Handy Bookmark, Sticky Wall and Handy Boards."
             : vi
               ? "Những thử nghiệm về chiến thuật, tổ đội và thủ thành. Chưa có link tải công khai được xác nhận."
               : "Experiments in tactics, squads and kingdom defense. Public download links have not been confirmed."}

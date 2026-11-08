@@ -37,7 +37,6 @@ function product(
   return {
     kind: "app",
     family: "handy",
-    status: "in-development",
     completion: "in-progress",
     accent: "#46685a",
     platforms: [],
@@ -50,6 +49,11 @@ function product(
     legalReviewed: false,
     featured: false,
     ...p,
+    status:
+      p.kind === "game" ||
+      ["handy-bookmark", "sticky-wall", "handy-boards"].includes(p.slug)
+        ? "coming-soon"
+        : "hidden",
   };
 }
 
@@ -407,7 +411,7 @@ export const products: Product[] = [
   }),
 ];
 
-export const featuredProducts = products.filter((p) => p.featured);
+export const featuredProducts = products.filter((p) => p.featured && p.status !== "hidden");
 export const getProduct = (slug: string) =>
   products.find((p) => p.slug === slug && p.status !== "hidden");
 export const productPath = (p: Product, locale: string) =>

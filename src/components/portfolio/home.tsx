@@ -7,7 +7,6 @@ import { ProjectCollection } from "./project-collection";
 import { RevealWords } from "../worlds/motion";
 import { bookmarkScreen, stickyScreen } from "@/content/website-kits";
 import { mediaImage } from "@/content/portfolio-media";
-import { StudioReel } from "./studio-reel";
 import { ImagePreview } from "./image-preview";
 
 export function PortfolioHome({ locale }: { locale: Locale }) {
@@ -30,14 +29,14 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
       label: "02 / PAPER",
     },
     {
-      slug: "asset-forge-studio",
-      name: "Asset Forge Studio",
+      slug: "handy-boards",
+      name: "Handy Boards",
       type: vi
-        ? "Cho ý tưởng một hình hài."
-        : "Give an idea another dimension.",
-      image: "/products/asset-forge-studio/workspace.webp",
+        ? "Sắp xếp công việc và kế hoạch."
+        : "Organize tasks and plans.",
+      image: products.find((p) => p.slug === "handy-boards")!.image!,
       kind: "apps",
-      label: "03 / 3D",
+      label: "03 / PLANNING",
     },
     {
       slug: "arcane-brigade",
@@ -84,8 +83,8 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
           </div>
           <p>
             {vi
-              ? "Một thư viện link. Một bức tường ký ức. Một xưởng 3D. Và những đêm không muốn kết thúc. Ứng dụng và game độc lập, mỗi thứ một cá tính."
-              : "A link library. A wall of memories. A 3D workshop. And nights you don’t want to end. Independent apps and games, each with a mind of its own."}
+              ? "Một thư viện link. Một bức tường ký ức. Một bảng kế hoạch. Và những đêm không muốn kết thúc. Ứng dụng và game độc lập, mỗi thứ một cá tính."
+              : "A link library. A wall of memories. A planning board. And nights you don’t want to end. Independent apps and games, each with a mind of its own."}
           </p>
         </div>
         <div className="workbench-objects portfolio-wrap">
@@ -123,7 +122,6 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
             <ArrowDown size={18} />
             {vi ? "Khám phá những gì đã làm" : "Explore the finished work"}
           </a>
-          <StudioReel locale={locale} />
           <span className="workbench-stamp" aria-hidden="true">
             SMALL STUDIO
             <br />
@@ -146,7 +144,7 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
           </p>
         </div>
         <div className="lab-teasers">
-          {["runavelle", "forgebound", "autonomous-creative-studio"].map(
+          {["runavelle", "forgebound", "aetherward"].map(
             (slug) => {
               const p = products.find((p) => p.slug === slug)!;
               return (

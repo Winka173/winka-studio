@@ -1,4 +1,38 @@
 /* Winka Workbench. Real captures, native scrolling, different materials. */
+.product-store-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-block: 20px;
+  width: 100%;
+}
+.product-store-list button {
+  display: grid;
+  gap: 5px;
+  min-height: 58px;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--ink);
+  background: var(--bg);
+  text-align: left;
+  font: inherit;
+  font-size: 14px;
+  opacity: 1;
+  cursor: not-allowed;
+}
+.product-store-list small {
+  color: var(--muted);
+  font-size: 12px;
+}
+.sticky-kit-hero .product-store-list {
+  justify-content: center;
+}
+@media (min-width: 1001px) {
+  .sticky-kit-hero .product-store-list {
+    justify-content: flex-start;
+  }
+}
 .site {
   --mono: GeistMono, monospace;
 }

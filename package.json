@@ -17,7 +17,9 @@
     "validate": "tsx scripts/validate.ts && tsx scripts/validate-portfolio-media.ts && tsx scripts/validate-website-kits.ts",
     "qa": "node scripts/portfolio-qa.mjs",
     "qa:workbench": "node scripts/workbench-qa.mjs",
-    "qa:kits": "node scripts/website-kit-qa.mjs"
+    "qa:kits": "node scripts/website-kit-qa.mjs",
+    "validate:public": "tsx scripts/validate-public-products.ts",
+    "qa:public": "node scripts/public-products-qa.mjs"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.5",

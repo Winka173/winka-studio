@@ -72,9 +72,7 @@ export function ArcanePortfolio({
               : "Lead a brigade of odd little friends through twenty storybook nights. You move. Your hero and companions fight automatically."}
           </p>
           <p className="arcane-available">
-            {vi
-              ? "Đã có trên Google Play, App Store và Steam"
-              : "Now on Google Play, the App Store and Steam"}
+            Coming soon
           </p>
           <ProductAction product={product} locale={locale} />
           <a className="folio-text-link" href="#trailer">

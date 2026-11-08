@@ -211,6 +211,7 @@
 }
 .workbench-foot > a {
   display: flex;
+  min-height: 44px;
   gap: 13px;
   align-items: center;
   font-size: 13px;

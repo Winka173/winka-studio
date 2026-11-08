@@ -90,6 +90,7 @@
   background: transparent;
   font-size: 12px;
   min-height: 44px;
+  min-width: 44px;
   padding: 0 18px;
   color: var(--muted);
 }

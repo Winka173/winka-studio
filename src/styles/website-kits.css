@@ -102,7 +102,6 @@
 }
 .bookmark-kit-hero {
   padding-top: 24px;
-  overflow: clip;
 }
 .bookmark-kit-title {
   padding-top: 65px;
@@ -136,26 +135,32 @@
 }
 .bookmark-kit-stage {
   position: relative;
-  min-height: 740px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 24%);
+  align-items: center;
+  padding: 48px clamp(24px, 4vw, 64px) 72px;
   margin-top: 45px;
   perspective: 1800px;
 }
 .bookmark-kit-desktop {
-  position: absolute;
-  left: 0;
-  top: 80px;
-  width: 83%;
+  grid-column: 1 / -1;
+  grid-row: 1;
+  width: 90%;
+  margin-top: 48px;
   border: 8px solid var(--raised);
   box-shadow: 0 35px 80px #18302d38;
   transform: rotateY(5deg) rotateZ(-3deg);
   animation: kit-library-float 10s ease-in-out infinite;
 }
 .bookmark-kit-share {
-  position: absolute;
-  right: 0;
-  top: 0;
-  width: 23%;
+  position: relative;
+  grid-column: 2;
+  grid-row: 1;
+  align-self: start;
+  justify-self: end;
+  width: 100%;
   max-width: 300px;
+  margin-bottom: 32px;
   rotate: 7deg;
   box-shadow: 0 30px 70px #18302d4d;
   border: 7px solid #162627;
@@ -172,15 +177,6 @@
   object-fit: cover;
 }
 .bookmark-kit-share .product-film figcaption>span {display:none}
-.bookmark-stage-note {
-  position: absolute;
-  bottom: 20px;
-  left: 0;
-  font-size: 11px;
-  color: var(--muted);
-  max-width: 520px;
-  line-height: 1.7;
-}
 @keyframes kit-library-float {
   50% {
     transform: rotateY(2deg) rotateZ(-1deg) translateY(-12px);
@@ -282,8 +278,8 @@
   gap: 40px;
   align-items: center;
   padding-block: 95px;
+  padding-inline: clamp(24px, 4vw, 64px);
   background: var(--surface);
-  overflow: clip;
 }
 .bookmark-pro-exhibit h2 {
   font:
@@ -1009,16 +1005,6 @@
   .bookmark-kit-title h1 {
     font-size: 82px;
   }
-  .bookmark-kit-stage {
-    min-height: 590px;
-  }
-  .bookmark-kit-share {
-    width: 27%;
-  }
-  .bookmark-kit-desktop {
-    top: 90px;
-    width: 88%;
-  }
   .bookmark-feature {
     gap: 7%;
     min-height: 650px;
@@ -1091,29 +1077,21 @@
     max-width: 100%;
   }
   .bookmark-kit-stage {
-    min-height: 440px;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 36%);
+    padding: 28px 24px 40px;
     margin-top: 25px;
   }
   .bookmark-kit-desktop {
-    width: 95%;
-    top: 90px;
-    left: -12%;
+    width: 94%;
+    margin-top: 60px;
     border-width: 4px;
   }
   .bookmark-kit-share {
-    width: 37%;
-    top: 15px;
-    right: 0;
     border-width: 4px;
     border-radius: 17px;
   }
   .bookmark-kit-share .product-film figcaption > span {
     font-size: 6px;
-  }
-  .bookmark-stage-note {
-    bottom: 20px;
-    max-width: 85%;
-    font-size: 10px;
   }
   .bookmark-kit-story {
     padding-block: 60px;

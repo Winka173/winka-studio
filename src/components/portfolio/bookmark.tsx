@@ -122,11 +122,6 @@ export function BookmarkPortfolio({
               className="portrait-film"
             />
           </div>
-          <span className="bookmark-stage-note">
-            {vi
-              ? "Màn hình lớn là bản xem trước bố cục. App Windows chưa phát hành."
-              : "Wide-screen layout preview. The Windows app is not released."}
-          </span>
         </div>
       </section>
       <section

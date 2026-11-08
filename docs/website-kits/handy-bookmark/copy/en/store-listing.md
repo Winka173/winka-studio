@@ -4,7 +4,7 @@ Source: `apps/handy_bookmark/android/fastlane/metadata/android/en-US/` (pushed t
 Package: `com.apps.winka.handybookmark` · Category: Productivity · Contact: apps.winka.studio@gmail.com
 
 > **Two lines in this listing no longer match the app** (flag for the owner, do not copy to the website):
-> - "Reminders bring a link back on the day you choose." The current build has no way to set a new per-item reminder (removed in the 2026-11 simplification); only the weekly nudge and the list of existing reminders remain.
+> - "Reminders bring a link back on the day you choose." True again from 1.0.0 (6): Remind me on each item and in the share sheet (the weekly nudge is gone).
 > - Changelog 4 lists "Google Drive sync between your Android devices". It exists only in builds made with `HANDY_DRIVE_SYNC=true` and has not been verified against a real Drive account.
 
 ## Title

@@ -42,7 +42,7 @@ Tap Undo in the message, or find it in Recently deleted for 30 days.
 Yes. App lock asks for your fingerprint, face or screen lock when the app opens.
 
 **Does it remind me to look at what I saved?**
-If you turn on the weekly nudge (Settings › General), once a week it tells you how many new saves are still waiting. It shows a number, never titles. Focus then shows them one at a time.
+Only when you ask: tap Remind me on an item (or under "Saved" when you share) and pick a time. Off is the default, and the app never reminds you on its own. To look back over what you saved, Home shows what is waiting and Focus shows it one at a time.
 
 **Can I read articles offline?**
 Yes. Open an article, tap Read, then save an offline copy. Many social-media pages and pages behind a sign-in or paywall have no readable text; then the app opens the original.

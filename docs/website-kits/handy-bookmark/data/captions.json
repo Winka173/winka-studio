@@ -1358,13 +1358,13 @@
   "alt_vi": "Tìm trong bài",
   "pro": false
  },
- "screenshots/mobile/mobile-en-26-weekly-nudge.png": {
+ "screenshots/mobile/mobile-en-26-remind-me.png": {
   "lang": "en",
   "form": "mobile",
   "theme": "light",
-  "alt": "Settings: the weekly nudge on, Sunday at 19:00",
-  "alt_en": "Settings: the weekly nudge on, Sunday at 19:00",
-  "alt_vi": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00",
+  "alt": "An item's Remind me: Off by default, Tomorrow, This weekend, or a day and time",
+  "alt_en": "An item's Remind me: Off by default, Tomorrow, This weekend, or a day and time",
+  "alt_vi": "Nhắc tôi trên một mục: mặc định Không nhắc, Ngày mai, Cuối tuần hoặc ngày giờ tự chọn",
   "pro": false
  },
  "screenshots/mobile/mobile-en-27-trash.png": {
@@ -2015,13 +2015,13 @@
   "alt_vi": "Tìm trong bài",
   "pro": false
  },
- "screenshots/mobile/mobile-vi-26-weekly-nudge.png": {
+ "screenshots/mobile/mobile-vi-26-remind-me.png": {
   "lang": "vi",
   "form": "mobile",
   "theme": "light",
-  "alt": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00",
-  "alt_en": "Settings: the weekly nudge on, Sunday at 19:00",
-  "alt_vi": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00",
+  "alt": "Nhắc tôi trên một mục: mặc định Không nhắc, Ngày mai, Cuối tuần hoặc ngày giờ tự chọn",
+  "alt_en": "An item's Remind me: Off by default, Tomorrow, This weekend, or a day and time",
+  "alt_vi": "Nhắc tôi trên một mục: mặc định Không nhắc, Ngày mai, Cuối tuần hoặc ngày giờ tự chọn",
   "pro": false
  },
  "screenshots/mobile/mobile-vi-27-trash.png": {

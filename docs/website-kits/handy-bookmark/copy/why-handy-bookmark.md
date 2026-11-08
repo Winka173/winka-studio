@@ -11,7 +11,7 @@ A comparison by **approach**, not by competitor names. Naming other products wit
 | Save from any app's Share menu | No | Usually not | **Yes, in one tap; pick a collection on the spot** |
 | Your own collections, colours, nesting | Limited | Folders | **Yes** |
 | Search with or without accents | Per app | Varies | **Yes** |
-| Brings things back (Focus, weekly nudge) | No | No | **Yes** |
+| Brings things back (Focus, Remind me, widgets) | No | No | **Yes** |
 | Survives the post being deleted | No | Link only | **Title, picture, your note; offline copy for articles** |
 | Account required | Yes | Usually | **No** |
 | Ads / tracking | Yes | Varies | **None** |
@@ -31,7 +31,7 @@ Three short reasons to put on the page:
 | Lưu từ khung Chia sẻ của mọi app | Không | Thường là không | **Có, một chạm; chọn bộ sưu tập ngay tại chỗ** |
 | Bộ sưu tập riêng, màu, lồng nhau | Hạn chế | Thư mục | **Có** |
 | Tìm có dấu hay không dấu | Tuỳ app | Tuỳ | **Có** |
-| Nhắc xem lại (Tập trung, nhắc mỗi tuần) | Không | Không | **Có** |
+| Nhắc xem lại (Tập trung, Nhắc tôi, widget) | Không | Không | **Có** |
 | Bài gốc bị xoá vẫn còn | Không | Chỉ còn link | **Còn tiêu đề, hình, ghi chú; bài viết có bản offline** |
 | Cần tài khoản | Có | Thường có | **Không** |
 | Quảng cáo / theo dõi | Có | Tuỳ | **Không** |

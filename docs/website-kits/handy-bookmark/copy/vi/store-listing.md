@@ -4,7 +4,7 @@ Nguồn: `apps/handy_bookmark/android/fastlane/metadata/android/vi/` (đẩy lê
 Gói: `com.apps.winka.handybookmark` · Danh mục: Năng suất · Liên hệ: apps.winka.studio@gmail.com
 
 > **Hai dòng trong trang này không còn khớp với app** (báo chủ app, đừng chép lên website):
-> - "Nhắc nhở đưa một link quay lại đúng ngày bạn chọn." Bản hiện tại không còn cách đặt nhắc mới cho từng mục (bỏ trong đợt tinh gọn 11/2026); chỉ còn Nhắc mỗi tuần và danh sách nhắc đã đặt.
+> - "Nhắc nhở đưa một link quay lại đúng ngày bạn chọn." Đúng trở lại từ 1.0.0 (6): Nhắc tôi trên từng mục và trong khung chia sẻ (đã bỏ Nhắc mỗi tuần).
 > - Nhật ký bản 4 ghi "Đồng bộ Google Drive giữa các máy Android". Tính năng chỉ có trong bản build với `HANDY_DRIVE_SYNC=true` và chưa chạy thử với tài khoản Drive thật.
 
 ## Title

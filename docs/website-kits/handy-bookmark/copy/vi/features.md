@@ -57,8 +57,10 @@ Tên ảnh trỏ tới thư mục `screenshots/` (trang tiếng Việt dùng cá
 **Tập trung.** Mỗi lần một mục bạn chưa mở, toàn màn hình. Vuốt phải khi xem xong, vuốt trái để sau. Nhờ vậy thứ đã lưu mới thật sự được xem lại.
 Ảnh: `…-20-focus.png`, clip `focus-vi`.
 
-**Nhắc mỗi tuần.** Mỗi tuần một lần, vào ngày và giờ bạn chọn, một thông báo cho biết còn bao nhiêu mục mới chưa xem. Chỉ ghi số lượng, không bao giờ ghi tiêu đề.
-Ảnh: `…-26-weekly-nudge.png`.
+**Nhắc tôi, chỉ khi bạn muốn.** Trên mỗi mục, hoặc ngay dưới "Đã lưu" trong khung chia sẻ, chọn Tối nay, Ngày mai, Cuối tuần hoặc ngày giờ tự chọn. Mặc định là Không nhắc; chỉ mục đó được nhắc. Thông báo có nút Đã đọc và Nhắc lại sau 1 giờ, và app không bao giờ tự nhắc.
+Ảnh: `…-26-remind-me.png`.
+
+**Widget màn hình chính.** Lưu nhanh (một chạm để dán link), hàng chờ đọc và một bộ sưu tập yêu thích, miễn phí. Với Pro có Gợi ý đọc (bốn dòng đổi mỗi ngày), Thư viện ảnh gần đây và sáu kiểu widget. Widget không bao giờ gửi thông báo.
 
 ## 4. Đọc
 

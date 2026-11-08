@@ -19,7 +19,7 @@ Type a few letters, accents optional: "banh xeo" finds Bánh xèo. Search titles
 Image: `highlights/04-search-en.png` · Clip: `clips/search-en.mp4`
 
 ## 5. Actually look at what you saved
-Focus shows one unopened save at a time, full screen: swipe right when done, left for later. The Reader gives you clean text and an offline copy. A weekly nudge says how many saves are waiting (a number, never titles).
+Focus shows one unopened save at a time, full screen: swipe right when done, left for later. The Reader gives you clean text and an offline copy. Remind me brings one item back at the time you pick, and only that one.
 Images: `highlights/05-focus-en.png`, `highlights/06-reader-en.png` · Clip: `clips/focus-en.mp4`
 
 ## 6. Yours, on your phone

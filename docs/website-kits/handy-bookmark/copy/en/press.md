@@ -30,7 +30,7 @@ You save a reel on Facebook, a video on TikTok, a screenshot… and never see it
 
 Most of what we "save" disappears into the app we saved it in. Handy Bookmark is one library for all of it. Tap Share in Facebook, TikTok, Instagram, YouTube, X, Threads, Reddit or a browser and the link is saved instantly; a small sheet shows its picture and title, and one tap puts it in a collection such as Recipes or Trips. Screenshots and photos sit alongside.
 
-Collections get their own icon and colour and can nest. Search works with or without Vietnamese accents. Focus shows one unopened save at a time, the reader offers clean text and offline copies, and a weekly nudge says how many saves are waiting.
+Collections get their own icon and colour and can nest. Search works with or without Vietnamese accents. Focus shows one unopened save at a time, the reader offers clean text and offline copies, and Remind me brings an item back at the time you pick.
 
 There is no account and no server: the library stays on the phone, with backups to a file or a folder you choose, password-locked backups and an optional app lock. Pro, a one-time purchase, adds themes, layouts, highlights, smart collections and designed exports.
 

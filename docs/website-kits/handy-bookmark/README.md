@@ -89,7 +89,7 @@ No device recordings were made: the owner's BlueStacks "android 11" instance hol
 | 22 | reader, reader-night-tone ✦▭▯ | offline copy |
 | 23 | reader-highlights, -list ✦▭ | Pro |
 | 24 | reader-find | |
-| 26 | weekly-nudge | Settings with the nudge on (Sunday 19:00) |
+| 26 | remind-me | An item's Remind me sheet: Off by default, Tomorrow, This weekend, a day and time |
 | 27 | trash ✦ | Recently deleted |
 | 28 | duplicates | |
 | 29 | broken-links ▭ | gone / moved / could not tell |
@@ -141,14 +141,12 @@ Colours, fonts and logo rules: `brand/brand.md`. The app's look is a "warm moder
 
 | Not in the kit | Why |
 |---|---|
-| Per-item reminders ("bring a link back on the day you choose") | The current build has no way to set a new reminder on an item (removed in the 2026-11 simplification). The **Play listing still claims it** — flagged in `copy/*/store-listing.md` for the owner to fix. Only the weekly nudge is marketed. |
 | Google Drive sync | Only in builds made with `HANDY_DRIVE_SYNC=true`, never run against a real Drive account. The FAQ says "in development". The Play changelog for build 4 mentions it — flagged. |
 | Folder sync ("sync through a folder") | Works on computers only, and the Windows app isn't released. |
 | iPhone, Windows and web downloads | Not built/published. |
 | Device-recorded clips (real share from Facebook/TikTok/Chrome) | See "How the images were made". A real share needs a phone-shaped device that isn't the owner's personal library; worth recording later on a clean Android phone. |
 | The Pro purchase box and price inside screenshots | Host renders have no store connection, so the box would say purchases aren't set up. Price is in `copy/pro-vs-free.md` instead. |
 | Copy text from pictures (OCR) screenshot | Needs the device's on-device OCR; host renders can't show it. Described in text only. |
-| The weekly nudge notification itself | It's an Android notification; only the setting is shown. The exact wording is "4 things you saved recently are still waiting." / "4 mục bạn lưu gần đây còn chưa xem." (count only). |
 | Dark share sheet | The test renderer drew the share sheet light even in dark mode; not shipped, to avoid showing something that may not match a real phone. |
 | Third-party logos (Google Play badge, social apps) | Must be taken from their owners under their brand rules. |
 

@@ -2755,17 +2755,17 @@
   },
   {
     "slug": "handy-bookmark",
-    "id": "mobile-en-26-weekly-nudge",
-    "src": "/products/handy-bookmark/kit/screenshots/mobile/mobile-en-26-weekly-nudge.webp",
+    "id": "mobile-en-26-remind-me",
+    "src": "/products/handy-bookmark/kit/screenshots/mobile/mobile-en-26-remind-me.webp",
     "device": "mobile",
     "width": 1170,
     "height": 2532,
     "title": {
-      "en": "Settings: the weekly nudge on, Sunday at 19:00",
-      "vi": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00"
+      "en": "An item's Remind me: Off by default, Tomorrow, This weekend, or a day and time",
+      "vi": "Nhắc tôi trên một mục: mặc định Không nhắc, Ngày mai, Cuối tuần hoặc ngày giờ tự chọn"
     },
     "kind": "kit-source-render",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-en-26-weekly-nudge.png",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-en-26-remind-me.png",
     "locale": "en",
     "pro": false,
     "theme": "light"
@@ -3877,17 +3877,17 @@
   },
   {
     "slug": "handy-bookmark",
-    "id": "mobile-vi-26-weekly-nudge",
-    "src": "/products/handy-bookmark/kit/screenshots/mobile/mobile-vi-26-weekly-nudge.webp",
+    "id": "mobile-vi-26-remind-me",
+    "src": "/products/handy-bookmark/kit/screenshots/mobile/mobile-vi-26-remind-me.webp",
     "device": "mobile",
     "width": 1170,
     "height": 2532,
     "title": {
-      "en": "Settings: the weekly nudge on, Sunday at 19:00",
-      "vi": "Cài đặt: bật Nhắc mỗi tuần, Chủ nhật 19:00"
+      "en": "An item's Remind me: Off by default, Tomorrow, This weekend, or a day and time",
+      "vi": "Nhắc tôi trên một mục: mặc định Không nhắc, Ngày mai, Cuối tuần hoặc ngày giờ tự chọn"
     },
     "kind": "kit-source-render",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-vi-26-weekly-nudge.png",
+    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Handy-Website-Kit\\handy-bookmark\\screenshots\\mobile\\mobile-vi-26-remind-me.png",
     "locale": "vi",
     "pro": false,
     "theme": "light"

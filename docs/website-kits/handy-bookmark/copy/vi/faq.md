@@ -42,7 +42,7 @@ Bấm Hoàn tác trong thông báo, hoặc tìm lại trong Đã xoá gần đâ
 Được. Khoá app hỏi vân tay, khuôn mặt hoặc khoá màn hình khi mở app.
 
 **App có nhắc tôi xem lại không?**
-Nếu bạn bật Nhắc mỗi tuần (Cài đặt › Chung), mỗi tuần một lần app báo còn bao nhiêu mục mới chưa xem. Chỉ ghi con số, không ghi tiêu đề. Sau đó chế độ Tập trung đưa ra từng mục một.
+Chỉ khi bạn muốn: bấm Nhắc tôi trên một mục (hoặc dưới "Đã lưu" khi chia sẻ) và chọn giờ. Mặc định là Không nhắc, và app không bao giờ tự nhắc. Muốn xem lại những gì đã lưu, Trang chủ cho thấy mục đang chờ và Tập trung đưa ra từng mục một.
 
 **Đọc bài offline được không?**
 Được. Mở bài, bấm Đọc, rồi lưu bản offline. Nhiều trang mạng xã hội và trang cần đăng nhập hoặc trả phí không có chữ để đọc; khi đó app mở bản gốc.

@@ -21,6 +21,6 @@ Status on 2026-11-08 (from `docs/HANDY_BOOKMARK_HANDOFF.md`, `HANDY_BOOKMARK_REL
 
 ## Device notes worth stating
 
-- Android: saving from other apps through the share menu, collections in the share menu's top row, notifications for the weekly nudge, fingerprint/face app lock, folder backups through Android's folder picker.
+- Android: saving from other apps through the share menu, collections in the share menu's top row, notifications for the reminders you set and for problems that need you, home-screen widgets, fingerprint/face app lock, folder backups through Android's folder picker.
 - The share sheet starts its own engine, so it appears about a second after you tap Handy Bookmark.
 - Facebook sometimes hides Handy Bookmark under "More" in its own share menu.

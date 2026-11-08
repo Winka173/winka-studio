@@ -14,7 +14,9 @@ Pro = one-time purchase `handy_bookmark_pro` on Google Play: 99,000 đ in Vietna
 | Rows or cards, filters, your own order, choose a cover | ✓ | ✓ |
 | Select many: move, tag, mark read, archive, delete, export, check | ✓ | ✓ |
 | Search (accents optional) | ✓ | ✓ |
-| Focus (one at a time) and the weekly nudge | ✓ | ✓ |
+| Focus (one at a time) and Remind me on any item | ✓ | ✓ |
+| Widgets: Quick save, Reading queue, a favourite collection | ✓ | ✓ |
+| Widgets: Reading picks, Gallery, six widget styles | — | ✓ |
 | Reader with offline copies, find in text, night tone | ✓ | ✓ |
 | Share an item without tracking bits; share a collection as a page | ✓ | ✓ |
 | Duplicates, link check, Recently deleted (30 days), Undo | ✓ | ✓ |
@@ -44,7 +46,9 @@ Pro notes: one payment, no subscription; restore on reinstall or another device 
 | Dạng dòng hoặc thẻ, bộ lọc, tự sắp thứ tự, chọn ảnh bìa | ✓ | ✓ |
 | Chọn nhiều: chuyển, gắn thẻ, đánh dấu đã đọc, lưu trữ, xoá, xuất, kiểm tra | ✓ | ✓ |
 | Tìm kiếm (gõ không dấu cũng được) | ✓ | ✓ |
-| Tập trung (từng mục một) và Nhắc mỗi tuần | ✓ | ✓ |
+| Tập trung (từng mục một) và Nhắc tôi trên từng mục | ✓ | ✓ |
+| Widget: Lưu nhanh, Hàng chờ đọc, bộ sưu tập yêu thích | ✓ | ✓ |
+| Widget: Gợi ý đọc, Thư viện ảnh, sáu kiểu widget | — | ✓ |
 | Trình đọc có bản offline, tìm trong bài, tông đêm | ✓ | ✓ |
 | Chia sẻ một mục đã bỏ phần theo dõi; chia sẻ cả bộ sưu tập thành trang | ✓ | ✓ |
 | Mục trùng, kiểm tra link, Đã xoá gần đây (30 ngày), Hoàn tác | ✓ | ✓ |

@@ -57,8 +57,10 @@ Screens: `…-18-search-start.png`, `…-18-search-results.png`, clip `search-en
 **Focus.** One thing you haven't opened yet, full screen, at a time. Swipe right when you're done, left for later. It's how saved things actually get looked at.
 Screens: `…-20-focus.png`, clip `focus-en`.
 
-**Weekly nudge.** Once a week, on the day and hour you pick, a notification says how many new saves are still waiting. It shows a count, never titles.
-Screen: `…-26-weekly-nudge.png`.
+**Remind me, only when you ask.** On any item, or right under "Saved" in the share sheet, pick Tonight, Tomorrow, This weekend or your own day and time. Off is the default; only that item is reminded. The notification has Mark as read and Remind in 1 hour, and the app never nudges you on its own.
+Screen: `…-26-remind-me.png`.
+
+**Widgets on the home screen.** Quick save (one tap to paste a link), your reading queue and a favourite collection, free. With Pro, Reading picks (four lines that change each day) and a Gallery of your recent pictures, plus six widget styles. Widgets never send notifications.
 
 ## 4. Read
 

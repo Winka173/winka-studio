@@ -116,8 +116,8 @@ export function BookmarkPortfolio({
               locale={locale}
               label={
                 vi
-                  ? "Chia sẻ → Lưu → Xếp · UI kết xuất"
-                  : "Share → Save → File · Rendered UI"
+                  ? "Chia sẻ → Lưu → Xếp"
+                  : "Share → Save → File"
               }
               className="portrait-film"
             />
@@ -168,7 +168,7 @@ export function BookmarkPortfolio({
                   <ProductFilm
                     {...clip}
                     locale={locale}
-                    label={f.title + (vi ? " · UI kết xuất" : " · Rendered UI")}
+                    label={f.title}
                     className="portrait-film"
                   />
                 ) : (

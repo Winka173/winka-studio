@@ -48,7 +48,7 @@ handy-bookmark/
 └── data/
     ├── sample-data.md        what the sample library contains and why it looks the way it does
     ├── captions.json         alt text (EN + VI) for every screenshot, with form/theme/Pro flags
-    └── photos/               the 9 extra CC photos used in the renders + CREDITS.md for all 14
+    └── photos/               the 12 extra CC photos used in the renders + CREDITS.md for all 17
 ```
 
 File names: `<form>[-dark]-<lang>-<NN>-<scene>[-<variant>].png`, e.g. `mobile-vi-13-share-sheet-saved.png`, `desktop-dark-en-22-reader.png`. The same scene number means the same screen in every form and language. Scenes 19, 21, 23, 40–44 and `06-library-smart-and-saved`, `07-smart-collection` show **Pro** features (`pro: true` in `captions.json`); label them "Pro" on the site.
@@ -57,7 +57,7 @@ File names: `<form>[-dark]-<lang>-<NN>-<scene>[-<variant>].png`, e.g. `mobile-vi
 
 All screenshots and clips are the **real app**, drawn by Flutter's test renderer with the app's own fonts, at exact sizes, from a new tool file in the repo (`apps/handy_bookmark/tool/website_shots_test.dart`). They are not mock-ups and not phone recordings, so there is no status bar or system navigation bar; add a device frame on the site if wanted (the `highlights/` phones already have a simple neutral frame). The sample library is described in `data/sample-data.md`.
 
-Clips were rendered frame by frame (33 ms per frame) from the same renderer and encoded with ffmpeg. They show the app's real animations; touches are simulated, so no finger or tap marker is drawn.
+Clips were rendered frame by frame (33 ms per frame) from the same renderer and encoded with ffmpeg. They show the app's real animations; touches are simulated and drawn as a soft round finger marker so viewers can see what was tapped. Every saved item in every image has its picture (17 CC photos, see `data/photos/CREDITS.md`).
 
 No device recordings were made: the owner's BlueStacks "android 11" instance holds a real personal library, and "android 11-2" was in active use by another session (a file picker was open), so recording there could have disturbed it. Both are landscape 1920×1080 anyway, which isn't phone-shaped.
 
@@ -111,14 +111,14 @@ No device recordings were made: the owner's BlueStacks "android 11" instance hol
 
 | Clip | Length | Shows |
 |---|---|---|
-| `share-sheet-{vi,en}` | 4 s | the save sheet over a video app, one tap on Recipes, the "Saved" card |
-| `welcome-{vi,en}` | 13 s | the onboarding story: scattered saves gather, then the practice share on a pretend phone, saved, find |
-| `file-{vi,en}` | 3 s | a Not sorted card filed into a collection with one tap |
-| `collection-{vi,en}` | 3 s | opening a collection, switching cards/rows |
+| `share-sheet-{vi,en}` | 6 s | a video playing, the save sheet rises over it, a tap on Recipes, the "Saved" card |
+| `welcome-{vi,en}` | 19 s | the onboarding story: scattered saves gather, the practice share on a pretend phone, saved, then typing "pho bo" to find it again |
+| `file-{vi,en}` | 4 s | a Not sorted card filed into a collection with two taps |
+| `collection-{vi,en}` | 5 s | opening a collection, then switching rows to picture cards |
 | `focus-{vi,en}` | 4 s | Focus: swipe right (done), swipe left (later) |
-| `search-{vi,en}` | 3 s | typing "da nang", results narrowing |
-| `dark-mode-{vi,en}` | 3 s | switching to Dark in Settings, back to Home |
-| `layouts-{vi,en}` | 6 s | cycling the 8 Pro layouts |
+| `search-{vi,en}` | 4 s | tapping Search, typing "da nang", results narrowing |
+| `dark-mode-{vi,en}` | 4 s | switching to Dark in Settings, back to Home |
+| `layouts-{vi,en}` | 8 s | the 8 Pro layouts, one clean layout per tap |
 
 Use the MP4 with `autoplay muted loop playsinline` and the poster JPG; the GIFs are fallbacks (the welcome GIF is ~9 MB, prefer the MP4).
 

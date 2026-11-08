@@ -169,13 +169,6 @@
   },
   {
     "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-02-fight-wave-14.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-02-fight-wave-14-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
     "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-03-fight-wave-18.mp4",
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-03-fight-wave-18.mp4",
     "kind": "owner-kit-native-capture",
@@ -187,55 +180,6 @@
     "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-04-boss-night-4.mp4",
     "kind": "owner-kit-native-capture",
     "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-04-boss-night-4-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-16.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-05-boss-night-16.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-05-boss-night-16-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-archive-vault.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-archive-vault-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-glasshouse.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-glasshouse-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-lamp-hall.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-lamp-hall-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-post-office.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-post-office-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-theatre.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-theatre-poster.webp"
-  },
-  {
-    "slug": "arcane-brigade",
-    "file": "public/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room.mp4",
-    "source": "C:\\Users\\Winka\\OneDrive\\Documents\\Arcane-Brigade-Website-Kit\\03_Clips\\mobile\\clip-place-waiting-room.mp4",
-    "kind": "owner-kit-native-capture",
-    "poster": "/products/arcane-brigade/kit/03_Clips/mobile/clip-place-waiting-room-poster.webp"
   },
   {
     "slug": "arcane-brigade",

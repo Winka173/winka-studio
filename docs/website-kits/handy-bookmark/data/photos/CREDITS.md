@@ -25,7 +25,10 @@ Every photo visible inside the screenshots, highlights and clips is a Creative C
 | yoga | [Woman enjoying coffee while sitting on yoga mat in home living space.jpg](https://commons.wikimedia.org/wiki/File:Woman_enjoying_coffee_while_sitting_on_yoga_mat_in_home_living_space.jpg) | Shixart1985 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | air-fryer | [Air Fryer 2020.jpg](https://commons.wikimedia.org/wiki/File:Air_Fryer_2020.jpg) | I am R. | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | banh-xeo | [Bánh xèo 1.jpg](https://commons.wikimedia.org/wiki/File:B%C3%A1nh_x%C3%A8o_1.jpg) | Kent Wang from Austin, TX | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| bookshelf | [Bookshelf in Kensington Market.jpg](https://commons.wikimedia.org/wiki/File:Bookshelf_in_Kensington_Market.jpg) | Stevenliuyi | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| android-phone | [Hand holding Smartphone.jpg](https://commons.wikimedia.org/wiki/File:Hand_holding_Smartphone.jpg) | Mictlancihuatl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| ha-giang-moto | [Travel by motorbike.jpg](https://commons.wikimedia.org/wiki/File:Travel_by_motorbike.jpg) | Zennysmile | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 
-Short footer line (EN): "Photos in screenshots: Wikimedia Commons contributors Valentin Orange, Wesoree, Santeri Viinamäki, shankar s., dronepicr, Kham Tran, Hoach Le Dinh, David McKelvey, Gary Stevens, Jpatokal, Jason M. C. Han, Shixart1985, I am R., Kent Wang (CC BY / CC BY-SA / CC0). Full credits →"
+Short footer line (EN): "Photos in screenshots: Wikimedia Commons contributors Valentin Orange, Wesoree, Santeri Viinamäki, shankar s., dronepicr, Kham Tran, Hoach Le Dinh, David McKelvey, Gary Stevens, Jpatokal, Jason M. C. Han, Shixart1985, I am R., Kent Wang, Stevenliuyi, Mictlancihuatl, Zennysmile (CC BY / CC BY-SA / CC0). Full credits →"
 
 Dòng chân trang (VI): "Ảnh trong hình minh hoạ: các tác giả trên Wikimedia Commons (CC BY / CC BY-SA / CC0). Xem đầy đủ →"

@@ -171,7 +171,6 @@
   aspect-ratio: 390/844;
   object-fit: cover;
 }
-.bookmark-kit-share .product-film figcaption {left:auto;right:10px;bottom:10px}
 .bookmark-kit-share .product-film figcaption>span {display:none}
 .bookmark-stage-note {
   position: absolute;
@@ -1440,4 +1439,38 @@
   .kit-clip summary > img {
     transition: none;
   }
+}
+
+/* Bookmark clips are 390×844 phone screens: show the whole screen, never
+   crop it to 9:16, and keep the label and play button in a chin below the
+   screen so nothing covers the app. */
+.bookmark-feature-media > .portrait-film,
+.bookmark-kit-share .product-film,
+.shelf-handy-bookmark .portrait-film {
+  aspect-ratio: auto;
+  max-width: 330px;
+}
+.bookmark-feature-media > .portrait-film video,
+.bookmark-kit-share .product-film video,
+.shelf-handy-bookmark .portrait-film video {
+  aspect-ratio: 390 / 844;
+  height: auto;
+  min-height: 0;
+  object-fit: contain;
+  background: #f6f4ee;
+}
+.bookmark-feature-media .product-film figcaption,
+.bookmark-kit-share .product-film figcaption,
+.shelf-handy-bookmark .product-film figcaption {
+  position: static;
+  padding: 8px 10px 10px;
+  background: #192526;
+}
+.bookmark-kit-share .product-film figcaption {
+  justify-content: flex-end;
+  padding: 6px;
+}
+.bookmark-kit-share .product-film figcaption button {
+  min-width: 36px;
+  height: 36px;
 }

@@ -11,12 +11,12 @@ Everything needed to build the game's website. Every picture and clip was taken 
 | `02_Screenshots/mobile/` | 2400×1080 JPEGs, phone layout (touch controls, larger text). Same names as `pc/` |
 | `02_Screenshots/vietnamese/` | 1920×1080 JPEGs with the game set to Tiếng Việt, for the Vietnamese pages |
 | `03_Clips/pc/` | 1920×1080 MP4 clips at 30 fps with the game's own sound |
-| `03_Clips/mobile/` | 2400×1080 MP4 clips, phone layout |
+| `03_Clips/mobile/` | Three 2400×1080 MP4 clips in the phone layout (buying and a star-up, night 18, the night 4 boss), for phone mock-ups |
 | `03_Clips/trailer-40s.mp4` | 40 seconds of the best moments with the logo at the start (1080p, with sound). `trailer-40s-web-720p.mp4` is a light copy for the page; `trailer-40s-muted-loop-720p.mp4` has no sound, for an autoplaying background |
 | `04_Copy/` | Website copy in English (`website-copy.en.md`) and Vietnamese (`website-copy.vi.md`): hero section, pitch, numbers, 13 feature blocks, a how-to-play strip, price, platforms, FAQ, press facts, SEO |
 | `05_Legal/` | `privacy-policy.md` and `terms-of-service.md`, both in English and Vietnamese |
 | `06_Data/` | `facts.json` (read from the game), `heroes.md` (all 36 heroes and their skills), `bosses.md`, `friends.csv` (66), `relics.csv` (204) |
-| `07_Art/` | The game's own character art, transparent PNG, cropped: `heroes/` (36), `friends/` (96), `bosses/` (10), `enemies/` (51), `relics/` (223) |
+| `07_Art/` | The game's own character art, transparent PNG, cropped: `heroes/` (36), `friends/` (66, the ones in `friends.csv`), `bosses/` (10), `enemies/` (51), `relics/` (204, the ones in `relics.csv`). Secret relics and special guests are left out on purpose: they are surprises in the game |
 
 ## File names
 

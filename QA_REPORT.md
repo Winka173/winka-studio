@@ -2,9 +2,11 @@
 
 ## Latest: gstack design review
 
-The exported site was reviewed across all 310 directory routes at 320/375/768/1440px (1,240 layouts), with visual inspection of 16 representative pages. Three confirmed issue groups were fixed: undersized primary prose, shared touch targets (including a clipped product-header menu at 320px), and overly wide document text. One Sticky Wall hero-composition suggestion remains deferred. See [the review record](docs/qa/gstack-design-review-2026-11-08.md) for exact check timing, evidence and limitations.
+The exported site was reviewed across all 310 directory routes at 320/375/768/1440px (1,240 layouts), with visual inspection of 16 representative pages. All four issue groups are fixed: undersized primary prose, shared touch targets (including a clipped product-header menu at 320px), overly wide document text, and product imagery below the first desktop screen on Sticky Wall. See [the review record](docs/qa/gstack-design-review-2026-11-08.md) for exact check timing, evidence and limitations.
 
 Final production build and validation pass. Fifty-six targeted responsive assertions pass; the final complete route sweep reports no JavaScript errors, horizontal overflow, clipped header controls or broken local links. Website-kit QA confirms all twelve supplied legal documents still preserve every rendered word in order. Screenshots and detailed results live in the local gstack design-audit directory referenced by the review record.
+
+The subsequent Sticky Wall hero change passes 16 EN/VI layouts at 320/375/768/1001/1024/1280/1440/1920px on the production export. Its main phone is fully visible within the initial 900px-high desktop viewport. No runtime, header clipping, overflow or axe failures were reported. The production build and content validation were repeated; source lint passes with generated export backups excluded from the lint command.
 
 ## Previous Workbench implementation verification
 

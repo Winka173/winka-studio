@@ -1,6 +1,6 @@
 # Rà giao diện bằng gstack, 08/11/2026
 
-Đã commit/push hiện trạng tại `dbe56dd`, sau đó chạy `design-review` trên bản production export ở localhost. Phát hiện 4 nhóm vấn đề: sửa và xác minh 3, giữ 1 đề xuất bố cục cho vòng sau. Điểm theo rubric gstack: thiết kế A− → A; tính rập khuôn A → A. Điểm là đánh giá thiết kế trong phạm vi đã kiểm tra.
+Đã commit/push hiện trạng tại `dbe56dd`, sau đó chạy `design-review` trên bản production export ở localhost. Phát hiện 4 nhóm vấn đề và đã sửa, xác minh cả 4. Điểm theo rubric gstack: thiết kế A− → A; tính rập khuôn A → A. Điểm là đánh giá thiết kế trong phạm vi đã kiểm tra.
 
 ## Phạm vi
 
@@ -16,9 +16,11 @@
 | FINDING-001 | High | Mô tả chính ở trang chủ/dự án/Forge xuống 11px trên mobile; FAQ 13px, tài liệu 14px | Nâng các đoạn này lên 16px, sửa cả breakpoint ghi đè; verified |
 | FINDING-002 | Medium | Một số nút mobile rộng 40px, footer cao 32–34px; header sản phẩm có thể cắt nút menu tại 320px | Vùng bấm tối thiểu 44px, logo gọn ở màn hình hẹp, kiểm tra từng cạnh điều khiển; verified |
 | FINDING-003 | Medium | Khối tài liệu desktop rộng tới 950px | Giới hạn Markdown tài liệu ở 72ch; verified |
-| FINDING-004 | Medium | Hero Sticky Wall ở 1440×900 để ảnh điện thoại gần mép dưới màn hình đầu | Đề xuất giảm khoảng cách trước ảnh/đưa một ảnh hoàn chỉnh lên cao; deferred, giữ composition đã chốt |
+| FINDING-004 | Medium | Hero Sticky Wall ở 1440×900 để ảnh điện thoại gần mép dưới màn hình đầu | Từ 1001px dùng bố cục chữ trái/ảnh phải, thu gọn tiêu đề và khoảng cách; điện thoại chính hiện trọn trong màn hình đầu; verified |
 
 Các sửa đổi chỉ tác động CSS. Không thay nội dung legal, dữ liệu sản phẩm, ảnh/video gốc hay điều kiện phát hành. Review độc lập trong phiên phát hiện hai rule ghi đè ở mobile; đã sửa và đo lại thực tế.
+
+FINDING-004 đã được thực hiện sau khi chủ dự án yêu cầu sửa nốt toàn bộ phần còn lại. Kiểm tra production export trên EN/VI tại 320/375/768/1001/1024/1280/1440/1920px: 16 trường hợp đạt, không tràn ngang, cắt header, lỗi JavaScript hay vi phạm axe. Điện thoại chính nằm trọn trong viewport cao 900px ở mọi kích thước desktop được kiểm tra. Mobile/tablet tiếp tục dùng bố cục xếp dọc. Build và validate được chạy lại; lint source đạt với `--ignore-pattern 'out-locked-audit*/**'` để không quét JavaScript generated trong các bản export tạm.
 
 Ba quick wins đã hoàn tất: cỡ chữ ở selector dùng chung; vùng bấm điều khiển; chiều dài dòng của tài liệu.
 
@@ -46,6 +48,8 @@ Theo quy ước gstack, báo cáo đầy đủ, baseline JSON, kết quả đo v
 File chính: `design-audit-localhost.md`, `design-baseline.before.json`, `design-baseline.json`, `rendered-audit.before.json`, `rendered-audit.json`, `fix-verification.json` và `screenshots/`.
 
 Ảnh tiêu biểu: `home-prose-before.jpg`, `home-prose-after.jpg`, `home-prose-mobile-after.jpg`, `mobile-controls-before.jpg`, `mobile-controls-after.jpg`, `product-header-320-after.jpg`, `legal-prose-before.jpg`, `legal-prose-after.jpg`.
+
+Bổ sung Sticky hero: `screenshots/vi-apps-sticky-wall-1440.jpg` là ảnh trước sửa; `screenshots/sticky-hero-1440-after.jpg`, `sticky-hero-768-after.jpg`, `sticky-hero-375-after.jpg` và `sticky-hero-verification.json` ghi lại lượt xác minh cuối.
 
 Aside không có trên Windows; binary trình duyệt gstack không khởi động trong 15 giây. Kiểm tra dùng Playwright/Edge đã cài trong dự án. Craft lint của gstack chạy trên 16 DOM nhưng không đọc được linked CSS ở thư mục tạm; các cảnh báo được đối chiếu bằng mắt và trong trình duyệt, không tuyên bố lint đạt. Impeccable không cài và không được tải thêm. Review độc lập nội bộ đã hoàn thành; không có Claude Code để thực hiện review ngoài.
 

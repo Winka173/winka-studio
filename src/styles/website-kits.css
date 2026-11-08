@@ -324,6 +324,62 @@
 .sticky-kit-hero .sticky-screen-fan {
   margin-top: 65px;
 }
+@media (min-width: 1001px) {
+  .sticky-kit-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+    align-items: center;
+    gap: 40px;
+    min-height: 0;
+    padding: 40px max(40px, calc((100% - 1280px) / 2)) 64px;
+  }
+  .sticky-kit-hero .sticky-intro-copy {
+    width: 100%;
+    text-align: left;
+  }
+  .sticky-kit-hero h1 {
+    font-size: clamp(60px, 4.7vw, 76px);
+    letter-spacing: -2px;
+    margin-inline: 0;
+  }
+  .sticky-kit-hero .sticky-intro-copy > p {
+    margin-inline: 0;
+  }
+  .sticky-kit-hero .product-actions {
+    align-items: flex-start;
+  }
+  .sticky-kit-hero .sticky-screen-fan {
+    min-height: 560px;
+    margin: 0;
+  }
+  .sticky-kit-hero .sticky-screen-fan > .real-phone {
+    width: 30%;
+    max-width: 210px;
+  }
+  .sticky-kit-hero .fan-main {
+    left: 35%;
+    top: 35px;
+  }
+  .sticky-kit-hero .fan-one {
+    left: 0;
+    top: 145px;
+  }
+  .sticky-kit-hero .fan-two {
+    left: 16%;
+    top: 80px;
+  }
+  .sticky-kit-hero .fan-four {
+    left: 54%;
+    top: 80px;
+  }
+  .sticky-kit-hero .fan-five {
+    left: 70%;
+    top: 145px;
+  }
+  .sticky-kit-hero .sticky-scrawl {
+    bottom: 24px;
+  }
+}
 .portfolio-sticky h2 em {
   color: var(--ink);
 }

@@ -1,5 +1,7 @@
 # Product sources and fresh capture evidence
 
+9 November 2026: all 14 Handy projects have source-backed, self-contained internal dossiers. **Handy Bookmark and Handy Boards are owner-confirmed complete**; the other 12 Handy apps remain in development. Completion does not establish a public store release. See [the dossier index and scope](docs/HANDY_PROJECT_DOSSIERS.md). Earlier completion counts and source states below are dated observations, retained as history.
+
 Latest priority update, 8 November 2026: the owner-supplied Handy Bookmark, Sticky Wall and Arcane website kits supersede earlier copy/media observations for those products. Full source docs are preserved in `docs/website-kits/`; `docs/WEBSITE_KIT_INTEGRATION.md` records the integration. Bookmark Drive sync is not shipped in the current store build; all three Android products are in closed testing. Earlier capture counts and policy-preview observations below are historical for these three products.
 
 Inspected 7–8 November 2026. Completion follows the owner's statements and does not establish public availability. Product source code was not edited; builds and local services were launched for the requested screenshots.

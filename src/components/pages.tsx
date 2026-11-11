@@ -59,8 +59,8 @@ export function CatalogPage({
         <p>
           {kind === "app"
             ? vi
-              ? "Lưu link, ghim ghi chú và sắp xếp kế hoạch. Khám phá Handy Bookmark, Sticky Wall và Handy Boards."
-              : "Save links, pin notes and organize plans. Explore Handy Bookmark, Sticky Wall and Handy Boards."
+              ? "Lưu link, ghim ghi chú, sắp xếp kế hoạch và giữ đều thói quen. Khám phá Handy Bookmark, Sticky Wall, Handy Boards và Handy Habit."
+              : "Save links, pin notes, organize plans and keep small habits going. Explore Handy Bookmark, Sticky Wall, Handy Boards and Handy Habit."
             : vi
               ? "Những thử nghiệm về chiến thuật, tổ đội và thủ thành. Chưa có link tải công khai được xác nhận."
               : "Experiments in tactics, squads and kingdom defense. Public download links have not been confirmed."}
@@ -507,7 +507,9 @@ export function SupportPage({
       </div>
       {product ? (
         <>
-          {product.slug === "handy-boards" && <BoardsUpdateNote locale={locale} />}
+          {product.slug === "handy-boards" && (
+            <BoardsUpdateNote locale={locale} />
+          )}
           {websiteKits[product.slug] ? (
             <KitFAQ product={product} locale={locale} />
           ) : (

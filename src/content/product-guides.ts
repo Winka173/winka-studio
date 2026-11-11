@@ -366,26 +366,26 @@ const handy: Record<string, [string, string, Step[]]> = {
     ],
   ],
   habit: [
-    "Track repeating habits and run personal routines made of several steps.",
-    "Theo dõi thói quen lặp lại và thực hiện quy trình cá nhân nhiều bước.",
+    "Keep small habits as bead strings, check in from Android widgets and follow personal routines step by step. No account, works offline.",
+    "Giữ thói quen nhỏ thành chuỗi hạt, ghi nhận từ widget Android và chạy quy trình cá nhân từng bước. Không tài khoản, dùng ngoại tuyến.",
     [
       step(
         "Set the rhythm",
         "Đặt nhịp thói quen",
-        "Choose a habit, its goal and scheduled days.",
-        "Chọn thói quen, mục tiêu và những ngày cần làm.",
+        "Add a habit in two taps, choose a goal and schedule, or start with one of 44 habit templates. You can build a habit or set a limit to cut it down.",
+        "Thêm thói quen trong hai chạm, chọn mục tiêu và lịch, hoặc bắt đầu từ một trong 44 mẫu. Bạn có thể xây dựng thói quen hoặc đặt giới hạn để bớt dần.",
       ),
       step(
         "Check in or run a routine",
         "Ghi nhận hoặc chạy quy trình",
-        "Record progress for a due habit or follow the steps of a saved routine.",
-        "Ghi tiến độ cho thói quen đến hạn hoặc làm các bước của quy trình đã lưu.",
+        "Tap today's bead in the app or an Android widget. Run a saved routine with its timer ring, Pause and Done; completing a linked step can check a habit in.",
+        "Chạm hạt hôm nay trong app hoặc widget Android. Chạy quy trình đã lưu với vòng đếm giờ, Tạm dừng và Xong; hoàn thành bước liên kết có thể ghi nhận thói quen.",
       ),
       step(
         "Look back",
         "Nhìn lại",
-        "Review history, streaks and weekly trends based on your recorded check-ins.",
-        "Xem lịch sử, chuỗi và xu hướng tuần từ những lần bạn đã ghi nhận.",
+        "Review the week, month or year and yearly heatmaps based only on what you recorded. Export CSV, Markdown or PDF, and keep your own backup files.",
+        "Xem tuần, tháng, năm và bản đồ nhiệt từ chính những gì đã ghi. Xuất CSV, Markdown hoặc PDF, và giữ tệp sao lưu của riêng bạn.",
       ),
     ],
   ],
@@ -661,6 +661,18 @@ for (const [slug, [en, vi, steps]] of Object.entries(handy))
     sources: [
       `Handy-Suite/docs/FUNCTIONS.md#handy-${slug}`,
       `Handy-Suite/apps/handy_${slug}/lib`,
-      ...(slug === "boards" ? ["Handy-Website-Kit/handy-boards/copy/en/features.md", "Handy-Website-Kit/handy-boards/copy/platforms-and-links.md"] : []),
+      ...(slug === "boards"
+        ? [
+            "Handy-Website-Kit/handy-boards/copy/en/features.md",
+            "Handy-Website-Kit/handy-boards/copy/platforms-and-links.md",
+          ]
+        : []),
+      ...(slug === "habit"
+        ? [
+            "Handy-Suite/website-kit/handy-habit/copy/en/features.md",
+            "Handy-Suite/website-kit/handy-habit/copy/platforms-and-links.md",
+            "Handy-Suite/website-kit/handy-habit/legal/privacy.md",
+          ]
+        : []),
     ],
   };

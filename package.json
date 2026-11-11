@@ -20,7 +20,9 @@
     "qa:kits": "node scripts/website-kit-qa.mjs",
     "validate:public": "tsx scripts/validate-public-products.ts",
     "qa:public": "node scripts/public-products-qa.mjs",
-    "validate:boards": "tsx scripts/validate-boards.ts"
+    "validate:boards": "tsx scripts/validate-boards.ts",
+    "validate:habit": "tsx scripts/validate-habit.ts",
+    "qa:habit": "node scripts/habit-qa.mjs"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.5",

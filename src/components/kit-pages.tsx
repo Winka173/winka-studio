@@ -10,6 +10,7 @@ import {
 } from "@/content/website-kits";
 import { legalTitles, type LegalKind } from "@/content/legal";
 import { KitMarkdown } from "./kit-markdown";
+import { HabitDeletion } from "./portfolio/habit-deletion";
 
 function DocumentLinks({
   product,
@@ -112,6 +113,9 @@ export function KitLegal({
             ? "Toàn bộ chính sách dưới đây trình bày dữ liệu trên máy, bản sao lưu và cách xóa bản trên Google Drive nếu bạn đã bật tính năng đó."
             : "The complete policy below covers local data, retained backups and deletion of Google Drive copies if you have enabled that feature."}
         </p>
+      )}
+      {kind === "data-deletion" && product.slug === "handy-habit" && (
+        <HabitDeletion locale={locale} />
       )}
       <KitMarkdown locale={locale} product={product}>
         {raw}

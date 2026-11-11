@@ -31,9 +31,7 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
     {
       slug: "handy-boards",
       name: "Handy Boards",
-      type: vi
-        ? "Sắp xếp công việc và kế hoạch."
-        : "Organize tasks and plans.",
+      type: vi ? "Sắp xếp công việc và kế hoạch." : "Organize tasks and plans.",
       image: `/products/handy-boards/kit/highlights/02-board-desktop-${locale}.webp`,
       kind: "apps",
       label: "03 / PLANNING",
@@ -122,6 +120,14 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
             <ArrowDown size={18} />
             {vi ? "Khám phá những gì đã làm" : "Explore the finished work"}
           </a>
+          <Link
+            className="workbench-new-product"
+            href={`/${locale}/apps/handy-habit/`}
+          >
+            <span>NEW / HANDY HABIT</span>
+            {vi ? "Việc nhỏ, giữ đều." : "Small things, kept."}
+            <ArrowUpRight size={20} />
+          </Link>
           <span className="workbench-stamp" aria-hidden="true">
             SMALL STUDIO
             <br />
@@ -144,34 +150,32 @@ export function PortfolioHome({ locale }: { locale: Locale }) {
           </p>
         </div>
         <div className="lab-teasers">
-          {["runavelle", "forgebound", "aetherward"].map(
-            (slug) => {
-              const p = products.find((p) => p.slug === slug)!;
-              return (
-                <Link
-                  className={`lab-teaser lab-${slug}`}
-                  key={slug}
-                  href={productPath(p, locale)}
-                >
-                  <span className="folio-kicker">{p.category[locale]}</span>
-                  {p.image && (
-                    <img
-                      src={p.image}
-                      alt={p.name}
-                      width={960}
-                      height={600}
-                      loading="lazy"
-                    />
-                  )}
-                  <h3>
-                    {p.name}
-                    <ArrowUpRight size={23} />
-                  </h3>
-                  <p>{p.description[locale]}</p>
-                </Link>
-              );
-            },
-          )}
+          {["runavelle", "forgebound", "aetherward"].map((slug) => {
+            const p = products.find((p) => p.slug === slug)!;
+            return (
+              <Link
+                className={`lab-teaser lab-${slug}`}
+                key={slug}
+                href={productPath(p, locale)}
+              >
+                <span className="folio-kicker">{p.category[locale]}</span>
+                {p.image && (
+                  <img
+                    src={p.image}
+                    alt={p.name}
+                    width={960}
+                    height={600}
+                    loading="lazy"
+                  />
+                )}
+                <h3>
+                  {p.name}
+                  <ArrowUpRight size={23} />
+                </h3>
+                <p>{p.description[locale]}</p>
+              </Link>
+            );
+          })}
         </div>
         <Link href={`/${locale}/lab/`} className="folio-button">
           {vi ? "Mở toàn bộ Workbench & Lab" : "Open the whole Workbench & Lab"}

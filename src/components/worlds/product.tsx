@@ -6,6 +6,7 @@ import { ForgePortfolio as ForgeLanding } from "../portfolio/forge";
 import { ArcanePortfolio as ArcaneLanding } from "../portfolio/arcane";
 import { DevelopmentPortfolio as DevelopmentLanding } from "../portfolio/development";
 import { BoardsPortfolio } from "../portfolio/boards";
+import { HabitPortfolio } from "../portfolio/habit";
 export function ProductLanding({
   product,
   locale,
@@ -16,6 +17,7 @@ export function ProductLanding({
   const Landing = {
     "handy-bookmark": BookmarkLanding,
     "handy-boards": BoardsPortfolio,
+    "handy-habit": HabitPortfolio,
     "sticky-wall": StickyLanding,
     "asset-forge-studio": ForgeLanding,
     "arcane-brigade": ArcaneLanding,

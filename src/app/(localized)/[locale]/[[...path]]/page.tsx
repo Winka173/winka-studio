@@ -99,11 +99,18 @@ export async function generateMetadata({
             }[path[0]] || "Winka Studio";
   if (path[2])
     title = `${p?.name} — ${path[2] === "media" ? (vi ? "Thư viện hình ảnh" : "Media library") : legalTitles[path[2] as LegalKind]?.[locale] || kitPageTitles[path[2] as KitPage]?.[locale]}`;
-  const description = p
-    ? p.description[locale]
-    : vi
-      ? "Khám phá ứng dụng thiết thực và những thế giới game đang được Winka Studio tạo nên."
-      : "Explore practical apps and game worlds being made at Winka Studio.";
+  const kitSeo =
+    p && path.length === 2 && path[0] !== "support"
+      ? websiteKits[p.slug]?.seo?.[locale]
+      : undefined;
+  if (kitSeo) title = kitSeo.title;
+  const description =
+    kitSeo?.description ||
+    (p
+      ? p.description[locale]
+      : vi
+        ? "Khám phá ứng dụng thiết thực và những thế giới game đang được Winka Studio tạo nên."
+        : "Explore practical apps and game worlds being made at Winka Studio.");
   const route = path.join("/");
   return {
     title,

@@ -16,7 +16,13 @@ export type PortfolioMedia = {
   theme?: string;
   newInNextUpdate?: boolean;
 };
-const kitSlugs = new Set(["handy-bookmark", "handy-boards", "sticky-wall", "arcane-brigade"]);
+const kitSlugs = new Set([
+  "handy-bookmark",
+  "handy-boards",
+  "handy-habit",
+  "sticky-wall",
+  "arcane-brigade",
+]);
 export const portfolioMedia = [
   ...items.filter((item) => !kitSlugs.has(item.slug)),
   ...kitItems,

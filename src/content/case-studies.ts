@@ -2,6 +2,20 @@ import type { Locale } from "./studio";
 
 /** Observable product decisions; no invented research, outcome metrics or release claims. */
 export const caseStudies: Record<string, Record<Locale, string>[]> = {
+  "handy-habit": [
+    {
+      vi: "Ghi nhận thói quen cần nhẹ nhàng, kể cả khi có một ngày để trống.",
+      en: "Habit check-ins should stay gentle, including on days left blank.",
+    },
+    {
+      vi: "Dùng chuỗi hạt, ngày chưa ghi để rỗng; một chạm để giữ nhịp từ app hoặc widget Android.",
+      en: "Use bead strings with hollow unrecorded days, and one-tap check-ins in the app or Android widgets.",
+    },
+    {
+      vi: "Đã hoàn thiện; Android đang thử nghiệm kín. Có quy trình, bản đồ nhiệt, sao lưu và Drive tùy chọn.",
+      en: "Complete, in Android closed testing. Includes routines, yearly heatmaps, backups and optional Drive sync.",
+    },
+  ],
   "handy-boards": [
     {
       vi: "Công việc cần được nhóm lại để biết điều gì nên làm tiếp theo.",

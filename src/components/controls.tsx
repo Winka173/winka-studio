@@ -21,6 +21,9 @@ const getTheme = () => {
     return "default";
   }
 };
+export function useThemePreference() {
+  return useSyncExternalStore(subscribe, getTheme, () => "default");
+}
 
 export function Experience({
   direction = "addy",
@@ -29,7 +32,7 @@ export function Experience({
   direction?: string;
   children: React.ReactNode;
 }) {
-  const preference = useSyncExternalStore(subscribe, getTheme, () => "default");
+  const preference = useThemePreference();
   return (
     <div className={`site site--${direction}`} data-preference={preference}>
       {children}
@@ -38,7 +41,7 @@ export function Experience({
 }
 
 export function ThemeSwitch({ locale }: { locale: Locale }) {
-  const preference = useSyncExternalStore(subscribe, getTheme, () => "default");
+  const preference = useThemePreference();
   return (
     <button
       className="icon-button theme-switch"

@@ -2,7 +2,11 @@ import { text, type Translation } from "./studio";
 import { mediaFor } from "./portfolio-media";
 
 export type ProductStatus =
-  "released" | "beta" | "in-development" | "coming-soon" | "hidden";
+  | "released"
+  | "beta"
+  | "in-development"
+  | "coming-soon"
+  | "hidden";
 export type Product = {
   slug: string;
   name: string;
@@ -51,7 +55,9 @@ function product(
     ...p,
     status:
       p.kind === "game" ||
-      ["handy-bookmark", "sticky-wall", "handy-boards"].includes(p.slug)
+      ["handy-bookmark", "sticky-wall", "handy-boards", "handy-habit"].includes(
+        p.slug,
+      )
         ? "coming-soon"
         : "hidden",
   };
@@ -74,7 +80,8 @@ export const products: Product[] = [
     ),
     accent: "#0e7490",
     platforms: ["Android"],
-    image: "/products/handy-bookmark/kit/screenshots/desktop/desktop-en-02-home-item-open.webp",
+    image:
+      "/products/handy-bookmark/kit/screenshots/desktop/desktop-en-02-home-item-open.webp",
     icon: "/products/handy-bookmark/kit/brand/icon/icon-rounded-1024.webp",
     mediaKind: "screenshot",
     gallery: [
@@ -196,7 +203,8 @@ export const products: Product[] = [
     ),
     accent: "#f0c060",
     platforms: ["Android", "iOS", "PC (Steam)"],
-    image: "/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-skill-a.webp",
+    image:
+      "/products/arcane-brigade/kit/02_Screenshots/pc/hero-comet-runner-skill-a.webp",
     mediaKind: "screenshot",
     features: [
       text(
@@ -328,25 +336,74 @@ export const products: Product[] = [
       category: text(en, vi),
       description: text(descriptionEn, descriptionVi),
       source: `Handy-Suite/README.md; apps/handy_${slug}. Owner confirms in development.`,
-      ...(slug === "boards" ? {
-        completion: "complete" as const,
-        featured: true,
-        accent: "#A61C8E",
-        platforms: ["Android"],
-        image: "/products/handy-boards/kit/highlights/02-board-desktop-en.webp",
-        icon: "/products/handy-boards/kit/brand/icon/icon-rounded-1024.webp",
-        description: text(
-          "Kanban boards for school, home and projects. Categories, subtasks, reminders and templates. Offline, no account, no ads; optional one-time Pro.",
-          "Bảng Kanban cho việc học, việc nhà và dự án. Nhóm, việc con, nhắc nhở và mẫu bảng. Ngoại tuyến, không tài khoản, không quảng cáo; Pro tùy chọn mua một lần.",
-        ),
-        features: [
-          text("Boards, columns and cards", "Bảng, cột và thẻ"),
-          text("Categories, subtasks and reminders", "Nhóm, việc con và nhắc nhở"),
-          text("Templates, backups and optional Drive sync", "Mẫu bảng, sao lưu và đồng bộ Drive tùy chọn"),
-          text("One-time Pro, no subscription", "Pro mua một lần, không thuê bao"),
-        ],
-        source: "Owner-supplied Handy-Website-Kit/handy-boards, prepared 2026-11-09 from ac4858ff. Owner confirms complete. Android closed testing 1.0.0 (3); timeline/category/template-field changes are labelled as next-update previews.",
-      } : {}),
+      ...(slug === "boards"
+        ? {
+            completion: "complete" as const,
+            featured: true,
+            accent: "#A61C8E",
+            platforms: ["Android"],
+            image:
+              "/products/handy-boards/kit/highlights/02-board-desktop-en.webp",
+            icon: "/products/handy-boards/kit/brand/icon/icon-rounded-1024.webp",
+            description: text(
+              "Kanban boards for school, home and projects. Categories, subtasks, reminders and templates. Offline, no account, no ads; optional one-time Pro.",
+              "Bảng Kanban cho việc học, việc nhà và dự án. Nhóm, việc con, nhắc nhở và mẫu bảng. Ngoại tuyến, không tài khoản, không quảng cáo; Pro tùy chọn mua một lần.",
+            ),
+            features: [
+              text("Boards, columns and cards", "Bảng, cột và thẻ"),
+              text(
+                "Categories, subtasks and reminders",
+                "Nhóm, việc con và nhắc nhở",
+              ),
+              text(
+                "Templates, backups and optional Drive sync",
+                "Mẫu bảng, sao lưu và đồng bộ Drive tùy chọn",
+              ),
+              text(
+                "One-time Pro, no subscription",
+                "Pro mua một lần, không thuê bao",
+              ),
+            ],
+            source:
+              "Owner-supplied Handy-Website-Kit/handy-boards, prepared 2026-11-09 from ac4858ff. Owner confirms complete. Android closed testing 1.0.0 (3); timeline/category/template-field changes are labelled as next-update previews.",
+          }
+        : {}),
+      ...(slug === "habit"
+        ? {
+            completion: "complete" as const,
+            featured: true,
+            accent: "#B42318",
+            platforms: ["Android"],
+            image:
+              "/products/handy-habit/kit/screenshots/desktop/desktop-en-01-today.webp",
+            icon: "/products/handy-habit/kit/brand/icon/icon-rounded-1024.webp",
+            mediaKind: "screenshot" as const,
+            description: text(
+              "Habits as bead strings, routines step by step. Check in from your Android home screen. No account, works offline; optional one-time Pro.",
+              "Thói quen thành chuỗi hạt, quy trình từng bước. Ghi nhận ngay trên màn hình chính Android. Không tài khoản, không cần mạng; Pro tùy chọn trả một lần.",
+            ),
+            features: [
+              text(
+                "One-tap check-ins and habits to cut down",
+                "Ghi nhận một chạm và thói quen muốn bớt",
+              ),
+              text(
+                "Step-by-step routines with a timer ring",
+                "Quy trình từng bước với vòng đếm giờ",
+              ),
+              text(
+                "Yearly heatmaps and Android widgets",
+                "Bản đồ nhiệt cả năm và widget Android",
+              ),
+              text(
+                "Local backups and optional Google Drive sync",
+                "Sao lưu trên máy và đồng bộ Google Drive tùy chọn",
+              ),
+            ],
+            source:
+              "Owner-supplied Handy-Suite/website-kit/handy-habit (2026-11-11). Owner confirms complete; Android 1.0.0 build 5 is in closed testing. Supplied privacy, terms, 184 host UI renders, captions, brand and EN/VI copy are authoritative.",
+          }
+        : {}),
     }),
   ),
   product({
@@ -430,7 +487,9 @@ export const products: Product[] = [
   }),
 ];
 
-export const featuredProducts = products.filter((p) => p.featured && p.status !== "hidden");
+export const featuredProducts = products.filter(
+  (p) => p.featured && p.status !== "hidden",
+);
 export const getProduct = (slug: string) =>
   products.find((p) => p.slug === slug && p.status !== "hidden");
 export const productPath = (p: Product, locale: string) =>

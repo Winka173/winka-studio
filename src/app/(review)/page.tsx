@@ -12,6 +12,7 @@ import "@/styles/product-guide.css";
 import "@/styles/website-kits.css";
 import "@/styles/workbench.css";
 import "@/styles/boards.css";
+import "@/styles/habit.css";
 export const metadata: Metadata = {
   title: "Winka Studio — Một studio. Nhiều thế giới.",
   description: "Ứng dụng hữu ích và thế giới game mang dấu ấn Winka.",

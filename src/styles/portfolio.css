@@ -16,7 +16,7 @@
 .site.site--atelier[data-preference="light"],
 .site[class*="site--folio-"][data-preference="light"]:not(
     .site--folio-bookmark
-  ):not(.site--folio-sticky):not(.site--folio-boards) {
+  ):not(.site--folio-sticky):not(.site--folio-boards):not(.site--folio-habit) {
   --scheme: light;
   --bg: #efeee7;
   --surface: #e2e0d8;

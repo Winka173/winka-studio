@@ -8,6 +8,7 @@ import { websiteKits } from "@/content/website-kits";
 import { MediaGallery } from "./gallery";
 import { KitFilmShelf } from "./kit-film-shelf";
 import { BoardsUpdateNote } from "../boards-update-note";
+import { HabitGallery } from "./habit-capture";
 
 export function MediaLibrary({
   product,
@@ -26,28 +27,42 @@ export function MediaLibrary({
         <h1>{vi ? "Mở từng góc nhìn." : "Open every view."}</h1>
         <p>
           {vi
-            ? "Toàn bộ ảnh và clip đã nhập từ sản phẩm. Lọc theo màn hình, mở ảnh lớn hoặc chọn clip để xem thao tác."
-            : "The complete imported product captures. Filter by screen, enlarge a picture or choose a clip to see the interaction."}
+            ? product.slug === "handy-habit"
+              ? "Toàn bộ ảnh giao diện Handy Habit, với dữ liệu minh họa. Lọc theo màn hình, đổi sáng/tối và mở ảnh lớn. Ảnh widget là bản xem trước trong app, không phải ảnh launcher."
+              : "Toàn bộ ảnh và clip đã nhập từ sản phẩm. Lọc theo màn hình, mở ảnh lớn hoặc chọn clip để xem thao tác."
+            : product.slug === "handy-habit"
+              ? "All Handy Habit UI renders, with demonstration data. Filter by screen, switch light/dark and open full-size captures. Widget images are in-app previews, not launcher captures."
+              : "The complete imported product captures. Filter by screen, enlarge a picture or choose a clip to see the interaction."}
         </p>
-        {product.slug === "handy-boards" && <BoardsUpdateNote locale={locale} />}
+        {product.slug === "handy-boards" && (
+          <BoardsUpdateNote locale={locale} />
+        )}
         <Link href={productPath(product, locale)} className="folio-text-link">
           {vi ? "Về trang giới thiệu" : "Back to the product"}
           <ArrowUpRight size={18} />
         </Link>
       </header>
-      {websiteKits[product.slug] && (
+      {websiteKits[product.slug]?.clips.length > 0 && (
         <KitFilmShelf slug={product.slug} locale={locale} />
       )}
-      <MediaGallery
-        items={mediaFor(product.slug, locale)}
-        locale={locale}
-        name={product.name}
-        creditsHref={
-          websiteKits[product.slug]
-            ? `${productPath(product, locale)}credits/`
-            : undefined
-        }
-      />
+      {product.slug === "handy-habit" ? (
+        <HabitGallery
+          items={mediaFor(product.slug, locale)}
+          locale={locale}
+          initialLimit={6}
+        />
+      ) : (
+        <MediaGallery
+          items={mediaFor(product.slug, locale)}
+          locale={locale}
+          name={product.name}
+          creditsHref={
+            websiteKits[product.slug]
+              ? `${productPath(product, locale)}credits/`
+              : undefined
+          }
+        />
+      )}
     </main>
   );
 }
@@ -67,8 +82,12 @@ export function MediaLibraryLink({
       <span>
         <small>
           {locale === "vi"
-            ? "ẢNH PC, ĐIỆN THOẠI & CLIP"
-            : "PC, PHONE CAPTURES & FILMS"}
+            ? product.slug === "handy-habit"
+              ? "ẢNH ĐIỆN THOẠI & BỐ CỤC MÀN HÌNH LỚN"
+              : "ẢNH PC, ĐIỆN THOẠI & CLIP"
+            : product.slug === "handy-habit"
+              ? "PHONE & WIDE-SCREEN UI CAPTURES"
+              : "PC, PHONE CAPTURES & FILMS"}
         </small>
         <strong>
           {locale === "vi"

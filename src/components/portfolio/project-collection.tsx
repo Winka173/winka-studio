@@ -10,6 +10,20 @@ import { getProduct } from "@/content/products";
 
 const projects = [
   {
+    slug: "handy-habit",
+    name: "Handy Habit",
+    kind: "apps",
+    category: "HABITS / ROUTINES / A LITTLE EVERY DAY",
+    image: getProduct("handy-habit")!.image!,
+    detail: null,
+    en: "Small things, kept. One bead a day.",
+    vi: "Việc nhỏ, giữ đều. Mỗi ngày một hạt.",
+    description: {
+      en: "Check in with a bead, run routines step by step and look back on a year in your colours. Android, offline, with optional one-time Pro.",
+      vi: "Chạm một hạt để ghi nhận, chạy quy trình từng bước và nhìn lại cả năm theo màu của bạn. Android, dùng ngoại tuyến, Pro tùy chọn trả một lần.",
+    },
+  },
+  {
     slug: "handy-bookmark",
     name: "Handy Bookmark",
     kind: "apps",
@@ -96,21 +110,25 @@ export function ProjectCollection({ locale }: { locale: Locale }) {
       <div className="project-case-list">
         {projects.map((p, i) => {
           const image =
-            p.slug === "handy-bookmark"
-              ? bookmarkScreen("02-home-item-open", locale, "desktop")
-              : p.slug === "sticky-wall"
-                ? stickyScreen("01_wall_home", locale, "desktop")
-                : p.slug === "handy-boards"
-                  ? `/products/handy-boards/kit/highlights/02-board-desktop-${locale}.webp`
-                : p.slug === "arcane-brigade"
-                  ? mediaImage(p.slug, "fight-03-late-night-a", locale)!
-                  : p.image;
+            p.slug === "handy-habit"
+              ? `/products/handy-habit/kit/screenshots/desktop/desktop-${locale}-01-today.webp`
+              : p.slug === "handy-bookmark"
+                ? bookmarkScreen("02-home-item-open", locale, "desktop")
+                : p.slug === "sticky-wall"
+                  ? stickyScreen("01_wall_home", locale, "desktop")
+                  : p.slug === "handy-boards"
+                    ? `/products/handy-boards/kit/highlights/02-board-desktop-${locale}.webp`
+                    : p.slug === "arcane-brigade"
+                      ? mediaImage(p.slug, "fight-03-late-night-a", locale)!
+                      : p.image;
           const detail =
-            p.slug === "handy-bookmark"
-              ? bookmarkScreen("01-home", locale)
-              : p.slug === "sticky-wall"
-                ? stickyScreen("01_wall_home", locale)
-                : null;
+            p.slug === "handy-habit"
+              ? `/products/handy-habit/kit/highlights/01-today-${locale}.webp`
+              : p.slug === "handy-bookmark"
+                ? bookmarkScreen("01-home", locale)
+                : p.slug === "sticky-wall"
+                  ? stickyScreen("01_wall_home", locale)
+                  : null;
           return (
             <article
               id={`work-${p.slug}`}
@@ -124,8 +142,12 @@ export function ProjectCollection({ locale }: { locale: Locale }) {
                 </span>
                 <span className="project-case-status">
                   {getProduct(p.slug)?.completion === "complete"
-                    ? vi ? "ĐÃ HOÀN THIỆN" : "COMPLETED"
-                    : vi ? "ĐANG PHÁT TRIỂN" : "IN DEVELOPMENT"}
+                    ? vi
+                      ? "ĐÃ HOÀN THIỆN"
+                      : "COMPLETED"
+                    : vi
+                      ? "ĐANG PHÁT TRIỂN"
+                      : "IN DEVELOPMENT"}
                 </span>
               </div>
               <div className="project-case-layout portfolio-wrap">

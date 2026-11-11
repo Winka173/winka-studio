@@ -13773,5 +13773,3133 @@
     "pro": false,
     "theme": "light",
     "newInNextUpdate": false
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-01-today",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-01-today.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-01-today.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-01-today",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-01-today.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-01-today.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-01-today",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-01-today.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-01-today.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-01-today",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-01-today.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-01-today.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-01-today",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-01-today.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-01-today.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-01-today",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-01-today.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-01-today.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-01-today",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-01-today.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-01-today.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-01-today",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-01-today.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Today with bead strings and mood faces",
+      "vi": "Hôm nay với chuỗi hạt và khuôn mặt tâm trạng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-01-today.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-23-widgets.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-23-widgets.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-23-widgets.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-23-widgets.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-23-widgets.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-23-widgets.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-23-widgets.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-23-widgets.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-23-widgets.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-23-widgets.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-23-widgets.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-23-widgets.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-23-widgets.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-23-widgets.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-23-widgets",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-23-widgets.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Home-screen widgets (previews)",
+      "vi": "Widget màn hình chính (xem trước)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-23-widgets.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-09-runner.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-09-runner.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-09-runner.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-09-runner.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-09-runner.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-09-runner.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-09-runner.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-09-runner.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-09-runner.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-09-runner.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-09-runner.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-09-runner.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-09-runner.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-09-runner.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-09-runner",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-09-runner.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routine runner with a timer ring",
+      "vi": "Màn chạy quy trình với vòng đếm giờ"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-09-runner.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-11-progress-year.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-11-progress-year.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-11-progress-year.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-11-progress-year.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-11-progress-year.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-11-progress-year.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-11-progress-year.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-11-progress-year.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-11-progress-year.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-11-progress-year.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-11-progress-year.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-11-progress-year.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-11-progress-year.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-11-progress-year.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-11-progress-year",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-11-progress-year.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, yearly heatmap",
+      "vi": "Tiến bộ, bản đồ nhiệt cả năm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-11-progress-year.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-03-habit-reduce.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-03-habit-reduce.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-03-habit-reduce.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-03-habit-reduce.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-03-habit-reduce.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-03-habit-reduce.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-03-habit-reduce.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-03-habit-reduce.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-03-habit-reduce.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-03-habit-reduce.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-03-habit-reduce.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-03-habit-reduce.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-03-habit-reduce.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-03-habit-reduce.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-03-habit-reduce",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-03-habit-reduce.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A habit to cut down, with its limit",
+      "vi": "Thói quen bớt dần, kèm giới hạn"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-03-habit-reduce.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-30-pro.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-30-pro.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-30-pro.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-30-pro.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-30-pro.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-30-pro.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-30-pro.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1013,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-30-pro.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-30-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2279,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-30-pro.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-30-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2279,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-30-pro.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-30-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2279,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-30-pro.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-30-pro",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-30-pro.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2279,
+    "title": {
+      "en": "Handy Habit Pro",
+      "vi": "Handy Habit Pro"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-30-pro.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-31-studio.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-31-studio.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-31-studio.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-31-studio.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-31-studio.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-31-studio.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-31-studio.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-31-studio.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-31-studio.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-31-studio.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-31-studio.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-31-studio.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-31-studio.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-31-studio.png",
+    "locale": "en",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-31-studio",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-31-studio.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Personalization studio",
+      "vi": "Xưởng giao diện"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-31-studio.png",
+    "locale": "vi",
+    "pro": true,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-02-habit.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-02-habit.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-04-habits.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-04-habits.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-05-quick-add.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-05-quick-add.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-06-templates.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-06-templates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-07-routines.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-07-routines.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-08-routine.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-08-routine.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-10-progress-month.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-10-progress-month.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-12-week-review.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-12-week-review.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-20-settings.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-20-settings.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-21-notifications.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-21-notifications.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-22-defaults.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-22-defaults.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-24-how-to.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-24-how-to.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-25-how-to-topic.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-25-how-to-topic.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-50-welcome-1.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-50-welcome-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-50-welcome-2.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-50-welcome-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-en-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-en-50-welcome-3.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-en-50-welcome-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-02-habit.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-02-habit.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-04-habits.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-04-habits.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-05-quick-add.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-05-quick-add.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-06-templates.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-06-templates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-07-routines.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-07-routines.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-08-routine.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-08-routine.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-10-progress-month.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-10-progress-month.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-12-week-review.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-12-week-review.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-20-settings.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-20-settings.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-21-notifications.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-21-notifications.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-22-defaults.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-22-defaults.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-24-how-to.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-24-how-to.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-25-how-to-topic.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-25-how-to-topic.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-50-welcome-1.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-50-welcome-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-50-welcome-2.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-50-welcome-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-dark-vi-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-dark-vi-50-welcome-3.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-dark-vi-50-welcome-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-02-habit.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-02-habit.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-04-habits.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-04-habits.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-05-quick-add.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-05-quick-add.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-06-templates.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-06-templates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-07-routines.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-07-routines.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-08-routine.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-08-routine.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-10-progress-month.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-10-progress-month.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-12-week-review.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-12-week-review.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-20-settings.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-20-settings.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-21-notifications.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-21-notifications.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-22-defaults.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-22-defaults.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-24-how-to.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-24-how-to.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-25-how-to-topic.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-25-how-to-topic.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-50-welcome-1.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-50-welcome-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-50-welcome-2.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-50-welcome-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-en-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-en-50-welcome-3.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-en-50-welcome-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-02-habit.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-02-habit.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-04-habits.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-04-habits.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-05-quick-add.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-05-quick-add.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-06-templates.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-06-templates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-07-routines.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-07-routines.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-08-routine.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-08-routine.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-10-progress-month.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-10-progress-month.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-12-week-review.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-12-week-review.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-20-settings.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-20-settings.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-21-notifications.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-21-notifications.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-22-defaults.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-22-defaults.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-24-how-to.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-24-how-to.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-25-how-to-topic.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-25-how-to-topic.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-50-welcome-1.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-50-welcome-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-50-welcome-2.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-50-welcome-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "desktop-vi-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/desktop/desktop-vi-50-welcome-3.webp",
+    "device": "desktop",
+    "width": 1800,
+    "height": 1125,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\desktop\\desktop-vi-50-welcome-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-02-habit.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-02-habit.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-04-habits.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-04-habits.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-05-quick-add.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-05-quick-add.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-06-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-06-templates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-07-routines.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-07-routines.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-08-routine.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-08-routine.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-10-progress-month.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-10-progress-month.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-12-week-review.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-12-week-review.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-20-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-20-settings.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-21-notifications.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-21-notifications.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-22-defaults.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-22-defaults.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-24-how-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-24-how-to.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-25-how-to-topic.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-25-how-to-topic.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-50-welcome-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-50-welcome-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-50-welcome-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-50-welcome-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-en-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-en-50-welcome-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-en-50-welcome-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-02-habit.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-02-habit.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-04-habits.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-04-habits.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-05-quick-add.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-05-quick-add.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-06-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-06-templates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-07-routines.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-07-routines.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-08-routine.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-08-routine.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-10-progress-month.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-10-progress-month.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-12-week-review.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-12-week-review.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-20-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-20-settings.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-21-notifications.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-21-notifications.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-22-defaults.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-22-defaults.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-24-how-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-24-how-to.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-25-how-to-topic.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-25-how-to-topic.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-50-welcome-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-50-welcome-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-50-welcome-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-50-welcome-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-dark-vi-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-dark-vi-50-welcome-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-dark-vi-50-welcome-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "dark"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-02-habit.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-02-habit.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-04-habits.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-04-habits.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-05-quick-add.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-05-quick-add.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-06-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-06-templates.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-07-routines.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-07-routines.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-08-routine.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-08-routine.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-10-progress-month.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-10-progress-month.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-12-week-review.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-12-week-review.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-20-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-20-settings.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-21-notifications.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-21-notifications.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-22-defaults.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-22-defaults.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-24-how-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-24-how-to.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-25-how-to-topic.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-25-how-to-topic.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-50-welcome-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-50-welcome-1.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-50-welcome-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-50-welcome-2.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-en-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-en-50-welcome-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-en-50-welcome-3.png",
+    "locale": "en",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-02-habit",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-02-habit.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "One habit: today, streaks, month calendar",
+      "vi": "Một thói quen: hôm nay, chuỗi, lịch tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-02-habit.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-04-habits",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-04-habits.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "All habits, grouped",
+      "vi": "Tất cả thói quen, theo nhóm"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-04-habits.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-05-quick-add",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-05-quick-add.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "New habit: type a name or tap a starter",
+      "vi": "Thói quen mới: gõ tên hoặc chạm một gợi ý"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-05-quick-add.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-06-templates",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-06-templates.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Template gallery (44 habits)",
+      "vi": "Kho mẫu (44 thói quen)"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-06-templates.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-07-routines",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-07-routines.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Routines, Today and other days",
+      "vi": "Quy trình, hôm nay và ngày khác"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-07-routines.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-08-routine",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-08-routine.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A routine with numbered steps",
+      "vi": "Một quy trình với các bước đánh số"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-08-routine.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-10-progress-month",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-10-progress-month.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Progress, month",
+      "vi": "Tiến bộ, theo tháng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-10-progress-month.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-12-week-review",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-12-week-review.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Look back at the week",
+      "vi": "Nhìn lại tuần"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-12-week-review.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-20-settings",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-20-settings.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Settings",
+      "vi": "Cài đặt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-20-settings.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-21-notifications",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-21-notifications.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Notifications and reminders",
+      "vi": "Thông báo và lời nhắc"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-21-notifications.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-22-defaults",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-22-defaults.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Defaults and calendar",
+      "vi": "Mặc định và lịch"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-22-defaults.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-24-how-to",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-24-how-to.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "How to use",
+      "vi": "Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-24-how-to.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-25-how-to-topic",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-25-how-to-topic.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "A How to use topic",
+      "vi": "Một chủ đề trong Cách dùng"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-25-how-to-topic.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-50-welcome-1",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-50-welcome-1.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: good intentions",
+      "vi": "Giới thiệu: ý định tốt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-50-welcome-1.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-50-welcome-2",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-50-welcome-2.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: beads",
+      "vi": "Giới thiệu: chuỗi hạt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-50-welcome-2.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
+  },
+  {
+    "slug": "handy-habit",
+    "id": "mobile-vi-50-welcome-3",
+    "src": "/products/handy-habit/kit/screenshots/mobile/mobile-vi-50-welcome-3.webp",
+    "device": "mobile",
+    "width": 1170,
+    "height": 2532,
+    "title": {
+      "en": "Welcome: a practice day",
+      "vi": "Giới thiệu: ngày tập dượt"
+    },
+    "kind": "kit-source-render",
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit\\screenshots\\mobile\\mobile-vi-50-welcome-3.png",
+    "locale": "vi",
+    "pro": false,
+    "theme": "light"
   }
 ]

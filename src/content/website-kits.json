@@ -1403,5 +1403,306 @@
         "terms": "# Terms of Service · Điều khoản dịch vụ\n\n**Handy Boards** — last updated 8 November 2026 · cập nhật 08/11/2026\n\nCác điều khoản này áp dụng cho ứng dụng Handy Boards của Winka Studio. Khi\ndùng app, bạn đồng ý với chúng.\n\n### Ứng dụng\n\n- Handy Boards giữ bảng, thẻ và ảnh trên máy của bạn, giúp bạn lên kế hoạch\n  và làm xong việc. App không có tài khoản và không có máy chủ riêng.\n- Các tính năng miễn phí dùng được mà không phải trả tiền.\n- Những gì app giữ và gửi đi được nêu trong\n  [Chính sách quyền riêng tư](https://winka.top/vi/apps/handy-boards/privacy/).\n\n### Handy Boards Pro\n\n- Pro là gói mua một lần trong app qua Google Play. Không phải gói thuê bao;\n  không có gì phải gia hạn hay huỷ.\n- Giá là giá Google Play hiện trước khi bạn mua, theo đơn vị tiền của bạn.\n- Pro gắn với tài khoản Google đã mua. Cài lại app, hoặc dùng trên máy khác\n  với cùng tài khoản, sẽ khôi phục được (Cài đặt › Nâng cấp Pro ›\n  Khôi phục).\n- Thanh toán và hoàn tiền do Google Play xử lý theo điều khoản và chính sách\n  hoàn tiền của Google Play. Nếu luật nước bạn cho bạn thêm quyền, các quyền\n  đó vẫn được áp dụng.\n\n### Nội dung của bạn\n\n- Những gì bạn viết và thêm vào là của bạn. Bạn chịu trách nhiệm về chúng và\n  tôn trọng quyền của người khác với ảnh và chữ bạn thêm.\n- Các bảng nằm trên máy của bạn. Hãy sao lưu (Cài đặt › Dữ liệu): nếu mất máy\n  hoặc gỡ app, dữ liệu chưa sao lưu không khôi phục được, vì chúng tôi không\n  giữ bản nào.\n\n### Sử dụng đúng mực\n\nKhông dùng app để vi phạm pháp luật, xâm phạm quyền của người khác, hoặc gây\nhại cho người khác.\n\n### Không bảo đảm\n\nApp được cung cấp như hiện có. Chúng tôi cố gắng để app đúng và an toàn nhưng\nkhông thể hứa app luôn chạy, hoặc không có lỗi. Trong phạm vi pháp luật cho phép, chúng tôi không chịu trách\nnhiệm về dữ liệu bị mất hay thiệt hại gián tiếp do việc sử dụng app. Không\nđiều nào ở đây hạn chế các quyền của bạn theo luật bảo vệ người tiêu dùng mà\nkhông thể loại trừ.\n\n### Thay đổi\n\nCác điều khoản này có thể thay đổi cùng app. Bản mới sẽ được đăng tại cùng\nđịa chỉ và ngày cập nhật ở trên sẽ đổi theo.\n\n### Liên hệ\n\nCâu hỏi: mở một issue tại <https://github.com/Winka173/Handy-Suite/issues>\nhoặc viết thư tới apps.winka.studio@gmail.com."
       }
     }
+  },
+  "handy-habit": {
+    "source": "C:\\Users\\Winka\\Projects\\Handy-Suite\\website-kit\\handy-habit",
+    "assets": {
+      "highlights/01-today-dark-en.png": "/products/handy-habit/kit/highlights/01-today-dark-en.webp",
+      "highlights/01-today-dark-vi.png": "/products/handy-habit/kit/highlights/01-today-dark-vi.webp",
+      "highlights/01-today-en.png": "/products/handy-habit/kit/highlights/01-today-en.webp",
+      "highlights/01-today-vi.png": "/products/handy-habit/kit/highlights/01-today-vi.webp",
+      "highlights/02-habit-dark-en.png": "/products/handy-habit/kit/highlights/02-habit-dark-en.webp",
+      "highlights/02-habit-dark-vi.png": "/products/handy-habit/kit/highlights/02-habit-dark-vi.webp",
+      "highlights/02-habit-en.png": "/products/handy-habit/kit/highlights/02-habit-en.webp",
+      "highlights/02-habit-vi.png": "/products/handy-habit/kit/highlights/02-habit-vi.webp",
+      "highlights/03-runner-dark-en.png": "/products/handy-habit/kit/highlights/03-runner-dark-en.webp",
+      "highlights/03-runner-dark-vi.png": "/products/handy-habit/kit/highlights/03-runner-dark-vi.webp",
+      "highlights/03-runner-en.png": "/products/handy-habit/kit/highlights/03-runner-en.webp",
+      "highlights/03-runner-vi.png": "/products/handy-habit/kit/highlights/03-runner-vi.webp",
+      "highlights/04-routine-dark-en.png": "/products/handy-habit/kit/highlights/04-routine-dark-en.webp",
+      "highlights/04-routine-dark-vi.png": "/products/handy-habit/kit/highlights/04-routine-dark-vi.webp",
+      "highlights/04-routine-en.png": "/products/handy-habit/kit/highlights/04-routine-en.webp",
+      "highlights/04-routine-vi.png": "/products/handy-habit/kit/highlights/04-routine-vi.webp",
+      "highlights/05-year-dark-en.png": "/products/handy-habit/kit/highlights/05-year-dark-en.webp",
+      "highlights/05-year-dark-vi.png": "/products/handy-habit/kit/highlights/05-year-dark-vi.webp",
+      "highlights/05-year-en.png": "/products/handy-habit/kit/highlights/05-year-en.webp",
+      "highlights/05-year-vi.png": "/products/handy-habit/kit/highlights/05-year-vi.webp",
+      "highlights/06-quick-add-dark-en.png": "/products/handy-habit/kit/highlights/06-quick-add-dark-en.webp",
+      "highlights/06-quick-add-dark-vi.png": "/products/handy-habit/kit/highlights/06-quick-add-dark-vi.webp",
+      "highlights/06-quick-add-en.png": "/products/handy-habit/kit/highlights/06-quick-add-en.webp",
+      "highlights/06-quick-add-vi.png": "/products/handy-habit/kit/highlights/06-quick-add-vi.webp",
+      "highlights/07-widgets-dark-en.png": "/products/handy-habit/kit/highlights/07-widgets-dark-en.webp",
+      "highlights/07-widgets-dark-vi.png": "/products/handy-habit/kit/highlights/07-widgets-dark-vi.webp",
+      "highlights/07-widgets-en.png": "/products/handy-habit/kit/highlights/07-widgets-en.webp",
+      "highlights/07-widgets-vi.png": "/products/handy-habit/kit/highlights/07-widgets-vi.webp",
+      "highlights/08-settings-dark-en.png": "/products/handy-habit/kit/highlights/08-settings-dark-en.webp",
+      "highlights/08-settings-dark-vi.png": "/products/handy-habit/kit/highlights/08-settings-dark-vi.webp",
+      "highlights/08-settings-en.png": "/products/handy-habit/kit/highlights/08-settings-en.webp",
+      "highlights/08-settings-vi.png": "/products/handy-habit/kit/highlights/08-settings-vi.webp",
+      "highlights/09-pro-dark-en.png": "/products/handy-habit/kit/highlights/09-pro-dark-en.webp",
+      "highlights/09-pro-dark-vi.png": "/products/handy-habit/kit/highlights/09-pro-dark-vi.webp",
+      "highlights/09-pro-en.png": "/products/handy-habit/kit/highlights/09-pro-en.webp",
+      "highlights/09-pro-vi.png": "/products/handy-habit/kit/highlights/09-pro-vi.webp",
+      "highlights/10-week-review-dark-en.png": "/products/handy-habit/kit/highlights/10-week-review-dark-en.webp",
+      "highlights/10-week-review-dark-vi.png": "/products/handy-habit/kit/highlights/10-week-review-dark-vi.webp",
+      "highlights/10-week-review-en.png": "/products/handy-habit/kit/highlights/10-week-review-en.webp",
+      "highlights/10-week-review-vi.png": "/products/handy-habit/kit/highlights/10-week-review-vi.webp",
+      "brand/icon/icon-1024.png": "/products/handy-habit/kit/brand/icon/icon-1024.webp",
+      "brand/icon/icon-192.png": "/products/handy-habit/kit/brand/icon/icon-192.webp",
+      "brand/icon/icon-512.png": "/products/handy-habit/kit/brand/icon/icon-512.webp",
+      "brand/icon/icon-maskable-1024.png": "/products/handy-habit/kit/brand/icon/icon-maskable-1024.webp",
+      "brand/icon/icon-maskable-192.png": "/products/handy-habit/kit/brand/icon/icon-maskable-192.webp",
+      "brand/icon/icon-maskable-512.png": "/products/handy-habit/kit/brand/icon/icon-maskable-512.webp",
+      "brand/icon/icon-rounded-1024.png": "/products/handy-habit/kit/brand/icon/icon-rounded-1024.webp",
+      "brand/favicon/android-chrome-192.png": "/products/handy-habit/kit/brand/favicon/android-chrome-192.webp",
+      "brand/favicon/android-chrome-512.png": "/products/handy-habit/kit/brand/favicon/android-chrome-512.webp",
+      "brand/favicon/apple-touch-icon-180.png": "/products/handy-habit/kit/brand/favicon/apple-touch-icon-180.webp",
+      "brand/favicon/favicon-128.png": "/products/handy-habit/kit/brand/favicon/favicon-128.webp",
+      "brand/favicon/favicon-16.png": "/products/handy-habit/kit/brand/favicon/favicon-16.webp",
+      "brand/favicon/favicon-256.png": "/products/handy-habit/kit/brand/favicon/favicon-256.webp",
+      "brand/favicon/favicon-32.png": "/products/handy-habit/kit/brand/favicon/favicon-32.webp",
+      "brand/favicon/favicon-48.png": "/products/handy-habit/kit/brand/favicon/favicon-48.webp",
+      "brand/favicon/favicon-64.png": "/products/handy-habit/kit/brand/favicon/favicon-64.webp",
+      "brand/feature-graphic/feature-graphic-en.png": "/products/handy-habit/kit/brand/feature-graphic/feature-graphic-en.webp",
+      "brand/feature-graphic/feature-graphic-vi.png": "/products/handy-habit/kit/brand/feature-graphic/feature-graphic-vi.webp",
+      "brand/social/og-1200x630-en.png": "/products/handy-habit/kit/brand/social/og-1200x630-en.webp",
+      "brand/social/og-1200x630-vi.png": "/products/handy-habit/kit/brand/social/og-1200x630-vi.webp",
+      "brand/social/square-1080-en.png": "/products/handy-habit/kit/brand/social/square-1080-en.webp",
+      "brand/social/square-1080-vi.png": "/products/handy-habit/kit/brand/social/square-1080-vi.webp",
+      "icon": "/products/handy-habit/kit/brand/icon/icon-rounded-1024.webp",
+      "og-en": "/products/handy-habit/kit/brand/social/og-1200x630-en.webp",
+      "og-vi": "/products/handy-habit/kit/brand/social/og-1200x630-vi.webp"
+    },
+    "clips": [],
+    "pages": {
+      "en": {
+        "features": "## Today\n- Habits as **bead strings**: each habit shows its last six days as beads and, at the end, **today's bead**. One tap on it checks in; **Undo** is in the message that appears.\n- Habits are grouped by **morning, afternoon, evening and any time**, and by collection on the habits page.\n- A habit can be done-or-not, a **number of times**, **minutes** or an **amount** (pages, glasses, km). Counted habits fill their bead as a ring; minutes and amounts ask how much, with the rest of the target one tap away.\n- A header shows the day: \"1 of 3 kept\" in a ring, and the date. A missed day is a **hollow bead, never a red mark**.\n- **Mood in one tap**: five faces on Today; one tap saves it, the pencil opens energy, a note and tags.\n- Routines planned for today sit under the habits with Start or Resume.\n- A new habit or routine is **two taps**: New habit → type a name or tap a starter → the editor opens filled in.\n\n## Habits you want to cut down\n- Choose **Break a habit**: fewer sugary drinks, less late-night snacking, less phone.\n- A limit per day or per week, or \"none at all\". One tap logs one time; \"None today\" records an explicit zero. Going over is shown calmly and tomorrow is a fresh start; blank days are never counted as success.\n\n## One habit\n- Today first (progress, the bead string, today's bead), then streak, longest, \"done x of y\".\n- A **month calendar in the habit's colour**; tap a day within the allowed window (up to 90 days back by default) to fill it in. A list view for narrow screens.\n- Schedules (every day, some weekdays, days a week, every few days), a start and end date, a group, a priority, a note.\n- **Icon and colour** from a sheet; a **reminder** with a time right in the editor.\n- History of what was recorded, one row per day.\n\n## Pauses\n- **Days off** for everything or for some habits. They are not missed, keep your streaks and send no reminders. Add them in Settings › Pauses; Today says \"Paused until Thursday\" and offers End early.\n\n## Routines (`07-routines`, `08-routine`, `09-runner`)\n- Put steps in order with a time for each; choose weekdays and a start time.\n- The **runner** is full screen: the step's name, its clock in a **ring that fills over the planned time**, \"Up next\", one wide Done button, Pause and Skip. Leaving pauses the run; coming back resumes it. A summary at the end.\n- Steps can count for a habit: finishing the step checks the habit in.\n- **Share a routine** as one page any browser can read; **import** one a friend sends (Routines › New routine › Import). Only the routine travels; never your habits, records or mood.\n- 11 routine templates (morning, wind down, study, workout and more).\n- Pro: steps on selected weekdays, steps that fit the time left, steps that skip when their habit is done, **A or B** paths, dependencies, follow-a-habit, different minutes by weekday, reusable step blocks and saved plans.\n\n## Progress (`10-progress-month`, `11-progress-year`, `12-week-review`)\n- **Week, month, year**; a yearly heatmap in each habit's colour; current and longest streaks; honest consistency figures (\"6 of 7 days kept\"); a weekly look back with one small step.\n- Export a range as **CSV, Markdown or PDF**.\n- Pro: compare months, quarters or groups; difficulty and missed-weekday patterns; small goal suggestions you accept or dismiss; mood beside habits; focused heatmaps; a designed review on paper.\n\n## Mood\n- Optional. Five faces, then energy (1 to 5), a note and tags if you want. History in Progress; edit or delete; deleted entries can be restored. It never appears in notifications or widgets.\n\n## Home-screen widgets — Android\n- **Today** (up to five habits with their bead strings), **One habit**, **Routine** are free. **This week** and **16 weeks** are Pro; without Pro they show dimmed with a line saying so.\n- **Tap a bead on the home screen to check in**: it fills at once and the day is saved a moment later. Counts add one per tap; minutes, amounts, full or skipped days open the app.\n- New day starts by itself after midnight. Names can be hidden; mood and notes are never included. Add from Settings › Home-screen widgets.\n\n## Reminders\n- Per habit or routine, on the days it is planned; quiet hours; the lock screen does not show habit names by default; a \"Why didn't my reminder appear?\" page.\n\n## Templates\n- **44 habit templates** and **11 routine templates** in 13 collections (sleep, move, focus, reading, water, finance, less phone and more). Open one: the editor opens filled in; change anything before Save.\n\n## Your data\n- On your device, no account. **Backups**: ZIP, JSON, password-locked; restore with a preview and a recovery copy; CSV import.\n- **Back up automatically**: a copy a day when something changed, the last seven kept on the device.\n- **Trash** keeps deleted habits and routines 30 days.\n- **Google Drive sync** (optional, Android): to your own Drive's hidden app folder; off until you switch it on.\n\n## Look and language\n- **English and Vietnamese**; light, dark or follow the phone; compact or comfortable; follows the phone's reduce-motion setting.\n- Pro: personalization studio (palettes, Today layouts, extra icons, runner looks), rules (\"after my morning routine, add a glass of water\", with Undo) and batch changes with a preview.\n\n## Help\n- A short welcome with a **practice day that changes nothing** (`50-welcome-1`…), and **How to use** with eleven topics, each a sheet of numbered steps with pictures (`24-how-to`, `25-how-to-topic`).",
+        "press": "# Handy Habit: press kit (English)\n\n**Fact sheet**\n- Name: Handy Habit · Maker: Winka Studio · Contact: apps.winka.studio@gmail.com\n- Platform: Android (package `com.apps.winka.handyhabit`), Google Play closed testing. No iOS, Windows or web release.\n- Languages: English, Vietnamese · Themes: light, dark\n- Price: free; optional one-time Pro (no subscription). No account, no ads in this version, no analytics.\n- Version: 1.0.0 (build 5) · Category: Productivity\n\n**20 words:** Handy Habit turns good intentions into bead strings that fill day by day. Check in with one tap, even from your home screen.\n\n**60 words:** Handy Habit is an Android habit tracker built around one idea: a string of beads, one a day. Tap today's bead to check in, from the app or straight from a home-screen widget. Count glasses, pages or minutes, cut a habit down, run routines step by step with a timer ring. No account, works offline, your data stays on your phone.\n\n**150 words:** Good intentions fade: a sticky note to drink water, a reading streak dropped, a calendar left empty. Handy Habit turns them into bead strings that fill day by day. Today's bead is one tap away, in the app or on a home-screen widget that fills the moment you tap it. A missed day is a hollow bead, never a red mark; your longest streak and honest consistency still tell the story.\n\nBuild a habit or cut one down with a daily or weekly limit. Run routines full screen, with a timer ring, \"Up next\" and a summary, and share a routine with a friend as one page. See the week, month and year, with a yearly heatmap in each habit's colour.\n\nThere is no account and no server of ours: habits stay on the phone, with backups you control, a 30-day Trash and optional sync to your own Google Drive. English and Vietnamese, light and dark. Pro is one payment for extras; tracking and your data are always free.\n\n**Boilerplate:** Winka Studio makes small, calm, local-first apps and games. Handy Habit, Handy Boards and Handy Bookmark are part of the Handy family.\n\nNo reviews, ratings, user counts, awards or press quotes exist; none are claimed. Brand files: `brand/` (icon, favicon, feature graphic, social images, Nunito font).",
+        "comparison": "# Why Handy Habit / Vì sao chọn Handy Habit\n\nBy approach, not by naming other apps. / Theo cách làm, không nêu tên app khác.\n\n| If you want… / Nếu bạn muốn… | Handy Habit |\n|---|---|\n| A tracker that never scolds / Ứng dụng không quát bạn | A missed day is a hollow bead, never a red mark. · Ngày lỡ là hạt rỗng, không bao giờ là dấu đỏ. |\n| To check in without opening the app / Ghi nhận mà không mở app | Tap a bead on the home-screen widget; it fills at once. · Chạm một hạt trên widget; hạt lấp ngay. |\n| Counting, not only ticking / Đếm chứ không chỉ tick | Times, minutes, amounts, with a ring toward the goal. · Số lần, số phút, số lượng, có vòng tới mục tiêu. |\n| To cut something down / Bớt dần một thói quen | Limits per day or week, \"none today\", no shame. · Giới hạn theo ngày hay tuần, \"hôm nay không có\", không chê trách. |\n| Routines that run themselves / Quy trình tự chạy | A full-screen runner with a timer ring, and steps that check habits in. · Màn chạy toàn màn hình có vòng đếm giờ, bước ghi nhận thói quen. |\n| No account, no cloud by default / Không tài khoản, không đám mây mặc định | Everything on the phone; Drive sync is optional and goes to your own Drive. · Mọi thứ trên máy; đồng bộ Drive tuỳ chọn và vào Drive của chính bạn. |\n| One payment / Trả một lần | Pro is one payment, no subscription; tracking and data stay free. · Pro trả một lần, không thuê bao; ghi nhận và dữ liệu luôn miễn phí. |",
+        "credits": "Handy Habit by Winka Studio.\n\nImages are host renders of the real Flutter UI with disposable demonstration data at a fixed date (2 November 2026), not device captures. Wide-screen images show an Android layout, not a Windows or web release. Widget pictures are in-app previews, not launcher captures. Screens have been resized and converted to WebP; highlight transparency is preserved.\n\nNunito is bundled under the SIL Open Font License.",
+        "changelog": "## 1.0.0 (5) — 2026-11-11 (closed testing, draft)\n\nNew icon with today's checked bead in the middle of the ring. Share a routine as one page and import one a friend sends. Home-screen widgets: tap a bead to check in. Two-tap new habits and routines, a timer ring in the runner, mood in one tap. Clearer Settings, Pro and How to use.\n\n## 1.0.0 (4) — 2026-11-11 (closed testing, replaced by build 5)\n\n- Widgets, quick add, runner ring, mood in one tap; Settings, Pro and How to use rebuilt on the Handy Boards and Bookmark layout.\n\n## 1.0.0 (3) — 2026-11-11 (closed testing)\n\n- A new icon (the kept/due ring with today's checked bead), fixes from device testing, store graphics.\n\n## 1.0.0 (1)–(2) — 2026-11 (closed testing)\n\n- First builds: habits as bead strings, habits to cut down, routines with a runner, progress with a yearly heatmap, optional mood, backups and Google Drive sync."
+      },
+      "vi": {
+        "features": "## Hôm nay\n- Thói quen thành **chuỗi hạt**: mỗi thói quen hiện sáu ngày gần nhất bằng sáu hạt và cuối chuỗi là **hạt hôm nay**. Chạm một lần là ghi nhận; **Hoàn tác** nằm trong thông báo hiện ra.\n- Thói quen xếp theo **sáng, chiều, tối và bất kỳ lúc nào**, và theo nhóm ở trang Tất cả thói quen.\n- Một thói quen có thể là làm hoặc chưa, **số lần**, **số phút** hay **số lượng** (trang, ly, km). Loại đếm thì hạt đầy dần như một vòng; số phút và số lượng hỏi bao nhiêu, phần còn lại của mục tiêu chỉ một chạm.\n- Đầu trang cho thấy cả ngày: \"1/3 đã giữ\" trong một vòng, và ngày. Ngày lỡ là **hạt rỗng, không bao giờ là dấu đỏ**.\n- **Tâm trạng một chạm**: năm khuôn mặt ngay ở Hôm nay; chạm một lần là lưu, biểu tượng bút chì mở năng lượng, ghi chú và nhãn.\n- Quy trình có lịch hôm nay nằm dưới các thói quen, với nút Bắt đầu hoặc Tiếp tục.\n- Thói quen hay quy trình mới chỉ **hai chạm**: Thói quen mới → gõ tên hoặc chạm một gợi ý → màn sửa mở sẵn đã điền.\n\n## Thói quen muốn bớt\n- Chọn **Giảm thói quen**: ít nước ngọt, bớt ăn khuya, bớt điện thoại.\n- Giới hạn theo ngày hoặc theo tuần, hoặc \"không lần nào\". Một chạm ghi một lần; \"Hôm nay không có\" ghi rõ số 0. Vượt giới hạn hiện nhẹ nhàng và mai là ngày mới; ngày để trống không bao giờ tính là đạt.\n\n## Một thói quen\n- Hôm nay lên đầu (tiến độ, chuỗi hạt, hạt hôm nay), rồi chuỗi hiện tại, dài nhất, \"đã làm x/y\".\n- **Lịch tháng theo màu thói quen**; chạm một ngày trong khoảng cho phép (mặc định tới 90 ngày trước) để ghi bù. Có dạng danh sách cho màn hẹp.\n- Lịch (mỗi ngày, vài thứ, số ngày mỗi tuần, cách vài ngày), ngày bắt đầu và kết thúc, nhóm, ưu tiên, ghi chú.\n- **Biểu tượng và màu** chọn từ một bảng trượt; **nhắc việc** kèm giờ ngay trong màn sửa.\n- Lịch sử những gì đã ghi, mỗi ngày một dòng.\n\n## Kỳ nghỉ\n- **Ngày nghỉ** cho mọi thói quen hoặc vài thói quen. Không tính là lỡ, giữ chuỗi ngày và không nhắc. Thêm ở Cài đặt › Kỳ nghỉ; Hôm nay báo \"Đang nghỉ đến Thứ 5\" và có Kết thúc sớm.\n\n## Quy trình (`07-routines`, `08-routine`, `09-runner`)\n- Xếp các bước theo thứ tự, mỗi bước một thời lượng; chọn thứ trong tuần và giờ bắt đầu.\n- **Màn chạy** toàn màn hình: tên bước, đồng hồ trong một **vòng đầy dần theo thời gian dự kiến**, \"Tiếp theo\", một nút Xong to, Tạm dừng và Bỏ qua. Rời đi là tạm dừng; quay lại là chạy tiếp. Có tổng kết cuối phiên.\n- Bước có thể tính cho một thói quen: xong bước là thói quen được ghi nhận.\n- **Chia sẻ quy trình** dưới dạng một trang mở được bằng trình duyệt nào; **nhập** quy trình bạn bè gửi (Quy trình › Quy trình mới › Nhập). Chỉ quy trình đi theo; không bao giờ có thói quen, lần ghi hay tâm trạng.\n- 11 quy trình mẫu (buổi sáng, trước khi ngủ, học bài, tập luyện…).\n- Pro: bước theo thứ chọn, bước vừa với thời gian còn lại, bước tự bỏ khi thói quen đã xong, nhánh **A hoặc B**, phụ thuộc, nối sau thói quen, số phút khác nhau theo thứ, khối bước dùng lại và kế hoạch đã lưu.\n\n## Tiến bộ (`10-progress-month`, `11-progress-year`, `12-week-review`)\n- **Tuần, tháng, năm**; bản đồ nhiệt cả năm theo màu từng thói quen; chuỗi hiện tại và dài nhất; độ đều đặn trung thực (\"giữ được 6/7 ngày\"); nhìn lại tuần kèm một bước nhỏ.\n- Xuất một khoảng ra **CSV, Markdown hoặc PDF**.\n- Pro: so sánh các tháng, quý hay nhóm; nhịp khó và thứ hay lỡ; gợi ý chỉnh mục tiêu nhẹ nhàng để bạn nhận hay bỏ; tâm trạng cạnh thói quen; bản đồ nhiệt theo bộ lọc; bản xem lại để in.\n\n## Tâm trạng\n- Tuỳ chọn. Năm khuôn mặt, rồi năng lượng (1 đến 5), ghi chú và nhãn nếu muốn. Lịch sử ở Tiến bộ; sửa hoặc xoá; bản ghi đã xoá khôi phục được. Không bao giờ hiện trong thông báo hay widget.\n\n## Widget màn hình chính — Android\n- **Hôm nay** (tối đa năm thói quen kèm chuỗi hạt), **Một thói quen**, **Quy trình** miễn phí. **Tuần này** và **16 tuần** là Pro; chưa có Pro thì hiện mờ kèm một dòng nói rõ.\n- **Chạm một hạt ngoài màn hình chính là ghi nhận**: hạt lấp ngay, ngày được lưu ngay sau đó. Loại đếm cộng một mỗi chạm; số phút, số lượng, ngày đã đủ hay đã bỏ qua thì mở app.\n- Sang ngày mới tự vẽ lại sau nửa đêm. Có thể ẩn tên; tâm trạng và ghi chú không bao giờ có trong widget. Thêm từ Cài đặt › Widget màn hình chính.\n\n## Nhắc nhở\n- Theo từng thói quen hay quy trình, vào những ngày có lịch; giờ yên lặng; mặc định màn hình khoá không hiện tên thói quen; có trang \"Vì sao không thấy thông báo?\".\n\n## Mẫu\n- **44 mẫu thói quen** và **11 mẫu quy trình** trong 13 nhóm (ngủ, vận động, tập trung, đọc, uống nước, tài chính, bớt điện thoại…). Mở một mẫu là màn sửa mở sẵn đã điền; đổi gì cũng được trước khi Lưu.\n\n## Dữ liệu của bạn\n- Trên máy bạn, không tài khoản. **Sao lưu**: ZIP, JSON, khoá bằng mật khẩu; khôi phục có xem trước và bản dự phòng; nhập CSV.\n- **Tự sao lưu**: mỗi ngày một bản khi có thay đổi, giữ bảy bản gần nhất trên máy.\n- **Thùng rác** giữ thói quen và quy trình đã xoá 30 ngày.\n- **Đồng bộ Google Drive** (tuỳ chọn, Android): vào thư mục ẩn của app trong Drive của chính bạn; tắt cho tới khi bạn bật.\n\n## Giao diện và ngôn ngữ\n- **Tiếng Việt và tiếng Anh**; sáng, tối hoặc theo điện thoại; gọn hoặc thoải mái; theo cài đặt giảm chuyển động của điện thoại.\n- Pro: xưởng giao diện (bảng màu, bố cục Hôm nay, biểu tượng thêm, diện mạo màn chạy), quy tắc (\"sau quy trình buổi sáng, thêm một cốc nước\", có Hoàn tác) và thay đổi hàng loạt có xem trước.\n\n## Trợ giúp\n- Phần giới thiệu ngắn có **một ngày tập dượt không ghi gì thật** (`50-welcome-1`…), và **Cách dùng** với mười một chủ đề, mỗi chủ đề là một bảng các bước có hình (`24-how-to`, `25-how-to-topic`).",
+        "press": "# Handy Habit: bộ tài liệu báo chí (Tiếng Việt)\n\n**Thông tin nhanh**\n- Tên: Handy Habit · Nhà phát triển: Winka Studio · Liên hệ: apps.winka.studio@gmail.com\n- Nền tảng: Android (gói `com.apps.winka.handyhabit`), thử nghiệm kín trên Google Play. Chưa có iOS, Windows hay web.\n- Ngôn ngữ: tiếng Việt, tiếng Anh · Giao diện: sáng, tối\n- Giá: miễn phí; Pro trả một lần tuỳ chọn (không thuê bao). Không tài khoản, không quảng cáo ở phiên bản này, không thống kê.\n- Phiên bản: 1.0.0 (bản 5) · Danh mục: Năng suất\n\n**20 từ:** Handy Habit biến ý định tốt thành chuỗi hạt đầy dần mỗi ngày. Ghi nhận bằng một chạm, ngay cả từ màn hình chính.\n\n**60 từ:** Handy Habit là ứng dụng thói quen cho Android xoay quanh một ý tưởng: một chuỗi hạt, mỗi ngày một hạt. Chạm hạt hôm nay để ghi nhận, từ app hoặc ngay từ widget màn hình chính. Đếm ly nước, trang sách, số phút, bớt dần một thói quen, chạy quy trình từng bước với vòng đếm giờ. Không tài khoản, không cần mạng, dữ liệu ở trên máy bạn.\n\n**150 từ:** Ý định tốt rồi nhạt dần: tờ nhắc uống nước, chuỗi đọc sách bỏ dở, lịch còn trống. Handy Habit biến chúng thành chuỗi hạt đầy dần mỗi ngày. Hạt hôm nay chỉ cách một chạm, trong app hoặc trên widget màn hình chính lấp đầy ngay khi bạn chạm. Ngày lỡ là một hạt rỗng, không bao giờ là dấu đỏ; chuỗi dài nhất và độ đều đặn trung thực vẫn kể đúng hành trình.\n\nXây dựng thói quen hoặc bớt dần với giới hạn theo ngày hay tuần. Chạy quy trình toàn màn hình với vòng đếm giờ, \"Tiếp theo\" và tổng kết, và chia sẻ quy trình cho bạn bè dưới dạng một trang. Xem theo tuần, tháng, năm, với bản đồ nhiệt cả năm theo màu từng thói quen.\n\nKhông có tài khoản và không có máy chủ của chúng tôi: thói quen ở trên máy, với sao lưu do bạn giữ, Thùng rác 30 ngày và đồng bộ tuỳ chọn vào Google Drive của chính bạn. Tiếng Việt và tiếng Anh, sáng và tối. Pro là một lần trả cho phần thêm; ghi nhận và dữ liệu của bạn luôn miễn phí.\n\n**Giới thiệu chung:** Winka Studio làm các ứng dụng và trò chơi nhỏ, nhẹ nhàng, ưu tiên dữ liệu trên máy. Handy Habit, Handy Boards và Handy Bookmark thuộc họ Handy.\n\nKhông có đánh giá, xếp hạng, số người dùng, giải thưởng hay trích dẫn báo chí; không tuyên bố điều nào trong số đó. Tệp thương hiệu: `brand/` (icon, favicon, ảnh bìa, ảnh mạng xã hội, phông Nunito).",
+        "comparison": "# Why Handy Habit / Vì sao chọn Handy Habit\n\nBy approach, not by naming other apps. / Theo cách làm, không nêu tên app khác.\n\n| If you want… / Nếu bạn muốn… | Handy Habit |\n|---|---|\n| A tracker that never scolds / Ứng dụng không quát bạn | A missed day is a hollow bead, never a red mark. · Ngày lỡ là hạt rỗng, không bao giờ là dấu đỏ. |\n| To check in without opening the app / Ghi nhận mà không mở app | Tap a bead on the home-screen widget; it fills at once. · Chạm một hạt trên widget; hạt lấp ngay. |\n| Counting, not only ticking / Đếm chứ không chỉ tick | Times, minutes, amounts, with a ring toward the goal. · Số lần, số phút, số lượng, có vòng tới mục tiêu. |\n| To cut something down / Bớt dần một thói quen | Limits per day or week, \"none today\", no shame. · Giới hạn theo ngày hay tuần, \"hôm nay không có\", không chê trách. |\n| Routines that run themselves / Quy trình tự chạy | A full-screen runner with a timer ring, and steps that check habits in. · Màn chạy toàn màn hình có vòng đếm giờ, bước ghi nhận thói quen. |\n| No account, no cloud by default / Không tài khoản, không đám mây mặc định | Everything on the phone; Drive sync is optional and goes to your own Drive. · Mọi thứ trên máy; đồng bộ Drive tuỳ chọn và vào Drive của chính bạn. |\n| One payment / Trả một lần | Pro is one payment, no subscription; tracking and data stay free. · Pro trả một lần, không thuê bao; ghi nhận và dữ liệu luôn miễn phí. |",
+        "credits": "Handy Habit của Winka Studio.\n\nẢnh kết xuất từ giao diện Flutter thật với dữ liệu minh họa dùng một lần vào ngày cố định (2/11/2026), không phải ảnh chụp thiết bị. Ảnh màn hình lớn thể hiện bố cục Android, không xác nhận bản Windows hay web. Ảnh widget là bản xem trước trong app, không phải ảnh launcher. Ảnh đã được giảm kích thước và chuyển sang WebP; ảnh highlight giữ nền trong suốt.\n\nNunito được đóng gói theo giấy phép SIL Open Font License.",
+        "changelog": "## 1.0.0 (5) — 2026-11-11 (closed testing, draft)\n\nIcon mới với hạt hôm nay đã tick ở giữa vòng. Chia sẻ quy trình dưới dạng một trang và nhập quy trình bạn bè gửi. Widget màn hình chính: chạm một hạt là ghi nhận. Thói quen và quy trình mới chỉ hai chạm, màn chạy có vòng đếm giờ, tâm trạng một chạm. Cài đặt, Pro và Cách dùng gọn, rõ hơn.\n\n## 1.0.0 (4) — 2026-11-11 (closed testing, replaced by build 5)\n\n- Widgets, quick add, runner ring, mood in one tap; Settings, Pro and How to use rebuilt on the Handy Boards and Bookmark layout.\n\n## 1.0.0 (3) — 2026-11-11 (closed testing)\n\n- A new icon (the kept/due ring with today's checked bead), fixes from device testing, store graphics.\n\n## 1.0.0 (1)–(2) — 2026-11 (closed testing)\n\n- First builds: habits as bead strings, habits to cut down, routines with a runner, progress with a yearly heatmap, optional mood, backups and Google Drive sync."
+      }
+    },
+    "faq": {
+      "en": [
+        {
+          "question": "Is Handy Habit free?",
+          "answer": "Yes. Tracking, routines, Progress, mood, reminders, widgets (Today, One habit, Routine), backups and sync are free. Pro is one optional payment for extras."
+        },
+        {
+          "question": "Do I need an account?",
+          "answer": "No. There are no accounts and no servers of our own. Your habits stay on your phone."
+        },
+        {
+          "question": "Does it work offline?",
+          "answer": "Yes, fully. Only buying or restoring Pro, and Google Drive sync if you switch it on, use the internet."
+        },
+        {
+          "question": "What is a bead string?",
+          "answer": "Each habit shows its last six days as beads and, at the end, today's bead. A full bead is a day kept; a hollow bead is a day not recorded. It is never a red mark."
+        },
+        {
+          "question": "What happens if I miss a day?",
+          "answer": "Nothing bad. The bead stays hollow, your current streak may restart, and your longest streak and consistency still tell your story. Pauses let you take days off without missing them."
+        },
+        {
+          "question": "Can I track amounts, not just done or not?",
+          "answer": "Yes: times, minutes or an amount such as pages or glasses. The bead fills as a ring toward the day's goal."
+        },
+        {
+          "question": "Can I cut a habit down instead of building one?",
+          "answer": "Yes. Choose Break a habit and set a limit per day or week, or none at all. One tap logs a time; \"None today\" records a zero."
+        },
+        {
+          "question": "How do the home-screen widgets work?",
+          "answer": "Add Today, One habit or Routine from Settings › Home-screen widgets or your launcher. Tap a bead on the widget to check in: it fills at once and the day is saved a moment later. Minutes, amounts and full days open the app. Widgets are Android only. This week and 16 weeks are Pro."
+        },
+        {
+          "question": "Do widgets show my notes or mood?",
+          "answer": "Never. They show counts, bead strings and, if you allow it, habit names. You can hide the names."
+        },
+        {
+          "question": "What are routines?",
+          "answer": "A few steps in order, each with a time: morning, study, workout, bedtime. Run them full screen with a timer ring, pause, skip, and see a summary. A step can check a habit in."
+        },
+        {
+          "question": "Can I share a routine?",
+          "answer": "Yes. Open a routine › ⋯ › Share. It goes as one page any browser can read. The other person saves the file and uses Routines › New routine › Import a shared routine. Only the routine travels; never habits, records or mood."
+        },
+        {
+          "question": "Does it have reminders?",
+          "answer": "Yes, per habit or routine, on the days it is planned, with quiet hours. By default the lock screen does not show the habit's name. The app asks for notification permission only when you set your first reminder."
+        },
+        {
+          "question": "How do I back up my habits?",
+          "answer": "Settings › Data › Back up saves a ZIP; JSON and password-locked copies are in Data tools. Back up automatically keeps a copy a day on the device. Restore shows a preview and keeps a recovery copy."
+        },
+        {
+          "question": "Can I move to a new phone?",
+          "answer": "Yes: restore a backup file, or switch on Google Drive sync on both phones (it uses your own Drive's hidden app folder)."
+        },
+        {
+          "question": "How does Google Drive sync protect my data?",
+          "answer": "It copies your data to your own Drive, from your phone straight to Google. The developer has no server in between and receives nothing. It is not end-to-end encrypted. To delete the copy: Google Drive › Settings › Manage apps › Handy Habit › Delete hidden app data."
+        },
+        {
+          "question": "What does Pro add?",
+          "answer": "Advanced routine steps (weekdays, A or B, dependencies), deeper Progress (comparisons, patterns, goal suggestions, mood beside habits), the personalization studio, rules and batch changes, and the This week and 16 weeks widgets. One payment, no subscription."
+        },
+        {
+          "question": "What if I stop having Pro?",
+          "answer": "Nothing you made is deleted. Your habits and history stay, saved routines still run, and Pro looks return with Pro."
+        },
+        {
+          "question": "How do I restore Pro on a new phone?",
+          "answer": "Settings › Upgrade to Pro › Restore, with the Google account that bought it."
+        },
+        {
+          "question": "Which languages and themes are there?",
+          "answer": "English and Vietnamese; light, dark or follow the phone."
+        },
+        {
+          "question": "Is it available on iPhone, Windows or the web?",
+          "answer": "Not yet. Handy Habit is Android only today, in Google Play closed testing."
+        },
+        {
+          "question": "Does it show ads?",
+          "answer": "This version shows no ads. If ads are ever added, the privacy policy will say so first."
+        },
+        {
+          "question": "How do I delete my data?",
+          "answer": "Delete habits (Trash keeps them 30 days), use Settings › Data › Delete all data, or uninstall the app. Backups you made stay where you put them. If you used Drive sync, delete the hidden app data in Google Drive."
+        },
+        {
+          "question": "Who makes it, and how do I get help?",
+          "answer": "Winka Studio. Write to apps.winka.studio@gmail.com, or see How to use in the app."
+        }
+      ],
+      "vi": [
+        {
+          "question": "Handy Habit có miễn phí không?",
+          "answer": "Có. Ghi nhận, quy trình, Tiến bộ, tâm trạng, nhắc nhở, widget (Hôm nay, Một thói quen, Quy trình), sao lưu và đồng bộ đều miễn phí. Pro là một lần trả tuỳ chọn cho phần nâng cao."
+        },
+        {
+          "question": "Tôi có cần tài khoản không?",
+          "answer": "Không. App không có tài khoản và không có máy chủ riêng. Thói quen của bạn ở trên máy."
+        },
+        {
+          "question": "App có chạy khi không có mạng không?",
+          "answer": "Có, hoàn toàn. Chỉ việc mua hoặc khôi phục Pro, và đồng bộ Google Drive nếu bạn bật, mới dùng internet."
+        },
+        {
+          "question": "Chuỗi hạt là gì?",
+          "answer": "Mỗi thói quen hiện sáu ngày gần nhất bằng hạt và cuối chuỗi là hạt hôm nay. Hạt đầy là ngày đã giữ; hạt rỗng là ngày chưa ghi. Không bao giờ là dấu đỏ."
+        },
+        {
+          "question": "Nếu tôi lỡ một ngày thì sao?",
+          "answer": "Không có gì xấu. Hạt vẫn rỗng, chuỗi hiện tại có thể bắt đầu lại, còn chuỗi dài nhất và độ đều đặn vẫn kể đúng hành trình. Kỳ nghỉ cho phép nghỉ mà không bị tính là lỡ."
+        },
+        {
+          "question": "Có ghi được số lượng, không chỉ làm hay chưa?",
+          "answer": "Có: số lần, số phút hoặc số lượng như trang, ly. Hạt đầy dần như một vòng tới mục tiêu của ngày."
+        },
+        {
+          "question": "Tôi có bớt dần một thói quen thay vì xây dựng được không?",
+          "answer": "Được. Chọn Giảm thói quen và đặt giới hạn theo ngày hoặc tuần, hoặc không lần nào. Một chạm ghi một lần; \"Hôm nay không có\" ghi số 0."
+        },
+        {
+          "question": "Widget màn hình chính hoạt động thế nào?",
+          "answer": "Thêm Hôm nay, Một thói quen hoặc Quy trình từ Cài đặt › Widget màn hình chính hoặc từ launcher. Chạm một hạt trên widget để ghi nhận: hạt lấp ngay và ngày được lưu ngay sau đó. Số phút, số lượng và ngày đã đủ thì mở app. Widget chỉ có trên Android. Tuần này và 16 tuần là Pro."
+        },
+        {
+          "question": "Widget có hiện ghi chú hay tâm trạng của tôi không?",
+          "answer": "Không bao giờ. Widget chỉ hiện số đếm, chuỗi hạt và, nếu bạn cho phép, tên thói quen. Bạn có thể ẩn tên."
+        },
+        {
+          "question": "Quy trình là gì?",
+          "answer": "Vài bước theo thứ tự, mỗi bước một thời lượng: buổi sáng, học bài, tập luyện, trước khi ngủ. Chạy toàn màn hình với vòng đếm giờ, tạm dừng, bỏ qua và xem tổng kết. Một bước có thể ghi nhận một thói quen."
+        },
+        {
+          "question": "Tôi có chia sẻ quy trình được không?",
+          "answer": "Được. Mở quy trình › ⋯ › Chia sẻ. Quy trình đi dưới dạng một trang mở bằng trình duyệt nào cũng đọc được. Người nhận lưu tệp rồi vào Quy trình › Quy trình mới › Nhập quy trình được chia sẻ. Chỉ quy trình đi theo; không bao giờ có thói quen, lần ghi hay tâm trạng."
+        },
+        {
+          "question": "App có nhắc nhở không?",
+          "answer": "Có, theo từng thói quen hay quy trình, vào những ngày có lịch, kèm giờ yên lặng. Mặc định màn hình khoá không hiện tên thói quen. App chỉ hỏi quyền thông báo khi bạn đặt lời nhắc đầu tiên."
+        },
+        {
+          "question": "Làm sao sao lưu thói quen?",
+          "answer": "Cài đặt › Dữ liệu › Sao lưu lưu một tệp ZIP; bản JSON và bản khoá mật khẩu ở Công cụ dữ liệu. Tự sao lưu giữ mỗi ngày một bản trên máy. Khôi phục có xem trước và giữ bản dự phòng."
+        },
+        {
+          "question": "Tôi có chuyển sang máy mới được không?",
+          "answer": "Được: khôi phục tệp sao lưu, hoặc bật đồng bộ Google Drive trên cả hai máy (dùng thư mục ẩn của app trong Drive của chính bạn)."
+        },
+        {
+          "question": "Đồng bộ Google Drive bảo vệ dữ liệu của tôi thế nào?",
+          "answer": "Dữ liệu được chép vào Drive của chính bạn, đi thẳng từ máy tới Google. Nhà phát triển không có máy chủ ở giữa và không nhận gì. Không mã hoá đầu-cuối. Muốn xoá bản đó: Google Drive › Cài đặt › Quản lý ứng dụng › Handy Habit › Xoá dữ liệu ẩn của ứng dụng."
+        },
+        {
+          "question": "Pro có gì thêm?",
+          "answer": "Bước quy trình nâng cao (theo thứ, A hoặc B, phụ thuộc), Tiến bộ sâu hơn (so sánh, nhịp, gợi ý mục tiêu, tâm trạng cạnh thói quen), xưởng giao diện, quy tắc và thay đổi hàng loạt, cùng widget Tuần này và 16 tuần. Trả một lần, không thuê bao."
+        },
+        {
+          "question": "Nếu tôi không còn Pro thì sao?",
+          "answer": "Không gì bạn đã tạo bị xoá. Thói quen và lịch sử vẫn còn, quy trình đã lưu vẫn chạy, và giao diện Pro trở lại khi có Pro."
+        },
+        {
+          "question": "Khôi phục Pro trên máy mới thế nào?",
+          "answer": "Cài đặt › Nâng cấp Pro › Khôi phục, với tài khoản Google đã mua."
+        },
+        {
+          "question": "App có những ngôn ngữ và giao diện nào?",
+          "answer": "Tiếng Việt và tiếng Anh; sáng, tối hoặc theo điện thoại."
+        },
+        {
+          "question": "Có trên iPhone, Windows hay web không?",
+          "answer": "Chưa. Hiện Handy Habit chỉ có Android, đang trong thử nghiệm kín trên Google Play."
+        },
+        {
+          "question": "App có quảng cáo không?",
+          "answer": "Phiên bản này không có quảng cáo. Nếu sau này có, chính sách quyền riêng tư sẽ nói rõ trước."
+        },
+        {
+          "question": "Làm sao xoá dữ liệu của tôi?",
+          "answer": "Xoá thói quen (Thùng rác giữ 30 ngày), dùng Cài đặt › Dữ liệu › Xoá toàn bộ dữ liệu, hoặc gỡ app. Tệp sao lưu bạn tạo vẫn nằm nguyên chỗ bạn đặt. Nếu dùng đồng bộ Drive, hãy xoá dữ liệu ẩn của app trong Google Drive."
+        },
+        {
+          "question": "Ai làm ra app, và tôi nhờ trợ giúp ở đâu?",
+          "answer": "Winka Studio. Viết thư tới apps.winka.studio@gmail.com, hoặc xem Cách dùng trong app."
+        }
+      ]
+    },
+    "pricing": {
+      "en": "One optional payment. No subscription. Google Play shows the price before purchase.\n\n|  | Free | Pro |\n| --- | --- | --- |\n| Habits and check-ins | No limits | No limits |\n| Routines | Steps in order, timers, runner, history, sharing | Weekday steps, time-left, A or B, dependencies, follow-a-habit, weekday minutes, reusable blocks, saved plans |\n| Progress | Week, month, year, heatmap, streaks, consistency, weekly look back, export | Comparisons, patterns, goal suggestions, focused heatmaps, review on paper |\n| Mood | Log and history | Mood beside habits |\n| Widgets | Today, One habit, Routine | This week, 16 weeks |\n| Templates | 44 habit + 11 routine templates | — |\n| Looks | Light, dark, density | Studio palettes, Today layouts, extra icons, runner looks |\n| Convenience | Batch change view | Rules, batch changes, saved views |\n| Data | Backups, restore, Trash, Drive sync, CSV/MD/PDF | — |\n\nIf Pro ends nothing is deleted: history stays and saved routines still run.",
+      "vi": "Một lần trả tùy chọn. Không thuê bao. Google Play hiện giá trước khi mua.\n\n|  | Miễn phí | Pro |\n| --- | --- | --- |\n| Thói quen và lần ghi | Không giới hạn | Không giới hạn |\n| Quy trình | Bước theo thứ tự, hẹn giờ, màn chạy, lịch sử, chia sẻ | Bước theo thứ, vừa thời gian còn lại, A hoặc B, phụ thuộc, nối sau thói quen, số phút theo thứ, khối dùng lại, kế hoạch đã lưu |\n| Tiến bộ | Tuần, tháng, năm, bản đồ nhiệt, chuỗi, độ đều đặn, nhìn lại tuần, xuất | So sánh, nhịp, gợi ý mục tiêu, bản đồ nhiệt theo bộ lọc, bản xem lại để in |\n| Tâm trạng | Ghi và lịch sử | Tâm trạng cạnh thói quen |\n| Widgets | Hôm nay, Một thói quen, Quy trình | Tuần này, 16 tuần |\n| Mẫu | 44 mẫu thói quen + 11 mẫu quy trình | — |\n| Giao diện | Sáng, tối, độ gọn | Bảng màu, bố cục Hôm nay, biểu tượng thêm, diện mạo màn chạy |\n| Tiện ích | Xem thay đổi hàng loạt | Quy tắc, thay đổi hàng loạt, cách xem đã lưu |\n| Dữ liệu | Sao lưu, khôi phục, Thùng rác, đồng bộ Drive, CSV/MD/PDF | — |\n\nNếu Pro chấm dứt không gì bị xoá: lịch sử còn và quy trình đã lưu vẫn chạy."
+    },
+    "legal": {
+      "en": {
+        "privacy": "# Privacy Policy · Chính sách quyền riêng tư\n\n**Handy Habit** — last updated 11 November 2026 · cập nhật 11/11/2026\n\nHandy Habit keeps your habits, check-ins, routines and notes on your device.\nIt has no accounts, no servers of its own, no analytics and, in this version,\nno ads. We do not collect, store, sell or share any personal data.\n\n### What the app keeps, and where\n\n- **Your habits** (names, goals, schedules, check-ins and the days you\n  corrected, pauses, routines and the runs of them, reminder times, icons and\n  colours, settings) are stored in the app's private storage on your device.\n- **Mood** is optional. If you record it, the day's mood, and any energy,\n  note and tags you add, are stored in the same private storage. It is never\n  shown in notifications or on a home-screen widget.\n- **Automatic copies** (when you switch on *Back up automatically*) are kept in\n  the app's private storage on the same device, the last seven.\n- **Backups, exports and shared routines** are files you create and place\n  yourself. A shared routine contains only the routine (its name, note and\n  steps with their minutes); no habits, check-ins, notes of the day or mood.\n\n### What goes over the internet\n\nNothing from your habits, unless you switch on Google Drive sync (below). The\napp reads no web pages and sends no data anywhere else. Other network use is\nGoogle Play's own purchase screen when you buy or restore Pro. This version\nshows no ads; if ads are ever added, this policy will say so before they\nappear.\n\n### Google Drive sync (optional, Android)\n\nOff unless you switch it on in *Settings › Data › Sync*. Then Google asks you\nto let Handy Habit use its own hidden folder in **your** Google Drive (the\n`drive.appdata` permission): the app cannot see your other Drive files.\n\n- Your habits, check-ins, routines, runs, pauses and mood (including notes and\n  tags) are copied there, so your other Android devices signed in to the same\n  Google account get the same data. Theme, language, reminder permission, the\n  widgets and the activity log stay on each device.\n- It goes from your device straight to Google; the developer has no server in\n  between and receives nothing. Google stores it under its own terms. It is\n  ordinary Drive data, not end-to-end encrypted.\n- Turning sync off deletes nothing. To delete the Drive copy, open Google\n  Drive › Settings › Manage apps › Handy Habit › Delete hidden app data.\n\n### Home-screen widgets\n\nWidgets show only counts, habit and routine names and bead strings that the\napp writes for them. You can hide the names in *Settings › Home-screen widgets*.\nMood and notes are never included. Tapping a bead on a widget records a check-in\non your device; nothing is sent anywhere.\n\n### Permissions\n\n- **Notifications**: reminders you set on a habit or routine; scheduled on the\n  device, asked for only the first time you set one. By default the notice\n  does not show the habit's name on the lock screen.\n- **Exact alarms and run at startup**: so a reminder arrives at the time you\n  chose, also after the device restarts.\n- Files are chosen or saved only through the system's own file screens.\n\n### Deleting your data\n\nDelete habits or routines in the app (Trash keeps them 30 days), use\n*Settings › Data › Delete all data*, or uninstall the app to remove everything\nit stored. Backup files and shared routine pages you made stay where you put\nthem until you delete them.\n\n### Children\n\nHandy Habit is not directed at children and collects no personal information\nfrom anyone, children included.\n\n### Changes\n\nIf this policy changes, the new version will be published at the same address\nwith the date above updated.\n\n### Contact\n\nQuestions about this policy: write to apps.winka.studio@gmail.com or open an\nissue at <https://github.com/Winka173/Handy-Suite/issues>.",
+        "terms": "# Terms of Service · Điều khoản dịch vụ\n\n**Handy Habit** — last updated 11 November 2026 · cập nhật 11/11/2026\n\nThese terms apply to the Handy Habit app, made by Winka Studio. By using the\napp you accept them.\n\n### The app\n\n- Handy Habit keeps your habits, check-ins, routines and notes on your device\n  and helps you keep small habits going. It has no accounts and no servers of\n  its own.\n- The free features can be used without paying.\n- What the app keeps and sends is described in the\n  [Privacy Policy](https://winka.top/en/apps/handy-habit/privacy/).\n- Handy Habit is a personal record. It is not medical, health or therapy\n  advice, and its figures (streaks, consistency, mood) are counted only from\n  what you recorded; they do not predict or diagnose anything.\n\n### Handy Habit Pro\n\n- Pro is a one-time in-app purchase through Google Play. It is not a\n  subscription; there is nothing to renew or cancel.\n- The price is the one Google Play shows before you buy, in your currency.\n- Pro is tied to the Google account that bought it. Reinstalling the app, or\n  using it on another device with the same account, restores it (Settings ›\n  Upgrade to Pro › Restore).\n- If Pro ever ends, nothing you made is deleted: your habits and history stay,\n  saved routines still run, and Pro looks return when Pro does.\n- Payments and refunds are handled by Google Play under its terms and refund\n  policy. Where the law of your country gives you further rights, they apply.\n\n### Your content\n\n- What you write and add is yours. You are responsible for it and for\n  respecting the rights of others in the routines you share or import.\n- A routine someone shares with you is only a list of steps; look it over in the\n  editor before you save it.\n- Your habits live on your device. Keep backups (Settings › Data): if the\n  device is lost or the app is removed, data without a backup cannot be\n  recovered, because we hold no copy.\n\n### Fair use\n\nDo not use the app to break the law, to infringe others' rights, or to harm\nothers.\n\n### No warranty\n\nThe app is provided as it is. We work to keep it correct and safe but cannot\npromise it will always work or that it is free of errors. To the extent the law\nallows, we are not liable for lost data or indirect damage arising from its use.\nNothing here limits rights you have under consumer law that cannot be excluded.\n\n### Changes\n\nThese terms may change with the app. The new version is published at the same\naddress with the date above updated.\n\n### Contact\n\nQuestions: write to apps.winka.studio@gmail.com or open an issue at\n<https://github.com/Winka173/Handy-Suite/issues>."
+      },
+      "vi": {
+        "privacy": "# Privacy Policy · Chính sách quyền riêng tư\n\n**Handy Habit** — last updated 11 November 2026 · cập nhật 11/11/2026\n\nHandy Habit giữ thói quen, lần ghi nhận, quy trình và ghi chú của bạn trên máy\ncủa bạn. App không có tài khoản, không có máy chủ riêng, không có công cụ\nthống kê và, ở phiên bản này, không có quảng cáo. Chúng tôi không thu thập,\nlưu trữ, bán hay chia sẻ dữ liệu cá nhân nào.\n\n### App giữ gì, ở đâu\n\n- **Thói quen của bạn** (tên, mục tiêu, lịch, các lần ghi nhận và những ngày\n  bạn sửa, kỳ nghỉ, quy trình và các lần chạy, giờ nhắc, biểu tượng và màu,\n  cài đặt) được lưu trong bộ nhớ riêng của app trên máy.\n- **Tâm trạng** là tuỳ chọn. Nếu bạn ghi, tâm trạng trong ngày cùng năng lượng,\n  ghi chú và nhãn bạn thêm được lưu trong cùng bộ nhớ riêng đó. Tâm trạng không\n  bao giờ hiện trong thông báo hay trên widget màn hình chính.\n- **Bản tự sao lưu** (khi bạn bật *Tự sao lưu*) nằm trong bộ nhớ riêng của app\n  trên chính máy đó, giữ 7 bản gần nhất.\n- **Bản sao lưu, bản xuất và quy trình chia sẻ** là tệp do bạn tạo và tự đặt\n  chỗ. Quy trình chia sẻ chỉ chứa quy trình (tên, ghi chú và các bước kèm số\n  phút); không có thói quen, lần ghi nhận, ghi chú trong ngày hay tâm trạng.\n\n### Những gì đi qua internet\n\nKhông có gì từ thói quen của bạn, trừ khi bạn bật đồng bộ Google Drive (bên\ndưới). App không đọc trang web nào và không gửi dữ liệu đi đâu khác. Ngoài ra\nchỉ có màn mua hàng của Google Play khi bạn mua hoặc khôi phục Pro. Phiên bản\nnày không có quảng cáo; nếu sau này có quảng cáo, chính sách này sẽ nói rõ\ntrước khi quảng cáo xuất hiện.\n\n### Đồng bộ Google Drive (tuỳ chọn, Android)\n\nTắt sẵn, chỉ chạy khi bạn bật trong *Cài đặt › Dữ liệu › Đồng bộ*. Khi đó\nGoogle sẽ hỏi bạn cho phép Handy Habit dùng thư mục ẩn riêng của nó trong\nGoogle Drive **của bạn** (quyền `drive.appdata`): app không thấy được các tệp\nDrive khác.\n\n- Thói quen, lần ghi nhận, quy trình, các lần chạy, kỳ nghỉ và tâm trạng (kể\n  cả ghi chú và nhãn) được chép vào đó, để các máy Android khác đăng nhập cùng\n  tài khoản Google có cùng dữ liệu. Giao diện, ngôn ngữ, quyền nhắc việc, widget\n  và nhật ký hoạt động vẫn ở riêng từng máy.\n- Dữ liệu đi thẳng từ máy bạn tới Google; nhà phát triển không có máy chủ ở\n  giữa và không nhận gì. Google lưu theo điều khoản của Google. Đây là dữ liệu\n  Drive bình thường, không mã hoá đầu-cuối.\n- Tắt đồng bộ không xoá gì. Muốn xoá bản trên Drive: Google Drive › Cài đặt ›\n  Quản lý ứng dụng › Handy Habit › Xoá dữ liệu ẩn của ứng dụng.\n\n### Widget màn hình chính\n\nWidget chỉ hiện số đếm, tên thói quen và quy trình và chuỗi hạt mà app viết ra\ncho chúng. Bạn có thể ẩn tên trong *Cài đặt › Widget màn hình chính*. Tâm trạng\nvà ghi chú không bao giờ có trong widget. Chạm một hạt trên widget là ghi nhận\nngay trên máy; không có gì được gửi đi.\n\n### Quyền\n\n- **Thông báo**: nhắc việc bạn đặt trên thói quen hoặc quy trình; hẹn giờ ngay\n  trên máy, và chỉ hỏi quyền lần đầu bạn đặt nhắc. Mặc định thông báo không hiện\n  tên thói quen trên màn hình khoá.\n- **Báo thức chính xác và chạy khi khởi động máy**: để nhắc đến đúng giờ bạn\n  chọn, kể cả sau khi máy khởi động lại.\n- Tệp chỉ được chọn hoặc lưu qua màn hình tệp của hệ thống.\n\n### Xoá dữ liệu\n\nXoá thói quen hoặc quy trình trong app (Thùng rác giữ 30 ngày), dùng *Cài đặt ›\nDữ liệu › Xoá toàn bộ dữ liệu*, hoặc gỡ app để xoá mọi thứ app đã lưu. Các tệp\nsao lưu và trang quy trình chia sẻ bạn tạo vẫn nằm nguyên chỗ bạn đặt cho tới\nkhi bạn xoá.\n\n### Trẻ em\n\nHandy Habit không hướng tới trẻ em và không thu thập thông tin cá nhân của bất\nkỳ ai, kể cả trẻ em.\n\n### Thay đổi\n\nNếu chính sách này thay đổi, bản mới sẽ được đăng tại cùng địa chỉ và ngày cập\nnhật ở trên sẽ đổi theo.\n\n### Liên hệ\n\nCâu hỏi về chính sách này: viết thư tới apps.winka.studio@gmail.com hoặc mở một\nissue tại <https://github.com/Winka173/Handy-Suite/issues>.",
+        "terms": "# Terms of Service · Điều khoản dịch vụ\n\n**Handy Habit** — last updated 11 November 2026 · cập nhật 11/11/2026\n\nCác điều khoản này áp dụng cho ứng dụng Handy Habit của Winka Studio. Khi dùng\napp, bạn đồng ý với chúng.\n\n### Ứng dụng\n\n- Handy Habit giữ thói quen, lần ghi nhận, quy trình và ghi chú trên máy của\n  bạn, giúp bạn giữ đều những thói quen nhỏ. App không có tài khoản và không\n  có máy chủ riêng.\n- Các tính năng miễn phí dùng được mà không phải trả tiền.\n- Những gì app giữ và gửi đi được nêu trong\n  [Chính sách quyền riêng tư](https://winka.top/vi/apps/handy-habit/privacy/).\n- Handy Habit là sổ ghi chép cá nhân. Đây không phải lời khuyên y tế, sức khoẻ\n  hay trị liệu, và các con số (chuỗi ngày, độ đều đặn, tâm trạng) chỉ được đếm\n  từ những gì bạn đã ghi; chúng không dự đoán hay chẩn đoán điều gì.\n\n### Handy Habit Pro\n\n- Pro là gói mua một lần trong app qua Google Play. Không phải gói thuê bao;\n  không có gì phải gia hạn hay huỷ.\n- Giá là giá Google Play hiện trước khi bạn mua, theo đơn vị tiền của bạn.\n- Pro gắn với tài khoản Google đã mua. Cài lại app, hoặc dùng trên máy khác\n  với cùng tài khoản, sẽ khôi phục được (Cài đặt › Nâng cấp Pro › Khôi phục).\n- Nếu Pro chấm dứt, không gì bạn đã tạo bị xoá: thói quen và lịch sử vẫn còn,\n  quy trình đã lưu vẫn chạy, và giao diện Pro trở lại khi có Pro.\n- Thanh toán và hoàn tiền do Google Play xử lý theo điều khoản và chính sách\n  hoàn tiền của Google Play. Nếu luật nước bạn cho bạn thêm quyền, các quyền\n  đó vẫn được áp dụng.\n\n### Nội dung của bạn\n\n- Những gì bạn viết và thêm vào là của bạn. Bạn chịu trách nhiệm về chúng và\n  tôn trọng quyền của người khác với các quy trình bạn chia sẻ hoặc nhập.\n- Quy trình người khác chia sẻ cho bạn chỉ là một danh sách các bước; hãy xem\n  lại trong màn sửa trước khi lưu.\n- Thói quen nằm trên máy của bạn. Hãy sao lưu (Cài đặt › Dữ liệu): nếu mất máy\n  hoặc gỡ app, dữ liệu chưa sao lưu không khôi phục được, vì chúng tôi không\n  giữ bản nào.\n\n### Sử dụng đúng mực\n\nKhông dùng app để vi phạm pháp luật, xâm phạm quyền của người khác, hoặc gây\nhại cho người khác.\n\n### Không bảo đảm\n\nApp được cung cấp như hiện có. Chúng tôi cố gắng để app đúng và an toàn nhưng\nkhông thể hứa app luôn chạy, hoặc không có lỗi. Trong phạm vi pháp luật cho\nphép, chúng tôi không chịu trách nhiệm về dữ liệu bị mất hay thiệt hại gián\ntiếp do việc sử dụng app. Không điều nào ở đây hạn chế các quyền của bạn theo\nluật bảo vệ người tiêu dùng mà không thể loại trừ.\n\n### Thay đổi\n\nCác điều khoản này có thể thay đổi cùng app. Bản mới sẽ được đăng tại cùng địa\nchỉ và ngày cập nhật ở trên sẽ đổi theo.\n\n### Liên hệ\n\nCâu hỏi: viết thư tới apps.winka.studio@gmail.com hoặc mở một issue tại\n<https://github.com/Winka173/Handy-Suite/issues>."
+      }
+    },
+    "seo": {
+      "en": {
+        "title": "Handy Habit — habit tracker with bead strings, routines and home-screen widgets",
+        "description": "Habits as bead strings, routines step by step, check in from your home screen. No account, works offline, English and Vietnamese. Free, one-time Pro."
+      },
+      "vi": {
+        "title": "Handy Habit — theo dõi thói quen bằng chuỗi hạt, quy trình và widget màn hình chính",
+        "description": "Thói quen thành chuỗi hạt, quy trình từng bước, ghi nhận ngay ngoài màn hình chính. Không tài khoản, không cần mạng, tiếng Việt và tiếng Anh. Miễn phí, Pro trả một lần."
+      }
+    }
   }
 }

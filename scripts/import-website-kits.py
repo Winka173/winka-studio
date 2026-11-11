@@ -9,6 +9,7 @@ DOCS = Path('C:/Users/Winka/OneDrive/Documents')
 KITS = {
  'handy-bookmark': DOCS/'Handy-Website-Kit/handy-bookmark',
  'handy-boards': DOCS/'Handy-Website-Kit/handy-boards',
+ 'handy-habit': Path('C:/Users/Winka/Projects/Handy-Suite/website-kit/handy-habit'),
  'sticky-wall': DOCS/'Sticky-Wall/docs/website',
  'arcane-brigade': DOCS/'Arcane-Brigade-Website-Kit',
 }
@@ -68,7 +69,7 @@ def image(slug,root,p,rel=None,maxsize=1920):
  return src,width,height
 def screenshot(slug,root,p,locale,device,en,vi,pro=False,theme='light'):
  src,w,h=image(slug,root,p,maxsize=1800)
- media.append(dict(slug=slug,id=p.stem,src=src,device=device,width=w,height=h,title={'en':en,'vi':vi},kind='kit-source-render' if slug in ['handy-bookmark','handy-boards'] else 'kit-game-capture' if slug=='arcane-brigade' else 'kit-device-capture',source=str(p),locale=locale,pro=pro,theme=theme))
+ media.append(dict(slug=slug,id=p.stem,src=src,device=device,width=w,height=h,title={'en':en,'vi':vi},kind='kit-source-render' if slug in ['handy-bookmark','handy-boards','handy-habit'] else 'kit-game-capture' if slug=='arcane-brigade' else 'kit-device-capture',source=str(p),locale=locale,pro=pro,theme=theme))
 def movie(slug,root,p):
  target=OUT/slug/'kit'/p.relative_to(root);target.parent.mkdir(parents=True,exist_ok=True)
  if not target.exists() or target.stat().st_mtime < p.stat().st_mtime:
@@ -91,7 +92,7 @@ def captions_table(text):
    if filename: result[filename[1]]=(cells[-2],cells[-1])
  return result
 def pages_legal(slug,r):
- if slug in ['handy-bookmark','handy-boards']:
+ if slug in ['handy-bookmark','handy-boards','handy-habit']:
   legal={}
   for kind in ['privacy','terms']:
    raw=read(r,f'legal/{kind}.md');preamble=raw.split('## English')[0].strip().removesuffix('---').strip()
@@ -115,7 +116,45 @@ for slug,r in KITS.items():
  for p in r.rglob('*'):
   if p.is_file() and p.suffix.lower() in ['.md','.json','.csv','.txt']:
    target=archive/p.relative_to(r);target.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(p,target)
- if slug=='handy-boards':
+ if slug=='handy-habit':
+  captions=json.loads(read(r,'data/captions.json'))
+  priority=['01-today','23-widgets','09-runner','11-progress-year','03-habit-reduce','30-pro','31-studio']
+  for c in sorted(captions,key=lambda c:(priority.index(c['scene']) if c['scene'] in priority else 99,c['file'])):
+   screenshot(slug,r,r/c['file'],c['lang'],c['form'],c['alt_en'],c['alt_vi'],c['pro'],c['theme'])
+  for folder in ['highlights','brand/icon','brand/favicon','brand/feature-graphic','brand/social']:
+   for p in sorted((r/folder).glob('*.png')):
+    assets[p.relative_to(r).as_posix()]=image(slug,r,p)[0]
+  assets['icon']=assets['brand/icon/icon-rounded-1024.png']
+  kits.setdefault(slug,{})['seo']={}
+  for lang in ['en','vi']:
+   assets['og-'+lang]=assets[f'brand/social/og-1200x630-{lang}.png']
+   full=read(r,f'copy/{lang}/features.md')
+   features=full[full.index('## '):]
+   features=re.sub(r' \(`[^`]+`\)','',features)
+   pages[lang]={'features':features,'press':clean(read(r,f'copy/{lang}/press.md')),'comparison':clean(read(r,'copy/why-handy-habit.md')),'credits':('Handy Habit by Winka Studio.\n\nImages are host renders of the real Flutter UI with disposable demonstration data at a fixed date (2 November 2026), not device captures. Wide-screen images show an Android layout, not a Windows or web release. Widget pictures are in-app previews, not launcher captures. Screens have been resized and converted to WebP; highlight transparency is preserved.\n\nNunito is bundled under the SIL Open Font License.' if lang=='en' else 'Handy Habit của Winka Studio.\n\nẢnh kết xuất từ giao diện Flutter thật với dữ liệu minh họa dùng một lần vào ngày cố định (2/11/2026), không phải ảnh chụp thiết bị. Ảnh màn hình lớn thể hiện bố cục Android, không xác nhận bản Windows hay web. Ảnh widget là bản xem trước trong app, không phải ảnh launcher. Ảnh đã được giảm kích thước và chuyển sang WebP; ảnh highlight giữ nền trong suốt.\n\nNunito được đóng gói theo giấy phép SIL Open Font License.')}
+   faqs[lang]=[{'question':m[1].strip(),'answer':m[2].strip()} for m in re.finditer(r'^## ([^\n]+)\n(.*?)(?=^## |\Z)',read(r,f'copy/{lang}/faq.md'),re.M|re.S)]
+   # Localize the supplied bilingual comparison; never publish its unconfirmed VND figure.
+   table=[]
+   for line in read(r,'copy/pro-vs-free.md').splitlines():
+    if not line.startswith('|'):continue
+    cells=[]
+    for cell in line.strip('|').split('|'):
+     cell=cell.strip()
+     for separator in [' / ',' · ']:
+      if separator in cell:
+       cell=cell.split(separator,1)[0 if lang=='en' else 1];break
+     cells.append(cell)
+    table.append('| '+' | '.join(cells)+' |')
+   pricing[lang]=('One optional payment. No subscription. Google Play shows the price before purchase.\n\n' if lang=='en' else 'Một lần trả tùy chọn. Không thuê bao. Google Play hiện giá trước khi mua.\n\n')+'\n'.join(table)+('\n\nIf Pro ends nothing is deleted: history stays and saved routines still run.' if lang=='en' else '\n\nNếu Pro chấm dứt không gì bị xoá: lịch sử còn và quy trình đã lưu vẫn chạy.')
+   entries=[]
+   for m in re.finditer(r'^## ([^\n]+)\n(.*?)(?=^## |\Z)',read(r,'copy/changelog.md'),re.M|re.S):
+    body=m[2].strip()
+    if '- EN:' in body:body=re.search(r'- '+('EN' if lang=='en' else 'VI')+r': (.*)',body)[1]
+    entries.append('## '+m[1]+'\n\n'+body)
+   pages[lang]['changelog']='\n\n'.join(entries)
+   taglines=read(r,f'copy/{lang}/taglines.md')
+   kits[slug]['seo'][lang]={'title':re.search(r'\*\*(?:SEO title|Tiêu đề SEO):\*\* (.+)',taglines)[1],'description':re.search(r'\*\*(?:SEO description|Mô tả SEO)[^*]*\*\* (.+)',taglines)[1]}
+ elif slug=='handy-boards':
   captions=json.loads(read(r,'data/captions.json'))
   priority=['01-home','02-board','08-templates','05-card','20-my-work']
   files=sorted((r/'screenshots').rglob('*.png'),key=lambda p:(next((i for i,k in enumerate(priority) if p.stem.endswith(k)),99),p.as_posix()))

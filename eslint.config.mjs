@@ -6,6 +6,7 @@ export default defineConfig([
   ...ts,
   globalIgnores([
     "out/**",
+    "out-locked-audit*/**", // Previous static exports, not authored source
     ".next/**",
     ".review/**",
     ".taste-skill/**",

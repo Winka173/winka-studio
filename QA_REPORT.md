@@ -1,3 +1,13 @@
+## Handy Habit integration, 11 November 2026
+
+The feature branch contains a successful production export (164 generated pages / 163 HTML files, 161 portable segment copies). TypeScript, source lint, export/media validation and the Habit/public/Boards content contracts pass. The general media registry now contains 1,073 attributed images; the new Habit kit contributes 184 screenshots, 40 highlights, zero films and 46 FAQ answers.
+
+`qa:habit` covers all 20 localized Habit destinations at 320/390/768/1024/1440px as applicable, 46 layout cases total. It independently compares all four rendered privacy/terms documents with the archived source, checks all 23 FAQ entries per language, deletion steps, Android-only store state, Pro labels, all 92 localized gallery views, theme-matched source images, original palette tokens after returning to light, bead keyboard/Undo behavior, homepage navigation and zero external runtime requests. The tested states have no reported runtime/resource errors or axe WCAG 2/2.1/2.2 violations. Focused screenshots verify the real app appears in the first phone screen at 320/390px in both languages. Browser evidence is from installed headless Edge and emulated phone widths, not physical device testing.
+
+`qa:public` passes 128 responsive cases and scans 162 exported directory routes for the updated nine-product selection and its coming-soon controls, with no reported runtime/resource errors or tested axe violations. Local reports/screenshots are in `.review/handy-habit-qa/` and `.review/public-products-qa/`; a compact summary is retained in `docs/qa/handy-habit-summary.json`.
+
+Two local tooling issues were addressed without relaxing source checks: old `out-locked-audit*` exports are excluded from ESLint alongside normal generated output, and the Boards legal validator normalizes Windows CRLF to the same LF format used by its importer before exact text comparison. No other product's kit content was changed.
+
 ## Handy Boards integration, 9 November 2026
 
 Production build, typecheck, source lint, content validation and Boards-specific contracts pass. Public browser QA covers 120 EN/VI responsive cases with no reported runtime/resource errors or tested axe violations. Website-kit QA checks 16 rendered legal documents, 122 FAQ answers across four kits, localized media availability and film playback/pause. Focused Boards checks cover eight language/width/palette combinations, full 113-image galleries per language and dialog/Escape behavior. Exact legal text and all other kit data were preserved. Detailed scope and commands: [Boards integration](docs/BOARDS_KIT_INTEGRATION.md). Older results below retain their historical scope.

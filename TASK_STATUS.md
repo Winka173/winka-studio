@@ -1,4 +1,10 @@
-# Current task — portfolio rework, 8 November 2026
+# Current task — Handy Habit, 11 November 2026
+
+Handy Habit is owner-confirmed complete. Implemented its dedicated EN/VI product landing, supplied brand/fonts, themed real images, bead demonstration, features/press/changelog/credits, complete FAQ/support, verbatim privacy/terms and explicit local/Trash/backup/Drive deletion guidance. Imported 184 screenshots and 40 transparent highlights without modifying the source kit. Habit is visible in the catalog/homepage, Android-only and Coming soon; no public store link is invented.
+
+Work is isolated on `feat/handy-habit-product`, branched from main `da51401`. **Do not merge or push main in this task; merging main triggers deployment.** Preview is `http://127.0.0.1:4174/vi/apps/handy-habit/`. See `docs/HANDY_HABIT_INTEGRATION.md` for scope and checks. Earlier records below retain their historical scope.
+
+## Previous portfolio rework — 8 November 2026
 
 Current request: **implement all twelve review recommendations**. The Workbench opening, factual case studies, Studio/Contact, product-specific materials, edited landings/full media routes, larger body text, four signature interactions, shared-element transitions, 24-second reel, separate Lab, touch previews and motion/resource controls are implemented. See `docs/WORKBENCH_REWORK.md`. All 22 products now have an EN/VI `/media/` route; complete FAQ remains on product support and supplied legal text is unchanged.
 

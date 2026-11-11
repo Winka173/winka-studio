@@ -55,6 +55,17 @@ Handy Boards đã được chủ sản phẩm xác nhận hoàn thiện ngày 09
 
 Agent của Handy Boards cần cập nhật `apps/handy_boards/lib/settings/help_links.dart`, Privacy Policy trong Play Console và các URL legal ở Google Cloud OAuth branding của project Handy Boards nếu chúng còn dùng GitHub. Application ID trong kit là `com.apps.winka.handyboards`; đối chiếu lại cấu hình release trước khi sửa.
 
+### Handy Habit — `handy-habit` (đã chuẩn bị trên branch, chưa deploy)
+
+| Mục | URL EN sau khi deploy |
+| --- | --- |
+| Privacy Policy | https://winka.top/en/apps/handy-habit/privacy/ |
+| Terms of Service / Terms of Use | https://winka.top/en/apps/handy-habit/terms/ |
+| Hướng dẫn xóa dữ liệu | https://winka.top/en/apps/handy-habit/data-deletion/ |
+| Hỗ trợ | https://winka.top/en/support/handy-habit/ |
+
+Ngày 11/11/2026, branch `feat/handy-habit-product` đã nhập đầy đủ tài liệu từ `Handy-Suite/website-kit/handy-habit`, giữ nguyên nội dung privacy/terms EN–VI. Đây là app Android, đang closed testing; Google Play trên website vẫn ghi Coming soon. Chưa merge main hoặc deploy trong task này. Chỉ dùng các URL trên cho bản phát hành sau khi chủ dự án cho deploy và kiểm tra nội dung live. Hướng dẫn xóa phân biệt dữ liệu cục bộ, thùng rác 30 ngày, file backup/chia sẻ và dữ liệu ứng dụng ẩn trong Drive tùy chọn; app không có tài khoản Handy Habit.
+
 **Bản tiếng Việt:** thay đúng đoạn `/en/` đầu đường dẫn bằng `/vi/`. Ví dụ:
 
 ```text
@@ -76,7 +87,7 @@ Ngày 09/11/2026 đã kiểm tra trực tiếp đủ **18 URL legal** của ba s
 
 Với các sản phẩm này, chưa lấy việc ghép `privacy/` hoặc `terms/` vào base path làm URL đã sẵn sàng. Agent của app cần chuẩn bị Privacy Policy và Terms đúng với build thực tế, cung cấp bản EN/VI cho repo website, chờ nội dung thật được deploy, rồi mới cập nhật Play Console.
 
-**Các ứng dụng đang ẩn:** những app ngoài Bookmark, Sticky Wall và Boards hiện không được export trang sản phẩm/legal/support. Nếu một app đang ẩn vẫn cần trang policy cho Google Play, phải phối hợp repo website để giữ riêng các trang legal công khai dù app không xuất hiện trong danh mục. Không tự suy ra một URL rồi nộp khi nó đang trả 404.
+**Các ứng dụng đang ẩn:** những app ngoài Bookmark, Sticky Wall, Boards và Habit hiện không được export trang sản phẩm/legal/support. Nếu một app đang ẩn vẫn cần trang policy cho Google Play, phải phối hợp repo website để giữ riêng các trang legal công khai dù app không xuất hiện trong danh mục. Không tự suy ra một URL rồi nộp khi nó đang trả 404.
 
 ## 4. Công việc agent cần làm trong repo app/game
 

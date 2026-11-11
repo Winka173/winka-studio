@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-11",
+  "branch": "feat/handy-habit-product",
+  "baseMain": "da51401558b50be50662794fcf6b1d417310f091",
+  "deployed": false,
+  "build": {
+    "generatedPages": 164,
+    "htmlFiles": 163,
+    "portableSegments": 161
+  },
+  "passedCommands": [
+    "build",
+    "typecheck",
+    "lint",
+    "validate",
+    "validate:habit",
+    "validate:public",
+    "validate:boards",
+    "qa:habit",
+    "qa:public"
+  ],
+  "kit": {
+    "screenshots": 184,
+    "highlights": 40,
+    "films": 0,
+    "faqPerLocale": 23
+  },
+  "habit": {
+    "layoutCases": 46,
+    "localeChecks": [
+      "vi: complete legal text, 23 FAQ answers, four deletion steps, Android-only coming-soon, keyboard check-in/Undo, matching light/dark captures, all 92 localized views, Pro badges, homepage navigation and no external requests.",
+      "en: complete legal text, 23 FAQ answers, four deletion steps, Android-only coming-soon, keyboard check-in/Undo, matching light/dark captures, all 92 localized views, Pro badges, homepage navigation and no external requests."
+    ],
+    "legalDocuments": [
+      "/vi/apps/handy-habit/privacy/",
+      "/vi/apps/handy-habit/terms/",
+      "/en/apps/handy-habit/privacy/",
+      "/en/apps/handy-habit/terms/"
+    ],
+    "errors": [],
+    "violations": []
+  },
+  "public": {
+    "exportedDirectoryRoutes": 162,
+    "layoutCases": 128,
+    "errors": [],
+    "violations": []
+  },
+  "scope": "Headless Edge with emulated widths; no physical Android device test. Detailed reports and screenshots are local in .review/handy-habit-qa and .review/public-products-qa."
+}
